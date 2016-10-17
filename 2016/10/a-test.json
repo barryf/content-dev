@@ -1,13 +1,15 @@
 {
   "type": [
-    "h-entry"
+    [
+      "h-entry"
+    ]
   ],
   "properties": {
     "name": [
       "A test"
     ],
     "content": [
-      "some content - changed"
+      "hello moon"
     ],
     "published": [
       "2016-10-17T16:19:50Z"
