@@ -7,7 +7,7 @@
       "A test"
     ],
     "content": [
-      "hello moon again"
+      "hello moon again 2"
     ],
     "published": [
       "2016-10-17T16:19:50Z"
@@ -16,7 +16,10 @@
       "article"
     ],
     "updated": [
-      "2016-10-17T17:00:24Z"
+      "2016-10-17T18:11:12Z"
+    ],
+    "category": [
+      "one"
     ]
   }
 }
