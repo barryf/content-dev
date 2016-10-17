@@ -9,13 +9,16 @@
       "A test"
     ],
     "content": [
-      "hello moon"
+      "hello moon again"
     ],
     "published": [
       "2016-10-17T16:19:50Z"
     ],
     "entry-type": [
       "article"
+    ],
+    "updated": [
+      "2016-10-17T17:00:24Z"
     ]
   }
 }
