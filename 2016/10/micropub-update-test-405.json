@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Micropub update test #405."
+    ],
+    "published": [
+      "2016-10-19T14:07:17Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
