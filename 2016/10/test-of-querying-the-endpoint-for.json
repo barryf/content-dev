@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Test of querying the endpoint for the source content"
+    ],
+    "category": [
+      "micropub",
+      "test"
+    ],
+    "published": [
+      "2016-10-19T14:24:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
