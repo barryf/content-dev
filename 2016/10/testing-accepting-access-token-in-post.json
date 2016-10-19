@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Testing accepting access token in post body"
+    ],
+    "published": [
+      "2016-10-19T14:49:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
