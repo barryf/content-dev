@@ -1,0 +1,18 @@
+{
+  "type": [
+    [
+      "h-card"
+    ]
+  ],
+  "properties": {
+    "photo": [
+      "https://barryf.s3.amazonaws.com/barryfrost.jpg"
+    ],
+    "url": [
+      "https://barryfrost.com/"
+    ],
+    "name": [
+      "Barry Frost"
+    ]
+  }
+}
