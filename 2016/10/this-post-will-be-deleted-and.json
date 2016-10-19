@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This post will be deleted, and should be restored after undeleting it."
+    ],
+    "published": [
+      "2016-10-19T14:49:02Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
