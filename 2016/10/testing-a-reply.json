@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Testing a reply"
+    ],
+    "in-reply-to": [
+      "http://e0d64cb6.ngrok.io/2016/10/testing-accepting-access-token-in-post"
+    ],
+    "published": [
+      "2016-10-19T16:33:54Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
