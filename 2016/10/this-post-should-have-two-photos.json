@@ -7,7 +7,7 @@
       "This post should have two photos"
     ],
     "photo": [
-      "http://barryfrost.com/20161019-67942bb12b3edfedf28b4998a809c79c.jpg",
+      "http://localhost:8989/20161019-67942bb12b3edfedf28b4998a809c79c.jpg",
       "http://localhost:8989/20161019-4ccc4a0af6802a8f1b0d338420b5c85a.jpg"
     ],
     "published": [
