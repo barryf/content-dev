@@ -1,0 +1,13 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "content": [
+      "hello world"
+    ],
+    "published": [
+      "2016-10-21T07:31:58Z"
+    ]
+  }
+}
