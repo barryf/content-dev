@@ -1,0 +1,1 @@
+{"type":["h-entry"],"properties":{"content":["Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X. Alternative to shotgun or guard."],"published":["2015-02-03T17:31:48Z"],"entry-type":["bookmark"],"name":["Rerun"],"bookmark-of":["https://github.com/alexch/rerun"],"category":["restart","watch","dev"],"slug":["rerun"]}}

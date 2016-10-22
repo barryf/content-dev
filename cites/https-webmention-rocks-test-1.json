@@ -1,0 +1,1 @@
+{"type":["h-cite"],"properties":{"url":["https://webmention.rocks/test/1"],"published":["2016-04-10T04:25:31Z"],"content":["This post advertises its Webmention endpoint with an HTTP Link header. The URL is relative, so this will also test whether your discovery code properly resolves the relative URL."],"author":["https://webmention.rocks/"]}}
