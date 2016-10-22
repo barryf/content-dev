@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "<p>This post has <b>bold</b> and <i>italic</i> text.</p>"
+    ],
+    "published": [
+      "2016-10-03T19:39:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "slug": [
+      "p-this-post-has-b-bold"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Micropub test of creating an h-entry with categories. This post should have two categories, test1 and test2"
+    ],
+    "published": [
+      "2016-10-03T19:25:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "test1",
+      "test2"
+    ],
+    "slug": [
+      "micropub-test-of-creating-an-h"
+    ]
+  }
+}
