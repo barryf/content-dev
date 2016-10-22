@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2008-05-30T19:56:01Z"],"entry-type":["bookmark"],"name":["Sender Policy Framework (SPF): FAQ/Common mistakes"],"bookmark-of":["http://www.openspf.org/FAQ/Common_mistakes"],"category":["spf","dns","email","spam","faq","domain","sysadmin","work","via-pinboard"],"slug":["sender-policy-framework-spf-faq-common"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-05-30T19:56:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sender Policy Framework (SPF): FAQ/Common mistakes"
+    ],
+    "bookmark-of": [
+      "http://www.openspf.org/FAQ/Common_mistakes"
+    ],
+    "category": [
+      "spf",
+      "dns",
+      "email",
+      "spam",
+      "faq",
+      "domain",
+      "sysadmin",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sender-policy-framework-spf-faq-common"
+    ]
+  }
+}

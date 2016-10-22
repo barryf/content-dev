@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@MattWheelr Good to bump into you this evening. Best wishes for @driftrock and let me know if we might be a good fit to try it out."],"published":["2014-03-11T21:57:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/443506044778848256"],"slug":["tweet-443506044778848256"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@MattWheelr Good to bump into you this evening. Best wishes for @driftrock and let me know if we might be a good fit to try it out."
+    ],
+    "published": [
+      "2014-03-11T21:57:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/443506044778848256"
+    ],
+    "slug": [
+      "tweet-443506044778848256"
+    ]
+  }
+}

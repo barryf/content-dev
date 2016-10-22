@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@joemahoney Great (puerile) minds think alike. I'll have a play this afternoon and TwitPic-erize it."],"published":["2009-05-22T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1881635633"],"slug":["tweet-1881635633"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@joemahoney Great (puerile) minds think alike. I'll have a play this afternoon and TwitPic-erize it."
+    ],
+    "published": [
+      "2009-05-22T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1881635633"
+    ],
+    "slug": [
+      "tweet-1881635633"
+    ]
+  }
+}

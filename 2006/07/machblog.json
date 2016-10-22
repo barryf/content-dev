@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Forthcoming ColdFusion weblog engine in Mach II and ColdSpring\n"],"published":["2006-07-10T12:51:25Z"],"entry-type":["bookmark"],"name":["MachBlog"],"bookmark-of":["http://www.machblog.org/"],"category":["coldfusion","blog","web","dev","mach-ii","coldspring","via-pinboard"],"slug":["machblog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Forthcoming ColdFusion weblog engine in Mach II and ColdSpring\n"
+    ],
+    "published": [
+      "2006-07-10T12:51:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MachBlog"
+    ],
+    "bookmark-of": [
+      "http://www.machblog.org/"
+    ],
+    "category": [
+      "coldfusion",
+      "blog",
+      "web",
+      "dev",
+      "mach-ii",
+      "coldspring",
+      "via-pinboard"
+    ],
+    "slug": [
+      "machblog"
+    ]
+  }
+}

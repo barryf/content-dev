@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Doug Saunders"],"photo":["http://pbs.twimg.com/profile_images/2329130264/ijmidnkmxodycacoleoz_normal.png"],"url":["https://twitter.com/DougSaunders"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Doug Saunders"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/2329130264/ijmidnkmxodycacoleoz_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/DougSaunders"
+    ]
+  }
+}

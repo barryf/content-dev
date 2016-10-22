@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Open sites in IE in a Firefox tab\n"],"published":["2006-08-27T18:00:43Z"],"entry-type":["bookmark"],"name":["IE Tab :: Mozilla Add-ons :: Add Features to Mozilla Software"],"bookmark-of":["https://addons.mozilla.org/firefox/1419/"],"category":["firefox","extension","ie","browser","via-pinboard"],"slug":["ie-tab-mozilla-add-ons-add"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Open sites in IE in a Firefox tab\n"
+    ],
+    "published": [
+      "2006-08-27T18:00:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "IE Tab :: Mozilla Add-ons :: Add Features to Mozilla Software"
+    ],
+    "bookmark-of": [
+      "https://addons.mozilla.org/firefox/1419/"
+    ],
+    "category": [
+      "firefox",
+      "extension",
+      "ie",
+      "browser",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ie-tab-mozilla-add-ons-add"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Essential if you're working with a non-local project\n"],"published":["2007-10-30T18:21:23Z"],"entry-type":["bookmark"],"name":["Stop Textmate reloading the projects drawer"],"bookmark-of":["http://ciaranwal.sh/remate/"],"category":["bundle","mac","textmate","network","extension","editor","smb","dev","via-pinboard"],"slug":["stop-textmate-reloading-the-projects-drawer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Essential if you're working with a non-local project\n"
+    ],
+    "published": [
+      "2007-10-30T18:21:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Stop Textmate reloading the projects drawer"
+    ],
+    "bookmark-of": [
+      "http://ciaranwal.sh/remate/"
+    ],
+    "category": [
+      "bundle",
+      "mac",
+      "textmate",
+      "network",
+      "extension",
+      "editor",
+      "smb",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stop-textmate-reloading-the-projects-drawer"
+    ]
+  }
+}

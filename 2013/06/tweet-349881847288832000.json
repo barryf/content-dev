@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@BTCare I’ve spoken to Mark in your call centre. Today’s delivery was also incorrect (now 3 failures!) so he’s put through another order."],"published":["2013-06-26T13:28:27Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/35737385/status/349880581485641729"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/349881847288832000"],"slug":["tweet-349881847288832000"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BTCare I’ve spoken to Mark in your call centre. Today’s delivery was also incorrect (now 3 failures!) so he’s put through another order."
+    ],
+    "published": [
+      "2013-06-26T13:28:27Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/35737385/status/349880581485641729"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/349881847288832000"
+    ],
+    "slug": [
+      "tweet-349881847288832000"
+    ]
+  }
+}

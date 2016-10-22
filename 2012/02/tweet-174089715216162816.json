@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mobileworldlive Can I watch his presentation here at MWC or is this online only?"],"published":["2012-02-27T11:13:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23458031/status/174081809993302016"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/174089715216162816"],"slug":["tweet-174089715216162816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mobileworldlive Can I watch his presentation here at MWC or is this online only?"
+    ],
+    "published": [
+      "2012-02-27T11:13:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23458031/status/174081809993302016"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/174089715216162816"
+    ],
+    "slug": [
+      "tweet-174089715216162816"
+    ]
+  }
+}

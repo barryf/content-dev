@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@MissSpanna Kelly and Claire tried it for a couple of days back at university. Made their poo rather nasty I'm afraid."],"published":["2009-07-29T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20435269/status/2916269279"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2918368143"],"slug":["tweet-2918368143"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@MissSpanna Kelly and Claire tried it for a couple of days back at university. Made their poo rather nasty I'm afraid."
+    ],
+    "published": [
+      "2009-07-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20435269/status/2916269279"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2918368143"
+    ],
+    "slug": [
+      "tweet-2918368143"
+    ]
+  }
+}

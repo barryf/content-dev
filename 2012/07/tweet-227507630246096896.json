@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Completed on our house earlier today. Since then, cleaning and last-minute packing before the actual move tomorrow. Tired but excited."],"published":["2012-07-23T20:57:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/227507630246096896"],"slug":["tweet-227507630246096896"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Completed on our house earlier today. Since then, cleaning and last-minute packing before the actual move tomorrow. Tired but excited."
+    ],
+    "published": [
+      "2012-07-23T20:57:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/227507630246096896"
+    ],
+    "slug": [
+      "tweet-227507630246096896"
+    ]
+  }
+}

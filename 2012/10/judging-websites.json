@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["...and homepage tips and essentials"],"published":["2012-10-29T19:17:51Z"],"entry-type":["bookmark"],"name":["Judging Websites"],"bookmark-of":["http://www.codinghorror.com/blog/2012/10/judging-websites.html"],"category":["homepage","design","business","marketing","via-pinboard"],"slug":["judging-websites"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "...and homepage tips and essentials"
+    ],
+    "published": [
+      "2012-10-29T19:17:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Judging Websites"
+    ],
+    "bookmark-of": [
+      "http://www.codinghorror.com/blog/2012/10/judging-websites.html"
+    ],
+    "category": [
+      "homepage",
+      "design",
+      "business",
+      "marketing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "judging-websites"
+    ]
+  }
+}

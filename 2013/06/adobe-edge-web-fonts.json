@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2013-06-13T11:16:20Z"],"entry-type":["bookmark"],"name":["Adobe Edge Web Fonts"],"bookmark-of":["https://edgewebfonts.adobe.com/"],"category":["css","adobe","font","webfont","free","via-pinboard"],"slug":["adobe-edge-web-fonts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-06-13T11:16:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Adobe Edge Web Fonts"
+    ],
+    "bookmark-of": [
+      "https://edgewebfonts.adobe.com/"
+    ],
+    "category": [
+      "css",
+      "adobe",
+      "font",
+      "webfont",
+      "free",
+      "via-pinboard"
+    ],
+    "slug": [
+      "adobe-edge-web-fonts"
+    ]
+  }
+}

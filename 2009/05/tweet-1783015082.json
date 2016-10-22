@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Guessing that Twitter changed replies to reduce the number of records they need to write with each new tweet and so cope with scary growth."],"published":["2009-05-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1783015082"],"slug":["tweet-1783015082"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Guessing that Twitter changed replies to reduce the number of records they need to write with each new tweet and so cope with scary growth."
+    ],
+    "published": [
+      "2009-05-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1783015082"
+    ],
+    "slug": [
+      "tweet-1783015082"
+    ]
+  }
+}

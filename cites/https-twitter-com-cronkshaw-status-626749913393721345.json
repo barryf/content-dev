@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/cronkshaw/status/626749913393721345"],"published":["2015-07-30T13:43:18Z"],"content":["@barryf #someonesgotto"],"in-reply-to":["https://barryfrost.com/2015/07/cronkshaw-brave"],"author":["http://cronkshaw.net"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/cronkshaw/status/626749913393721345"
+    ],
+    "published": [
+      "2015-07-30T13:43:18Z"
+    ],
+    "content": [
+      "@barryf #someonesgotto"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/07/cronkshaw-brave"
+    ],
+    "author": [
+      "http://cronkshaw.net"
+    ]
+  }
+}

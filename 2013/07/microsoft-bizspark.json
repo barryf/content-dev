@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Startup scheme for MS developers: free software and tools (with a few caveats)"],"published":["2013-07-01T14:40:49Z"],"entry-type":["bookmark"],"name":["Microsoft BizSpark"],"bookmark-of":["http://www.microsoft.com/bizspark/Default.aspx"],"category":["microsoft","business","software","startup","windows","via-pinboard"],"slug":["microsoft-bizspark"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Startup scheme for MS developers: free software and tools (with a few caveats)"
+    ],
+    "published": [
+      "2013-07-01T14:40:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Microsoft BizSpark"
+    ],
+    "bookmark-of": [
+      "http://www.microsoft.com/bizspark/Default.aspx"
+    ],
+    "category": [
+      "microsoft",
+      "business",
+      "software",
+      "startup",
+      "windows",
+      "via-pinboard"
+    ],
+    "slug": [
+      "microsoft-bizspark"
+    ]
+  }
+}

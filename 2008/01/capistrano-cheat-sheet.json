@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-01-19T17:45:01Z"],"entry-type":["bookmark"],"name":["Capistrano cheat sheet"],"bookmark-of":["http://cheat.errtheblog.com/s/capistrano/"],"category":["capistrano","cheatsheet","deployment","dev","sysadmin","web","via-pinboard"],"slug":["capistrano-cheat-sheet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-01-19T17:45:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Capistrano cheat sheet"
+    ],
+    "bookmark-of": [
+      "http://cheat.errtheblog.com/s/capistrano/"
+    ],
+    "category": [
+      "capistrano",
+      "cheatsheet",
+      "deployment",
+      "dev",
+      "sysadmin",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "capistrano-cheat-sheet"
+    ]
+  }
+}

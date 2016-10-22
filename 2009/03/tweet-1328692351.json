@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Listening to nice music with the rabbit for company. A very civilised evening.   http://twitpic.com/23nq0"],"published":["2009-03-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1328692351"],"slug":["tweet-1328692351"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Listening to nice music with the rabbit for company. A very civilised evening.   http://twitpic.com/23nq0"
+    ],
+    "published": [
+      "2009-03-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1328692351"
+    ],
+    "slug": [
+      "tweet-1328692351"
+    ]
+  }
+}

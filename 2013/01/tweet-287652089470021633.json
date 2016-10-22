@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Amazing, charming tour of the International Space Station by one of its astronauts. So jealous of her. http://kottke.org/13/01/a-tour-of-the-international-space-station"],"published":["2013-01-05T20:09:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/287652089470021633"],"slug":["tweet-287652089470021633"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Amazing, charming tour of the International Space Station by one of its astronauts. So jealous of her. http://kottke.org/13/01/a-tour-of-the-international-space-station"
+    ],
+    "published": [
+      "2013-01-05T20:09:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/287652089470021633"
+    ],
+    "slug": [
+      "tweet-287652089470021633"
+    ]
+  }
+}

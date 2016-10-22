@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-03-28T08:05:23Z"],"entry-type":["bookmark"],"name":["SF3: Salesforce/Mac synchronisation"],"bookmark-of":["http://www.pocketsoap.com/osx/sf3/"],"category":["salesforce","mac","sync","work","business","crm","forrosswilliams","via-pinboard"],"slug":["sf3-salesforce-mac-synchronisation"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-03-28T08:05:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SF3: Salesforce/Mac synchronisation"
+    ],
+    "bookmark-of": [
+      "http://www.pocketsoap.com/osx/sf3/"
+    ],
+    "category": [
+      "salesforce",
+      "mac",
+      "sync",
+      "work",
+      "business",
+      "crm",
+      "forrosswilliams",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sf3-salesforce-mac-synchronisation"
+    ]
+  }
+}

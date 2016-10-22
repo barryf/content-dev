@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Tom Insam's thoughts and debunking of what REST actually means (see also his REST vs non-REST follow-up)\n"],"published":["2011-04-27T10:03:14Z"],"entry-type":["bookmark"],"name":["Things that make your web service RESTful (and not)"],"bookmark-of":["http://blog.movieos.org/post/3978784625"],"category":["rest","api","web","service","opinion","via-pinboard"],"slug":["things-that-make-your-web-service"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tom Insam's thoughts and debunking of what REST actually means (see also his REST vs non-REST follow-up)\n"
+    ],
+    "published": [
+      "2011-04-27T10:03:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Things that make your web service RESTful (and not)"
+    ],
+    "bookmark-of": [
+      "http://blog.movieos.org/post/3978784625"
+    ],
+    "category": [
+      "rest",
+      "api",
+      "web",
+      "service",
+      "opinion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "things-that-make-your-web-service"
+    ]
+  }
+}

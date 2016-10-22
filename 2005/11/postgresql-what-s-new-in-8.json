@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-11-25T10:30:18Z"],"entry-type":["bookmark"],"name":["PostgreSQL: What's New in 8.1"],"bookmark-of":["http://www.postgresql.org/docs/whatsnew"],"category":["postgresql","database","opensource","server","via-pinboard"],"slug":["postgresql-what-s-new-in-8"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-11-25T10:30:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PostgreSQL: What's New in 8.1"
+    ],
+    "bookmark-of": [
+      "http://www.postgresql.org/docs/whatsnew"
+    ],
+    "category": [
+      "postgresql",
+      "database",
+      "opensource",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "postgresql-what-s-new-in-8"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Ubuntu/Linux must-haves\n"],"published":["2006-07-04T08:56:26Z"],"entry-type":["bookmark"],"name":["Essentials, 2006 edition [dive into mark]"],"bookmark-of":["http://diveintomark.org/archives/2006/06/26/essentials-2006"],"category":["linux","ubuntu","software","dev","via-pinboard"],"slug":["essentials-2006-edition-dive-into-mark"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ubuntu/Linux must-haves\n"
+    ],
+    "published": [
+      "2006-07-04T08:56:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Essentials, 2006 edition [dive into mark]"
+    ],
+    "bookmark-of": [
+      "http://diveintomark.org/archives/2006/06/26/essentials-2006"
+    ],
+    "category": [
+      "linux",
+      "ubuntu",
+      "software",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "essentials-2006-edition-dive-into-mark"
+    ]
+  }
+}

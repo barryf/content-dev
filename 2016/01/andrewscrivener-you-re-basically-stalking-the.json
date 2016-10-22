@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener You're basically stalking the Queen."],"published":["2016-01-15T11:40:41Z"],"entry-type":["reply"],"summary":["@andrewscrivener You're basically stalking the Queen."],"in-reply-to":["https://twitter.com/andrewscrivener/status/687961600821690369"],"syndication":["https://twitter.com/barryf/status/687962617437007872"],"slug":["andrewscrivener-you-re-basically-stalking-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener You're basically stalking the Queen."
+    ],
+    "published": [
+      "2016-01-15T11:40:41Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@andrewscrivener You're basically stalking the Queen."
+    ],
+    "in-reply-to": [
+      "https://twitter.com/andrewscrivener/status/687961600821690369"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/687962617437007872"
+    ],
+    "slug": [
+      "andrewscrivener-you-re-basically-stalking-the"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["\"Vice Versa Client Management\" - @thesambarnes' superb presentation on being on both sides of projects https://speakerdeck.com/thesambarnes/vice-versa-client-management-digital-pm-summit-philadelphia-2013"],"published":["2013-10-17T13:10:53Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/390827254516699136"],"slug":["tweet-390827254516699136"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Vice Versa Client Management\" - @thesambarnes' superb presentation on being on both sides of projects https://speakerdeck.com/thesambarnes/vice-versa-client-management-digital-pm-summit-philadelphia-2013"
+    ],
+    "published": [
+      "2013-10-17T13:10:53Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/390827254516699136"
+    ],
+    "slug": [
+      "tweet-390827254516699136"
+    ]
+  }
+}

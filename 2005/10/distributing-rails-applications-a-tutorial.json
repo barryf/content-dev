@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-09T11:53:54Z"],"entry-type":["bookmark"],"name":["Distributing Rails Applications - A Tutorial"],"bookmark-of":["http://www.erikveen.dds.nl/distributingrubyapplications/rails.html"],"category":["rails","dev","windows","standalone","via-pinboard"],"slug":["distributing-rails-applications-a-tutorial"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-09T11:53:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Distributing Rails Applications - A Tutorial"
+    ],
+    "bookmark-of": [
+      "http://www.erikveen.dds.nl/distributingrubyapplications/rails.html"
+    ],
+    "category": [
+      "rails",
+      "dev",
+      "windows",
+      "standalone",
+      "via-pinboard"
+    ],
+    "slug": [
+      "distributing-rails-applications-a-tutorial"
+    ]
+  }
+}

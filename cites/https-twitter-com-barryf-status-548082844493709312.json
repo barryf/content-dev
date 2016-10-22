@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/548082844493709312"],"published":["2015-01-02T19:48:51Z"],"content":["favorited this."],"like-of":["https://barryfrost.com/2014/12/new-festive-top-merry-christmas"],"author":["https://twitter.com/barryf"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/548082844493709312"
+    ],
+    "published": [
+      "2015-01-02T19:48:51Z"
+    ],
+    "content": [
+      "favorited this."
+    ],
+    "like-of": [
+      "https://barryfrost.com/2014/12/new-festive-top-merry-christmas"
+    ],
+    "author": [
+      "https://twitter.com/barryf"
+    ]
+  }
+}

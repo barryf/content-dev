@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Digg's research suggests many IE6 users aren't upgrading because they're viewing at work and aren't allowed\n"],"published":["2009-07-20T20:57:19Z"],"entry-type":["bookmark"],"name":["Much Ado About IE6"],"bookmark-of":["http://blog.digg.com/?p=878"],"category":["digg","browser","ie","ie6","upgrade","survey","standards","via-pinboard"],"slug":["much-ado-about-ie6"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Digg's research suggests many IE6 users aren't upgrading because they're viewing at work and aren't allowed\n"
+    ],
+    "published": [
+      "2009-07-20T20:57:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Much Ado About IE6"
+    ],
+    "bookmark-of": [
+      "http://blog.digg.com/?p=878"
+    ],
+    "category": [
+      "digg",
+      "browser",
+      "ie",
+      "ie6",
+      "upgrade",
+      "survey",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "much-ado-about-ie6"
+    ]
+  }
+}

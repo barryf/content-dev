@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Monkey patching my version of Ruby just like the cool kids do."],"published":["2009-06-19T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2237001185"],"slug":["tweet-2237001185"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Monkey patching my version of Ruby just like the cool kids do."
+    ],
+    "published": [
+      "2009-06-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2237001185"
+    ],
+    "slug": [
+      "tweet-2237001185"
+    ]
+  }
+}

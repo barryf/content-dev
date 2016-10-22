@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Back from a Halloween party dressed as a tiger. Face painted and wearing an adult tiger print romper suit from Primark. Did the job."],"published":["2010-10-31T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/29229453175"],"slug":["tweet-29229453175"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Back from a Halloween party dressed as a tiger. Face painted and wearing an adult tiger print romper suit from Primark. Did the job."
+    ],
+    "published": [
+      "2010-10-31T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/29229453175"
+    ],
+    "slug": [
+      "tweet-29229453175"
+    ]
+  }
+}

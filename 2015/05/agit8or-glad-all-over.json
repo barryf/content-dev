@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@agit8or Glad All Over!"],"published":["2015-05-16T18:18:54Z"],"entry-type":["reply"],"summary":["@agit8or Glad All Over!"],"in-reply-to":["https://mobile.twitter.com/agit8or/status/599632523065466880"],"syndication":["https://twitter.com/barryf/status/599640187728039936"],"slug":["agit8or-glad-all-over"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@agit8or Glad All Over!"
+    ],
+    "published": [
+      "2015-05-16T18:18:54Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@agit8or Glad All Over!"
+    ],
+    "in-reply-to": [
+      "https://mobile.twitter.com/agit8or/status/599632523065466880"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/599640187728039936"
+    ],
+    "slug": [
+      "agit8or-glad-all-over"
+    ]
+  }
+}

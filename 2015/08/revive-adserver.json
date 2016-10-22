@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Free open-source adserver that was extracted from OpenX"],"published":["2015-08-12T08:35:11Z"],"entry-type":["bookmark"],"name":["Revive Adserver"],"bookmark-of":["http://www.revive-adserver.com/"],"category":["openx","adserver","free"],"slug":["revive-adserver"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free open-source adserver that was extracted from OpenX"
+    ],
+    "published": [
+      "2015-08-12T08:35:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Revive Adserver"
+    ],
+    "bookmark-of": [
+      "http://www.revive-adserver.com/"
+    ],
+    "category": [
+      "openx",
+      "adserver",
+      "free"
+    ],
+    "slug": [
+      "revive-adserver"
+    ]
+  }
+}

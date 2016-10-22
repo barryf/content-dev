@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Announcing [Micropublish](https://micropublish.herokuapp.com/about): the tool I use to post on my personal #indieweb site via #micropub \r\n\r\n(I've been using it for a couple of weeks now to post everything on here, including this post)."],"published":["2015-02-13T13:26:46Z"],"entry-type":["note"],"summary":["Announcing Micropublish: the tool I use to post on my personal #indieweb site via #micropub https://micropublish.herokuapp.com/about https://barryf.s3-eu-west-1.amazonaws.com/micropublish.png"],"category":["indieweb","micropub"],"syndication":["https://twitter.com/barryf/status/566226991460794368"],"slug":["announcing-micropublish-https-micropublish-herokuapp-com"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Announcing [Micropublish](https://micropublish.herokuapp.com/about): the tool I use to post on my personal #indieweb site via #micropub \r\n\r\n(I've been using it for a couple of weeks now to post everything on here, including this post)."
+    ],
+    "published": [
+      "2015-02-13T13:26:46Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "Announcing Micropublish: the tool I use to post on my personal #indieweb site via #micropub https://micropublish.herokuapp.com/about https://barryf.s3-eu-west-1.amazonaws.com/micropublish.png"
+    ],
+    "category": [
+      "indieweb",
+      "micropub"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/566226991460794368"
+    ],
+    "slug": [
+      "announcing-micropublish-https-micropublish-herokuapp-com"
+    ]
+  }
+}

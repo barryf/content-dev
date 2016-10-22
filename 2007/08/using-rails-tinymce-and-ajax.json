@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-08-14T11:28:01Z"],"entry-type":["bookmark"],"name":["Using Rails, tinyMCE and Ajax"],"bookmark-of":["http://www.elevatedrails.com/articles/2007/08/08/using-rails-tinymce-and-ajax/"],"category":["rails","tinymce","richtext","browser","ajax","web","dev","via-pinboard"],"slug":["using-rails-tinymce-and-ajax"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-08-14T11:28:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Rails, tinyMCE and Ajax"
+    ],
+    "bookmark-of": [
+      "http://www.elevatedrails.com/articles/2007/08/08/using-rails-tinymce-and-ajax/"
+    ],
+    "category": [
+      "rails",
+      "tinymce",
+      "richtext",
+      "browser",
+      "ajax",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-rails-tinymce-and-ajax"
+    ]
+  }
+}

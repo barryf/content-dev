@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Play iTunes music and view iPhoto photos using an Xbox 360 connected to your network\n"],"published":["2006-08-31T18:34:18Z"],"entry-type":["bookmark"],"name":["Connect360"],"bookmark-of":["http://www.nullriver.com/index/products/connect360"],"category":["xbox360","mac","itunes","music","mp3","microsoft","photo","audio","via-pinboard"],"slug":["connect360"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Play iTunes music and view iPhoto photos using an Xbox 360 connected to your network\n"
+    ],
+    "published": [
+      "2006-08-31T18:34:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Connect360"
+    ],
+    "bookmark-of": [
+      "http://www.nullriver.com/index/products/connect360"
+    ],
+    "category": [
+      "xbox360",
+      "mac",
+      "itunes",
+      "music",
+      "mp3",
+      "microsoft",
+      "photo",
+      "audio",
+      "via-pinboard"
+    ],
+    "slug": [
+      "connect360"
+    ]
+  }
+}

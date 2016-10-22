@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Off to Windlesham to see a house."],"published":["2012-01-18T17:39:21Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/159691359383601152"],"slug":["tweet-159691359383601152"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Off to Windlesham to see a house."
+    ],
+    "published": [
+      "2012-01-18T17:39:21Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/159691359383601152"
+    ],
+    "slug": [
+      "tweet-159691359383601152"
+    ]
+  }
+}

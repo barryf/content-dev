@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh @jasonkneen Lesson learned: check your ifttt tasks more carefully before letting them tweet recursively."],"published":["2012-06-13T20:12:42Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/213000315031662592"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/213000964720955397"],"slug":["tweet-213000964720955397"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh @jasonkneen Lesson learned: check your ifttt tasks more carefully before letting them tweet recursively."
+    ],
+    "published": [
+      "2012-06-13T20:12:42Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/213000315031662592"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/213000964720955397"
+    ],
+    "slug": [
+      "tweet-213000964720955397"
+    ]
+  }
+}

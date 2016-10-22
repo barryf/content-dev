@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Takes screenshots from the iOS Simulator and optionally adds iPhone/iPad chrome around\n"],"published":["2011-10-17T14:05:37Z"],"entry-type":["bookmark"],"name":["iOS-Simulator Cropper"],"bookmark-of":["http://www.curioustimes.de/iphonesimulatorcropper/"],"category":["screenshot","iphone","ipad","ios","simulator","via-pinboard"],"slug":["ios-simulator-cropper"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Takes screenshots from the iOS Simulator and optionally adds iPhone/iPad chrome around\n"
+    ],
+    "published": [
+      "2011-10-17T14:05:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iOS-Simulator Cropper"
+    ],
+    "bookmark-of": [
+      "http://www.curioustimes.de/iphonesimulatorcropper/"
+    ],
+    "category": [
+      "screenshot",
+      "iphone",
+      "ipad",
+      "ios",
+      "simulator",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ios-simulator-cropper"
+    ]
+  }
+}

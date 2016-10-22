@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Real-time chat, video/voice, persistent mailing list, Monday meetings with minutes\n"],"published":["2010-07-18T12:53:43Z"],"entry-type":["bookmark"],"name":["On Working Remotely"],"bookmark-of":["http://www.codinghorror.com/blog/2010/05/on-working-remotely.html"],"category":["remote","work","dev","team","project","via-pinboard"],"slug":["on-working-remotely"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Real-time chat, video/voice, persistent mailing list, Monday meetings with minutes\n"
+    ],
+    "published": [
+      "2010-07-18T12:53:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "On Working Remotely"
+    ],
+    "bookmark-of": [
+      "http://www.codinghorror.com/blog/2010/05/on-working-remotely.html"
+    ],
+    "category": [
+      "remote",
+      "work",
+      "dev",
+      "team",
+      "project",
+      "via-pinboard"
+    ],
+    "slug": [
+      "on-working-remotely"
+    ]
+  }
+}

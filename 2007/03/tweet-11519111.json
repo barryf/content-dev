@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["testing the apollo twitter app. mine's cross platform, pand..."],"published":["2007-03-23T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/11519111"],"slug":["tweet-11519111"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "testing the apollo twitter app. mine's cross platform, pand..."
+    ],
+    "published": [
+      "2007-03-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/11519111"
+    ],
+    "slug": [
+      "tweet-11519111"
+    ]
+  }
+}

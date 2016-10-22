@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["His blog's CMS code open sourced\n"],"published":["2006-07-20T12:48:01Z"],"entry-type":["bookmark"],"name":["waferbaby (the code)"],"bookmark-of":["http://waferbaby.net/"],"category":["cms","rails","opensource","blog","web","dev","via-pinboard"],"slug":["waferbaby-the-code"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "His blog's CMS code open sourced\n"
+    ],
+    "published": [
+      "2006-07-20T12:48:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "waferbaby (the code)"
+    ],
+    "bookmark-of": [
+      "http://waferbaby.net/"
+    ],
+    "category": [
+      "cms",
+      "rails",
+      "opensource",
+      "blog",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "waferbaby-the-code"
+    ]
+  }
+}

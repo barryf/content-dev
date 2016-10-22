@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["A bit like FLiP: Do the prototype interface first\n"],"published":["2005-06-16T09:13:52Z"],"entry-type":["bookmark"],"name":["Getting Real, Step 1: No Functional Spec (Signal vs. Noise)"],"bookmark-of":["http://www.37signals.com/svn/archives/001050.php"],"category":["web","design","web20","methodology","via-pinboard"],"slug":["getting-real-step-1-no-functional"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A bit like FLiP: Do the prototype interface first\n"
+    ],
+    "published": [
+      "2005-06-16T09:13:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Getting Real, Step 1: No Functional Spec (Signal vs. Noise)"
+    ],
+    "bookmark-of": [
+      "http://www.37signals.com/svn/archives/001050.php"
+    ],
+    "category": [
+      "web",
+      "design",
+      "web20",
+      "methodology",
+      "via-pinboard"
+    ],
+    "slug": [
+      "getting-real-step-1-no-functional"
+    ]
+  }
+}

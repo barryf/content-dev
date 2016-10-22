@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@stevesmith2609 @grayhaze I think we’ve found a star villain for TMC episode 2."],"published":["2014-11-10T16:50:48Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/86092790/status/531851201135271937"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/531851479913885697"],"slug":["tweet-531851479913885697"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@stevesmith2609 @grayhaze I think we’ve found a star villain for TMC episode 2."
+    ],
+    "published": [
+      "2014-11-10T16:50:48Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/86092790/status/531851201135271937"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/531851479913885697"
+    ],
+    "slug": [
+      "tweet-531851479913885697"
+    ]
+  }
+}

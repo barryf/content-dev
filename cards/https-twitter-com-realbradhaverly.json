@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Brad Haverly"],"photo":["https://twitter.com/RealBradHaverly/profile_image?size=original"],"url":["https://twitter.com/RealBradHaverly"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Brad Haverly"
+    ],
+    "photo": [
+      "https://twitter.com/RealBradHaverly/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/RealBradHaverly"
+    ]
+  }
+}

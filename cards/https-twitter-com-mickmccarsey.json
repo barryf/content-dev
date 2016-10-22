@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Abouppy Birthday"],"photo":["https://twitter.com/MickMcCarsey/profile_image?size=original"],"url":["https://twitter.com/MickMcCarsey"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Abouppy Birthday"
+    ],
+    "photo": [
+      "https://twitter.com/MickMcCarsey/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/MickMcCarsey"
+    ]
+  }
+}

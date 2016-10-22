@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Innovation Warehouse brings together entrepreneurs, investors and innovators. Our locations provide coworking, shared office space and access to startup growth accelerator programmes such as seed funding, angel investing, mentoring and events."],"published":["2014-05-21T09:12:11Z"],"entry-type":["bookmark"],"name":["Innovation Warehouse"],"bookmark-of":["http://www.innovationwarehouse.org/"],"category":["startup","accelerator","london","coworking","via-pinboard"],"slug":["innovation-warehouse"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Innovation Warehouse brings together entrepreneurs, investors and innovators. Our locations provide coworking, shared office space and access to startup growth accelerator programmes such as seed funding, angel investing, mentoring and events."
+    ],
+    "published": [
+      "2014-05-21T09:12:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Innovation Warehouse"
+    ],
+    "bookmark-of": [
+      "http://www.innovationwarehouse.org/"
+    ],
+    "category": [
+      "startup",
+      "accelerator",
+      "london",
+      "coworking",
+      "via-pinboard"
+    ],
+    "slug": [
+      "innovation-warehouse"
+    ]
+  }
+}

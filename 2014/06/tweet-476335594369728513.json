@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Most exciting possible app feature that iOS 8 enables is TouchID with a @1Password custom keyboard = fingerprint logins /via @_DavidSmith"],"published":["2014-06-10T12:10:30Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/476335594369728513"],"slug":["tweet-476335594369728513"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Most exciting possible app feature that iOS 8 enables is TouchID with a @1Password custom keyboard = fingerprint logins /via @_DavidSmith"
+    ],
+    "published": [
+      "2014-06-10T12:10:30Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/476335594369728513"
+    ],
+    "slug": [
+      "tweet-476335594369728513"
+    ]
+  }
+}

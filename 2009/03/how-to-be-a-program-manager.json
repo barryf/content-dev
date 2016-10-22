@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Describes quite a lot of my job at the moment. Have added the book Joel recommends to my Amazon wishlist\n"],"published":["2009-03-13T22:24:44Z"],"entry-type":["bookmark"],"name":["How to be a program manager - Joel on Software"],"bookmark-of":["http://www.joelonsoftware.com/items/2009/03/09.html"],"category":["program","projeectmanagement","business","work","process","job","via-pinboard"],"slug":["how-to-be-a-program-manager"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Describes quite a lot of my job at the moment. Have added the book Joel recommends to my Amazon wishlist\n"
+    ],
+    "published": [
+      "2009-03-13T22:24:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to be a program manager - Joel on Software"
+    ],
+    "bookmark-of": [
+      "http://www.joelonsoftware.com/items/2009/03/09.html"
+    ],
+    "category": [
+      "program",
+      "projeectmanagement",
+      "business",
+      "work",
+      "process",
+      "job",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-be-a-program-manager"
+    ]
+  }
+}

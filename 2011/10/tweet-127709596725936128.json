@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Presenting at the Silver day at the @wld Partner Conference #wldconf (@ Fanham Hall Hotel) http://4sq.com/recBeg"],"published":["2011-10-22T11:35:15Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/127709596725936128"],"slug":["tweet-127709596725936128"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Presenting at the Silver day at the @wld Partner Conference #wldconf (@ Fanham Hall Hotel) http://4sq.com/recBeg"
+    ],
+    "published": [
+      "2011-10-22T11:35:15Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/127709596725936128"
+    ],
+    "slug": [
+      "tweet-127709596725936128"
+    ]
+  }
+}

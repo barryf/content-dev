@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/7705762/status/274127351896485888"],"published":["2012-11-29T12:27:08Z"],"content":["&gt;abuse_receive_mode = enable&lt; I am now an iPhone 5 owner"],"author":["https://twitter.com/7705762"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/7705762/status/274127351896485888"
+    ],
+    "published": [
+      "2012-11-29T12:27:08Z"
+    ],
+    "content": [
+      "&gt;abuse_receive_mode = enable&lt; I am now an iPhone 5 owner"
+    ],
+    "author": [
+      "https://twitter.com/7705762"
+    ]
+  }
+}

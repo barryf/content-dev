@@ -1,1 +1,24 @@
-{"type":["h-entry"],"properties":{"content":["Prompted by Dropbox's [announcement of webhooks](https://www.dropbox.com/developers/blog/90/announcing-dropbox-webhooks), yesterday, I resumed my semi-regular thoughts about powering this site using a combination of [Drafts](http://agiletortoise.com/drafts/) on iOS, Dropbox and Heroku, perhaps with tweets via Tweetbot using a callback chain. Might have a hack on that sometime."],"published":["2014-05-15T12:26:03Z"],"entry-type":["note"],"category":["indieweb","baker","via-baker"],"slug":["baker-100"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Prompted by Dropbox's [announcement of webhooks](https://www.dropbox.com/developers/blog/90/announcing-dropbox-webhooks), yesterday, I resumed my semi-regular thoughts about powering this site using a combination of [Drafts](http://agiletortoise.com/drafts/) on iOS, Dropbox and Heroku, perhaps with tweets via Tweetbot using a callback chain. Might have a hack on that sometime."
+    ],
+    "published": [
+      "2014-05-15T12:26:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "indieweb",
+      "baker",
+      "via-baker"
+    ],
+    "slug": [
+      "baker-100"
+    ]
+  }
+}

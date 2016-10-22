@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/11470692/status/254986224903790592"],"published":["2012-10-07T16:47:08Z"],"content":["@barryf 2TB? My 1TB is going in this week. How do I switch?"],"author":["https://twitter.com/11470692"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/11470692/status/254986224903790592"
+    ],
+    "published": [
+      "2012-10-07T16:47:08Z"
+    ],
+    "content": [
+      "@barryf 2TB? My 1TB is going in this week. How do I switch?"
+    ],
+    "author": [
+      "https://twitter.com/11470692"
+    ]
+  }
+}

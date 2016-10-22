@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["London Taxis\n"],"published":["2005-08-29T12:58:05Z"],"entry-type":["bookmark"],"name":["Addison Lee"],"bookmark-of":["http://www.addisonlee.com/onlinebooking.html"],"category":["london","taxi","cab","via-pinboard"],"slug":["addison-lee"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "London Taxis\n"
+    ],
+    "published": [
+      "2005-08-29T12:58:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Addison Lee"
+    ],
+    "bookmark-of": [
+      "http://www.addisonlee.com/onlinebooking.html"
+    ],
+    "category": [
+      "london",
+      "taxi",
+      "cab",
+      "via-pinboard"
+    ],
+    "slug": [
+      "addison-lee"
+    ]
+  }
+}

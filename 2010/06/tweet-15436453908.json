@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Start of @ian_winter's stag do. Others arriving and stag still relatively sober. Our task begins...  http://twitpic.com/1twa22"],"published":["2010-06-04T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/15436453908"],"slug":["tweet-15436453908"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Start of @ian_winter's stag do. Others arriving and stag still relatively sober. Our task begins...  http://twitpic.com/1twa22"
+    ],
+    "published": [
+      "2010-06-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/15436453908"
+    ],
+    "slug": [
+      "tweet-15436453908"
+    ]
+  }
+}

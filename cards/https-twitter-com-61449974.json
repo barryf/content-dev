@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Matthieu Vaxelaire"],"photo":["http://pbs.twimg.com/profile_images/3341057349/a011c23d421e9fe52d8eb0d6eb0cbf44_normal.png"],"url":["https://twitter.com/mvaxelaire"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Matthieu Vaxelaire"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/3341057349/a011c23d421e9fe52d8eb0d6eb0cbf44_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/mvaxelaire"
+    ]
+  }
+}

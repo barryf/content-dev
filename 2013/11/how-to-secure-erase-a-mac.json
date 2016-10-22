@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2013-11-22T14:58:02Z"],"entry-type":["bookmark"],"name":["How to Secure Erase a Mac SSD/Hard Disk from Recovery Mode"],"bookmark-of":["http://osxdaily.com/2013/04/22/secure-erase-mac-ssd-drive-recovery-mode/"],"category":["secure","erase","security","mac","apple","via-pinboard"],"slug":["how-to-secure-erase-a-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-11-22T14:58:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Secure Erase a Mac SSD/Hard Disk from Recovery Mode"
+    ],
+    "bookmark-of": [
+      "http://osxdaily.com/2013/04/22/secure-erase-mac-ssd-drive-recovery-mode/"
+    ],
+    "category": [
+      "secure",
+      "erase",
+      "security",
+      "mac",
+      "apple",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-secure-erase-a-mac"
+    ]
+  }
+}

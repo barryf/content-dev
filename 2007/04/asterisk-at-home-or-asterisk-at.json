@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Open source IP PBX (VOIP) GUI and Linux distro built on Asterisk\n"],"published":["2007-04-05T12:41:42Z"],"entry-type":["bookmark"],"name":["Asterisk at Home or Asterisk at Work in 30 MINUTES :: AsteriskNOW |"],"bookmark-of":["http://www.asterisknow.org/"],"category":["asterisk","voip","pbx","linux","opensource","gui","telephony","work","phone","via-pinboard"],"slug":["asterisk-at-home-or-asterisk-at"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Open source IP PBX (VOIP) GUI and Linux distro built on Asterisk\n"
+    ],
+    "published": [
+      "2007-04-05T12:41:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Asterisk at Home or Asterisk at Work in 30 MINUTES :: AsteriskNOW |"
+    ],
+    "bookmark-of": [
+      "http://www.asterisknow.org/"
+    ],
+    "category": [
+      "asterisk",
+      "voip",
+      "pbx",
+      "linux",
+      "opensource",
+      "gui",
+      "telephony",
+      "work",
+      "phone",
+      "via-pinboard"
+    ],
+    "slug": [
+      "asterisk-at-home-or-asterisk-at"
+    ]
+  }
+}

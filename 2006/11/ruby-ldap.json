@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["and supports Active Directory\n"],"published":["2006-11-06T10:10:39Z"],"entry-type":["bookmark"],"name":["Ruby/LDAP"],"bookmark-of":["http://ruby-ldap.sourceforge.net/"],"category":["ruby","ad","library","ldap","dev","web","via-pinboard"],"slug":["ruby-ldap"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "and supports Active Directory\n"
+    ],
+    "published": [
+      "2006-11-06T10:10:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ruby/LDAP"
+    ],
+    "bookmark-of": [
+      "http://ruby-ldap.sourceforge.net/"
+    ],
+    "category": [
+      "ruby",
+      "ad",
+      "library",
+      "ldap",
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-ldap"
+    ]
+  }
+}

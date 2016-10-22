@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Cappuccino's Aristo theme ported to jQuery UI. Attractive set of form and other controls\n"],"published":["2011-03-19T14:23:15Z"],"entry-type":["bookmark"],"name":["Aristo for jQuery UI"],"bookmark-of":["http://taitems.tumblr.com/post/482577430/introducing-aristo-a-jquery-ui-theme"],"category":["jquery","ui","jqueryui","design","form","layout","cappuccino","aristo","via-pinboard"],"slug":["aristo-for-jquery-ui"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Cappuccino's Aristo theme ported to jQuery UI. Attractive set of form and other controls\n"
+    ],
+    "published": [
+      "2011-03-19T14:23:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Aristo for jQuery UI"
+    ],
+    "bookmark-of": [
+      "http://taitems.tumblr.com/post/482577430/introducing-aristo-a-jquery-ui-theme"
+    ],
+    "category": [
+      "jquery",
+      "ui",
+      "jqueryui",
+      "design",
+      "form",
+      "layout",
+      "cappuccino",
+      "aristo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aristo-for-jquery-ui"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2011-03-01T18:47:28Z"],"entry-type":["bookmark"],"name":["How to Build a Simple Tumblr Blog with ExpressionEngine"],"bookmark-of":["http://shapingthepage.com/journal/how-to-build-a-simple-tumblr-blog-with-expressionengine"],"category":["blog","tumblog","expressionengine","tumblr","cms","tutorial","via-pinboard"],"slug":["how-to-build-a-simple-tumblr"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-03-01T18:47:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Build a Simple Tumblr Blog with ExpressionEngine"
+    ],
+    "bookmark-of": [
+      "http://shapingthepage.com/journal/how-to-build-a-simple-tumblr-blog-with-expressionengine"
+    ],
+    "category": [
+      "blog",
+      "tumblog",
+      "expressionengine",
+      "tumblr",
+      "cms",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-build-a-simple-tumblr"
+    ]
+  }
+}

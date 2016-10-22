@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Bryan Rieger"],"photo":["http://pbs.twimg.com/profile_images/1549751975/avatar_normal.png"],"url":["https://twitter.com/bryanrieger"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Bryan Rieger"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/1549751975/avatar_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/bryanrieger"
+    ]
+  }
+}

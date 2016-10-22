@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2012-08-30T16:54:37Z"],"entry-type":["bookmark"],"name":["AppleScript for Sending Frontmost Safari Tabs to OmniFocus"],"bookmark-of":["http://shawnblanc.net/2012/08/frontmost-safari-tabs-omnifocus/"],"category":["applescript","omnifocus","safari","via-pinboard"],"slug":["applescript-for-sending-frontmost-safari-tabs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-08-30T16:54:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "AppleScript for Sending Frontmost Safari Tabs to OmniFocus"
+    ],
+    "bookmark-of": [
+      "http://shawnblanc.net/2012/08/frontmost-safari-tabs-omnifocus/"
+    ],
+    "category": [
+      "applescript",
+      "omnifocus",
+      "safari",
+      "via-pinboard"
+    ],
+    "slug": [
+      "applescript-for-sending-frontmost-safari-tabs"
+    ]
+  }
+}

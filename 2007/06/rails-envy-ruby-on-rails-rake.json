@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Very simple guide to those clever little commands\n"],"published":["2007-06-11T20:11:19Z"],"entry-type":["bookmark"],"name":["Rails Envy: Ruby on Rails Rake Tutorial (aka. How rake turned me into an alchoholic)"],"bookmark-of":["http://www.railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial"],"category":["rake","rails","tutorial","server","sysadmin","dev","via-pinboard"],"slug":["rails-envy-ruby-on-rails-rake"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Very simple guide to those clever little commands\n"
+    ],
+    "published": [
+      "2007-06-11T20:11:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails Envy: Ruby on Rails Rake Tutorial (aka. How rake turned me into an alchoholic)"
+    ],
+    "bookmark-of": [
+      "http://www.railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial"
+    ],
+    "category": [
+      "rake",
+      "rails",
+      "tutorial",
+      "server",
+      "sysadmin",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-envy-ruby-on-rails-rake"
+    ]
+  }
+}

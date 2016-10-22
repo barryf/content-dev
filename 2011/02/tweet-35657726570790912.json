@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Error: Firefox not compatible with windows http://youtu.be/7LduDVpjpdA /via @neilmiddleton"],"published":["2011-02-10T11:13:59Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/35657726570790912"],"slug":["tweet-35657726570790912"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Error: Firefox not compatible with windows http://youtu.be/7LduDVpjpdA /via @neilmiddleton"
+    ],
+    "published": [
+      "2011-02-10T11:13:59Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/35657726570790912"
+    ],
+    "slug": [
+      "tweet-35657726570790912"
+    ]
+  }
+}

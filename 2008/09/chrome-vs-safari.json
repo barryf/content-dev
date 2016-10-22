@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Google Chrome doesn't render text-shadow or drop shadows correctly. Yet.\n"],"published":["2008-09-06T20:28:41Z"],"entry-type":["bookmark"],"name":["Chrome vs. Safari"],"bookmark-of":["http://www.flickr.com/photos/gesteves/2821873489/sizes/o/"],"category":["google","chrome","image","shadow","design","browser","standards","css","via-pinboard"],"slug":["chrome-vs-safari"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Google Chrome doesn't render text-shadow or drop shadows correctly. Yet.\n"
+    ],
+    "published": [
+      "2008-09-06T20:28:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Chrome vs. Safari"
+    ],
+    "bookmark-of": [
+      "http://www.flickr.com/photos/gesteves/2821873489/sizes/o/"
+    ],
+    "category": [
+      "google",
+      "chrome",
+      "image",
+      "shadow",
+      "design",
+      "browser",
+      "standards",
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "chrome-vs-safari"
+    ]
+  }
+}

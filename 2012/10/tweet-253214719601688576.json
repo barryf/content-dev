@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Guilty Tuesday night pleasure: Great British Bake Off #gbbo"],"published":["2012-10-02T19:27:48Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/253214719601688576"],"slug":["tweet-253214719601688576"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Guilty Tuesday night pleasure: Great British Bake Off #gbbo"
+    ],
+    "published": [
+      "2012-10-02T19:27:48Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/253214719601688576"
+    ],
+    "slug": [
+      "tweet-253214719601688576"
+    ]
+  }
+}

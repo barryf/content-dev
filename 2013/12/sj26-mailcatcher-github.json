@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-12-02T17:53:55Z"],"entry-type":["bookmark"],"name":["sj26/mailcatcher · GitHub"],"bookmark-of":["https://github.com/sj26/mailcatcher"],"category":["fromifttt","github","via-pinboard"],"slug":["sj26-mailcatcher-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-12-02T17:53:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "sj26/mailcatcher · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/sj26/mailcatcher"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sj26-mailcatcher-github"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@nstanley Happy birthday, Neil. Enjoy tonight - surely you’ve earned a day off tomorrow?"],"published":["2014-03-13T20:57:22Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/444215665193656320"],"slug":["tweet-444215665193656320"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nstanley Happy birthday, Neil. Enjoy tonight - surely you’ve earned a day off tomorrow?"
+    ],
+    "published": [
+      "2014-03-13T20:57:22Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/444215665193656320"
+    ],
+    "slug": [
+      "tweet-444215665193656320"
+    ]
+  }
+}

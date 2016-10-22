@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Uses a bot to find users within an org without 2FA, a full name and someone responsible for them."],"published":["2014-09-16T14:11:41Z"],"entry-type":["bookmark"],"name":["How the Guardian uses GitHub to audit GitHub"],"bookmark-of":["http://www.theguardian.com/info/developer-blog/2014/apr/11/how-the-guardian-uses-github-to-audit-github"],"category":["team","security","github","guardian","via-pinboard"],"slug":["how-the-guardian-uses-github-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Uses a bot to find users within an org without 2FA, a full name and someone responsible for them."
+    ],
+    "published": [
+      "2014-09-16T14:11:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How the Guardian uses GitHub to audit GitHub"
+    ],
+    "bookmark-of": [
+      "http://www.theguardian.com/info/developer-blog/2014/apr/11/how-the-guardian-uses-github-to-audit-github"
+    ],
+    "category": [
+      "team",
+      "security",
+      "github",
+      "guardian",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-the-guardian-uses-github-to"
+    ]
+  }
+}

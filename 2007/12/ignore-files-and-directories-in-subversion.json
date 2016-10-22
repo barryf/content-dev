@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-16T17:35:26Z"],"entry-type":["bookmark"],"name":["Ignore Files and Directories in Subversion"],"bookmark-of":["http://www.petefreitag.com/item/662.cfm"],"category":["subversion","svn","ignore","dev","sourcecontrol","via-pinboard"],"slug":["ignore-files-and-directories-in-subversion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-16T17:35:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ignore Files and Directories in Subversion"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/662.cfm"
+    ],
+    "category": [
+      "subversion",
+      "svn",
+      "ignore",
+      "dev",
+      "sourcecontrol",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ignore-files-and-directories-in-subversion"
+    ]
+  }
+}

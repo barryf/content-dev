@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids Terry is a marketing consultant for us too and knows I have a rabbit. It's a Godfather-style offer I can't refuse :)"],"published":["2009-06-05T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/2041660186"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2041733397"],"slug":["tweet-2041733397"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids Terry is a marketing consultant for us too and knows I have a rabbit. It's a Godfather-style offer I can't refuse :)"
+    ],
+    "published": [
+      "2009-06-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/2041660186"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2041733397"
+    ],
+    "slug": [
+      "tweet-2041733397"
+    ]
+  }
+}

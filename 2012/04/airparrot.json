@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["AirPlay your Mac's screen to Apple TV\n"],"published":["2012-04-15T17:22:55Z"],"entry-type":["bookmark"],"name":["AirParrot"],"bookmark-of":["http://airparrot.com/"],"category":["display","tv","mac","appletv","airplay","via-pinboard"],"slug":["airparrot"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "AirPlay your Mac's screen to Apple TV\n"
+    ],
+    "published": [
+      "2012-04-15T17:22:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "AirParrot"
+    ],
+    "bookmark-of": [
+      "http://airparrot.com/"
+    ],
+    "category": [
+      "display",
+      "tv",
+      "mac",
+      "appletv",
+      "airplay",
+      "via-pinboard"
+    ],
+    "slug": [
+      "airparrot"
+    ]
+  }
+}

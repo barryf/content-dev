@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-11-02T15:34:12Z"],"entry-type":["bookmark"],"name":["GNU Screen: an introduction and beginner's tutorial"],"bookmark-of":["http://www.kuro5hin.org/story/2004/3/9/16838/14935"],"category":["gnu","screen","terminal","unix","guide","via-pinboard"],"slug":["gnu-screen-an-introduction-and-beginner"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-11-02T15:34:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GNU Screen: an introduction and beginner's tutorial"
+    ],
+    "bookmark-of": [
+      "http://www.kuro5hin.org/story/2004/3/9/16838/14935"
+    ],
+    "category": [
+      "gnu",
+      "screen",
+      "terminal",
+      "unix",
+      "guide",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gnu-screen-an-introduction-and-beginner"
+    ]
+  }
+}

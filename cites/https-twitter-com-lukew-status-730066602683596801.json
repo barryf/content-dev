@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/lukew/status/730066602683596801"],"published":["2016-05-10T16:06:56Z"],"content":["hamburger comes… hamburger goes…"],"photo":["http://pbs.twimg.com/media/CiG3tMtUoAAChIV.jpg"],"author":["https://twitter.com/lukew"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/lukew/status/730066602683596801"
+    ],
+    "published": [
+      "2016-05-10T16:06:56Z"
+    ],
+    "content": [
+      "hamburger comes… hamburger goes…"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CiG3tMtUoAAChIV.jpg"
+    ],
+    "author": [
+      "https://twitter.com/lukew"
+    ]
+  }
+}

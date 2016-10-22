@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["List of fonts suitable for long blocks of text. No handwriting or monospace nonsense, plus indicates which work well on Windows\n"],"published":["2011-06-15T11:02:35Z"],"entry-type":["bookmark"],"name":["The Great Typekit Table"],"bookmark-of":["http://www.sleepoversf.com/the-great-typekit-table/"],"category":["font","typekit","list","design","windows","via-pinboard"],"slug":["the-great-typekit-table"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "List of fonts suitable for long blocks of text. No handwriting or monospace nonsense, plus indicates which work well on Windows\n"
+    ],
+    "published": [
+      "2011-06-15T11:02:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Great Typekit Table"
+    ],
+    "bookmark-of": [
+      "http://www.sleepoversf.com/the-great-typekit-table/"
+    ],
+    "category": [
+      "font",
+      "typekit",
+      "list",
+      "design",
+      "windows",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-great-typekit-table"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Interesting idea: get a 020 7 phone number but base yourself anywhere in the world\n"],"published":["2005-11-06T16:31:42Z"],"entry-type":["bookmark"],"name":["Guardian Unlimited Technology | Technology | London calling?"],"bookmark-of":["http://technology.guardian.co.uk/weekly/story/0,16376,1606812,00.html"],"category":["business","telephony","telecom","london","uk","virtual","via-pinboard"],"slug":["guardian-unlimited-technology-technology-london-calling"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Interesting idea: get a 020 7 phone number but base yourself anywhere in the world\n"
+    ],
+    "published": [
+      "2005-11-06T16:31:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Guardian Unlimited Technology | Technology | London calling?"
+    ],
+    "bookmark-of": [
+      "http://technology.guardian.co.uk/weekly/story/0,16376,1606812,00.html"
+    ],
+    "category": [
+      "business",
+      "telephony",
+      "telecom",
+      "london",
+      "uk",
+      "virtual",
+      "via-pinboard"
+    ],
+    "slug": [
+      "guardian-unlimited-technology-technology-london-calling"
+    ]
+  }
+}

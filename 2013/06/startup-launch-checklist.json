@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["(also applies to any new product launch)"],"published":["2013-06-09T10:53:44Z"],"entry-type":["bookmark"],"name":["Startup Launch Checklist"],"bookmark-of":["http://spencerfry.com/startup-launch-checklist"],"category":["business","startup","launch","checklist","via-pinboard"],"slug":["startup-launch-checklist"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(also applies to any new product launch)"
+    ],
+    "published": [
+      "2013-06-09T10:53:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Startup Launch Checklist"
+    ],
+    "bookmark-of": [
+      "http://spencerfry.com/startup-launch-checklist"
+    ],
+    "category": [
+      "business",
+      "startup",
+      "launch",
+      "checklist",
+      "via-pinboard"
+    ],
+    "slug": [
+      "startup-launch-checklist"
+    ]
+  }
+}

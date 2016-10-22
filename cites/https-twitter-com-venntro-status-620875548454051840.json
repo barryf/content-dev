@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/venntro/status/620875548454051840"],"published":["2015-07-14T08:40:40Z"],"content":["Good morning from Venntro's London HQ..."],"photo":["http://pbs.twimg.com/media/CJ3LBV0UYAA5CDc.jpg"],"author":["https://twitter.com/venntro"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/venntro/status/620875548454051840"
+    ],
+    "published": [
+      "2015-07-14T08:40:40Z"
+    ],
+    "content": [
+      "Good morning from Venntro's London HQ..."
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CJ3LBV0UYAA5CDc.jpg"
+    ],
+    "author": [
+      "https://twitter.com/venntro"
+    ]
+  }
+}

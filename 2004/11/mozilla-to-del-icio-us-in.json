@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-05T13:11:41Z"],"entry-type":["bookmark"],"name":["mozilla to del.icio.us in python"],"bookmark-of":["http://www.townx.zenwebhosting.com/delicious/"],"category":["delicious","python","via-pinboard"],"slug":["mozilla-to-del-icio-us-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-05T13:11:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "mozilla to del.icio.us in python"
+    ],
+    "bookmark-of": [
+      "http://www.townx.zenwebhosting.com/delicious/"
+    ],
+    "category": [
+      "delicious",
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mozilla-to-del-icio-us-in"
+    ]
+  }
+}

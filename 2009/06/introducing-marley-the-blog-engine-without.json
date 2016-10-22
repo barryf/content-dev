@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Lightweight Ruby blog engine - publish via git push\n"],"published":["2009-06-28T15:56:39Z"],"entry-type":["bookmark"],"name":["Introducing Marley, the blog engine without textareas"],"bookmark-of":["http://www.restafari.org/introducing-marley.html"],"category":["ruby","git","push","sinatra","blog","via-pinboard"],"slug":["introducing-marley-the-blog-engine-without"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lightweight Ruby blog engine - publish via git push\n"
+    ],
+    "published": [
+      "2009-06-28T15:56:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Introducing Marley, the blog engine without textareas"
+    ],
+    "bookmark-of": [
+      "http://www.restafari.org/introducing-marley.html"
+    ],
+    "category": [
+      "ruby",
+      "git",
+      "push",
+      "sinatra",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "introducing-marley-the-blog-engine-without"
+    ]
+  }
+}

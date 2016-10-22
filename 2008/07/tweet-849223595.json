@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["No breakfast so it'll have to be a footlong."],"published":["2008-07-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/849223595"],"slug":["tweet-849223595"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "No breakfast so it'll have to be a footlong."
+    ],
+    "published": [
+      "2008-07-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/849223595"
+    ],
+    "slug": [
+      "tweet-849223595"
+    ]
+  }
+}

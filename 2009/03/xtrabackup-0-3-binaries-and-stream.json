@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Hot backup InnoDB databases to a remote box via a stream\n"],"published":["2009-03-26T22:27:58Z"],"entry-type":["bookmark"],"name":["xtrabackup-0.3, binaries and stream backup"],"bookmark-of":["http://www.mysqlperformanceblog.com/2009/03/13/xtrabackup-03-binaries-and-stream-backup/"],"category":["mysql","backup","innodb","stream","dba","sysadmin","work","database","via-pinboard"],"slug":["xtrabackup-0-3-binaries-and-stream"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hot backup InnoDB databases to a remote box via a stream\n"
+    ],
+    "published": [
+      "2009-03-26T22:27:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "xtrabackup-0.3, binaries and stream backup"
+    ],
+    "bookmark-of": [
+      "http://www.mysqlperformanceblog.com/2009/03/13/xtrabackup-03-binaries-and-stream-backup/"
+    ],
+    "category": [
+      "mysql",
+      "backup",
+      "innodb",
+      "stream",
+      "dba",
+      "sysadmin",
+      "work",
+      "database",
+      "via-pinboard"
+    ],
+    "slug": [
+      "xtrabackup-0-3-binaries-and-stream"
+    ]
+  }
+}

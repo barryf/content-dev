@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@TarryBoast I'd rather not deal in salesman smarm tactics to be honest. He can't ambush me via email!"],"published":["2009-08-04T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20447592/status/3122834440"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3122885462"],"slug":["tweet-3122885462"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@TarryBoast I'd rather not deal in salesman smarm tactics to be honest. He can't ambush me via email!"
+    ],
+    "published": [
+      "2009-08-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20447592/status/3122834440"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3122885462"
+    ],
+    "slug": [
+      "tweet-3122885462"
+    ]
+  }
+}

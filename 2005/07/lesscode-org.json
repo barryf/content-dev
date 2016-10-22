@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-07-12T19:51:55Z"],"entry-type":["bookmark"],"name":["[@lesscode.org]"],"bookmark-of":["http://lesscode.org/"],"category":["web","dev","php","python","ruby","via-pinboard"],"slug":["lesscode-org"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-07-12T19:51:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "[@lesscode.org]"
+    ],
+    "bookmark-of": [
+      "http://lesscode.org/"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "php",
+      "python",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lesscode-org"
+    ]
+  }
+}

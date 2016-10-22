@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Have caught the lurgi from mouth-breathing, best-of-buying Radiohead 'fans'. Poorly."],"published":["2008-06-27T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/844820418"],"slug":["tweet-844820418"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Have caught the lurgi from mouth-breathing, best-of-buying Radiohead 'fans'. Poorly."
+    ],
+    "published": [
+      "2008-06-27T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/844820418"
+    ],
+    "slug": [
+      "tweet-844820418"
+    ]
+  }
+}

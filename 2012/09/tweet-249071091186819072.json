@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2012-09-21T09:02:30Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/19287727/status/249063174865825792"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/249071091186819072"],"slug":["tweet-249071091186819072"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-09-21T09:02:30Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/19287727/status/249063174865825792"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/249071091186819072"
+    ],
+    "slug": [
+      "tweet-249071091186819072"
+    ]
+  }
+}

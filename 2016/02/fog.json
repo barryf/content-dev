@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> The Ruby cloud services library. Whether you need compute, dns, storage, or a multitude of other services, fog provides an accessible entry point and facilitates cross service compatibility."],"published":["2016-02-17T16:01:56Z"],"entry-type":["bookmark"],"name":["fog"],"bookmark-of":["http://fog.io/"],"category":["ruby","cloud","aws"],"slug":["fog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> The Ruby cloud services library. Whether you need compute, dns, storage, or a multitude of other services, fog provides an accessible entry point and facilitates cross service compatibility."
+    ],
+    "published": [
+      "2016-02-17T16:01:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "fog"
+    ],
+    "bookmark-of": [
+      "http://fog.io/"
+    ],
+    "category": [
+      "ruby",
+      "cloud",
+      "aws"
+    ],
+    "slug": [
+      "fog"
+    ]
+  }
+}

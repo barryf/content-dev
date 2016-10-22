@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["IT suppliers: time is running out to shamelessly bribe me with Christmas presents to win your business in 2012. Don't miss out…"],"published":["2011-12-16T11:05:39Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/147633480891777025"],"slug":["tweet-147633480891777025"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "IT suppliers: time is running out to shamelessly bribe me with Christmas presents to win your business in 2012. Don't miss out…"
+    ],
+    "published": [
+      "2011-12-16T11:05:39Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/147633480891777025"
+    ],
+    "slug": [
+      "tweet-147633480891777025"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Standalone Twitter Mac OS X app\n"],"published":["2007-01-05T21:11:00Z"],"entry-type":["bookmark"],"name":["TwitterPost"],"bookmark-of":["http://www.railheaddesign.com/index.php/software/twitterpost/"],"category":["twitter","mac","free","via-pinboard"],"slug":["twitterpost"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Standalone Twitter Mac OS X app\n"
+    ],
+    "published": [
+      "2007-01-05T21:11:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TwitterPost"
+    ],
+    "bookmark-of": [
+      "http://www.railheaddesign.com/index.php/software/twitterpost/"
+    ],
+    "category": [
+      "twitter",
+      "mac",
+      "free",
+      "via-pinboard"
+    ],
+    "slug": [
+      "twitterpost"
+    ]
+  }
+}

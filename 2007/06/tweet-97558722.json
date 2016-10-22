@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Full of seafood and nicely relaxed. The Crab is marvellous. Enjoying the swing band too."],"published":["2007-06-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/97558722"],"slug":["tweet-97558722"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Full of seafood and nicely relaxed. The Crab is marvellous. Enjoying the swing band too."
+    ],
+    "published": [
+      "2007-06-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/97558722"
+    ],
+    "slug": [
+      "tweet-97558722"
+    ]
+  }
+}

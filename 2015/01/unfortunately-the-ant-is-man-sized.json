@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Unfortunately the ant is man-sized and I'm ant-sized. I carry around a magnifying glass.\n"],"published":["2015-01-26T19:51:32Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/grayhaze/status/559798446232969219"],"slug":["unfortunately-the-ant-is-man-sized"],"syndication":["https://twitter.com/barryf/status/559804221101334528"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Unfortunately the ant is man-sized and I'm ant-sized. I carry around a magnifying glass.\n"
+    ],
+    "published": [
+      "2015-01-26T19:51:32Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/grayhaze/status/559798446232969219"
+    ],
+    "slug": [
+      "unfortunately-the-ant-is-man-sized"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/559804221101334528"
+    ]
+  }
+}

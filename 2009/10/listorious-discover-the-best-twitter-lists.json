@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2009-10-31T18:40:15Z"],"entry-type":["bookmark"],"name":["Listorious: Discover the Best Twitter Lists"],"bookmark-of":["http://listorious.com/"],"category":["twitter","list","discover","network","directory","via-pinboard"],"slug":["listorious-discover-the-best-twitter-lists"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-10-31T18:40:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Listorious: Discover the Best Twitter Lists"
+    ],
+    "bookmark-of": [
+      "http://listorious.com/"
+    ],
+    "category": [
+      "twitter",
+      "list",
+      "discover",
+      "network",
+      "directory",
+      "via-pinboard"
+    ],
+    "slug": [
+      "listorious-discover-the-best-twitter-lists"
+    ]
+  }
+}

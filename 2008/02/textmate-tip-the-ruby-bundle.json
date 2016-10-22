@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-02-21T21:15:54Z"],"entry-type":["bookmark"],"name":["TextMate Tip – The Ruby Bundle"],"bookmark-of":["http://ciaranwal.sh/2008/02/20/textmate-tip-the-ruby-bundle"],"category":["bundle","rails","ruby","textmate","dev","via-pinboard"],"slug":["textmate-tip-the-ruby-bundle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-02-21T21:15:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TextMate Tip – The Ruby Bundle"
+    ],
+    "bookmark-of": [
+      "http://ciaranwal.sh/2008/02/20/textmate-tip-the-ruby-bundle"
+    ],
+    "category": [
+      "bundle",
+      "rails",
+      "ruby",
+      "textmate",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "textmate-tip-the-ruby-bundle"
+    ]
+  }
+}

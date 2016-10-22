@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Meeting scheduler. Emails a meeting invitation with .ics after.\n"],"published":["2010-11-19T14:16:11Z"],"entry-type":["bookmark"],"name":["Tungle.me"],"bookmark-of":["http://www.tungle.me/Home/"],"category":["meeting","invitation","scheduler","calendar","ics","via-pinboard"],"slug":["tungle-me"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Meeting scheduler. Emails a meeting invitation with .ics after.\n"
+    ],
+    "published": [
+      "2010-11-19T14:16:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tungle.me"
+    ],
+    "bookmark-of": [
+      "http://www.tungle.me/Home/"
+    ],
+    "category": [
+      "meeting",
+      "invitation",
+      "scheduler",
+      "calendar",
+      "ics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tungle-me"
+    ]
+  }
+}

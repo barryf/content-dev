@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener Cheers Andy. "],"published":["2015-10-26T14:42:03Z"],"entry-type":["reply"],"summary":["@andrewscrivener Cheers Andy. "],"in-reply-to":["https://mobile.twitter.com/andrewscrivener/status/658653162778312705"],"syndication":["https://twitter.com/barryf/status/658654833927323648"],"slug":["andrewscrivener-cheers-andy"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener Cheers Andy. "
+    ],
+    "published": [
+      "2015-10-26T14:42:03Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@andrewscrivener Cheers Andy. "
+    ],
+    "in-reply-to": [
+      "https://mobile.twitter.com/andrewscrivener/status/658653162778312705"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/658654833927323648"
+    ],
+    "slug": [
+      "andrewscrivener-cheers-andy"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Windsor's packed with toffs waiting for non-existant taxis to Cartier. They're getting rather eggy. Bless."],"published":["2007-07-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/174367372"],"slug":["tweet-174367372"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Windsor's packed with toffs waiting for non-existant taxis to Cartier. They're getting rather eggy. Bless."
+    ],
+    "published": [
+      "2007-07-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/174367372"
+    ],
+    "slug": [
+      "tweet-174367372"
+    ]
+  }
+}

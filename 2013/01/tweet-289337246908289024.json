@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Love my @globalpersonals cake. 5 years of awkward photos of me. http://twitter.com/barryf/status/289337246908289024/photo/1"],"published":["2013-01-10T11:45:50Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/289337246908289024"],"slug":["tweet-289337246908289024"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Love my @globalpersonals cake. 5 years of awkward photos of me. http://twitter.com/barryf/status/289337246908289024/photo/1"
+    ],
+    "published": [
+      "2013-01-10T11:45:50Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/289337246908289024"
+    ],
+    "slug": [
+      "tweet-289337246908289024"
+    ]
+  }
+}

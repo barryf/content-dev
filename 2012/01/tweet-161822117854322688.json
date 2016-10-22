@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh Poor old Fabric I'm guessing? It was ahead of its time *sniff*"],"published":["2012-01-24T14:46:14Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/161798445240299521"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/161822117854322688"],"slug":["tweet-161822117854322688"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh Poor old Fabric I'm guessing? It was ahead of its time *sniff*"
+    ],
+    "published": [
+      "2012-01-24T14:46:14Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/161798445240299521"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/161822117854322688"
+    ],
+    "slug": [
+      "tweet-161822117854322688"
+    ]
+  }
+}

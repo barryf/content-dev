@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Overlay activated by ctrl-shift-g to help you stick to a grid layout\n"],"published":["2007-09-29T17:16:30Z"],"entry-type":["bookmark"],"name":["Grid Layout"],"bookmark-of":["http://gridlayouts.com/"],"category":["grid","layout","web","design","library","via-pinboard"],"slug":["grid-layout"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Overlay activated by ctrl-shift-g to help you stick to a grid layout\n"
+    ],
+    "published": [
+      "2007-09-29T17:16:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Grid Layout"
+    ],
+    "bookmark-of": [
+      "http://gridlayouts.com/"
+    ],
+    "category": [
+      "grid",
+      "layout",
+      "web",
+      "design",
+      "library",
+      "via-pinboard"
+    ],
+    "slug": [
+      "grid-layout"
+    ]
+  }
+}

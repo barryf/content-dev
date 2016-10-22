@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://aaronparecki.com/likes/2015/01/04/1/"],"published":["2015-01-04T21:52:05Z"],"content":["Liked https://barryfrost.com/2015/01/a-new-site"],"like-of":["https://barryfrost.com/2015/01/a-new-site"],"author":["https://aaronparecki.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/likes/2015/01/04/1/"
+    ],
+    "published": [
+      "2015-01-04T21:52:05Z"
+    ],
+    "content": [
+      "Liked https://barryfrost.com/2015/01/a-new-site"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/01/a-new-site"
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ]
+  }
+}

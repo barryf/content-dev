@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The new Müller yoghurt advert with Mister Men, KITT, Muttley and Yogi Bear is insane http://youtu.be/wBujoJpDxo0"],"published":["2011-10-09T17:13:16Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/123083619282583553"],"slug":["tweet-123083619282583553"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The new Müller yoghurt advert with Mister Men, KITT, Muttley and Yogi Bear is insane http://youtu.be/wBujoJpDxo0"
+    ],
+    "published": [
+      "2011-10-09T17:13:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/123083619282583553"
+    ],
+    "slug": [
+      "tweet-123083619282583553"
+    ]
+  }
+}

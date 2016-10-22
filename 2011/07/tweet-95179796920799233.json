@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sunburnt nose. Retreating inside to watch the test match."],"published":["2011-07-24T17:13:26Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/95179796920799233"],"slug":["tweet-95179796920799233"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sunburnt nose. Retreating inside to watch the test match."
+    ],
+    "published": [
+      "2011-07-24T17:13:26Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/95179796920799233"
+    ],
+    "slug": [
+      "tweet-95179796920799233"
+    ]
+  }
+}

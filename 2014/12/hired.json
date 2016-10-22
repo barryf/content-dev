@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Marketplace for Recruiting Startup & Tech Talent"],"published":["2014-12-09T15:11:31Z"],"entry-type":["bookmark"],"name":["Hired"],"bookmark-of":["https://hired.co.uk/"],"category":["recruitment","startup","jobs","uk","via-pinboard"],"slug":["hired"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Marketplace for Recruiting Startup & Tech Talent"
+    ],
+    "published": [
+      "2014-12-09T15:11:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hired"
+    ],
+    "bookmark-of": [
+      "https://hired.co.uk/"
+    ],
+    "category": [
+      "recruitment",
+      "startup",
+      "jobs",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hired"
+    ]
+  }
+}

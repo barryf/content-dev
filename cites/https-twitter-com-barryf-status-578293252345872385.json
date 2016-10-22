@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/578293252345872385"],"published":["2015-03-27T17:16:19Z"],"like-of":["https://barryfrost.com/2015/03/in-boston-for-some-work-http"],"author":["https://twitter.com/tpacker86"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/578293252345872385"
+    ],
+    "published": [
+      "2015-03-27T17:16:19Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/03/in-boston-for-some-work-http"
+    ],
+    "author": [
+      "https://twitter.com/tpacker86"
+    ]
+  }
+}

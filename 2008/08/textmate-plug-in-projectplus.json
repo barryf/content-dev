@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["SVN/Git, project panel (instead of drawer), display folders first and other tweaks\n"],"published":["2008-08-10T14:42:12Z"],"entry-type":["bookmark"],"name":["TextMate Plug-in: ProjectPlus"],"bookmark-of":["http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus"],"category":["textmate","plugin","dev","mac","editor","fortimblair","via-pinboard"],"slug":["textmate-plug-in-projectplus"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "SVN/Git, project panel (instead of drawer), display folders first and other tweaks\n"
+    ],
+    "published": [
+      "2008-08-10T14:42:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TextMate Plug-in: ProjectPlus"
+    ],
+    "bookmark-of": [
+      "http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus"
+    ],
+    "category": [
+      "textmate",
+      "plugin",
+      "dev",
+      "mac",
+      "editor",
+      "fortimblair",
+      "via-pinboard"
+    ],
+    "slug": [
+      "textmate-plug-in-projectplus"
+    ]
+  }
+}

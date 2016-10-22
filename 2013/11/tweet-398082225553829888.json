@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["\"Can UK economy stay top of the league?\" @peston compares table-topping Arsenal to the resurgent UK economy. http://bfr.st/63"],"published":["2013-11-06T13:39:33Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/398082225553829888"],"slug":["tweet-398082225553829888"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Can UK economy stay top of the league?\" @peston compares table-topping Arsenal to the resurgent UK economy. http://bfr.st/63"
+    ],
+    "published": [
+      "2013-11-06T13:39:33Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/398082225553829888"
+    ],
+    "slug": [
+      "tweet-398082225553829888"
+    ]
+  }
+}

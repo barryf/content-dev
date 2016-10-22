@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Useful when you need an indicator for different backgrounds\n"],"published":["2006-05-01T08:33:04Z"],"entry-type":["bookmark"],"name":["Ajaxload - Ajax loading gif generator"],"bookmark-of":["http://www.ajaxload.info/"],"category":["ajax","animation","web20","image","javascript","generator","via-pinboard"],"slug":["ajaxload-ajax-loading-gif-generator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful when you need an indicator for different backgrounds\n"
+    ],
+    "published": [
+      "2006-05-01T08:33:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ajaxload - Ajax loading gif generator"
+    ],
+    "bookmark-of": [
+      "http://www.ajaxload.info/"
+    ],
+    "category": [
+      "ajax",
+      "animation",
+      "web20",
+      "image",
+      "javascript",
+      "generator",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ajaxload-ajax-loading-gif-generator"
+    ]
+  }
+}

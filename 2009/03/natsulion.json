@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Open source Twitter client for the iPhone. Used as the basis for the Present.ly iPhone app. Worth digging around to see if this could also be a good starting point for a WLD app.\n"],"published":["2009-03-31T15:36:03Z"],"entry-type":["bookmark"],"name":["NatsuLion"],"bookmark-of":["http://iphone.natsulion.org/"],"category":["opensource","twitter","iphone","mobile","objectivec","work","via-pinboard"],"slug":["natsulion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Open source Twitter client for the iPhone. Used as the basis for the Present.ly iPhone app. Worth digging around to see if this could also be a good starting point for a WLD app.\n"
+    ],
+    "published": [
+      "2009-03-31T15:36:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "NatsuLion"
+    ],
+    "bookmark-of": [
+      "http://iphone.natsulion.org/"
+    ],
+    "category": [
+      "opensource",
+      "twitter",
+      "iphone",
+      "mobile",
+      "objectivec",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "natsulion"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Table of contents to the paid-for report gives some useful information away\n"],"published":["2009-06-03T14:59:21Z"],"entry-type":["bookmark"],"name":["Intranet Design Annual 2009: 10 Intranets With Great Usability"],"bookmark-of":["http://www.nngroup.com/reports/intranet/design/"],"category":["intranet","nng","design","company","portal","business","work","via-pinboard"],"slug":["intranet-design-annual-2009-10-intranets"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Table of contents to the paid-for report gives some useful information away\n"
+    ],
+    "published": [
+      "2009-06-03T14:59:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Intranet Design Annual 2009: 10 Intranets With Great Usability"
+    ],
+    "bookmark-of": [
+      "http://www.nngroup.com/reports/intranet/design/"
+    ],
+    "category": [
+      "intranet",
+      "nng",
+      "design",
+      "company",
+      "portal",
+      "business",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "intranet-design-annual-2009-10-intranets"
+    ]
+  }
+}

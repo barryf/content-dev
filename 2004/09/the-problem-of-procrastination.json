@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-14T09:40:43Z"],"entry-type":["bookmark"],"name":["The Problem of Procrastination"],"bookmark-of":["http://www.addresources.org/article_procrastination_quek.php"],"category":["psychology","useful","via-pinboard"],"slug":["the-problem-of-procrastination"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-14T09:40:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Problem of Procrastination"
+    ],
+    "bookmark-of": [
+      "http://www.addresources.org/article_procrastination_quek.php"
+    ],
+    "category": [
+      "psychology",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-problem-of-procrastination"
+    ]
+  }
+}

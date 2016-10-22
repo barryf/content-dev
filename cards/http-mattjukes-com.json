@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["mattjukes"],"url":["http://mattjukes.com"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "mattjukes"
+    ],
+    "url": [
+      "http://mattjukes.com"
+    ]
+  }
+}

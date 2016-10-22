@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-12-12T12:32:36Z"],"entry-type":["bookmark"],"name":["Four essential rules for customer emails"],"bookmark-of":["http://blog.intercom.io/four-essential-rules-for-customer-emails/"],"category":["email","marketing","crm","comms","via-pinboard"],"slug":["four-essential-rules-for-customer-emails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-12-12T12:32:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Four essential rules for customer emails"
+    ],
+    "bookmark-of": [
+      "http://blog.intercom.io/four-essential-rules-for-customer-emails/"
+    ],
+    "category": [
+      "email",
+      "marketing",
+      "crm",
+      "comms",
+      "via-pinboard"
+    ],
+    "slug": [
+      "four-essential-rules-for-customer-emails"
+    ]
+  }
+}

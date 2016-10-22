@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Redesigned. Breathtaking.\n"],"published":["2005-09-14T11:15:33Z"],"entry-type":["bookmark"],"name":["This is Powazek"],"bookmark-of":["http://www.powazek.com/"],"category":["web","design","inspiration","blog","via-pinboard"],"slug":["this-is-powazek"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Redesigned. Breathtaking.\n"
+    ],
+    "published": [
+      "2005-09-14T11:15:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "This is Powazek"
+    ],
+    "bookmark-of": [
+      "http://www.powazek.com/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "inspiration",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "this-is-powazek"
+    ]
+  }
+}

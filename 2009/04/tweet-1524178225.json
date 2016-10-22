@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["In Recruitment mode... Interviewing two good-sounding Rails developers this afternoon. More later this week too."],"published":["2009-04-15T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1524178225"],"slug":["tweet-1524178225"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "In Recruitment mode... Interviewing two good-sounding Rails developers this afternoon. More later this week too."
+    ],
+    "published": [
+      "2009-04-15T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1524178225"
+    ],
+    "slug": [
+      "tweet-1524178225"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Andy's coverage of an excellent day in Brighton\n"],"published":["2005-11-13T16:56:31Z"],"entry-type":["bookmark"],"name":["Andy Budd::Blogography: d.Construct 2005 Rundown"],"bookmark-of":["http://www.andybudd.com/archives/2005/11/dconstruct_2005_rundown/index.php"],"category":["dconstruct","web20","web","conference","event","brighton","uk","via-pinboard"],"slug":["andy-budd-blogography-d-construct-2005"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Andy's coverage of an excellent day in Brighton\n"
+    ],
+    "published": [
+      "2005-11-13T16:56:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Andy Budd::Blogography: d.Construct 2005 Rundown"
+    ],
+    "bookmark-of": [
+      "http://www.andybudd.com/archives/2005/11/dconstruct_2005_rundown/index.php"
+    ],
+    "category": [
+      "dconstruct",
+      "web20",
+      "web",
+      "conference",
+      "event",
+      "brighton",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "andy-budd-blogography-d-construct-2005"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Loved finally seeing The Stone Roses all together on Friday and then an epic 3-hour show from The Cure last night. Tonight: Radiohead."],"published":["2012-07-15T13:50:12Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/224501119576064000"],"slug":["tweet-224501119576064000"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Loved finally seeing The Stone Roses all together on Friday and then an epic 3-hour show from The Cure last night. Tonight: Radiohead."
+    ],
+    "published": [
+      "2012-07-15T13:50:12Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/224501119576064000"
+    ],
+    "slug": [
+      "tweet-224501119576064000"
+    ]
+  }
+}

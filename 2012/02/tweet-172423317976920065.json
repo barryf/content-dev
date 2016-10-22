@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Watership Alan: my favourite Partridge, now on Dave. That Chris Morris interview, Simon Pegg and Peter Baynham with a voicebox #spineinabap"],"published":["2012-02-22T20:51:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/172423317976920065"],"slug":["tweet-172423317976920065"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watership Alan: my favourite Partridge, now on Dave. That Chris Morris interview, Simon Pegg and Peter Baynham with a voicebox #spineinabap"
+    ],
+    "published": [
+      "2012-02-22T20:51:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/172423317976920065"
+    ],
+    "slug": [
+      "tweet-172423317976920065"
+    ]
+  }
+}

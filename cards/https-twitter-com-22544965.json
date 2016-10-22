@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Donna Sepala"],"photo":["http://pbs.twimg.com/profile_images/431477511394844672/GRYoHGV1_normal.jpeg"],"url":["https://twitter.com/aviatorgal"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Donna Sepala"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/431477511394844672/GRYoHGV1_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/aviatorgal"
+    ]
+  }
+}

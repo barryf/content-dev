@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My lounge is now filled with a stupidly big tree that we bought from local gypsies. It was @liljauk's choice. The rabbit is now eyeing i ..."],"published":["2007-12-08T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/481863782"],"slug":["tweet-481863782"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My lounge is now filled with a stupidly big tree that we bought from local gypsies. It was @liljauk's choice. The rabbit is now eyeing i ..."
+    ],
+    "published": [
+      "2007-12-08T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/481863782"
+    ],
+    "slug": [
+      "tweet-481863782"
+    ]
+  }
+}

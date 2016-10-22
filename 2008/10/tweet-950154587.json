@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Very proud of my @lilja"],"published":["2008-10-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/950154587"],"slug":["tweet-950154587"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Very proud of my @lilja"
+    ],
+    "published": [
+      "2008-10-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/950154587"
+    ],
+    "slug": [
+      "tweet-950154587"
+    ]
+  }
+}

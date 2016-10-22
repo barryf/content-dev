@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-28T22:52:42Z"],"entry-type":["bookmark"],"name":["2007 Logo Trends"],"bookmark-of":["http://www.logolounge.com/articles/default.asp?ArticleID=540"],"category":["2007","design","logo","inspiration","trends","identity","typography","brand","via-pinboard"],"slug":["2007-logo-trends"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-28T22:52:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "2007 Logo Trends"
+    ],
+    "bookmark-of": [
+      "http://www.logolounge.com/articles/default.asp?ArticleID=540"
+    ],
+    "category": [
+      "2007",
+      "design",
+      "logo",
+      "inspiration",
+      "trends",
+      "identity",
+      "typography",
+      "brand",
+      "via-pinboard"
+    ],
+    "slug": [
+      "2007-logo-trends"
+    ]
+  }
+}

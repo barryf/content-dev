@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Lightweight, simple Ruby templating language\n"],"published":["2011-12-09T09:13:08Z"],"entry-type":["bookmark"],"name":["Slim"],"bookmark-of":["http://slim-lang.com/index.html"],"category":["ruby","template","slim","via-pinboard"],"slug":["slim"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lightweight, simple Ruby templating language\n"
+    ],
+    "published": [
+      "2011-12-09T09:13:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Slim"
+    ],
+    "bookmark-of": [
+      "http://slim-lang.com/index.html"
+    ],
+    "category": [
+      "ruby",
+      "template",
+      "slim",
+      "via-pinboard"
+    ],
+    "slug": [
+      "slim"
+    ]
+  }
+}

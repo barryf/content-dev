@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["iOS badly needed this design fork. It’s certainly challenging but I’m sure it’ll all make sense when you actually use it."],"published":["2013-06-10T22:11:26Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/344215253711716352"],"slug":["tweet-344215253711716352"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "iOS badly needed this design fork. It’s certainly challenging but I’m sure it’ll all make sense when you actually use it."
+    ],
+    "published": [
+      "2013-06-10T22:11:26Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/344215253711716352"
+    ],
+    "slug": [
+      "tweet-344215253711716352"
+    ]
+  }
+}

@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-06T09:02:38Z"],"entry-type":["bookmark"],"name":["SQLObject example"],"bookmark-of":["http://blog.colorstudy.com/ianb/weblog/2004/09/06.html#P154"],"category":["python","via-pinboard"],"slug":["sqlobject-example"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-06T09:02:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SQLObject example"
+    ],
+    "bookmark-of": [
+      "http://blog.colorstudy.com/ianb/weblog/2004/09/06.html#P154"
+    ],
+    "category": [
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sqlobject-example"
+    ]
+  }
+}

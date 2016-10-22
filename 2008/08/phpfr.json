@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["PHP Function Reference - Dashboard widget\n"],"published":["2008-08-12T18:39:41Z"],"entry-type":["bookmark"],"name":["phpfr"],"bookmark-of":["http://code.google.com/p/phpfr/"],"category":["dashboard","php","function","reference","documentation","widget","mac","via-pinboard"],"slug":["phpfr"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "PHP Function Reference - Dashboard widget\n"
+    ],
+    "published": [
+      "2008-08-12T18:39:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "phpfr"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/phpfr/"
+    ],
+    "category": [
+      "dashboard",
+      "php",
+      "function",
+      "reference",
+      "documentation",
+      "widget",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "phpfr"
+    ]
+  }
+}

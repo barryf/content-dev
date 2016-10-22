@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2015-06-25T19:53:00Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/globaldev/status/614101868520828928"],"category":["globaldev","hackday"],"syndication":["https://twitter.com/barryf/status/614159383673507840"],"slug":["25-205300"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-06-25T19:53:00Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/globaldev/status/614101868520828928"
+    ],
+    "category": [
+      "globaldev",
+      "hackday"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/614159383673507840"
+    ],
+    "slug": [
+      "25-205300"
+    ]
+  }
+}

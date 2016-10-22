@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair Glad to hear that Arsene is being looked after. It's his second office move you know."],"published":["2010-01-31T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/8361909493"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/8437498369"],"slug":["tweet-8437498369"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair Glad to hear that Arsene is being looked after. It's his second office move you know."
+    ],
+    "published": [
+      "2010-01-31T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/8361909493"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/8437498369"
+    ],
+    "slug": [
+      "tweet-8437498369"
+    ]
+  }
+}

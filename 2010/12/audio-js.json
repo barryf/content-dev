@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Drop-in javascript library that allows HTML5's audio tag to be used anywhere.\n"],"published":["2010-12-16T12:02:52Z"],"entry-type":["bookmark"],"name":["audio.js"],"bookmark-of":["http://kolber.github.com/audiojs/"],"category":["audio","html5","javascript","music","flash","via-pinboard"],"slug":["audio-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Drop-in javascript library that allows HTML5's audio tag to be used anywhere.\n"
+    ],
+    "published": [
+      "2010-12-16T12:02:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "audio.js"
+    ],
+    "bookmark-of": [
+      "http://kolber.github.com/audiojs/"
+    ],
+    "category": [
+      "audio",
+      "html5",
+      "javascript",
+      "music",
+      "flash",
+      "via-pinboard"
+    ],
+    "slug": [
+      "audio-js"
+    ]
+  }
+}

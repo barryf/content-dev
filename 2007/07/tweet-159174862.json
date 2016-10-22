@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Dogs in office + women = zero productivity. Even my headphones can't drown out the giggling."],"published":["2007-07-20T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/159174862"],"slug":["tweet-159174862"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dogs in office + women = zero productivity. Even my headphones can't drown out the giggling."
+    ],
+    "published": [
+      "2007-07-20T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/159174862"
+    ],
+    "slug": [
+      "tweet-159174862"
+    ]
+  }
+}

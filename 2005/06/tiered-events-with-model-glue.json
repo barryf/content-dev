@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["How to structure event handlers in MG\n"],"published":["2005-06-28T08:38:34Z"],"entry-type":["bookmark"],"name":["Tiered events with Model Glue"],"bookmark-of":["http://www.web-relevant.com/mg_tutorial/"],"category":["coldfusion","framework","modelglue","via-pinboard"],"slug":["tiered-events-with-model-glue"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to structure event handlers in MG\n"
+    ],
+    "published": [
+      "2005-06-28T08:38:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tiered events with Model Glue"
+    ],
+    "bookmark-of": [
+      "http://www.web-relevant.com/mg_tutorial/"
+    ],
+    "category": [
+      "coldfusion",
+      "framework",
+      "modelglue",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tiered-events-with-model-glue"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Soulmates now has a mobile-friendly template set with cut-down but useful functionality\n"],"published":["2009-08-08T09:04:48Z"],"entry-type":["bookmark"],"name":["Guardian Soulmates mobile"],"bookmark-of":["http://dating.guardian.co.uk/s/info/mobile.php"],"category":["soulmates","dating","uk","guardian","mobile","web","via-pinboard"],"slug":["guardian-soulmates-mobile"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Soulmates now has a mobile-friendly template set with cut-down but useful functionality\n"
+    ],
+    "published": [
+      "2009-08-08T09:04:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Guardian Soulmates mobile"
+    ],
+    "bookmark-of": [
+      "http://dating.guardian.co.uk/s/info/mobile.php"
+    ],
+    "category": [
+      "soulmates",
+      "dating",
+      "uk",
+      "guardian",
+      "mobile",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "guardian-soulmates-mobile"
+    ]
+  }
+}

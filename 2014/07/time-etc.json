@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Get tasks done by carefully hand-picked people in the UK. Pay only for completed work. Virtual Assistants, Writers, Marketing assistants and more"],"published":["2014-07-10T13:48:33Z"],"entry-type":["bookmark"],"name":["Time etc"],"bookmark-of":["http://web.timeetc.co.uk/"],"category":["outsourcing","uk","assistant","marketing","via-pinboard"],"slug":["time-etc"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Get tasks done by carefully hand-picked people in the UK. Pay only for completed work. Virtual Assistants, Writers, Marketing assistants and more"
+    ],
+    "published": [
+      "2014-07-10T13:48:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Time etc"
+    ],
+    "bookmark-of": [
+      "http://web.timeetc.co.uk/"
+    ],
+    "category": [
+      "outsourcing",
+      "uk",
+      "assistant",
+      "marketing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "time-etc"
+    ]
+  }
+}

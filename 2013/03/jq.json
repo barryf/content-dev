@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["jq is a lightweight and flexible command-line JSON processor. Curl some JSON from an API and then pipe to jq to query it"],"published":["2013-03-20T16:16:55Z"],"entry-type":["bookmark"],"name":["jq"],"bookmark-of":["http://stedolan.github.com/jq/"],"category":["json","processor","api","dev","via-pinboard"],"slug":["jq"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "jq is a lightweight and flexible command-line JSON processor. Curl some JSON from an API and then pipe to jq to query it"
+    ],
+    "published": [
+      "2013-03-20T16:16:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jq"
+    ],
+    "bookmark-of": [
+      "http://stedolan.github.com/jq/"
+    ],
+    "category": [
+      "json",
+      "processor",
+      "api",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jq"
+    ]
+  }
+}

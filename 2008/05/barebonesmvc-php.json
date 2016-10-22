@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["No frills, one-file, MVC framework for PHP5\n"],"published":["2008-05-24T08:13:42Z"],"entry-type":["bookmark"],"name":["barebonesmvc-php"],"bookmark-of":["http://code.google.com/p/barebonesmvc-php/"],"category":["php","mvc","framework","php5","barebones","dev","via-pinboard"],"slug":["barebonesmvc-php"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "No frills, one-file, MVC framework for PHP5\n"
+    ],
+    "published": [
+      "2008-05-24T08:13:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "barebonesmvc-php"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/barebonesmvc-php/"
+    ],
+    "category": [
+      "php",
+      "mvc",
+      "framework",
+      "php5",
+      "barebones",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "barebonesmvc-php"
+    ]
+  }
+}

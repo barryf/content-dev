@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Yahoo Pipes service that suggests muxtapes that match your favourites artists from Last.fm.\n"],"published":["2008-04-09T14:15:18Z"],"entry-type":["bookmark"],"name":["Muxtape Recommendations"],"bookmark-of":["http://pipes.yahoo.com/joelaz/muxtape_recommendations"],"category":["muxtape","music","lastfm","pipes","mashup","yahoo","suggestion","recommendation","via-pinboard"],"slug":["muxtape-recommendations"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Yahoo Pipes service that suggests muxtapes that match your favourites artists from Last.fm.\n"
+    ],
+    "published": [
+      "2008-04-09T14:15:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Muxtape Recommendations"
+    ],
+    "bookmark-of": [
+      "http://pipes.yahoo.com/joelaz/muxtape_recommendations"
+    ],
+    "category": [
+      "muxtape",
+      "music",
+      "lastfm",
+      "pipes",
+      "mashup",
+      "yahoo",
+      "suggestion",
+      "recommendation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "muxtape-recommendations"
+    ]
+  }
+}

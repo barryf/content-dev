@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@BradHaverly Well the sat nav does have a 600 Mhz processor and plays DVDs so maybe one day :)"],"published":["2009-09-19T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4109318616"],"slug":["tweet-4109318616"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BradHaverly Well the sat nav does have a 600 Mhz processor and plays DVDs so maybe one day :)"
+    ],
+    "published": [
+      "2009-09-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4109318616"
+    ],
+    "slug": [
+      "tweet-4109318616"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thinking that Plambo will be quarantined in the Great Park tomorrow and won't be able to get to work."],"published":["2007-09-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/264593832"],"slug":["tweet-264593832"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thinking that Plambo will be quarantined in the Great Park tomorrow and won't be able to get to work."
+    ],
+    "published": [
+      "2007-09-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/264593832"
+    ],
+    "slug": [
+      "tweet-264593832"
+    ]
+  }
+}

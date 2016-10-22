@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["20 years ago today, last minute of the season, Thomas bursting through the midfield: http://bit.ly/7AoWp\n  #arsenal"],"published":["2009-05-26T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1922997057"],"slug":["tweet-1922997057"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "20 years ago today, last minute of the season, Thomas bursting through the midfield: http://bit.ly/7AoWp\n  #arsenal"
+    ],
+    "published": [
+      "2009-05-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1922997057"
+    ],
+    "slug": [
+      "tweet-1922997057"
+    ]
+  }
+}

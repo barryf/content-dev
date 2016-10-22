@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Ruby library intended for Twitter that caches results from an API for 10 minutes and copes if the API is unavailable. Will use Memcache if available.\n"],"published":["2008-06-07T13:30:40Z"],"entry-type":["bookmark"],"name":["APICache"],"bookmark-of":["http://blog.new-bamboo.co.uk/2008/6/6/api_cache"],"category":["api","cache","memcached","ruby","twitter","via-pinboard"],"slug":["apicache"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby library intended for Twitter that caches results from an API for 10 minutes and copes if the API is unavailable. Will use Memcache if available.\n"
+    ],
+    "published": [
+      "2008-06-07T13:30:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "APICache"
+    ],
+    "bookmark-of": [
+      "http://blog.new-bamboo.co.uk/2008/6/6/api_cache"
+    ],
+    "category": [
+      "api",
+      "cache",
+      "memcached",
+      "ruby",
+      "twitter",
+      "via-pinboard"
+    ],
+    "slug": [
+      "apicache"
+    ]
+  }
+}

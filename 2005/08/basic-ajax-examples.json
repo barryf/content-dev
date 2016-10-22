@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-09T16:30:45Z"],"entry-type":["bookmark"],"name":["Basic AJAX Examples"],"bookmark-of":["http://www.clearnova.com/ajax/"],"category":["ajax","xmlhttprequest","dev","via-pinboard"],"slug":["basic-ajax-examples"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-09T16:30:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Basic AJAX Examples"
+    ],
+    "bookmark-of": [
+      "http://www.clearnova.com/ajax/"
+    ],
+    "category": [
+      "ajax",
+      "xmlhttprequest",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "basic-ajax-examples"
+    ]
+  }
+}

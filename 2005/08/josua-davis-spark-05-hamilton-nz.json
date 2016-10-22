@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Photos and quotations from a Davis lecture\n"],"published":["2005-08-29T13:14:52Z"],"entry-type":["bookmark"],"name":["Josua Davis | Spark 05, Hamilton NZ"],"bookmark-of":["http://www.blackspade.co.nz/spark05/"],"category":["design","methodology","via-pinboard"],"slug":["josua-davis-spark-05-hamilton-nz"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Photos and quotations from a Davis lecture\n"
+    ],
+    "published": [
+      "2005-08-29T13:14:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Josua Davis | Spark 05, Hamilton NZ"
+    ],
+    "bookmark-of": [
+      "http://www.blackspade.co.nz/spark05/"
+    ],
+    "category": [
+      "design",
+      "methodology",
+      "via-pinboard"
+    ],
+    "slug": [
+      "josua-davis-spark-05-hamilton-nz"
+    ]
+  }
+}

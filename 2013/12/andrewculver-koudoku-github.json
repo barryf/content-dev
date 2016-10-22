@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-12-30T13:42:18Z"],"entry-type":["bookmark"],"name":["andrewculver/koudoku · GitHub"],"bookmark-of":["https://github.com/andrewculver/koudoku"],"category":["fromifttt","github","via-pinboard"],"slug":["andrewculver-koudoku-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-12-30T13:42:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "andrewculver/koudoku · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/andrewculver/koudoku"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "andrewculver-koudoku-github"
+    ]
+  }
+}

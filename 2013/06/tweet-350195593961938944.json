@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Sadly not. I think she’s broken her sensor! There may be legs in a pet tracking business though. One for @LanciaConsult ?!"],"published":["2013-06-27T10:15:10Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/350193856408588288"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/350195593961938944"],"slug":["tweet-350195593961938944"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Sadly not. I think she’s broken her sensor! There may be legs in a pet tracking business though. One for @LanciaConsult ?!"
+    ],
+    "published": [
+      "2013-06-27T10:15:10Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/350193856408588288"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/350195593961938944"
+    ],
+    "slug": [
+      "tweet-350195593961938944"
+    ]
+  }
+}

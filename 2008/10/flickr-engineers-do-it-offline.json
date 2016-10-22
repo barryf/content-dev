@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["How Flickr uses queues behind the scenes\n"],"published":["2008-10-09T12:51:31Z"],"entry-type":["bookmark"],"name":["Flickr Engineers Do It Offline"],"bookmark-of":["http://code.flickr.com/blog/2008/09/26/flickr-engineers-do-it-offline/"],"category":["flickr","queue","messaging","dev","scaling","architecture","asynchronous","web","performance","via-pinboard"],"slug":["flickr-engineers-do-it-offline"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How Flickr uses queues behind the scenes\n"
+    ],
+    "published": [
+      "2008-10-09T12:51:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Flickr Engineers Do It Offline"
+    ],
+    "bookmark-of": [
+      "http://code.flickr.com/blog/2008/09/26/flickr-engineers-do-it-offline/"
+    ],
+    "category": [
+      "flickr",
+      "queue",
+      "messaging",
+      "dev",
+      "scaling",
+      "architecture",
+      "asynchronous",
+      "web",
+      "performance",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flickr-engineers-do-it-offline"
+    ]
+  }
+}

@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"content":["I'm attending @indiewebcamp Cambridge at @MIT on 2015-03-19..20\r\n\r\n<data class=\"p-rsvp\" value=\"yes\">RSVP: yes</data>\r\n\r\n*Note to self: I need to work on my RSVP post type*"],"published":["2015-03-06T13:57:42Z"],"entry-type":["reply"],"in-reply-to":["http://aaronparecki.com/events/2015/03/19/1/indiewebcamp"],"category":["indiewebcamp","indieweb"],"slug":["i-m-attending-indiewebcamp-cambridge-at"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm attending @indiewebcamp Cambridge at @MIT on 2015-03-19..20\r\n\r\n<data class=\"p-rsvp\" value=\"yes\">RSVP: yes</data>\r\n\r\n*Note to self: I need to work on my RSVP post type*"
+    ],
+    "published": [
+      "2015-03-06T13:57:42Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "http://aaronparecki.com/events/2015/03/19/1/indiewebcamp"
+    ],
+    "category": [
+      "indiewebcamp",
+      "indieweb"
+    ],
+    "slug": [
+      "i-m-attending-indiewebcamp-cambridge-at"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Eek. We're at stage four. Are there really three more to go?\n"],"published":["2008-09-26T08:00:28Z"],"entry-type":["bookmark"],"name":["The 7 Stages of Scaling Web Apps"],"bookmark-of":["http://highscalability.com/7-stages-scaling-web-apps"],"category":["scaling","list","web","performance","architecture","dev","scalability","via-pinboard"],"slug":["the-7-stages-of-scaling-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Eek. We're at stage four. Are there really three more to go?\n"
+    ],
+    "published": [
+      "2008-09-26T08:00:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The 7 Stages of Scaling Web Apps"
+    ],
+    "bookmark-of": [
+      "http://highscalability.com/7-stages-scaling-web-apps"
+    ],
+    "category": [
+      "scaling",
+      "list",
+      "web",
+      "performance",
+      "architecture",
+      "dev",
+      "scalability",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-7-stages-of-scaling-web"
+    ]
+  }
+}

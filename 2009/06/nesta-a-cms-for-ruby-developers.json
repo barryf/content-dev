@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Lightweight Sinatra/Markdown/Ruby CMS\n"],"published":["2009-06-28T16:02:20Z"],"entry-type":["bookmark"],"name":["Nesta – a CMS for Ruby Developers"],"bookmark-of":["http://effectif.com/nesta"],"category":["markdown","ruby","cms","sinatra","via-pinboard"],"slug":["nesta-a-cms-for-ruby-developers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lightweight Sinatra/Markdown/Ruby CMS\n"
+    ],
+    "published": [
+      "2009-06-28T16:02:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Nesta – a CMS for Ruby Developers"
+    ],
+    "bookmark-of": [
+      "http://effectif.com/nesta"
+    ],
+    "category": [
+      "markdown",
+      "ruby",
+      "cms",
+      "sinatra",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nesta-a-cms-for-ruby-developers"
+    ]
+  }
+}

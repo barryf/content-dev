@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tom"],"photo":["https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-19/11849273_1453387624988736_1675634182_a.jpg"],"url":["http://instagram.com/tomgiddings"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom"
+    ],
+    "photo": [
+      "https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-19/11849273_1453387624988736_1675634182_a.jpg"
+    ],
+    "url": [
+      "http://instagram.com/tomgiddings"
+    ]
+  }
+}

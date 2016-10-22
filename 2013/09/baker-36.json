@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["Trying out [PourOver](https://adn-pourover.appspot.com/) for auto-syndication to my [App.Net account](https://alpha.app.net/barryf)."],"published":["2013-09-28T13:11:31Z"],"entry-type":["note"],"category":["via-baker"],"slug":["baker-36"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Trying out [PourOver](https://adn-pourover.appspot.com/) for auto-syndication to my [App.Net account](https://alpha.app.net/barryf)."
+    ],
+    "published": [
+      "2013-09-28T13:11:31Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "slug": [
+      "baker-36"
+    ]
+  }
+}

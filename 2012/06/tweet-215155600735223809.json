@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Dismayed to discover that the best broadband speed I can hope for in my new house will be a pathetic 4Mbps. May as well live on the moon."],"published":["2012-06-19T18:54:27Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/215155600735223809"],"slug":["tweet-215155600735223809"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dismayed to discover that the best broadband speed I can hope for in my new house will be a pathetic 4Mbps. May as well live on the moon."
+    ],
+    "published": [
+      "2012-06-19T18:54:27Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/215155600735223809"
+    ],
+    "slug": [
+      "tweet-215155600735223809"
+    ]
+  }
+}

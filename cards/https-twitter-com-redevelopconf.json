@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["re:develop conf 2015 (@redevelopconf)"],"photo":["http://pbs.twimg.com/profile_images/471213198989737985/KNkD8h50_normal.png"],"url":["https://twitter.com/redevelopconf"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "re:develop conf 2015 (@redevelopconf)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/471213198989737985/KNkD8h50_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/redevelopconf"
+    ]
+  }
+}

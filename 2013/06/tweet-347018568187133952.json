@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Hmm. Might need another sensor outside for that. I’ll have a think :)"],"published":["2013-06-18T15:50:48Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/347015946692612096"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347018568187133952"],"slug":["tweet-347018568187133952"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Hmm. Might need another sensor outside for that. I’ll have a think :)"
+    ],
+    "published": [
+      "2013-06-18T15:50:48Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/347015946692612096"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347018568187133952"
+    ],
+    "slug": [
+      "tweet-347018568187133952"
+    ]
+  }
+}

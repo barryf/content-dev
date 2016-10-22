@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["(and java.text.SimpleDateFormat)\n"],"published":["2006-06-01T20:22:24Z"],"entry-type":["bookmark"],"name":["Advanced Date Parsing with ColdFusion"],"bookmark-of":["http://www.petefreitag.com/item/569.cfm"],"category":["coldfusion","date","java","web","dev","useful","via-pinboard"],"slug":["advanced-date-parsing-with-coldfusion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(and java.text.SimpleDateFormat)\n"
+    ],
+    "published": [
+      "2006-06-01T20:22:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Advanced Date Parsing with ColdFusion"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/569.cfm"
+    ],
+    "category": [
+      "coldfusion",
+      "date",
+      "java",
+      "web",
+      "dev",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "advanced-date-parsing-with-coldfusion"
+    ]
+  }
+}

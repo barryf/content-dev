@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-01T11:38:07Z"],"entry-type":["bookmark"],"name":["Nifty Modal Window Effects"],"bookmark-of":["http://tympanus.net/Development/ModalWindowEffects/"],"category":["modal","window","dialog","animation","css","via-pinboard"],"slug":["nifty-modal-window-effects"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-01T11:38:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Nifty Modal Window Effects"
+    ],
+    "bookmark-of": [
+      "http://tympanus.net/Development/ModalWindowEffects/"
+    ],
+    "category": [
+      "modal",
+      "window",
+      "dialog",
+      "animation",
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nifty-modal-window-effects"
+    ]
+  }
+}

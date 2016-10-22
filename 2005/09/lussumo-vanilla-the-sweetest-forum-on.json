@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-21T13:21:51Z"],"entry-type":["bookmark"],"name":["Lussumo Vanilla - The sweetest forum on the web"],"bookmark-of":["http://getvanilla.com/"],"category":["web","forum","via-pinboard"],"slug":["lussumo-vanilla-the-sweetest-forum-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-21T13:21:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Lussumo Vanilla - The sweetest forum on the web"
+    ],
+    "bookmark-of": [
+      "http://getvanilla.com/"
+    ],
+    "category": [
+      "web",
+      "forum",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lussumo-vanilla-the-sweetest-forum-on"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-10-28T18:29:27Z"],"entry-type":["bookmark"],"name":["Redirect To SSL Using Apache’s .htaccess"],"bookmark-of":["http://joseph.randomnetworks.com/archives/2004/07/22/redirect-to-ssl-using-apaches-htaccess/"],"category":["apache","ssl","modrewrite","security","https","redirect","sysadmin","web","via-pinboard"],"slug":["redirect-to-ssl-using-apache-s"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-10-28T18:29:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Redirect To SSL Using Apache’s .htaccess"
+    ],
+    "bookmark-of": [
+      "http://joseph.randomnetworks.com/archives/2004/07/22/redirect-to-ssl-using-apaches-htaccess/"
+    ],
+    "category": [
+      "apache",
+      "ssl",
+      "modrewrite",
+      "security",
+      "https",
+      "redirect",
+      "sysadmin",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "redirect-to-ssl-using-apache-s"
+    ]
+  }
+}

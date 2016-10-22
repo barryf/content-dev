@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-08T12:27:07Z"],"entry-type":["bookmark"],"name":["Making Wii-friendly pages"],"bookmark-of":["http://dev.opera.com/articles/view/making-wii-friendly-pages/"],"category":["wii","opera","design","web","dev","standards","browser","nintendo","via-pinboard"],"slug":["making-wii-friendly-pages"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-08T12:27:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Making Wii-friendly pages"
+    ],
+    "bookmark-of": [
+      "http://dev.opera.com/articles/view/making-wii-friendly-pages/"
+    ],
+    "category": [
+      "wii",
+      "opera",
+      "design",
+      "web",
+      "dev",
+      "standards",
+      "browser",
+      "nintendo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "making-wii-friendly-pages"
+    ]
+  }
+}

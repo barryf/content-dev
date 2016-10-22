@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@tayoakinmade If only we always played like that!"],"published":["2013-03-13T21:40:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/44156442/status/311953856537976833"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/311954850814492672"],"slug":["tweet-311954850814492672"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@tayoakinmade If only we always played like that!"
+    ],
+    "published": [
+      "2013-03-13T21:40:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/44156442/status/311953856537976833"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/311954850814492672"
+    ],
+    "slug": [
+      "tweet-311954850814492672"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-05-31T09:54:38Z"],"entry-type":["like"],"like-of":["https://mobile.twitter.com/markleggett/status/603075070064394240"],"syndication":["https://mobile.twitter.com/markleggett/status/603075070064394240"],"slug":["31-105438"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-05-31T09:54:38Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://mobile.twitter.com/markleggett/status/603075070064394240"
+    ],
+    "syndication": [
+      "https://mobile.twitter.com/markleggett/status/603075070064394240"
+    ],
+    "slug": [
+      "31-105438"
+    ]
+  }
+}

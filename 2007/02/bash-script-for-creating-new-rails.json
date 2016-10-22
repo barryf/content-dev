@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-02-11T17:57:37Z"],"entry-type":["bookmark"],"name":["Bash script for creating new rails project and initial SVN import (with ignoring/removing log/other files)"],"bookmark-of":["http://webonrails.com/2007/01/10/bash-script-for-creating-new-rails-project-and-initial-svn-import-with-ignoringremoving-logother-files/"],"category":["rails","subversion","bash","svn","dev","useful","via-pinboard"],"slug":["bash-script-for-creating-new-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-02-11T17:57:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bash script for creating new rails project and initial SVN import (with ignoring/removing log/other files)"
+    ],
+    "bookmark-of": [
+      "http://webonrails.com/2007/01/10/bash-script-for-creating-new-rails-project-and-initial-svn-import-with-ignoringremoving-logother-files/"
+    ],
+    "category": [
+      "rails",
+      "subversion",
+      "bash",
+      "svn",
+      "dev",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bash-script-for-creating-new-rails"
+    ]
+  }
+}

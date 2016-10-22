@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Detailed story of how Cabel from Panic designed his wedding\n"],"published":["2008-10-04T17:35:56Z"],"entry-type":["bookmark"],"name":["cabel.name: On Wedding Design"],"bookmark-of":["http://www.cabel.name/2008/10/on-wedding-design.html"],"category":["pixelart","cabel","panic","inspiration","design","illustration","wedding","branding","fun","via-pinboard"],"slug":["cabel-name-on-wedding-design"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Detailed story of how Cabel from Panic designed his wedding\n"
+    ],
+    "published": [
+      "2008-10-04T17:35:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "cabel.name: On Wedding Design"
+    ],
+    "bookmark-of": [
+      "http://www.cabel.name/2008/10/on-wedding-design.html"
+    ],
+    "category": [
+      "pixelart",
+      "cabel",
+      "panic",
+      "inspiration",
+      "design",
+      "illustration",
+      "wedding",
+      "branding",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cabel-name-on-wedding-design"
+    ]
+  }
+}

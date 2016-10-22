@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Shopping cart service for artists. Also, I like how the \"Find out more >\" link is reversed when you roll over the page.\n"],"published":["2009-07-04T08:08:49Z"],"entry-type":["bookmark"],"name":["Big Cartel"],"bookmark-of":["http://bigcartel.com/"],"category":["web","design","ecommerce","shopping","art","shop","business","via-pinboard"],"slug":["big-cartel"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Shopping cart service for artists. Also, I like how the \"Find out more >\" link is reversed when you roll over the page.\n"
+    ],
+    "published": [
+      "2009-07-04T08:08:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Big Cartel"
+    ],
+    "bookmark-of": [
+      "http://bigcartel.com/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "ecommerce",
+      "shopping",
+      "art",
+      "shop",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "big-cartel"
+    ]
+  }
+}

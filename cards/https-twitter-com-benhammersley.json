@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ben Hammersley (@benhammersley)"],"photo":["http://pbs.twimg.com/profile_images/570510209924091904/pefryTLD_normal.jpeg"],"url":["https://twitter.com/benhammersley"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ben Hammersley (@benhammersley)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/570510209924091904/pefryTLD_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/benhammersley"
+    ]
+  }
+}

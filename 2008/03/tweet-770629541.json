@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["laughing at Tottenham. Never mind Tiny Totts!"],"published":["2008-03-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/770629541"],"slug":["tweet-770629541"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "laughing at Tottenham. Never mind Tiny Totts!"
+    ],
+    "published": [
+      "2008-03-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/770629541"
+    ],
+    "slug": [
+      "tweet-770629541"
+    ]
+  }
+}

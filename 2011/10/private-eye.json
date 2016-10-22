@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Free network monitor for Mac. Buy Radio Silence to block and manage the firewall\n"],"published":["2011-10-17T13:19:11Z"],"entry-type":["bookmark"],"name":["Private Eye"],"bookmark-of":["http://radiosilenceapp.com/private-eye"],"category":["monitor","network","mac","io","via-pinboard"],"slug":["private-eye"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free network monitor for Mac. Buy Radio Silence to block and manage the firewall\n"
+    ],
+    "published": [
+      "2011-10-17T13:19:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Private Eye"
+    ],
+    "bookmark-of": [
+      "http://radiosilenceapp.com/private-eye"
+    ],
+    "category": [
+      "monitor",
+      "network",
+      "mac",
+      "io",
+      "via-pinboard"
+    ],
+    "slug": [
+      "private-eye"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Mac desktop client for accessing Lighthouse projects and tickets offline\n"],"published":["2009-02-27T16:18:34Z"],"entry-type":["bookmark"],"name":["M Cubed Software - Lighthouse Keeper"],"bookmark-of":["http://www.mcubedsw.com/software/lighthousekeeper"],"category":["mac","lighthouse","ticket","bug","desktop","offline","issuetracking","via-pinboard"],"slug":["m-cubed-software-lighthouse-keeper"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mac desktop client for accessing Lighthouse projects and tickets offline\n"
+    ],
+    "published": [
+      "2009-02-27T16:18:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "M Cubed Software - Lighthouse Keeper"
+    ],
+    "bookmark-of": [
+      "http://www.mcubedsw.com/software/lighthousekeeper"
+    ],
+    "category": [
+      "mac",
+      "lighthouse",
+      "ticket",
+      "bug",
+      "desktop",
+      "offline",
+      "issuetracking",
+      "via-pinboard"
+    ],
+    "slug": [
+      "m-cubed-software-lighthouse-keeper"
+    ]
+  }
+}

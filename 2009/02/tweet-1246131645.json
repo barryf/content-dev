@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jeffcronkshaw DTw is great isn't it? Simple but elegant"],"published":["2009-02-24T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/1244952955"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1246131645"],"slug":["tweet-1246131645"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jeffcronkshaw DTw is great isn't it? Simple but elegant"
+    ],
+    "published": [
+      "2009-02-24T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/1244952955"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1246131645"
+    ],
+    "slug": [
+      "tweet-1246131645"
+    ]
+  }
+}

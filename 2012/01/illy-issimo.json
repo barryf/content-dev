@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["High profile commercial site using responsive design\n"],"published":["2012-01-02T12:58:42Z"],"entry-type":["bookmark"],"name":["illy issimo"],"bookmark-of":["http://us.illyissimo.com/"],"category":["advocacy","design","responsive","via-pinboard"],"slug":["illy-issimo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "High profile commercial site using responsive design\n"
+    ],
+    "published": [
+      "2012-01-02T12:58:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "illy issimo"
+    ],
+    "bookmark-of": [
+      "http://us.illyissimo.com/"
+    ],
+    "category": [
+      "advocacy",
+      "design",
+      "responsive",
+      "via-pinboard"
+    ],
+    "slug": [
+      "illy-issimo"
+    ]
+  }
+}

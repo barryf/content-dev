@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["Better than polling and neater than XMPP: call a service's API specifying a callback URL on your system... PIMP (PIMP Is Mostly Push)\n"],"published":["2008-07-26T14:21:05Z"],"entry-type":["bookmark"],"name":["joshua's blog: beyond rest"],"bookmark-of":["http://joshua.schachter.org/2008/07/beyond-rest.html"],"category":["push","architecture","xmpp","rest","http","pimp","poll","rss","api","dev","atom","via-pinboard"],"slug":["joshua-s-blog-beyond-rest"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Better than polling and neater than XMPP: call a service's API specifying a callback URL on your system... PIMP (PIMP Is Mostly Push)\n"
+    ],
+    "published": [
+      "2008-07-26T14:21:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "joshua's blog: beyond rest"
+    ],
+    "bookmark-of": [
+      "http://joshua.schachter.org/2008/07/beyond-rest.html"
+    ],
+    "category": [
+      "push",
+      "architecture",
+      "xmpp",
+      "rest",
+      "http",
+      "pimp",
+      "poll",
+      "rss",
+      "api",
+      "dev",
+      "atom",
+      "via-pinboard"
+    ],
+    "slug": [
+      "joshua-s-blog-beyond-rest"
+    ]
+  }
+}

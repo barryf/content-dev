@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["A reminder on setting up SSH tunnels\n"],"published":["2007-09-15T11:01:07Z"],"entry-type":["bookmark"],"name":["Rail Spikes: Remote MySQL GUI with SSH"],"bookmark-of":["http://railspikes.com/2007/8/28/remote-mysql-gui-with-ssh"],"category":["ssh","tunnel","sysadmin","server","via-pinboard"],"slug":["rail-spikes-remote-mysql-gui-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A reminder on setting up SSH tunnels\n"
+    ],
+    "published": [
+      "2007-09-15T11:01:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rail Spikes: Remote MySQL GUI with SSH"
+    ],
+    "bookmark-of": [
+      "http://railspikes.com/2007/8/28/remote-mysql-gui-with-ssh"
+    ],
+    "category": [
+      "ssh",
+      "tunnel",
+      "sysadmin",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rail-spikes-remote-mysql-gui-with"
+    ]
+  }
+}

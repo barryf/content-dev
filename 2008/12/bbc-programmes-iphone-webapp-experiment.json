@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Uses only DashCode - no external JavaScript libraries. With link to the source/github\n"],"published":["2008-12-13T13:24:16Z"],"entry-type":["bookmark"],"name":["BBC Programmes iPhone webapp experiment"],"bookmark-of":["http://whomwah.com/2008/12/03/bbc-programmes-iphone-webapp-experiment/"],"category":["bbc","webapp","iphone","dashcode","via-pinboard"],"slug":["bbc-programmes-iphone-webapp-experiment"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Uses only DashCode - no external JavaScript libraries. With link to the source/github\n"
+    ],
+    "published": [
+      "2008-12-13T13:24:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "BBC Programmes iPhone webapp experiment"
+    ],
+    "bookmark-of": [
+      "http://whomwah.com/2008/12/03/bbc-programmes-iphone-webapp-experiment/"
+    ],
+    "category": [
+      "bbc",
+      "webapp",
+      "iphone",
+      "dashcode",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bbc-programmes-iphone-webapp-experiment"
+    ]
+  }
+}

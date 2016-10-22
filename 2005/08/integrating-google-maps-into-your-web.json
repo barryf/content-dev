@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-22T12:17:03Z"],"entry-type":["bookmark"],"name":["Integrating Google Maps into Your Web Applications"],"bookmark-of":["http://www.developer.com/java/web/article.php/10935_3528381_1"],"category":["google","ajax","map","api","web","dev","web20","via-pinboard"],"slug":["integrating-google-maps-into-your-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-22T12:17:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Integrating Google Maps into Your Web Applications"
+    ],
+    "bookmark-of": [
+      "http://www.developer.com/java/web/article.php/10935_3528381_1"
+    ],
+    "category": [
+      "google",
+      "ajax",
+      "map",
+      "api",
+      "web",
+      "dev",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "integrating-google-maps-into-your-web"
+    ]
+  }
+}

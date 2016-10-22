@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/275007771/status/344736432105070593"],"published":["2013-06-12T08:42:24Z"],"content":["@barryf Reckon it's stable enough to install on my primary phone?"],"author":["https://twitter.com/275007771"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/275007771/status/344736432105070593"
+    ],
+    "published": [
+      "2013-06-12T08:42:24Z"
+    ],
+    "content": [
+      "@barryf Reckon it's stable enough to install on my primary phone?"
+    ],
+    "author": [
+      "https://twitter.com/275007771"
+    ]
+  }
+}

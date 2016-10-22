@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-10-23T12:04:29Z"],"entry-type":["bookmark"],"name":["Economical Use of Amazon S3 with Ruby on Rails"],"bookmark-of":["http://developer.amazonwebservices.com/connect/entry.jspa?externalID=955"],"category":["aws","ec2","s3","rails","ruby","dev","tutorial","via-pinboard"],"slug":["economical-use-of-amazon-s3-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-10-23T12:04:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Economical Use of Amazon S3 with Ruby on Rails"
+    ],
+    "bookmark-of": [
+      "http://developer.amazonwebservices.com/connect/entry.jspa?externalID=955"
+    ],
+    "category": [
+      "aws",
+      "ec2",
+      "s3",
+      "rails",
+      "ruby",
+      "dev",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "economical-use-of-amazon-s3-with"
+    ]
+  }
+}

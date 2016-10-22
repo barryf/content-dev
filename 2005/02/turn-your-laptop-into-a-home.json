@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Step-by-step guide\n"],"published":["2005-02-22T18:48:05Z"],"entry-type":["bookmark"],"name":["Turn your laptop into a home security system"],"bookmark-of":["http://www.engadget.com/entry/1234000653032760/"],"category":["useful","mac","via-pinboard"],"slug":["turn-your-laptop-into-a-home"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Step-by-step guide\n"
+    ],
+    "published": [
+      "2005-02-22T18:48:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Turn your laptop into a home security system"
+    ],
+    "bookmark-of": [
+      "http://www.engadget.com/entry/1234000653032760/"
+    ],
+    "category": [
+      "useful",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "turn-your-laptop-into-a-home"
+    ]
+  }
+}

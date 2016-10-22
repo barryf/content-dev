@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["\"I could make my perfect weather app, but very few others would be satisfied with it.\"\n"],"published":["2011-04-26T20:18:20Z"],"entry-type":["bookmark"],"name":["Marco Arment decides few others want to scratch the same itch as him"],"bookmark-of":["http://www.marco.org/2011/04/26/iphone-weather-apps"],"category":["entrepreneur","product","design","business","via-pinboard"],"slug":["marco-arment-decides-few-others-want"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"I could make my perfect weather app, but very few others would be satisfied with it.\"\n"
+    ],
+    "published": [
+      "2011-04-26T20:18:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Marco Arment decides few others want to scratch the same itch as him"
+    ],
+    "bookmark-of": [
+      "http://www.marco.org/2011/04/26/iphone-weather-apps"
+    ],
+    "category": [
+      "entrepreneur",
+      "product",
+      "design",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "marco-arment-decides-few-others-want"
+    ]
+  }
+}

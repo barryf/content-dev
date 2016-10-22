@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Having a bio written for me for new @wld website. Wish I could just use \"is grumpy and doesn't want to have a bio\""],"published":["2009-02-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1183757973"],"slug":["tweet-1183757973"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Having a bio written for me for new @wld website. Wish I could just use \"is grumpy and doesn't want to have a bio\""
+    ],
+    "published": [
+      "2009-02-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1183757973"
+    ],
+    "slug": [
+      "tweet-1183757973"
+    ]
+  }
+}

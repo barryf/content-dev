@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tom Loosemore"],"photo":["https://twitter.com/tomskitomski/profile_image?size=original"],"url":["https://twitter.com/tomskitomski"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom Loosemore"
+    ],
+    "photo": [
+      "https://twitter.com/tomskitomski/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/tomskitomski"
+    ]
+  }
+}

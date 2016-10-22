@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Tidy summary of last night's thoroughly enjoyable evening at Nine Lessons and Carols for Godless People: http://bit.ly/fit6"],"published":["2008-12-22T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1072847806"],"slug":["tweet-1072847806"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tidy summary of last night's thoroughly enjoyable evening at Nine Lessons and Carols for Godless People: http://bit.ly/fit6"
+    ],
+    "published": [
+      "2008-12-22T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1072847806"
+    ],
+    "slug": [
+      "tweet-1072847806"
+    ]
+  }
+}

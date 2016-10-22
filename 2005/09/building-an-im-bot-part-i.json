@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["A multi-part guide to building an IM bot with ColdFusion\n"],"published":["2005-09-16T09:50:06Z"],"entry-type":["bookmark"],"name":["Building An IM Bot - Part I"],"bookmark-of":["http://www.forta.com/blog/index.cfm?mode=e&entry=1737"],"category":["coldfusion","im","gtalk","via-pinboard"],"slug":["building-an-im-bot-part-i"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A multi-part guide to building an IM bot with ColdFusion\n"
+    ],
+    "published": [
+      "2005-09-16T09:50:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Building An IM Bot - Part I"
+    ],
+    "bookmark-of": [
+      "http://www.forta.com/blog/index.cfm?mode=e&entry=1737"
+    ],
+    "category": [
+      "coldfusion",
+      "im",
+      "gtalk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "building-an-im-bot-part-i"
+    ]
+  }
+}

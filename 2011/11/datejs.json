@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["JavaScript library for date parsing, offsets, comparisons and conversions. \n"],"published":["2011-11-05T18:59:11Z"],"entry-type":["bookmark"],"name":["datejs"],"bookmark-of":["http://code.google.com/p/datejs/"],"category":["javascript","library","date","via-pinboard"],"slug":["datejs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "JavaScript library for date parsing, offsets, comparisons and conversions. \n"
+    ],
+    "published": [
+      "2011-11-05T18:59:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "datejs"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/datejs/"
+    ],
+    "category": [
+      "javascript",
+      "library",
+      "date",
+      "via-pinboard"
+    ],
+    "slug": [
+      "datejs"
+    ]
+  }
+}

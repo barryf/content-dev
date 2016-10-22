@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Gets around IE's Eolas patch\n"],"published":["2006-05-31T10:36:02Z"],"entry-type":["bookmark"],"name":["Novemberborn: sIFR 2.0.2 Final Release"],"bookmark-of":["http://novemberborn.net/sifr/2.0.2"],"category":["javascript","flash","sifr","web","design","via-pinboard"],"slug":["novemberborn-sifr-2-0-2-final"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Gets around IE's Eolas patch\n"
+    ],
+    "published": [
+      "2006-05-31T10:36:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Novemberborn: sIFR 2.0.2 Final Release"
+    ],
+    "bookmark-of": [
+      "http://novemberborn.net/sifr/2.0.2"
+    ],
+    "category": [
+      "javascript",
+      "flash",
+      "sifr",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "novemberborn-sifr-2-0-2-final"
+    ]
+  }
+}

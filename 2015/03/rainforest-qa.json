@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> QA as a Service - Say No to Old-School QA!"],"published":["2015-03-31T16:32:49Z"],"entry-type":["bookmark"],"name":["Rainforest QA "],"bookmark-of":["https://www.rainforestqa.com/"],"category":["qa","saas","cloud"],"slug":["rainforest-qa"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> QA as a Service - Say No to Old-School QA!"
+    ],
+    "published": [
+      "2015-03-31T16:32:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rainforest QA "
+    ],
+    "bookmark-of": [
+      "https://www.rainforestqa.com/"
+    ],
+    "category": [
+      "qa",
+      "saas",
+      "cloud"
+    ],
+    "slug": [
+      "rainforest-qa"
+    ]
+  }
+}

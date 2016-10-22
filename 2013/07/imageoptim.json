@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Make websites and apps load faster (Mac app)"],"published":["2013-07-19T13:50:15Z"],"entry-type":["bookmark"],"name":["ImageOptim"],"bookmark-of":["http://imageoptim.com/"],"category":["mac","compression","image","png","jpg","via-pinboard"],"slug":["imageoptim"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Make websites and apps load faster (Mac app)"
+    ],
+    "published": [
+      "2013-07-19T13:50:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ImageOptim"
+    ],
+    "bookmark-of": [
+      "http://imageoptim.com/"
+    ],
+    "category": [
+      "mac",
+      "compression",
+      "image",
+      "png",
+      "jpg",
+      "via-pinboard"
+    ],
+    "slug": [
+      "imageoptim"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@kaleighjane @jasonkneen Thanks very much."],"published":["2012-07-23T21:52:13Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20437544/status/227514125201334273"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/227521526709235712"],"slug":["tweet-227521526709235712"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@kaleighjane @jasonkneen Thanks very much."
+    ],
+    "published": [
+      "2012-07-23T21:52:13Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20437544/status/227514125201334273"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/227521526709235712"
+    ],
+    "slug": [
+      "tweet-227521526709235712"
+    ]
+  }
+}

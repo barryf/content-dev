@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm at @BushHallMusic for Martin Rossiter and Jennifer Left (Shepherd's Bush, London) w/ 2 others http://4sq.com/183U5jt"],"published":["2013-06-21T19:22:40Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/348159047322722304"],"slug":["tweet-348159047322722304"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm at @BushHallMusic for Martin Rossiter and Jennifer Left (Shepherd's Bush, London) w/ 2 others http://4sq.com/183U5jt"
+    ],
+    "published": [
+      "2013-06-21T19:22:40Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/348159047322722304"
+    ],
+    "slug": [
+      "tweet-348159047322722304"
+    ]
+  }
+}

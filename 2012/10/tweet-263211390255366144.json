@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@twitsplosion Good luck to you and Lyra."],"published":["2012-10-30T09:31:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/263211390255366144"],"slug":["tweet-263211390255366144"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@twitsplosion Good luck to you and Lyra."
+    ],
+    "published": [
+      "2012-10-30T09:31:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/263211390255366144"
+    ],
+    "slug": [
+      "tweet-263211390255366144"
+    ]
+  }
+}

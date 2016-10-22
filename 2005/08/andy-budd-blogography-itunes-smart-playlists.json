@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Intelligent approach to organising your iTunes collection\n"],"published":["2005-08-22T11:56:41Z"],"entry-type":["bookmark"],"name":["Andy Budd::Blogography: iTunes Smart Playlists"],"bookmark-of":["http://www.andybudd.com/archives/2005/08/itunes_smart_playlists/index.php"],"category":["mp3","itunes","useful","via-pinboard"],"slug":["andy-budd-blogography-itunes-smart-playlists"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Intelligent approach to organising your iTunes collection\n"
+    ],
+    "published": [
+      "2005-08-22T11:56:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Andy Budd::Blogography: iTunes Smart Playlists"
+    ],
+    "bookmark-of": [
+      "http://www.andybudd.com/archives/2005/08/itunes_smart_playlists/index.php"
+    ],
+    "category": [
+      "mp3",
+      "itunes",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "andy-budd-blogography-itunes-smart-playlists"
+    ]
+  }
+}

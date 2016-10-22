@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-09-01T12:49:15Z"],"entry-type":["bookmark"],"name":["Common App Rejections"],"bookmark-of":["https://developer.apple.com/app-store/review/rejections/"],"category":["app","appstore","ios","apple","via-pinboard"],"slug":["common-app-rejections"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-09-01T12:49:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Common App Rejections"
+    ],
+    "bookmark-of": [
+      "https://developer.apple.com/app-store/review/rejections/"
+    ],
+    "category": [
+      "app",
+      "appstore",
+      "ios",
+      "apple",
+      "via-pinboard"
+    ],
+    "slug": [
+      "common-app-rejections"
+    ]
+  }
+}

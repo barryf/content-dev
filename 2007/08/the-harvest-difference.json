@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Nice fade in/out feature list swapper\n"],"published":["2007-08-16T10:01:01Z"],"entry-type":["bookmark"],"name":["The Harvest Difference"],"bookmark-of":["http://www.getharvest.com/features"],"category":["web","design","inspiration","effects","via-pinboard"],"slug":["the-harvest-difference"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nice fade in/out feature list swapper\n"
+    ],
+    "published": [
+      "2007-08-16T10:01:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Harvest Difference"
+    ],
+    "bookmark-of": [
+      "http://www.getharvest.com/features"
+    ],
+    "category": [
+      "web",
+      "design",
+      "inspiration",
+      "effects",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-harvest-difference"
+    ]
+  }
+}

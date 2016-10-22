@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2013-05-24T07:25:37Z"],"entry-type":["bookmark"],"name":["How to Work Remotely as a Software Developer"],"bookmark-of":["http://markcampbell.me/tutorial/2013/05/23/how-to-work-remotely.html"],"category":["work","remote","homeworking","career","job","dev","via-pinboard"],"slug":["how-to-work-remotely-as-a"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-05-24T07:25:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Work Remotely as a Software Developer"
+    ],
+    "bookmark-of": [
+      "http://markcampbell.me/tutorial/2013/05/23/how-to-work-remotely.html"
+    ],
+    "category": [
+      "work",
+      "remote",
+      "homeworking",
+      "career",
+      "job",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-work-remotely-as-a"
+    ]
+  }
+}

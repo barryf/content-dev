@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sitting next to a big stone African head in Project Orange inClapham. Thinking about getting some crisps."],"published":["2006-10-18T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/44880"],"slug":["tweet-44880"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sitting next to a big stone African head in Project Orange inClapham. Thinking about getting some crisps."
+    ],
+    "published": [
+      "2006-10-18T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/44880"
+    ],
+    "slug": [
+      "tweet-44880"
+    ]
+  }
+}

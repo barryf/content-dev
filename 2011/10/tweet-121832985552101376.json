@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Steve Jobs: died too early but his legacy will live on for years to come. Sad start to the day."],"published":["2011-10-06T06:23:41Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/121832985552101376"],"slug":["tweet-121832985552101376"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Steve Jobs: died too early but his legacy will live on for years to come. Sad start to the day."
+    ],
+    "published": [
+      "2011-10-06T06:23:41Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/121832985552101376"
+    ],
+    "slug": [
+      "tweet-121832985552101376"
+    ]
+  }
+}

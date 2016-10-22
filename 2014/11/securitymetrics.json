@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["PCI and security scans"],"published":["2014-11-26T12:15:04Z"],"entry-type":["bookmark"],"name":["SecurityMetrics"],"bookmark-of":["https://www.securitymetrics.com/"],"category":["pci","security","pentest","scan","audit","via-pinboard"],"slug":["securitymetrics"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "PCI and security scans"
+    ],
+    "published": [
+      "2014-11-26T12:15:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SecurityMetrics"
+    ],
+    "bookmark-of": [
+      "https://www.securitymetrics.com/"
+    ],
+    "category": [
+      "pci",
+      "security",
+      "pentest",
+      "scan",
+      "audit",
+      "via-pinboard"
+    ],
+    "slug": [
+      "securitymetrics"
+    ]
+  }
+}

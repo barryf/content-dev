@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Plugin using TinyMCE\n"],"published":["2007-05-03T07:19:51Z"],"entry-type":["bookmark"],"name":["Brandalism Blog: WYSIWYG editing for Radiant"],"bookmark-of":["http://blog.brandalism.com/2007/2/24/wysiwyg-editing-for-radiant"],"category":["cms","radiant","wysiwyg","tinymce","web","dev","via-pinboard"],"slug":["brandalism-blog-wysiwyg-editing-for-radiant"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Plugin using TinyMCE\n"
+    ],
+    "published": [
+      "2007-05-03T07:19:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Brandalism Blog: WYSIWYG editing for Radiant"
+    ],
+    "bookmark-of": [
+      "http://blog.brandalism.com/2007/2/24/wysiwyg-editing-for-radiant"
+    ],
+    "category": [
+      "cms",
+      "radiant",
+      "wysiwyg",
+      "tinymce",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "brandalism-blog-wysiwyg-editing-for-radiant"
+    ]
+  }
+}

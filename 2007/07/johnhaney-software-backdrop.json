@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Hide Mac background - useful for presentations etc.\n"],"published":["2007-07-18T12:48:20Z"],"entry-type":["bookmark"],"name":["JohnHaney Software - Backdrop"],"bookmark-of":["http://www.johnhaney.com/backdrop/"],"category":["desktop","mac","presentation","screenshot","useful","via-pinboard"],"slug":["johnhaney-software-backdrop"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hide Mac background - useful for presentations etc.\n"
+    ],
+    "published": [
+      "2007-07-18T12:48:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JohnHaney Software - Backdrop"
+    ],
+    "bookmark-of": [
+      "http://www.johnhaney.com/backdrop/"
+    ],
+    "category": [
+      "desktop",
+      "mac",
+      "presentation",
+      "screenshot",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "johnhaney-software-backdrop"
+    ]
+  }
+}

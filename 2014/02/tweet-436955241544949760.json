@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd Peter! And John Menzies, his pet mouse. Poor Peter gets hit by Richard. So many memories!"],"published":["2014-02-21T20:07:02Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/436953761471528960"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/436955241544949760"],"slug":["tweet-436955241544949760"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd Peter! And John Menzies, his pet mouse. Poor Peter gets hit by Richard. So many memories!"
+    ],
+    "published": [
+      "2014-02-21T20:07:02Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/436953761471528960"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/436955241544949760"
+    ],
+    "slug": [
+      "tweet-436955241544949760"
+    ]
+  }
+}

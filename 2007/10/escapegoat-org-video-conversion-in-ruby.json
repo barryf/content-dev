@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"published":["2007-10-14T17:25:11Z"],"entry-type":["bookmark"],"name":["escapegoat.org: Video Conversion in Ruby on Rails"],"bookmark-of":["http://escapegoat.org/2007/8/26/video-conversion/"],"category":["encoding","ffmpeg","flash","flv","media","rails","video","web","backgroundrb","ruby","via-pinboard"],"slug":["escapegoat-org-video-conversion-in-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-10-14T17:25:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "escapegoat.org: Video Conversion in Ruby on Rails"
+    ],
+    "bookmark-of": [
+      "http://escapegoat.org/2007/8/26/video-conversion/"
+    ],
+    "category": [
+      "encoding",
+      "ffmpeg",
+      "flash",
+      "flv",
+      "media",
+      "rails",
+      "video",
+      "web",
+      "backgroundrb",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "escapegoat-org-video-conversion-in-ruby"
+    ]
+  }
+}

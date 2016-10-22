@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Directory of Prototype plugins\n"],"published":["2007-11-11T14:46:34Z"],"entry-type":["bookmark"],"name":["Scripteka"],"bookmark-of":["http://scripteka.com/"],"category":["prototype","framework","javascript","library","web","dev","plugin","extension","via-pinboard"],"slug":["scripteka"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Directory of Prototype plugins\n"
+    ],
+    "published": [
+      "2007-11-11T14:46:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scripteka"
+    ],
+    "bookmark-of": [
+      "http://scripteka.com/"
+    ],
+    "category": [
+      "prototype",
+      "framework",
+      "javascript",
+      "library",
+      "web",
+      "dev",
+      "plugin",
+      "extension",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scripteka"
+    ]
+  }
+}

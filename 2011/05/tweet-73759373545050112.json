@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["\"Thomas, bursting through the midfield. It's up for grabs now!\" http://www.youtube.com/watch?v=bQmO3S2eLPE #Anfield89 #StThomasDay"],"published":["2011-05-26T14:36:19Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/73759373545050112"],"slug":["tweet-73759373545050112"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Thomas, bursting through the midfield. It's up for grabs now!\" http://www.youtube.com/watch?v=bQmO3S2eLPE #Anfield89 #StThomasDay"
+    ],
+    "published": [
+      "2011-05-26T14:36:19Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/73759373545050112"
+    ],
+    "slug": [
+      "tweet-73759373545050112"
+    ]
+  }
+}

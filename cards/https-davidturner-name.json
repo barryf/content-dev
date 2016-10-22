@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["David Turner"],"photo":["https://twitter.com/HerrWulf/profile_image?size=original"],"url":["https://davidturner.name"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "David Turner"
+    ],
+    "photo": [
+      "https://twitter.com/HerrWulf/profile_image?size=original"
+    ],
+    "url": [
+      "https://davidturner.name"
+    ]
+  }
+}

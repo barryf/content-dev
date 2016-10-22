@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm rubbish and I know it. I've upset a good friend by not being in touch for a few months."],"published":["2009-03-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1420502765"],"slug":["tweet-1420502765"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm rubbish and I know it. I've upset a good friend by not being in touch for a few months."
+    ],
+    "published": [
+      "2009-03-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1420502765"
+    ],
+    "slug": [
+      "tweet-1420502765"
+    ]
+  }
+}

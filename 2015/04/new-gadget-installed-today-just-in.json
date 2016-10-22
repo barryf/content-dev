@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["New gadget installed today, just in time for summer #nest\n"],"published":["2015-04-07T14:40:29Z"],"entry-type":["photo"],"category":["nest"],"syndication":["https://instagram.com/p/1LWpron_kS/"],"photo":["https://media.barryfrost.com/20150407-igSaKQe2.jpg"],"slug":["new-gadget-installed-today-just-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "New gadget installed today, just in time for summer #nest\n"
+    ],
+    "published": [
+      "2015-04-07T14:40:29Z"
+    ],
+    "entry-type": [
+      "photo"
+    ],
+    "category": [
+      "nest"
+    ],
+    "syndication": [
+      "https://instagram.com/p/1LWpron_kS/"
+    ],
+    "photo": [
+      "https://media.barryfrost.com/20150407-igSaKQe2.jpg"
+    ],
+    "slug": [
+      "new-gadget-installed-today-just-in"
+    ]
+  }
+}

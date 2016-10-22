@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2006-10-06T08:18:28Z"],"entry-type":["bookmark"],"name":["10 seeeeeriously cool workplaces"],"bookmark-of":["http://positivesharing.com/2006/10/10-seeeeeriously-cool-workplaces"],"category":["office","productivity","work","environment","design","business","inspiration","architecture","via-pinboard"],"slug":["10-seeeeeriously-cool-workplaces"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-10-06T08:18:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "10 seeeeeriously cool workplaces"
+    ],
+    "bookmark-of": [
+      "http://positivesharing.com/2006/10/10-seeeeeriously-cool-workplaces"
+    ],
+    "category": [
+      "office",
+      "productivity",
+      "work",
+      "environment",
+      "design",
+      "business",
+      "inspiration",
+      "architecture",
+      "via-pinboard"
+    ],
+    "slug": [
+      "10-seeeeeriously-cool-workplaces"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Russell Macdonald"],"photo":["https://twitter.com/russmacdonald/profile_image?size=original"],"url":["https://twitter.com/russmacdonald"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Russell Macdonald"
+    ],
+    "photo": [
+      "https://twitter.com/russmacdonald/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/russmacdonald"
+    ]
+  }
+}

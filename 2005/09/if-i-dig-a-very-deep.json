@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Another GMap app\n"],"published":["2005-09-10T09:07:19Z"],"entry-type":["bookmark"],"name":["If I dig a very deep hole, where I go to stop?"],"bookmark-of":["http://grad.icmc.usp.br/~cipriani/bighole.php?lang=en"],"category":["gmap","google","fun","map","web","via-pinboard"],"slug":["if-i-dig-a-very-deep"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another GMap app\n"
+    ],
+    "published": [
+      "2005-09-10T09:07:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "If I dig a very deep hole, where I go to stop?"
+    ],
+    "bookmark-of": [
+      "http://grad.icmc.usp.br/~cipriani/bighole.php?lang=en"
+    ],
+    "category": [
+      "gmap",
+      "google",
+      "fun",
+      "map",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "if-i-dig-a-very-deep"
+    ]
+  }
+}

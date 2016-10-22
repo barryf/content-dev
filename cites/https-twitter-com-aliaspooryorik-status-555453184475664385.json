@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/aliaspooryorik/status/555453184475664385"],"published":["2015-01-14T19:55:33Z"],"content":["@barryf Thanks for the tip! Will take a look and give it a try :)"],"in-reply-to":["https://barryfrost.com/2015/01/i-m-a-fan-of-proxylocal"],"author":["http://www.aliaspooryorik.com/blog/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/aliaspooryorik/status/555453184475664385"
+    ],
+    "published": [
+      "2015-01-14T19:55:33Z"
+    ],
+    "content": [
+      "@barryf Thanks for the tip! Will take a look and give it a try :)"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/01/i-m-a-fan-of-proxylocal"
+    ],
+    "author": [
+      "http://www.aliaspooryorik.com/blog/"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Tag-by-tag guide to HTML5\n"],"published":["2009-01-24T15:59:14Z"],"entry-type":["bookmark"],"name":["HTML 5: The Markup Language"],"bookmark-of":["http://www.w3.org/html/wg/markup-spec/"],"category":["html5","spec","standards","html","reference","markup","w3c","via-pinboard"],"slug":["html-5-the-markup-language"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tag-by-tag guide to HTML5\n"
+    ],
+    "published": [
+      "2009-01-24T15:59:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTML 5: The Markup Language"
+    ],
+    "bookmark-of": [
+      "http://www.w3.org/html/wg/markup-spec/"
+    ],
+    "category": [
+      "html5",
+      "spec",
+      "standards",
+      "html",
+      "reference",
+      "markup",
+      "w3c",
+      "via-pinboard"
+    ],
+    "slug": [
+      "html-5-the-markup-language"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Much cheaper tariffs, plus unlimited texts and data. Runs on O2's network\n"],"published":["2011-10-13T13:34:44Z"],"entry-type":["bookmark"],"name":["giffgaff"],"bookmark-of":["http://giffgaff.com/"],"category":["mobile","uk","network","giffgaff","o2","via-pinboard"],"slug":["giffgaff"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Much cheaper tariffs, plus unlimited texts and data. Runs on O2's network\n"
+    ],
+    "published": [
+      "2011-10-13T13:34:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "giffgaff"
+    ],
+    "bookmark-of": [
+      "http://giffgaff.com/"
+    ],
+    "category": [
+      "mobile",
+      "uk",
+      "network",
+      "giffgaff",
+      "o2",
+      "via-pinboard"
+    ],
+    "slug": [
+      "giffgaff"
+    ]
+  }
+}

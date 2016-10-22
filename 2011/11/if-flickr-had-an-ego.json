@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Dave Winer: \"I wish every product had a spokesperson and ego behind it\"\n"],"published":["2011-11-08T13:56:00Z"],"entry-type":["bookmark"],"name":["If Flickr had an ego"],"bookmark-of":["http://scripting.com/stories/2011/10/24/ifFlickrHadAnEgo.html"],"category":["ego","startup","company","business","advocacy","via-pinboard"],"slug":["if-flickr-had-an-ego"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dave Winer: \"I wish every product had a spokesperson and ego behind it\"\n"
+    ],
+    "published": [
+      "2011-11-08T13:56:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "If Flickr had an ego"
+    ],
+    "bookmark-of": [
+      "http://scripting.com/stories/2011/10/24/ifFlickrHadAnEgo.html"
+    ],
+    "category": [
+      "ego",
+      "startup",
+      "company",
+      "business",
+      "advocacy",
+      "via-pinboard"
+    ],
+    "slug": [
+      "if-flickr-had-an-ego"
+    ]
+  }
+}

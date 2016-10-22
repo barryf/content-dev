@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Jon Gilbraith"],"photo":["http://pbs.twimg.com/profile_images/526662275114225664/hIT9tNzI_normal.jpeg"],"url":["https://twitter.com/jongilbraith"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jon Gilbraith"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/526662275114225664/hIT9tNzI_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/jongilbraith"
+    ]
+  }
+}

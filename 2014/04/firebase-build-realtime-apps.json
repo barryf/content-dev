@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["\"A powerful API to store and sync data in realtime.\""],"published":["2014-04-14T06:35:40Z"],"entry-type":["bookmark"],"name":["Firebase - Build Realtime Apps"],"bookmark-of":["https://www.firebase.com/"],"category":["database","realtime","api","sync","saas","via-pinboard"],"slug":["firebase-build-realtime-apps"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"A powerful API to store and sync data in realtime.\""
+    ],
+    "published": [
+      "2014-04-14T06:35:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Firebase - Build Realtime Apps"
+    ],
+    "bookmark-of": [
+      "https://www.firebase.com/"
+    ],
+    "category": [
+      "database",
+      "realtime",
+      "api",
+      "sync",
+      "saas",
+      "via-pinboard"
+    ],
+    "slug": [
+      "firebase-build-realtime-apps"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Gallery of responsive web designs that adapt to the viewport\n"],"published":["2011-03-10T22:36:37Z"],"entry-type":["bookmark"],"name":["Media Queries"],"bookmark-of":["http://mediaqueri.es/"],"category":["mediaquery","css","gallery","design","layout","via-pinboard"],"slug":["media-queries"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Gallery of responsive web designs that adapt to the viewport\n"
+    ],
+    "published": [
+      "2011-03-10T22:36:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Media Queries"
+    ],
+    "bookmark-of": [
+      "http://mediaqueri.es/"
+    ],
+    "category": [
+      "mediaquery",
+      "css",
+      "gallery",
+      "design",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "media-queries"
+    ]
+  }
+}

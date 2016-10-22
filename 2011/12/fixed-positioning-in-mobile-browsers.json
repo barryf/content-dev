@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Which mobile browsers support it natively and libraries for older devices\n"],"published":["2011-12-06T16:00:33Z"],"entry-type":["bookmark"],"name":["Fixed Positioning in Mobile Browsers"],"bookmark-of":["http://bradfrostweb.com/blog/mobile/fixed-position/"],"category":["fixedcsslayoutmobiledesign","via-pinboard"],"slug":["fixed-positioning-in-mobile-browsers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Which mobile browsers support it natively and libraries for older devices\n"
+    ],
+    "published": [
+      "2011-12-06T16:00:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fixed Positioning in Mobile Browsers"
+    ],
+    "bookmark-of": [
+      "http://bradfrostweb.com/blog/mobile/fixed-position/"
+    ],
+    "category": [
+      "fixedcsslayoutmobiledesign",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fixed-positioning-in-mobile-browsers"
+    ]
+  }
+}

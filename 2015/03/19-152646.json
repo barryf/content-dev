@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-19T15:26:46Z"],"entry-type":["like"],"like-of":["https://ben.thatmustbe.me/note/2015/3/19/4/"],"syndication":["https://twitter.com/dissolve333/status/578566616742379520"],"slug":["19-152646"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-19T15:26:46Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://ben.thatmustbe.me/note/2015/3/19/4/"
+    ],
+    "syndication": [
+      "https://twitter.com/dissolve333/status/578566616742379520"
+    ],
+    "slug": [
+      "19-152646"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2009-05-30T18:41:00Z"],"entry-type":["bookmark"],"name":["Ubuntu 8.04 Server 64-bit VPS with Apache 2.2, Tomcat 6.0 and Railo 3.1"],"bookmark-of":["http://docs.google.com/Doc?docid=dchcmx7_13dbm8xmgn"],"category":["ubuntu","vps","apache","tomcat","railo","coldfusion","cfml","via-pinboard"],"slug":["ubuntu-8-04-server-64-bit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-05-30T18:41:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ubuntu 8.04 Server 64-bit VPS with Apache 2.2, Tomcat 6.0 and Railo 3.1"
+    ],
+    "bookmark-of": [
+      "http://docs.google.com/Doc?docid=dchcmx7_13dbm8xmgn"
+    ],
+    "category": [
+      "ubuntu",
+      "vps",
+      "apache",
+      "tomcat",
+      "railo",
+      "coldfusion",
+      "cfml",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ubuntu-8-04-server-64-bit"
+    ]
+  }
+}

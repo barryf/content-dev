@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-24T14:33:44Z"],"entry-type":["bookmark"],"name":["Common web development mistakes"],"bookmark-of":["http://www.456bereastreet.com/archive/200408/web_development_mistakes/"],"category":["html","standards","web","via-pinboard"],"slug":["common-web-development-mistakes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-24T14:33:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Common web development mistakes"
+    ],
+    "bookmark-of": [
+      "http://www.456bereastreet.com/archive/200408/web_development_mistakes/"
+    ],
+    "category": [
+      "html",
+      "standards",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "common-web-development-mistakes"
+    ]
+  }
+}

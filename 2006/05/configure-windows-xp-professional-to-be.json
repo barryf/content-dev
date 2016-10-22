@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["I had no idea this was built in. Great stuff\n"],"published":["2006-05-10T15:13:27Z"],"entry-type":["bookmark"],"name":["Configure Windows XP Professional to be a VPN server"],"bookmark-of":["http://www.zdnetasia.com/insight/network/0,39044847,39050037-39000223c-1,00.htm"],"category":["vpn","server","security","windows","sysadmin","via-pinboard"],"slug":["configure-windows-xp-professional-to-be"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I had no idea this was built in. Great stuff\n"
+    ],
+    "published": [
+      "2006-05-10T15:13:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Configure Windows XP Professional to be a VPN server"
+    ],
+    "bookmark-of": [
+      "http://www.zdnetasia.com/insight/network/0,39044847,39050037-39000223c-1,00.htm"
+    ],
+    "category": [
+      "vpn",
+      "server",
+      "security",
+      "windows",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "configure-windows-xp-professional-to-be"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@grayhaze Lakeside FTW #essex"],"published":["2011-10-15T21:23:37Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22610785/status/125292452973260800"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/125320950240649216"],"slug":["tweet-125320950240649216"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@grayhaze Lakeside FTW #essex"
+    ],
+    "published": [
+      "2011-10-15T21:23:37Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22610785/status/125292452973260800"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/125320950240649216"
+    ],
+    "slug": [
+      "tweet-125320950240649216"
+    ]
+  }
+}

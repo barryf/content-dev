@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["See how quickly a page loads in a remote browser. Includes a waterfall chart (web inspector?) and screenshots captured throughout the loading process.\n"],"published":["2011-05-23T08:14:34Z"],"entry-type":["bookmark"],"name":["loads.in"],"bookmark-of":["http://loads.in/"],"category":["browser","test","performance","design","network","via-pinboard"],"slug":["loads-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "See how quickly a page loads in a remote browser. Includes a waterfall chart (web inspector?) and screenshots captured throughout the loading process.\n"
+    ],
+    "published": [
+      "2011-05-23T08:14:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "loads.in"
+    ],
+    "bookmark-of": [
+      "http://loads.in/"
+    ],
+    "category": [
+      "browser",
+      "test",
+      "performance",
+      "design",
+      "network",
+      "via-pinboard"
+    ],
+    "slug": [
+      "loads-in"
+    ]
+  }
+}

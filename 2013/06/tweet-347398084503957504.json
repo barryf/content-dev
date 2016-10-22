@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Excited to reveal that we’re part of tonight’s The Apprentice: the teams were in our office designing online dating sites #theapprentice"],"published":["2013-06-19T16:58:52Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347398084503957504"],"slug":["tweet-347398084503957504"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Excited to reveal that we’re part of tonight’s The Apprentice: the teams were in our office designing online dating sites #theapprentice"
+    ],
+    "published": [
+      "2013-06-19T16:58:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347398084503957504"
+    ],
+    "slug": [
+      "tweet-347398084503957504"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-16T15:43:22Z"],"entry-type":["bookmark"],"name":["Facebook Rest Client CFC"],"bookmark-of":["http://www.nearpersonal.com/code/"],"category":["cfc","coldfusion","facebook","api","dev","rest","via-pinboard"],"slug":["facebook-rest-client-cfc"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-16T15:43:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Facebook Rest Client CFC"
+    ],
+    "bookmark-of": [
+      "http://www.nearpersonal.com/code/"
+    ],
+    "category": [
+      "cfc",
+      "coldfusion",
+      "facebook",
+      "api",
+      "dev",
+      "rest",
+      "via-pinboard"
+    ],
+    "slug": [
+      "facebook-rest-client-cfc"
+    ]
+  }
+}

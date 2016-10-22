@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd I’m left trusting woman who says this time my router will actually be delivered tomorrow, as it should’ve been for the last two days"],"published":["2013-06-25T17:11:25Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/349568525259649026"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/349575570394324993"],"slug":["tweet-349575570394324993"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd I’m left trusting woman who says this time my router will actually be delivered tomorrow, as it should’ve been for the last two days"
+    ],
+    "published": [
+      "2013-06-25T17:11:25Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/349568525259649026"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/349575570394324993"
+    ],
+    "slug": [
+      "tweet-349575570394324993"
+    ]
+  }
+}

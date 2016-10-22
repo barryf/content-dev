@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Free file archiver\n"],"published":["2004-10-23T22:38:33Z"],"entry-type":["bookmark"],"name":["7-Zip"],"bookmark-of":["http://www.7-zip.org/"],"category":["useful","via-pinboard"],"slug":["7-zip"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free file archiver\n"
+    ],
+    "published": [
+      "2004-10-23T22:38:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "7-Zip"
+    ],
+    "bookmark-of": [
+      "http://www.7-zip.org/"
+    ],
+    "category": [
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "7-zip"
+    ]
+  }
+}

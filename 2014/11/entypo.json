@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["250+ carefully crafted pictograms (icon font)"],"published":["2014-11-26T14:01:52Z"],"entry-type":["bookmark"],"name":["Entypo"],"bookmark-of":["http://www.entypo.com/"],"category":["icon","font","design","pictogram","via-pinboard"],"slug":["entypo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "250+ carefully crafted pictograms (icon font)"
+    ],
+    "published": [
+      "2014-11-26T14:01:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Entypo"
+    ],
+    "bookmark-of": [
+      "http://www.entypo.com/"
+    ],
+    "category": [
+      "icon",
+      "font",
+      "design",
+      "pictogram",
+      "via-pinboard"
+    ],
+    "slug": [
+      "entypo"
+    ]
+  }
+}

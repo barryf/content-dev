@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Heroku add-on to allow multiple accounts with Heroku - useful for separating work/personal.\n"],"published":["2012-02-08T16:00:34Z"],"entry-type":["bookmark"],"name":["heroku-accounts"],"bookmark-of":["https://github.com/ddollar/heroku-accounts"],"category":["account","addon","heroku","via-pinboard"],"slug":["heroku-accounts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Heroku add-on to allow multiple accounts with Heroku - useful for separating work/personal.\n"
+    ],
+    "published": [
+      "2012-02-08T16:00:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "heroku-accounts"
+    ],
+    "bookmark-of": [
+      "https://github.com/ddollar/heroku-accounts"
+    ],
+    "category": [
+      "account",
+      "addon",
+      "heroku",
+      "via-pinboard"
+    ],
+    "slug": [
+      "heroku-accounts"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["AKA mod_rails\n"],"published":["2008-05-20T20:48:08Z"],"entry-type":["bookmark"],"name":["Using Passenger on OSX for Rails development"],"bookmark-of":["http://www.fngtps.com/2008/04/using-passenger-on-osx-for-rails-development"],"category":["modrails","rails","passenger","apache","mac","server","dev","web","via-pinboard"],"slug":["using-passenger-on-osx-for-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "AKA mod_rails\n"
+    ],
+    "published": [
+      "2008-05-20T20:48:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Passenger on OSX for Rails development"
+    ],
+    "bookmark-of": [
+      "http://www.fngtps.com/2008/04/using-passenger-on-osx-for-rails-development"
+    ],
+    "category": [
+      "modrails",
+      "rails",
+      "passenger",
+      "apache",
+      "mac",
+      "server",
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-passenger-on-osx-for-rails"
+    ]
+  }
+}

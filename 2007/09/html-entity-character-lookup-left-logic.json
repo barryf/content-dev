@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["With Dashboard widget to lookup entities\n"],"published":["2007-09-23T08:36:48Z"],"entry-type":["bookmark"],"name":["HTML Entity Character Lookup › Left Logic"],"bookmark-of":["http://leftlogic.com/lounge/articles/entity-lookup/"],"category":["dashboard","design","dev","font","i18n","language","markup","entity","useful","web","via-pinboard"],"slug":["html-entity-character-lookup-left-logic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "With Dashboard widget to lookup entities\n"
+    ],
+    "published": [
+      "2007-09-23T08:36:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTML Entity Character Lookup › Left Logic"
+    ],
+    "bookmark-of": [
+      "http://leftlogic.com/lounge/articles/entity-lookup/"
+    ],
+    "category": [
+      "dashboard",
+      "design",
+      "dev",
+      "font",
+      "i18n",
+      "language",
+      "markup",
+      "entity",
+      "useful",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "html-entity-character-lookup-left-logic"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/351565163/status/523112740312068096"],"published":["2014-10-17T14:06:10Z"],"content":["@barryf @wld don't forget @ahollandgp!!!"],"author":["https://twitter.com/351565163"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/351565163/status/523112740312068096"
+    ],
+    "published": [
+      "2014-10-17T14:06:10Z"
+    ],
+    "content": [
+      "@barryf @wld don't forget @ahollandgp!!!"
+    ],
+    "author": [
+      "https://twitter.com/351565163"
+    ]
+  }
+}

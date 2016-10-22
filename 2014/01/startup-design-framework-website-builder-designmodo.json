@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2014-01-21T17:00:43Z"],"entry-type":["bookmark"],"name":["Startup Design Framework - Website Builder - Designmodo"],"bookmark-of":["http://designmodo.com/startup/"],"category":["css","template","startup","design","framework","via-pinboard"],"slug":["startup-design-framework-website-builder-designmodo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-01-21T17:00:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Startup Design Framework - Website Builder - Designmodo"
+    ],
+    "bookmark-of": [
+      "http://designmodo.com/startup/"
+    ],
+    "category": [
+      "css",
+      "template",
+      "startup",
+      "design",
+      "framework",
+      "via-pinboard"
+    ],
+    "slug": [
+      "startup-design-framework-website-builder-designmodo"
+    ]
+  }
+}

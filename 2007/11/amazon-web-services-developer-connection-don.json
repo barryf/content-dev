@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Monitoring EC2 VM instances using Ruby\n"],"published":["2007-11-26T21:40:39Z"],"entry-type":["bookmark"],"name":["Amazon Web Services Developer Connection : Don't Get Caught with Your Instance Down"],"bookmark-of":["http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1011"],"category":["amazon","aws","ec2","hardware","monitoring","ruby","rails","server","sysadmin","via-pinboard"],"slug":["amazon-web-services-developer-connection-don"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Monitoring EC2 VM instances using Ruby\n"
+    ],
+    "published": [
+      "2007-11-26T21:40:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Amazon Web Services Developer Connection : Don't Get Caught with Your Instance Down"
+    ],
+    "bookmark-of": [
+      "http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1011"
+    ],
+    "category": [
+      "amazon",
+      "aws",
+      "ec2",
+      "hardware",
+      "monitoring",
+      "ruby",
+      "rails",
+      "server",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "amazon-web-services-developer-connection-don"
+    ]
+  }
+}

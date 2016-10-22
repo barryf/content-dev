@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["\"a pluggable, extensible, open source client-side caching framework for Web 2.0 applications\" it says here.\n"],"published":["2006-11-20T15:06:12Z"],"entry-type":["bookmark"],"name":["JSOC Framework"],"bookmark-of":["http://dev.webframeworks.com/"],"category":["jsoc","javascript","ajax","cache","framework","library","dev","performance","web","via-pinboard"],"slug":["jsoc-framework"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"a pluggable, extensible, open source client-side caching framework for Web 2.0 applications\" it says here.\n"
+    ],
+    "published": [
+      "2006-11-20T15:06:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JSOC Framework"
+    ],
+    "bookmark-of": [
+      "http://dev.webframeworks.com/"
+    ],
+    "category": [
+      "jsoc",
+      "javascript",
+      "ajax",
+      "cache",
+      "framework",
+      "library",
+      "dev",
+      "performance",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jsoc-framework"
+    ]
+  }
+}

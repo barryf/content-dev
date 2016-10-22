@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@having a nice cup of tea"],"published":["2008-03-21T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/10138192/status/433764142"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/774910689"],"slug":["tweet-774910689"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@having a nice cup of tea"
+    ],
+    "published": [
+      "2008-03-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/10138192/status/433764142"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/774910689"
+    ],
+    "slug": [
+      "tweet-774910689"
+    ]
+  }
+}

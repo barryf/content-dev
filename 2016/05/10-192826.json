@@ -1,1 +1,24 @@
-{"type":["h-entry"],"properties":{"published":["2016-05-10T18:28:26Z"],"entry-type":["like"],"like-of":["https://twitter.com/lukew/status/730066602683596801"],"category":["hamburger","ux","navigation"],"slug":["10-192826"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-05-10T18:28:26Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/lukew/status/730066602683596801"
+    ],
+    "category": [
+      "hamburger",
+      "ux",
+      "navigation"
+    ],
+    "slug": [
+      "10-192826"
+    ]
+  }
+}

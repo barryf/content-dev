@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-09-27T13:59:39Z"],"entry-type":["bookmark"],"name":["Obtaining the Master Replication Information on MySQL 5"],"bookmark-of":["http://dev.mysql.com/doc/refman/5.0/en/replication-howto-masterstatus.html"],"category":["mysql","database","replication","master","sysadmin","work","via-pinboard"],"slug":["obtaining-the-master-replication-information-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-09-27T13:59:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Obtaining the Master Replication Information on MySQL 5"
+    ],
+    "bookmark-of": [
+      "http://dev.mysql.com/doc/refman/5.0/en/replication-howto-masterstatus.html"
+    ],
+    "category": [
+      "mysql",
+      "database",
+      "replication",
+      "master",
+      "sysadmin",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "obtaining-the-master-replication-information-on"
+    ]
+  }
+}

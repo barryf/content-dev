@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Happy to report I've become an uncle to baby George this afternoon. Congratulations to my sister @MissSpanna and Stu."],"published":["2012-04-01T18:54:03Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/186526859255750656"],"slug":["tweet-186526859255750656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Happy to report I've become an uncle to baby George this afternoon. Congratulations to my sister @MissSpanna and Stu."
+    ],
+    "published": [
+      "2012-04-01T18:54:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/186526859255750656"
+    ],
+    "slug": [
+      "tweet-186526859255750656"
+    ]
+  }
+}

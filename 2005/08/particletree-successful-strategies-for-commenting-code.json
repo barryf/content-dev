@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-01T16:41:41Z"],"entry-type":["bookmark"],"name":["particletree · Successful Strategies for Commenting Code"],"bookmark-of":["http://particletree.com/features/successful-strategies-for-commenting-your-code"],"category":["dev","code","methodology","via-pinboard"],"slug":["particletree-successful-strategies-for-commenting-code"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-01T16:41:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "particletree · Successful Strategies for Commenting Code"
+    ],
+    "bookmark-of": [
+      "http://particletree.com/features/successful-strategies-for-commenting-your-code"
+    ],
+    "category": [
+      "dev",
+      "code",
+      "methodology",
+      "via-pinboard"
+    ],
+    "slug": [
+      "particletree-successful-strategies-for-commenting-code"
+    ]
+  }
+}

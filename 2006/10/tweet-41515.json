@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["needing more sleep - flight path is currently over my flat and planes began landing at 5am."],"published":["2006-10-11T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/41515"],"slug":["tweet-41515"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "needing more sleep - flight path is currently over my flat and planes began landing at 5am."
+    ],
+    "published": [
+      "2006-10-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/41515"
+    ],
+    "slug": [
+      "tweet-41515"
+    ]
+  }
+}

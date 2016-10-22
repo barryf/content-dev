@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2016-01-04T13:03:40Z"],"entry-type":["bookmark"],"name":["Agile in a Nutshell"],"bookmark-of":["http://www.agilenutshell.com/"],"category":["agile","guide"],"slug":["agile-in-a-nutshell"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-01-04T13:03:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Agile in a Nutshell"
+    ],
+    "bookmark-of": [
+      "http://www.agilenutshell.com/"
+    ],
+    "category": [
+      "agile",
+      "guide"
+    ],
+    "slug": [
+      "agile-in-a-nutshell"
+    ]
+  }
+}

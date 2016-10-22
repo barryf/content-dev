@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2014-02-24T08:29:43Z"],"entry-type":["bookmark"],"name":["Using Docker To Run Ruby Rspec CI In Jenkins"],"bookmark-of":["http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins"],"category":["testing","ci","ruby","docker","jenkins","rspec","via-pinboard"],"slug":["using-docker-to-run-ruby-rspec"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-02-24T08:29:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Docker To Run Ruby Rspec CI In Jenkins"
+    ],
+    "bookmark-of": [
+      "http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins"
+    ],
+    "category": [
+      "testing",
+      "ci",
+      "ruby",
+      "docker",
+      "jenkins",
+      "rspec",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-docker-to-run-ruby-rspec"
+    ]
+  }
+}

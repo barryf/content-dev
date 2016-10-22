@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["As Jon says, natural, warm photos work best\n"],"published":["2008-03-26T19:59:21Z"],"entry-type":["bookmark"],"name":["Staff Photos"],"bookmark-of":["http://www.hicksdesign.co.uk/journal/staff-photos"],"category":["branding","business","design","marketing","startup","staff","team","photo","via-pinboard"],"slug":["staff-photos"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "As Jon says, natural, warm photos work best\n"
+    ],
+    "published": [
+      "2008-03-26T19:59:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Staff Photos"
+    ],
+    "bookmark-of": [
+      "http://www.hicksdesign.co.uk/journal/staff-photos"
+    ],
+    "category": [
+      "branding",
+      "business",
+      "design",
+      "marketing",
+      "startup",
+      "staff",
+      "team",
+      "photo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "staff-photos"
+    ]
+  }
+}

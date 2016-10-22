@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/576080489888501760"],"published":["2015-03-12T18:01:06Z"],"content":["@nstanley Ha, I come all this way! Enjoy #SXSW"],"in-reply-to":["https://barryfrost.com/2015/03/just-arrived-in-beautiful-bath-ready"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/576080489888501760"
+    ],
+    "published": [
+      "2015-03-12T18:01:06Z"
+    ],
+    "content": [
+      "@nstanley Ha, I come all this way! Enjoy #SXSW"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/03/just-arrived-in-beautiful-bath-ready"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

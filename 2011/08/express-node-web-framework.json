@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["...a bit like Sinatra for Node.js\n"],"published":["2011-08-29T17:10:57Z"],"entry-type":["bookmark"],"name":["Express - node web framework"],"bookmark-of":["http://expressjs.com/"],"category":["javascript","framework","nodejs","sinatra","dev","via-pinboard"],"slug":["express-node-web-framework"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "...a bit like Sinatra for Node.js\n"
+    ],
+    "published": [
+      "2011-08-29T17:10:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Express - node web framework"
+    ],
+    "bookmark-of": [
+      "http://expressjs.com/"
+    ],
+    "category": [
+      "javascript",
+      "framework",
+      "nodejs",
+      "sinatra",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "express-node-web-framework"
+    ]
+  }
+}

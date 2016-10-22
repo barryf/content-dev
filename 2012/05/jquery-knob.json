@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Knobs, dials and segments\n"],"published":["2012-05-09T20:38:44Z"],"entry-type":["bookmark"],"name":["jQuery Knob"],"bookmark-of":["http://anthonyterrien.com/knob/"],"category":["plugin","ui","javascript","knob","dial","jquery","via-pinboard"],"slug":["jquery-knob"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Knobs, dials and segments\n"
+    ],
+    "published": [
+      "2012-05-09T20:38:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jQuery Knob"
+    ],
+    "bookmark-of": [
+      "http://anthonyterrien.com/knob/"
+    ],
+    "category": [
+      "plugin",
+      "ui",
+      "javascript",
+      "knob",
+      "dial",
+      "jquery",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jquery-knob"
+    ]
+  }
+}

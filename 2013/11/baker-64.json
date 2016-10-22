@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"content":["BT [spends £900m on Champions' League rights](http://www.bbc.co.uk/sport/0/football/24879138). As a customer who still rarely gets more than 2Mbit/s from their broadband I'm not best pleased. And I doubt participating football clubs' ticket prices will come down either. "],"published":["2013-11-09T16:55:38Z"],"entry-type":["note"],"category":["uk","football","via-baker"],"syndication":["https://twitter.com/barryf/status/399219220120363008"],"slug":["baker-64"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "BT [spends £900m on Champions' League rights](http://www.bbc.co.uk/sport/0/football/24879138). As a customer who still rarely gets more than 2Mbit/s from their broadband I'm not best pleased. And I doubt participating football clubs' ticket prices will come down either. "
+    ],
+    "published": [
+      "2013-11-09T16:55:38Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "uk",
+      "football",
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/399219220120363008"
+    ],
+    "slug": [
+      "baker-64"
+    ]
+  }
+}

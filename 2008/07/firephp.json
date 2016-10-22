@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Firebug plugin for debugging PHP in Firefox\n"],"published":["2008-07-20T09:26:24Z"],"entry-type":["bookmark"],"name":["FirePHP"],"bookmark-of":["https://addons.mozilla.org/en-US/firefox/addon/6149"],"category":["firefox","debug","debugger","firebug","extension","php","dev","via-pinboard"],"slug":["firephp"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Firebug plugin for debugging PHP in Firefox\n"
+    ],
+    "published": [
+      "2008-07-20T09:26:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FirePHP"
+    ],
+    "bookmark-of": [
+      "https://addons.mozilla.org/en-US/firefox/addon/6149"
+    ],
+    "category": [
+      "firefox",
+      "debug",
+      "debugger",
+      "firebug",
+      "extension",
+      "php",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "firephp"
+    ]
+  }
+}

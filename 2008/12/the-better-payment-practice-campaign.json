@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Advice and tips to help small businesses get paid\n"],"published":["2008-12-13T09:54:38Z"],"entry-type":["bookmark"],"name":["The Better Payment Practice Campaign"],"bookmark-of":["http://www.payontime.co.uk/"],"category":["invoice","late","payment","debt","business","work","legal","freelance","via-pinboard"],"slug":["the-better-payment-practice-campaign"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Advice and tips to help small businesses get paid\n"
+    ],
+    "published": [
+      "2008-12-13T09:54:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Better Payment Practice Campaign"
+    ],
+    "bookmark-of": [
+      "http://www.payontime.co.uk/"
+    ],
+    "category": [
+      "invoice",
+      "late",
+      "payment",
+      "debt",
+      "business",
+      "work",
+      "legal",
+      "freelance",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-better-payment-practice-campaign"
+    ]
+  }
+}

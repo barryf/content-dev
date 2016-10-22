@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Get Growl-powered notifications as Gmail is delivered\n"],"published":["2006-03-19T21:55:11Z"],"entry-type":["bookmark"],"name":["Gmail+Growl"],"bookmark-of":["http://wafflesoftware.net/gmailgrowl/"],"category":["gmail","growl","mac","email","via-pinboard"],"slug":["gmail-growl"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Get Growl-powered notifications as Gmail is delivered\n"
+    ],
+    "published": [
+      "2006-03-19T21:55:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Gmail+Growl"
+    ],
+    "bookmark-of": [
+      "http://wafflesoftware.net/gmailgrowl/"
+    ],
+    "category": [
+      "gmail",
+      "growl",
+      "mac",
+      "email",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gmail-growl"
+    ]
+  }
+}

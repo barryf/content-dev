@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-02-19T11:39:10Z"],"entry-type":["bookmark"],"name":["InterNations/antwort · GitHub"],"bookmark-of":["https://github.com/InterNations/antwort"],"category":["fromifttt","github","via-pinboard"],"slug":["internations-antwort-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-02-19T11:39:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "InterNations/antwort · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/InterNations/antwort"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "internations-antwort-github"
+    ]
+  }
+}

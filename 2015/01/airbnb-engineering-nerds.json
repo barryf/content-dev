@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["(Ignoring the awful name...) Airbnb's engineering website"],"published":["2015-01-12T14:19:37Z"],"entry-type":["bookmark"],"name":["Airbnb Engineering - Nerds"],"bookmark-of":["http://nerds.airbnb.com/"],"category":["airbnb","team","dev","devteam"],"slug":["airbnb-engineering-nerds"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(Ignoring the awful name...) Airbnb's engineering website"
+    ],
+    "published": [
+      "2015-01-12T14:19:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Airbnb Engineering - Nerds"
+    ],
+    "bookmark-of": [
+      "http://nerds.airbnb.com/"
+    ],
+    "category": [
+      "airbnb",
+      "team",
+      "dev",
+      "devteam"
+    ],
+    "slug": [
+      "airbnb-engineering-nerds"
+    ]
+  }
+}

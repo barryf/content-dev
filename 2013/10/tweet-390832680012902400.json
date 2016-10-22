@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@nstanley You're not wrong! I'll be channelling Steve Jobs tomorrow."],"published":["2013-10-17T13:32:26Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11470692/status/390831329941938177"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/390832680012902400"],"slug":["tweet-390832680012902400"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nstanley You're not wrong! I'll be channelling Steve Jobs tomorrow."
+    ],
+    "published": [
+      "2013-10-17T13:32:26Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11470692/status/390831329941938177"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/390832680012902400"
+    ],
+    "slug": [
+      "tweet-390832680012902400"
+    ]
+  }
+}

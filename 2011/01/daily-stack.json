@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Wooden blocks of time for work, play and rest placed on a sensor and used for time countdowns.\n"],"published":["2011-01-05T11:30:38Z"],"entry-type":["bookmark"],"name":["Daily Stack"],"bookmark-of":["http://www.itsnicethat.com/articles/2738-daily-stack"],"category":["design","time","productivity","inspiration","project","via-pinboard"],"slug":["daily-stack"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wooden blocks of time for work, play and rest placed on a sensor and used for time countdowns.\n"
+    ],
+    "published": [
+      "2011-01-05T11:30:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Daily Stack"
+    ],
+    "bookmark-of": [
+      "http://www.itsnicethat.com/articles/2738-daily-stack"
+    ],
+    "category": [
+      "design",
+      "time",
+      "productivity",
+      "inspiration",
+      "project",
+      "via-pinboard"
+    ],
+    "slug": [
+      "daily-stack"
+    ]
+  }
+}

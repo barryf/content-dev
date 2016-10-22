@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["I only really needed this for setting up MySQL5 on Leopard using Macports. Remember - you must use +server or the plist isn't created\n"],"published":["2007-11-19T20:34:08Z"],"entry-type":["bookmark"],"name":["Using MacPorts(DarwinPorts) to install Ruby on Rails, MySQL, Subversion, Capistrano and Mongrel on Mac OS X"],"bookmark-of":["http://paulsturgess.co.uk/articles/show/46-using-macportsdarwinports-to-install-ruby-on-rails-mysql-subversion-capistrano-and-mongrel-on-mac-os-x"],"category":["macports","mysql","mac","package","leopard","via-pinboard"],"slug":["using-macports-darwinports-to-install-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I only really needed this for setting up MySQL5 on Leopard using Macports. Remember - you must use +server or the plist isn't created\n"
+    ],
+    "published": [
+      "2007-11-19T20:34:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using MacPorts(DarwinPorts) to install Ruby on Rails, MySQL, Subversion, Capistrano and Mongrel on Mac OS X"
+    ],
+    "bookmark-of": [
+      "http://paulsturgess.co.uk/articles/show/46-using-macportsdarwinports-to-install-ruby-on-rails-mysql-subversion-capistrano-and-mongrel-on-mac-os-x"
+    ],
+    "category": [
+      "macports",
+      "mysql",
+      "mac",
+      "package",
+      "leopard",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-macports-darwinports-to-install-ruby"
+    ]
+  }
+}

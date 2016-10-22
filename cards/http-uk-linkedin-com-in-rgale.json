@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Richard Gale"],"photo":["https://twitter.com/agit8or/profile_image?size=original"],"url":["http://uk.linkedin.com/in/rgale/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Richard Gale"
+    ],
+    "photo": [
+      "https://twitter.com/agit8or/profile_image?size=original"
+    ],
+    "url": [
+      "http://uk.linkedin.com/in/rgale/"
+    ]
+  }
+}

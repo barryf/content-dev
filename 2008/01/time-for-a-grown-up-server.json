@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2008-01-19T18:25:51Z"],"entry-type":["bookmark"],"name":["Time For A Grown-Up Server: Rails, Mongrel, Apache, Capistrano and You"],"bookmark-of":["http://blog.codahale.com/2006/06/19/time-for-a-grown-up-server-rails-mongrel-apache-capistrano-and-you/"],"category":["architecture","capistrano","deployment","rails","mongrel","apache","web","server","sysadmin","via-pinboard"],"slug":["time-for-a-grown-up-server"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-01-19T18:25:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Time For A Grown-Up Server: Rails, Mongrel, Apache, Capistrano and You"
+    ],
+    "bookmark-of": [
+      "http://blog.codahale.com/2006/06/19/time-for-a-grown-up-server-rails-mongrel-apache-capistrano-and-you/"
+    ],
+    "category": [
+      "architecture",
+      "capistrano",
+      "deployment",
+      "rails",
+      "mongrel",
+      "apache",
+      "web",
+      "server",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "time-for-a-grown-up-server"
+    ]
+  }
+}

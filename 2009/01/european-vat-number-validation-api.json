@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Validate VAT number via a simple REST API. Returns JSON true/false or JSONP. Uses Google App Engine - by Aral Balkan\n"],"published":["2009-01-24T17:19:32Z"],"entry-type":["bookmark"],"name":["European VAT Number Validation API"],"bookmark-of":["http://isvat.appspot.com/"],"category":["json","vat","jsonp","validation","gae","europe","api","work","via-pinboard"],"slug":["european-vat-number-validation-api"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Validate VAT number via a simple REST API. Returns JSON true/false or JSONP. Uses Google App Engine - by Aral Balkan\n"
+    ],
+    "published": [
+      "2009-01-24T17:19:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "European VAT Number Validation API"
+    ],
+    "bookmark-of": [
+      "http://isvat.appspot.com/"
+    ],
+    "category": [
+      "json",
+      "vat",
+      "jsonp",
+      "validation",
+      "gae",
+      "europe",
+      "api",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "european-vat-number-validation-api"
+    ]
+  }
+}

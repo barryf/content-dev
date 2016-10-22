@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Getting excited by the prospect of squeezeboxing with my new toy this evening."],"published":["2006-10-23T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/46998"],"slug":["tweet-46998"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Getting excited by the prospect of squeezeboxing with my new toy this evening."
+    ],
+    "published": [
+      "2006-10-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/46998"
+    ],
+    "slug": [
+      "tweet-46998"
+    ]
+  }
+}

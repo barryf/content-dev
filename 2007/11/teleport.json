@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["A Synergy style app for controlling Macs\n"],"published":["2007-11-11T14:43:24Z"],"entry-type":["bookmark"],"name":["Teleport"],"bookmark-of":["http://abyssoft.com/software/teleport/"],"category":["mac","synergy","sysadmin","keyboard","sharing","via-pinboard"],"slug":["teleport"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A Synergy style app for controlling Macs\n"
+    ],
+    "published": [
+      "2007-11-11T14:43:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Teleport"
+    ],
+    "bookmark-of": [
+      "http://abyssoft.com/software/teleport/"
+    ],
+    "category": [
+      "mac",
+      "synergy",
+      "sysadmin",
+      "keyboard",
+      "sharing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "teleport"
+    ]
+  }
+}

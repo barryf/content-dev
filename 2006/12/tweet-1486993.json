@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Wondering why our Christmas party is beginning with a company-wide game of hangman."],"published":["2006-12-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1486993"],"slug":["tweet-1486993"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wondering why our Christmas party is beginning with a company-wide game of hangman."
+    ],
+    "published": [
+      "2006-12-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1486993"
+    ],
+    "slug": [
+      "tweet-1486993"
+    ]
+  }
+}

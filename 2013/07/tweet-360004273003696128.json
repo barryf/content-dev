@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm at Cubana (London, Greater London) http://4sq.com/142XFCN"],"published":["2013-07-24T11:51:21Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/360004273003696128"],"slug":["tweet-360004273003696128"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm at Cubana (London, Greater London) http://4sq.com/142XFCN"
+    ],
+    "published": [
+      "2013-07-24T11:51:21Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/360004273003696128"
+    ],
+    "slug": [
+      "tweet-360004273003696128"
+    ]
+  }
+}

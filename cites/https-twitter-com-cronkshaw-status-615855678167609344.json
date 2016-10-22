@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/cronkshaw/status/615855678167609344"],"published":["2015-06-30T12:13:30Z"],"content":["RT @barryf: Medium have adopted the passwordless login pattern: one-time expiring link via email instead of requiring a password medium.com/the-story/sign…"],"repost-of":["https://barryfrost.com/2015/06/signing-in-to-medium-by-email"],"author":["http://cronkshaw.net"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/cronkshaw/status/615855678167609344"
+    ],
+    "published": [
+      "2015-06-30T12:13:30Z"
+    ],
+    "content": [
+      "RT @barryf: Medium have adopted the passwordless login pattern: one-time expiring link via email instead of requiring a password medium.com/the-story/sign…"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/06/signing-in-to-medium-by-email"
+    ],
+    "author": [
+      "http://cronkshaw.net"
+    ]
+  }
+}

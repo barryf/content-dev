@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Fascinating article that journeys from the beginnings of the web to present day Python/Django, concurrency and the pain of launching web apps in 2009.\n"],"published":["2009-09-13T17:03:37Z"],"entry-type":["bookmark"],"name":["Snakes on the Web"],"bookmark-of":["http://jacobian.org/writing/snakes-on-the-web/"],"category":["python","django","framework","web","concurrency","history","business","via-pinboard"],"slug":["snakes-on-the-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Fascinating article that journeys from the beginnings of the web to present day Python/Django, concurrency and the pain of launching web apps in 2009.\n"
+    ],
+    "published": [
+      "2009-09-13T17:03:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Snakes on the Web"
+    ],
+    "bookmark-of": [
+      "http://jacobian.org/writing/snakes-on-the-web/"
+    ],
+    "category": [
+      "python",
+      "django",
+      "framework",
+      "web",
+      "concurrency",
+      "history",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "snakes-on-the-web"
+    ]
+  }
+}

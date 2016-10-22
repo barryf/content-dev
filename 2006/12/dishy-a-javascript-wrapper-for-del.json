@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2006-12-08T11:16:41Z"],"entry-type":["bookmark"],"name":["Dishy - a JavaScript wrapper for del.icio.us integration"],"bookmark-of":["http://icant.co.uk/sandbox/dishy/"],"category":["api","delicious","json","javascript","tag","web","via-pinboard"],"slug":["dishy-a-javascript-wrapper-for-del"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-12-08T11:16:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dishy - a JavaScript wrapper for del.icio.us integration"
+    ],
+    "bookmark-of": [
+      "http://icant.co.uk/sandbox/dishy/"
+    ],
+    "category": [
+      "api",
+      "delicious",
+      "json",
+      "javascript",
+      "tag",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dishy-a-javascript-wrapper-for-del"
+    ]
+  }
+}

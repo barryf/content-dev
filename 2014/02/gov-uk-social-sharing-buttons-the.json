@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["So far in this study, sharing buttons haven't driven significant traffic. I'd argue that the clutter and page slowdown meant they had a negative effect"],"published":["2014-02-20T13:49:27Z"],"entry-type":["bookmark"],"name":["GOV.UK social sharing buttons: the first 10 weeks"],"bookmark-of":["https://insidegovuk.blog.gov.uk/2014/02/20/gov-uk-social-sharing-buttons-the-first-10-weeks/"],"category":["ux","sharing","conversion","social","via-pinboard"],"slug":["gov-uk-social-sharing-buttons-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "So far in this study, sharing buttons haven't driven significant traffic. I'd argue that the clutter and page slowdown meant they had a negative effect"
+    ],
+    "published": [
+      "2014-02-20T13:49:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GOV.UK social sharing buttons: the first 10 weeks"
+    ],
+    "bookmark-of": [
+      "https://insidegovuk.blog.gov.uk/2014/02/20/gov-uk-social-sharing-buttons-the-first-10-weeks/"
+    ],
+    "category": [
+      "ux",
+      "sharing",
+      "conversion",
+      "social",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gov-uk-social-sharing-buttons-the"
+    ]
+  }
+}

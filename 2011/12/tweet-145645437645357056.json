@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Receiving dozens of emails from competitors' dating sites meant for \"djbarry5\" who clearly doesn't know his own email address."],"published":["2011-12-10T23:25:52Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/145645437645357056"],"slug":["tweet-145645437645357056"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Receiving dozens of emails from competitors' dating sites meant for \"djbarry5\" who clearly doesn't know his own email address."
+    ],
+    "published": [
+      "2011-12-10T23:25:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/145645437645357056"
+    ],
+    "slug": [
+      "tweet-145645437645357056"
+    ]
+  }
+}

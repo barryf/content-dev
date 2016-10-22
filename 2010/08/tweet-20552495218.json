@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["At @ian_winter and Jenn's wedding (@ Easthampstead park) http://4sq.com/ddQ93P"],"published":["2010-08-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/20552495218"],"slug":["tweet-20552495218"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "At @ian_winter and Jenn's wedding (@ Easthampstead park) http://4sq.com/ddQ93P"
+    ],
+    "published": [
+      "2010-08-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/20552495218"
+    ],
+    "slug": [
+      "tweet-20552495218"
+    ]
+  }
+}

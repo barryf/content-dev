@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Went past Paul Daniels' house on the river. He and Debbie McGee were moving the rabbit run in the garden. White rabbits, naturally."],"published":["2011-07-30T13:35:40Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/97299321703235584"],"slug":["tweet-97299321703235584"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Went past Paul Daniels' house on the river. He and Debbie McGee were moving the rabbit run in the garden. White rabbits, naturally."
+    ],
+    "published": [
+      "2011-07-30T13:35:40Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/97299321703235584"
+    ],
+    "slug": [
+      "tweet-97299321703235584"
+    ]
+  }
+}

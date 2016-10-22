@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["When can I start using them for web design I wonder?\n"],"published":["2005-03-17T16:05:14Z"],"entry-type":["bookmark"],"name":["New fonts for screen-reading from Microsoft"],"bookmark-of":["http://www.poynter.org/column.asp?id=47&aid=78683"],"category":["font","design","web","via-pinboard"],"slug":["new-fonts-for-screen-reading-from"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "When can I start using them for web design I wonder?\n"
+    ],
+    "published": [
+      "2005-03-17T16:05:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "New fonts for screen-reading from Microsoft"
+    ],
+    "bookmark-of": [
+      "http://www.poynter.org/column.asp?id=47&aid=78683"
+    ],
+    "category": [
+      "font",
+      "design",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "new-fonts-for-screen-reading-from"
+    ]
+  }
+}

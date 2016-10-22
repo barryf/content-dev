@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Simply Business"],"photo":["https://twitter.com/simplybusiness/profile_image?size=original"],"url":["https://twitter.com/simplybusiness"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Simply Business"
+    ],
+    "photo": [
+      "https://twitter.com/simplybusiness/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/simplybusiness"
+    ]
+  }
+}

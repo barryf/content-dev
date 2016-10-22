@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["The entirety of Ning is built on their API, not just a small subset of their data methods. The standard Ning website is just another user of the API\n"],"published":["2008-07-26T14:18:40Z"],"entry-type":["bookmark"],"name":["one small REST call for man, one giant API for mankind"],"bookmark-of":["http://blog.diegodoval.com/2007/10/one_small_rest_call_for_man_on.html"],"category":["rest","api","ning","architecture","dev","work","forglan","fortimblair","via-pinboard"],"slug":["one-small-rest-call-for-man"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The entirety of Ning is built on their API, not just a small subset of their data methods. The standard Ning website is just another user of the API\n"
+    ],
+    "published": [
+      "2008-07-26T14:18:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "one small REST call for man, one giant API for mankind"
+    ],
+    "bookmark-of": [
+      "http://blog.diegodoval.com/2007/10/one_small_rest_call_for_man_on.html"
+    ],
+    "category": [
+      "rest",
+      "api",
+      "ning",
+      "architecture",
+      "dev",
+      "work",
+      "forglan",
+      "fortimblair",
+      "via-pinboard"
+    ],
+    "slug": [
+      "one-small-rest-call-for-man"
+    ]
+  }
+}

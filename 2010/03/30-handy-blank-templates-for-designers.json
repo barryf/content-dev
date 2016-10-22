@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2010-03-02T13:38:45Z"],"entry-type":["bookmark"],"name":["30+ Handy Blank Templates for Designers"],"bookmark-of":["http://creativerepository.com/2010/01/03/30-handy-blank-templates-for-designers/"],"category":["template","blank","psd","design","dvd","polaroid","print","via-pinboard"],"slug":["30-handy-blank-templates-for-designers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-03-02T13:38:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "30+ Handy Blank Templates for Designers"
+    ],
+    "bookmark-of": [
+      "http://creativerepository.com/2010/01/03/30-handy-blank-templates-for-designers/"
+    ],
+    "category": [
+      "template",
+      "blank",
+      "psd",
+      "design",
+      "dvd",
+      "polaroid",
+      "print",
+      "via-pinboard"
+    ],
+    "slug": [
+      "30-handy-blank-templates-for-designers"
+    ]
+  }
+}

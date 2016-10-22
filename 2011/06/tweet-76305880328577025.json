@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@nstanley What a tease!"],"published":["2011-06-02T15:15:14Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11470692/status/76304070406705152"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/76305880328577025"],"slug":["tweet-76305880328577025"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nstanley What a tease!"
+    ],
+    "published": [
+      "2011-06-02T15:15:14Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11470692/status/76304070406705152"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/76305880328577025"
+    ],
+    "slug": [
+      "tweet-76305880328577025"
+    ]
+  }
+}

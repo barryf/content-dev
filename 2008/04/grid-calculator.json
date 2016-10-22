@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Use sliders for base font size, number of columns, column width and gutter width and it'll calculate everything for you\n"],"published":["2008-04-19T10:40:23Z"],"entry-type":["bookmark"],"name":["Grid Calculator"],"bookmark-of":["http://www.29digital.net/grid/"],"category":["grid","css","layout","design","calculator","web","via-pinboard"],"slug":["grid-calculator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Use sliders for base font size, number of columns, column width and gutter width and it'll calculate everything for you\n"
+    ],
+    "published": [
+      "2008-04-19T10:40:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Grid Calculator"
+    ],
+    "bookmark-of": [
+      "http://www.29digital.net/grid/"
+    ],
+    "category": [
+      "grid",
+      "css",
+      "layout",
+      "design",
+      "calculator",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "grid-calculator"
+    ]
+  }
+}

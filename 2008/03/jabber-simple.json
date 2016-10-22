@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Ruby library for Jabber/XMPP\n"],"published":["2008-03-09T11:23:23Z"],"entry-type":["bookmark"],"name":["Jabber::Simple"],"bookmark-of":["http://xmpp4r-simple.rubyforge.org/"],"category":["ruby","jabber","xmpp","im","twitter","dev","chat","via-pinboard"],"slug":["jabber-simple"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby library for Jabber/XMPP\n"
+    ],
+    "published": [
+      "2008-03-09T11:23:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Jabber::Simple"
+    ],
+    "bookmark-of": [
+      "http://xmpp4r-simple.rubyforge.org/"
+    ],
+    "category": [
+      "ruby",
+      "jabber",
+      "xmpp",
+      "im",
+      "twitter",
+      "dev",
+      "chat",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jabber-simple"
+    ]
+  }
+}

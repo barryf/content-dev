@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Calculating where something should be dropped in a div with overflow:scroll\n"],"published":["2007-09-29T12:09:16Z"],"entry-type":["bookmark"],"name":["Determining Offsets with Scrolling Overflow - Snook.ca"],"bookmark-of":["http://snook.ca/archives/javascript/offsets_scrolling_overflow/"],"category":["design","javascript","prototype","scroll","web","dev","via-pinboard"],"slug":["determining-offsets-with-scrolling-overflow-snook"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Calculating where something should be dropped in a div with overflow:scroll\n"
+    ],
+    "published": [
+      "2007-09-29T12:09:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Determining Offsets with Scrolling Overflow - Snook.ca"
+    ],
+    "bookmark-of": [
+      "http://snook.ca/archives/javascript/offsets_scrolling_overflow/"
+    ],
+    "category": [
+      "design",
+      "javascript",
+      "prototype",
+      "scroll",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "determining-offsets-with-scrolling-overflow-snook"
+    ]
+  }
+}

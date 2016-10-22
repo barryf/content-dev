@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["jasdev singh (@jasdev)"],"photo":["http://pbs.twimg.com/profile_images/558169653793411072/p4nJHMKo_normal.jpeg"],"url":["https://twitter.com/jasdev"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "jasdev singh (@jasdev)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/558169653793411072/p4nJHMKo_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/jasdev"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying some Christmas downtime by getting SMS posting working on my site. I'm trying out [Twilio](http://twilio.com) as a simple gateway.\r\n\r\n![SMS via Twilio](https://dl.dropboxusercontent.com/u/207451/blog/sms.jpg)"],"published":["2013-12-23T12:49:16Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/415101806176641026"],"slug":["baker-71"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying some Christmas downtime by getting SMS posting working on my site. I'm trying out [Twilio](http://twilio.com) as a simple gateway.\r\n\r\n![SMS via Twilio](https://dl.dropboxusercontent.com/u/207451/blog/sms.jpg)"
+    ],
+    "published": [
+      "2013-12-23T12:49:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/415101806176641026"
+    ],
+    "slug": [
+      "baker-71"
+    ]
+  }
+}

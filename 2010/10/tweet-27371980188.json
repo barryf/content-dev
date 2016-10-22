@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter It was a little bit advanced for you. Needed my executive troubleshooting."],"published":["2010-10-14T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/27371421381"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27371980188"],"slug":["tweet-27371980188"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter It was a little bit advanced for you. Needed my executive troubleshooting."
+    ],
+    "published": [
+      "2010-10-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/27371421381"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27371980188"
+    ],
+    "slug": [
+      "tweet-27371980188"
+    ]
+  }
+}

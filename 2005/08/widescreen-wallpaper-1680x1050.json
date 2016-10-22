@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-13T09:30:11Z"],"entry-type":["bookmark"],"name":["Widescreen Wallpaper 1680x1050"],"bookmark-of":["http://interfacelift.com/wallpaper/resolutions.php?w=1680"],"category":["wallpaper","via-pinboard"],"slug":["widescreen-wallpaper-1680x1050"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-13T09:30:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Widescreen Wallpaper 1680x1050"
+    ],
+    "bookmark-of": [
+      "http://interfacelift.com/wallpaper/resolutions.php?w=1680"
+    ],
+    "category": [
+      "wallpaper",
+      "via-pinboard"
+    ],
+    "slug": [
+      "widescreen-wallpaper-1680x1050"
+    ]
+  }
+}

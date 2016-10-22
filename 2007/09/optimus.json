@@ -1,1 +1,46 @@
-{"type":["h-entry"],"properties":{"content":["Microformats transformer - takes hCalendar, hCard et al and spits out XML, JSON or JSON-P\n"],"published":["2007-09-29T12:05:31Z"],"entry-type":["bookmark"],"name":["Optimus"],"bookmark-of":["http://microformatique.com/optimus/"],"category":["microformats","filter","json","web","xml","hcalendar","hcard","hresume","hreview","adr","geo","votelinks","rel-nofollow","rel-license","hatom","xfolkentry","xfn","rel-tag","via-pinboard"],"slug":["optimus"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Microformats transformer - takes hCalendar, hCard et al and spits out XML, JSON or JSON-P\n"
+    ],
+    "published": [
+      "2007-09-29T12:05:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Optimus"
+    ],
+    "bookmark-of": [
+      "http://microformatique.com/optimus/"
+    ],
+    "category": [
+      "microformats",
+      "filter",
+      "json",
+      "web",
+      "xml",
+      "hcalendar",
+      "hcard",
+      "hresume",
+      "hreview",
+      "adr",
+      "geo",
+      "votelinks",
+      "rel-nofollow",
+      "rel-license",
+      "hatom",
+      "xfolkentry",
+      "xfn",
+      "rel-tag",
+      "via-pinboard"
+    ],
+    "slug": [
+      "optimus"
+    ]
+  }
+}

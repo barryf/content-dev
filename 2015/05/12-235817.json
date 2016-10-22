@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-05-12T22:58:17Z"],"entry-type":["like"],"like-of":["https://mobile.twitter.com/JonathanHatfull/status/598256483214700545"],"syndication":["https://mobile.twitter.com/JonathanHatfull/status/598256483214700545"],"slug":["12-235817"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-05-12T22:58:17Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://mobile.twitter.com/JonathanHatfull/status/598256483214700545"
+    ],
+    "syndication": [
+      "https://mobile.twitter.com/JonathanHatfull/status/598256483214700545"
+    ],
+    "slug": [
+      "12-235817"
+    ]
+  }
+}

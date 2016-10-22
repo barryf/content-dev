@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Up-to-date detailed list of safe alternative lists when specifying fonts in CSS\n"],"published":["2010-03-13T16:14:27Z"],"entry-type":["bookmark"],"name":["Revised Font Stack | A Way Back"],"bookmark-of":["http://www.awayback.com/revised-font-stack/"],"category":["css","font","design","typography","type","web","via-pinboard"],"slug":["revised-font-stack-a-way-back"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Up-to-date detailed list of safe alternative lists when specifying fonts in CSS\n"
+    ],
+    "published": [
+      "2010-03-13T16:14:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Revised Font Stack | A Way Back"
+    ],
+    "bookmark-of": [
+      "http://www.awayback.com/revised-font-stack/"
+    ],
+    "category": [
+      "css",
+      "font",
+      "design",
+      "typography",
+      "type",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "revised-font-stack-a-way-back"
+    ]
+  }
+}

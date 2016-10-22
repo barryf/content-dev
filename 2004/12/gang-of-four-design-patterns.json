@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["UML diagrams\n"],"published":["2004-12-01T16:50:12Z"],"entry-type":["bookmark"],"name":["Gang of Four Design Patterns"],"bookmark-of":["http://www.tml.hut.fi/~pnr/Tik-76.278/gof/html/"],"category":["dev","uml","via-pinboard"],"slug":["gang-of-four-design-patterns"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "UML diagrams\n"
+    ],
+    "published": [
+      "2004-12-01T16:50:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Gang of Four Design Patterns"
+    ],
+    "bookmark-of": [
+      "http://www.tml.hut.fi/~pnr/Tik-76.278/gof/html/"
+    ],
+    "category": [
+      "dev",
+      "uml",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gang-of-four-design-patterns"
+    ]
+  }
+}

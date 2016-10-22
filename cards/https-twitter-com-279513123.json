@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Danny Baker"],"photo":["http://pbs.twimg.com/profile_images/516197762145075200/-h5DCDzF_normal.jpeg"],"url":["https://twitter.com/prodnose"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Danny Baker"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/516197762145075200/-h5DCDzF_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/prodnose"
+    ]
+  }
+}

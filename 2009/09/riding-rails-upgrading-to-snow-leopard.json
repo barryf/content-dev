@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Rails specific instructions, including Passenger, MySQL, Macports\n"],"published":["2009-09-13T16:49:09Z"],"entry-type":["bookmark"],"name":["Riding Rails: Upgrading to Snow Leopard"],"bookmark-of":["http://weblog.rubyonrails.org/2009/8/30/upgrading-to-snow-leopard"],"category":["rails","snowleopard","mac","macports","mysql","ruby","passenger","via-pinboard"],"slug":["riding-rails-upgrading-to-snow-leopard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails specific instructions, including Passenger, MySQL, Macports\n"
+    ],
+    "published": [
+      "2009-09-13T16:49:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Riding Rails: Upgrading to Snow Leopard"
+    ],
+    "bookmark-of": [
+      "http://weblog.rubyonrails.org/2009/8/30/upgrading-to-snow-leopard"
+    ],
+    "category": [
+      "rails",
+      "snowleopard",
+      "mac",
+      "macports",
+      "mysql",
+      "ruby",
+      "passenger",
+      "via-pinboard"
+    ],
+    "slug": [
+      "riding-rails-upgrading-to-snow-leopard"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Amused that my twits are confusing others for a change. Hope these aren't waking Pand in Seattle though."],"published":["2006-10-18T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/44888"],"slug":["tweet-44888"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Amused that my twits are confusing others for a change. Hope these aren't waking Pand in Seattle though."
+    ],
+    "published": [
+      "2006-10-18T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/44888"
+    ],
+    "slug": [
+      "tweet-44888"
+    ]
+  }
+}

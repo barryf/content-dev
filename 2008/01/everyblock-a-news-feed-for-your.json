@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Delicious looking locality info site. Evolved from ChicagoCrime.org\n"],"published":["2008-01-26T12:20:57Z"],"entry-type":["bookmark"],"name":["EveryBlock: A news feed for your block."],"bookmark-of":["http://www.everyblock.com/"],"category":["web","design","inspiration","local","statistics","business","community","django","via-pinboard"],"slug":["everyblock-a-news-feed-for-your"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Delicious looking locality info site. Evolved from ChicagoCrime.org\n"
+    ],
+    "published": [
+      "2008-01-26T12:20:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "EveryBlock: A news feed for your block."
+    ],
+    "bookmark-of": [
+      "http://www.everyblock.com/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "inspiration",
+      "local",
+      "statistics",
+      "business",
+      "community",
+      "django",
+      "via-pinboard"
+    ],
+    "slug": [
+      "everyblock-a-news-feed-for-your"
+    ]
+  }
+}

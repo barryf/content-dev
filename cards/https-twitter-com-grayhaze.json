@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Kevin Purcell"],"photo":["https://twitter.com/grayhaze/profile_image?size=original"],"url":["https://twitter.com/grayhaze"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kevin Purcell"
+    ],
+    "photo": [
+      "https://twitter.com/grayhaze/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/grayhaze"
+    ]
+  }
+}

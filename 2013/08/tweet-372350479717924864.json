@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Email market share (as tracked by @litmusapp in July) http://bfr.st/1fgnjdE"],"published":["2013-08-27T13:30:46Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/372350479717924864"],"slug":["tweet-372350479717924864"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Email market share (as tracked by @litmusapp in July) http://bfr.st/1fgnjdE"
+    ],
+    "published": [
+      "2013-08-27T13:30:46Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/372350479717924864"
+    ],
+    "slug": [
+      "tweet-372350479717924864"
+    ]
+  }
+}

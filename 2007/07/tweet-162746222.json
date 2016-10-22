@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Lying in a hot tub drinking champagne and eating handmade chocolates. It's a hard life."],"published":["2007-07-22T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/162746222"],"slug":["tweet-162746222"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lying in a hot tub drinking champagne and eating handmade chocolates. It's a hard life."
+    ],
+    "published": [
+      "2007-07-22T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/162746222"
+    ],
+    "slug": [
+      "tweet-162746222"
+    ]
+  }
+}

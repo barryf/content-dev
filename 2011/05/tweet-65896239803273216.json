@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@martinbtt Praise from ruby royalty! Good work."],"published":["2011-05-04T21:51:02Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/818452/status/65894193121345536"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/65896239803273216"],"slug":["tweet-65896239803273216"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@martinbtt Praise from ruby royalty! Good work."
+    ],
+    "published": [
+      "2011-05-04T21:51:02Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/818452/status/65894193121345536"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/65896239803273216"
+    ],
+    "slug": [
+      "tweet-65896239803273216"
+    ]
+  }
+}

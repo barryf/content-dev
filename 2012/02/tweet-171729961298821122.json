@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@IanVaughan Ah, the Apple UK keyboard bodge. You should get used to that alt-3 combo, but you can re-map the £ symbol if it's too painful."],"published":["2012-02-20T22:56:28Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5905182/status/171729166339817472"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/171729961298821122"],"slug":["tweet-171729961298821122"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@IanVaughan Ah, the Apple UK keyboard bodge. You should get used to that alt-3 combo, but you can re-map the £ symbol if it's too painful."
+    ],
+    "published": [
+      "2012-02-20T22:56:28Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5905182/status/171729166339817472"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/171729961298821122"
+    ],
+    "slug": [
+      "tweet-171729961298821122"
+    ]
+  }
+}

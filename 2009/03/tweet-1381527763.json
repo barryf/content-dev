@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Two months to wait for a 15 min appointment with an eye specialist. Humph. #nhsfail"],"published":["2009-03-24T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1381527763"],"slug":["tweet-1381527763"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Two months to wait for a 15 min appointment with an eye specialist. Humph. #nhsfail"
+    ],
+    "published": [
+      "2009-03-24T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1381527763"
+    ],
+    "slug": [
+      "tweet-1381527763"
+    ]
+  }
+}

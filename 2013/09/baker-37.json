@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Employing @tweetbot's keyword-muting feature to hide Br-aking B-d spoilers until I can watch it this evening. A few close shaves earlier."],"published":["2013-09-30T14:15:20Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/384682885347033088"],"slug":["baker-37"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Employing @tweetbot's keyword-muting feature to hide Br-aking B-d spoilers until I can watch it this evening. A few close shaves earlier."
+    ],
+    "published": [
+      "2013-09-30T14:15:20Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/384682885347033088"
+    ],
+    "slug": [
+      "baker-37"
+    ]
+  }
+}

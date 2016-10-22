@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@clearjanuary Just needs a headstone and some flowers."],"published":["2012-01-27T17:25:31Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/80843056/status/162948987165491200"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/162949366569648128"],"slug":["tweet-162949366569648128"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@clearjanuary Just needs a headstone and some flowers."
+    ],
+    "published": [
+      "2012-01-27T17:25:31Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/80843056/status/162948987165491200"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/162949366569648128"
+    ],
+    "slug": [
+      "tweet-162949366569648128"
+    ]
+  }
+}

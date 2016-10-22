@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Very pleased with my confident 4-0 prediction for Arsenal v Reading. Chin up, Ian..."],"published":["2006-10-22T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/46675"],"slug":["tweet-46675"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Very pleased with my confident 4-0 prediction for Arsenal v Reading. Chin up, Ian..."
+    ],
+    "published": [
+      "2006-10-22T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/46675"
+    ],
+    "slug": [
+      "tweet-46675"
+    ]
+  }
+}

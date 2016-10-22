@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Worried that everyone's gone bonkers."],"published":["2006-10-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/39232"],"slug":["tweet-39232"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Worried that everyone's gone bonkers."
+    ],
+    "published": [
+      "2006-10-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/39232"
+    ],
+    "slug": [
+      "tweet-39232"
+    ]
+  }
+}

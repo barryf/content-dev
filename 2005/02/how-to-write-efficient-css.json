@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-02T22:08:06Z"],"entry-type":["bookmark"],"name":["How To write Efficient CSS"],"bookmark-of":["http://www.positioniseverything.net/articles/efficientcss.html"],"category":["css","web","dev","via-pinboard"],"slug":["how-to-write-efficient-css"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-02T22:08:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How To write Efficient CSS"
+    ],
+    "bookmark-of": [
+      "http://www.positioniseverything.net/articles/efficientcss.html"
+    ],
+    "category": [
+      "css",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-write-efficient-css"
+    ]
+  }
+}

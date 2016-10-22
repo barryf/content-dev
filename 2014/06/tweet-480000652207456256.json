@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Buttons: Stop asking me to sign up. Get, start and try are better verbs. Give, don’t take. Tie action to the product http://www.gkogan.co/blog/stop-asking-me-to-sign-up/"],"published":["2014-06-20T14:54:08Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/480000652207456256"],"slug":["tweet-480000652207456256"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Buttons: Stop asking me to sign up. Get, start and try are better verbs. Give, don’t take. Tie action to the product http://www.gkogan.co/blog/stop-asking-me-to-sign-up/"
+    ],
+    "published": [
+      "2014-06-20T14:54:08Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/480000652207456256"
+    ],
+    "slug": [
+      "tweet-480000652207456256"
+    ]
+  }
+}

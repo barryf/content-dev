@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying a deserved pint poured by my favourite barmaid @lilja after my Monday Meeting Marathon."],"published":["2009-05-18T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1839900052"],"slug":["tweet-1839900052"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying a deserved pint poured by my favourite barmaid @lilja after my Monday Meeting Marathon."
+    ],
+    "published": [
+      "2009-05-18T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1839900052"
+    ],
+    "slug": [
+      "tweet-1839900052"
+    ]
+  }
+}

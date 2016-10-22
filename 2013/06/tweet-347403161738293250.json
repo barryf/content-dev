@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@samsworldofno Thanks for the tip! Yes, it’s missing a few things, but already useful for many of our internal tools and little web apps."],"published":["2013-06-19T17:19:02Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/9821722/status/347400802891091968"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347403161738293250"],"slug":["tweet-347403161738293250"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@samsworldofno Thanks for the tip! Yes, it’s missing a few things, but already useful for many of our internal tools and little web apps."
+    ],
+    "published": [
+      "2013-06-19T17:19:02Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/9821722/status/347400802891091968"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347403161738293250"
+    ],
+    "slug": [
+      "tweet-347403161738293250"
+    ]
+  }
+}

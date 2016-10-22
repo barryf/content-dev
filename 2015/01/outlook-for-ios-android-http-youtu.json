@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Outlook for iOS/Android: http://youtu.be/9cBfywn_CnU \n\nVery nice. Whisper it, but it may be time to look again at Office 365 vs Google Apps."],"published":["2015-01-29T15:29:28Z"],"entry-type":["note"],"category":["outlook","ios","android","microsoft","office365"],"syndication":["https://twitter.com/barryf/status/560822047110991872"],"slug":["outlook-for-ios-android-http-youtu"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Outlook for iOS/Android: http://youtu.be/9cBfywn_CnU \n\nVery nice. Whisper it, but it may be time to look again at Office 365 vs Google Apps."
+    ],
+    "published": [
+      "2015-01-29T15:29:28Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "outlook",
+      "ios",
+      "android",
+      "microsoft",
+      "office365"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/560822047110991872"
+    ],
+    "slug": [
+      "outlook-for-ios-android-http-youtu"
+    ]
+  }
+}

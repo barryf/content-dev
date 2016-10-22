@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Superb slide deck about using data to make good decisions on product development vs gut feel/what sounds good."],"published":["2016-08-22T10:49:46Z"],"entry-type":["bookmark"],"name":["Data Driven Products Now!"],"bookmark-of":["http://mcfunley.com/data-driven-products-now"],"category":["data","product","presentation"],"slug":["data-driven-products-now"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Superb slide deck about using data to make good decisions on product development vs gut feel/what sounds good."
+    ],
+    "published": [
+      "2016-08-22T10:49:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Data Driven Products Now!"
+    ],
+    "bookmark-of": [
+      "http://mcfunley.com/data-driven-products-now"
+    ],
+    "category": [
+      "data",
+      "product",
+      "presentation"
+    ],
+    "slug": [
+      "data-driven-products-now"
+    ]
+  }
+}

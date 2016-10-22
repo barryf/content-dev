@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-03-21T11:19:50Z"],"entry-type":["bookmark"],"name":["Compound Microformats"],"bookmark-of":["http://premasagar.com/microformats/compound/"],"category":["geo","microformats","compound","web","markup","via-pinboard"],"slug":["compound-microformats"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-03-21T11:19:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Compound Microformats"
+    ],
+    "bookmark-of": [
+      "http://premasagar.com/microformats/compound/"
+    ],
+    "category": [
+      "geo",
+      "microformats",
+      "compound",
+      "web",
+      "markup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "compound-microformats"
+    ]
+  }
+}

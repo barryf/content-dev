@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-03-03T00:47:58Z"],"entry-type":["bookmark"],"name":["Upgrading from MySQL 4.1 to 5.0"],"bookmark-of":["http://dev.mysql.com/doc/refman/5.0/en/upgrading-from-4-1.html"],"category":["database","migration","mysql","upgrade","mysql5","via-pinboard"],"slug":["upgrading-from-mysql-4-1-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-03-03T00:47:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Upgrading from MySQL 4.1 to 5.0"
+    ],
+    "bookmark-of": [
+      "http://dev.mysql.com/doc/refman/5.0/en/upgrading-from-4-1.html"
+    ],
+    "category": [
+      "database",
+      "migration",
+      "mysql",
+      "upgrade",
+      "mysql5",
+      "via-pinboard"
+    ],
+    "slug": [
+      "upgrading-from-mysql-4-1-to"
+    ]
+  }
+}

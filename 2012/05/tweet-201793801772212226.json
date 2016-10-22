@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Lineker asking Hansen if he's ever seen anything like today. 26 May 1989 at Anfield he certainly did... #motd"],"published":["2012-05-13T21:59:26Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/201793801772212226"],"slug":["tweet-201793801772212226"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lineker asking Hansen if he's ever seen anything like today. 26 May 1989 at Anfield he certainly did... #motd"
+    ],
+    "published": [
+      "2012-05-13T21:59:26Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/201793801772212226"
+    ],
+    "slug": [
+      "tweet-201793801772212226"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Companies offering SVN hosting\n"],"published":["2007-04-21T11:10:45Z"],"entry-type":["bookmark"],"name":["Hosted Subversion - Snook.ca"],"bookmark-of":["http://snook.ca/archives/servers/hosted_subversion/"],"category":["subversion","svn","hosting","server","sysadmin","dev","via-pinboard"],"slug":["hosted-subversion-snook-ca"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Companies offering SVN hosting\n"
+    ],
+    "published": [
+      "2007-04-21T11:10:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hosted Subversion - Snook.ca"
+    ],
+    "bookmark-of": [
+      "http://snook.ca/archives/servers/hosted_subversion/"
+    ],
+    "category": [
+      "subversion",
+      "svn",
+      "hosting",
+      "server",
+      "sysadmin",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hosted-subversion-snook-ca"
+    ]
+  }
+}

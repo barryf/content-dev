@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-16T14:44:06Z"],"entry-type":["bookmark"],"name":["Annotated postgresql.conf and Global User Configuration (GUC) Guide"],"bookmark-of":["http://www.varlena.com/varlena/GeneralBits/Tidbits/annotated_conf_e.html"],"category":["postgresql","via-pinboard"],"slug":["annotated-postgresql-conf-and-global-user"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-16T14:44:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Annotated postgresql.conf and Global User Configuration (GUC) Guide"
+    ],
+    "bookmark-of": [
+      "http://www.varlena.com/varlena/GeneralBits/Tidbits/annotated_conf_e.html"
+    ],
+    "category": [
+      "postgresql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "annotated-postgresql-conf-and-global-user"
+    ]
+  }
+}

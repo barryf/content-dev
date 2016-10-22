@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Putting the world to rights with @timblair"],"published":["2009-06-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2019938403"],"slug":["tweet-2019938403"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Putting the world to rights with @timblair"
+    ],
+    "published": [
+      "2009-06-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2019938403"
+    ],
+    "slug": [
+      "tweet-2019938403"
+    ]
+  }
+}

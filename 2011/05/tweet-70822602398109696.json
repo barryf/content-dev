@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw That's interesting to know. I'm sceptical, but if it's that good I may end up properly switching."],"published":["2011-05-18T12:06:38Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/70817246095749120"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/70822602398109696"],"slug":["tweet-70822602398109696"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw That's interesting to know. I'm sceptical, but if it's that good I may end up properly switching."
+    ],
+    "published": [
+      "2011-05-18T12:06:38Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/70817246095749120"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/70822602398109696"
+    ],
+    "slug": [
+      "tweet-70822602398109696"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Developers need peace and quiet!\n"],"published":["2006-07-31T11:45:56Z"],"entry-type":["bookmark"],"name":["Joel on Software: Private Offices Redux"],"bookmark-of":["http://www.joelonsoftware.com/items/2006/07/30.html"],"category":["productivity","office","management","business","work","dev","web","geek","via-pinboard"],"slug":["joel-on-software-private-offices-redux"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Developers need peace and quiet!\n"
+    ],
+    "published": [
+      "2006-07-31T11:45:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Joel on Software: Private Offices Redux"
+    ],
+    "bookmark-of": [
+      "http://www.joelonsoftware.com/items/2006/07/30.html"
+    ],
+    "category": [
+      "productivity",
+      "office",
+      "management",
+      "business",
+      "work",
+      "dev",
+      "web",
+      "geek",
+      "via-pinboard"
+    ],
+    "slug": [
+      "joel-on-software-private-offices-redux"
+    ]
+  }
+}

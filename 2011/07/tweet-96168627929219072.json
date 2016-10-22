@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Ask, debrief and warn: three great ground rules for teams http://kkovacs.eu/teamwork-ground-rules"],"published":["2011-07-27T10:42:42Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/96168627929219072"],"slug":["tweet-96168627929219072"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ask, debrief and warn: three great ground rules for teams http://kkovacs.eu/teamwork-ground-rules"
+    ],
+    "published": [
+      "2011-07-27T10:42:42Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/96168627929219072"
+    ],
+    "slug": [
+      "tweet-96168627929219072"
+    ]
+  }
+}

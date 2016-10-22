@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-05-14T20:57:21Z"],"entry-type":["like"],"like-of":["https://mobile.twitter.com/mr_mcd/status/598951675924185088"],"syndication":["https://mobile.twitter.com/mr_mcd/status/598951675924185088"],"slug":["14-215721"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-05-14T20:57:21Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://mobile.twitter.com/mr_mcd/status/598951675924185088"
+    ],
+    "syndication": [
+      "https://mobile.twitter.com/mr_mcd/status/598951675924185088"
+    ],
+    "slug": [
+      "14-215721"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Personality and behavioural assessment tools"],"published":["2012-09-10T14:53:17Z"],"entry-type":["bookmark"],"name":["SHL People Intelligence"],"bookmark-of":["http://www.shl.com/uk/solutions/products/"],"category":["recruitment","behaviour","assessment","test","team","via-pinboard"],"slug":["shl-people-intelligence"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Personality and behavioural assessment tools"
+    ],
+    "published": [
+      "2012-09-10T14:53:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SHL People Intelligence"
+    ],
+    "bookmark-of": [
+      "http://www.shl.com/uk/solutions/products/"
+    ],
+    "category": [
+      "recruitment",
+      "behaviour",
+      "assessment",
+      "test",
+      "team",
+      "via-pinboard"
+    ],
+    "slug": [
+      "shl-people-intelligence"
+    ]
+  }
+}

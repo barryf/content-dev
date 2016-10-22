@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2013-08-15T20:40:20Z"],"entry-type":["bookmark"],"name":["Serve your Rails assets over S3 (and CloudFront) with asset_sync"],"bookmark-of":["http://blog.firmhouse.com/complete-guide-to-serving-your-rails-assets-over-s3-with-asset_sync"],"category":["s3","rails","assets","cloudfront","scaling","via-pinboard"],"slug":["serve-your-rails-assets-over-s3"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-08-15T20:40:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Serve your Rails assets over S3 (and CloudFront) with asset_sync"
+    ],
+    "bookmark-of": [
+      "http://blog.firmhouse.com/complete-guide-to-serving-your-rails-assets-over-s3-with-asset_sync"
+    ],
+    "category": [
+      "s3",
+      "rails",
+      "assets",
+      "cloudfront",
+      "scaling",
+      "via-pinboard"
+    ],
+    "slug": [
+      "serve-your-rails-assets-over-s3"
+    ]
+  }
+}

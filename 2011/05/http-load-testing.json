@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2011-05-21T20:56:02Z"],"entry-type":["bookmark"],"name":["HTTP Load Testing"],"bookmark-of":["http://www.mnot.net/blog/2011/05/18/http_benchmark_rules"],"category":["http","load","performance","testing","via-pinboard"],"slug":["http-load-testing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-05-21T20:56:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTTP Load Testing"
+    ],
+    "bookmark-of": [
+      "http://www.mnot.net/blog/2011/05/18/http_benchmark_rules"
+    ],
+    "category": [
+      "http",
+      "load",
+      "performance",
+      "testing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "http-load-testing"
+    ]
+  }
+}

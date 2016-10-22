@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["The act of vandalising someone's unlocked computer is called \"goating\" apparently\n"],"published":["2007-11-15T22:18:53Z"],"entry-type":["bookmark"],"name":["Coding Horror: Don't Forget To Lock Your Computer"],"bookmark-of":["http://www.codinghorror.com/blog/archives/000997.html"],"category":["prank","goating","office","security","humour","fun","windows","work","via-pinboard"],"slug":["coding-horror-don-t-forget-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The act of vandalising someone's unlocked computer is called \"goating\" apparently\n"
+    ],
+    "published": [
+      "2007-11-15T22:18:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Coding Horror: Don't Forget To Lock Your Computer"
+    ],
+    "bookmark-of": [
+      "http://www.codinghorror.com/blog/archives/000997.html"
+    ],
+    "category": [
+      "prank",
+      "goating",
+      "office",
+      "security",
+      "humour",
+      "fun",
+      "windows",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "coding-horror-don-t-forget-to"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw About bloody time."],"published":["2012-11-29T12:42:27Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/274127351896485888"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/274131205702680577"],"slug":["tweet-274131205702680577"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw About bloody time."
+    ],
+    "published": [
+      "2012-11-29T12:42:27Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/274127351896485888"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/274131205702680577"
+    ],
+    "slug": [
+      "tweet-274131205702680577"
+    ]
+  }
+}

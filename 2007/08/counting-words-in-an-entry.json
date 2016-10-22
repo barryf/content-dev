@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Uses Java's String split method\n"],"published":["2007-08-13T12:54:29Z"],"entry-type":["bookmark"],"name":["Counting Words in an entry"],"bookmark-of":["http://www.danvega.org/blog/index.cfm/2007/8/9/BlogCFC--Counting-Words-in-an-entry"],"category":["coldfusion","cms","web","dev","forflatpackedworld","blog","via-pinboard"],"slug":["counting-words-in-an-entry"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Uses Java's String split method\n"
+    ],
+    "published": [
+      "2007-08-13T12:54:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Counting Words in an entry"
+    ],
+    "bookmark-of": [
+      "http://www.danvega.org/blog/index.cfm/2007/8/9/BlogCFC--Counting-Words-in-an-entry"
+    ],
+    "category": [
+      "coldfusion",
+      "cms",
+      "web",
+      "dev",
+      "forflatpackedworld",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "counting-words-in-an-entry"
+    ]
+  }
+}

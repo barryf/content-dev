@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I got Comply or Die in our #grandnational sweepstake. Pleased with that and rather appropriate given my mood today."],"published":["2009-04-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1446270104"],"slug":["tweet-1446270104"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I got Comply or Die in our #grandnational sweepstake. Pleased with that and rather appropriate given my mood today."
+    ],
+    "published": [
+      "2009-04-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1446270104"
+    ],
+    "slug": [
+      "tweet-1446270104"
+    ]
+  }
+}

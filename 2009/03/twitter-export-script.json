@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2009-03-13T22:35:33Z"],"entry-type":["bookmark"],"name":["Twitter Export Script"],"bookmark-of":["http://www.adamfranco.com/archives/88"],"category":["twitter","php","backup","export","via-pinboard"],"slug":["twitter-export-script"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-03-13T22:35:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Twitter Export Script"
+    ],
+    "bookmark-of": [
+      "http://www.adamfranco.com/archives/88"
+    ],
+    "category": [
+      "twitter",
+      "php",
+      "backup",
+      "export",
+      "via-pinboard"
+    ],
+    "slug": [
+      "twitter-export-script"
+    ]
+  }
+}

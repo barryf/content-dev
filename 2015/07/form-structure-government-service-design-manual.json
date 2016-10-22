@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["gov.uk advocates one-question-per-page approach to form design"],"published":["2015-07-07T13:02:47Z"],"entry-type":["bookmark"],"name":["Form structure — Government Service Design Manual"],"bookmark-of":["https://www.gov.uk/service-manual/user-centred-design/resources/patterns/form-structure"],"category":["form","survey","govuk"],"slug":["form-structure-government-service-design-manual"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "gov.uk advocates one-question-per-page approach to form design"
+    ],
+    "published": [
+      "2015-07-07T13:02:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Form structure — Government Service Design Manual"
+    ],
+    "bookmark-of": [
+      "https://www.gov.uk/service-manual/user-centred-design/resources/patterns/form-structure"
+    ],
+    "category": [
+      "form",
+      "survey",
+      "govuk"
+    ],
+    "slug": [
+      "form-structure-government-service-design-manual"
+    ]
+  }
+}

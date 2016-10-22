@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Book publishing tool and service. Pretty site too\n"],"published":["2006-02-09T15:06:42Z"],"entry-type":["bookmark"],"name":["Blurb"],"bookmark-of":["http://www.blurb.com/"],"category":["publishing","media","print","book","via-pinboard"],"slug":["blurb"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Book publishing tool and service. Pretty site too\n"
+    ],
+    "published": [
+      "2006-02-09T15:06:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Blurb"
+    ],
+    "bookmark-of": [
+      "http://www.blurb.com/"
+    ],
+    "category": [
+      "publishing",
+      "media",
+      "print",
+      "book",
+      "via-pinboard"
+    ],
+    "slug": [
+      "blurb"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Art of the Title: gorgeous responsive design and typography http://bfr.st/Mvryr9"],"published":["2012-06-25T16:47:19Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/217297934910357504"],"slug":["tweet-217297934910357504"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Art of the Title: gorgeous responsive design and typography http://bfr.st/Mvryr9"
+    ],
+    "published": [
+      "2012-06-25T16:47:19Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/217297934910357504"
+    ],
+    "slug": [
+      "tweet-217297934910357504"
+    ]
+  }
+}

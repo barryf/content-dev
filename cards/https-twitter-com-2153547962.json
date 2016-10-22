@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Scoundrels UK"],"photo":["http://pbs.twimg.com/profile_images/434031104417202176/p3uc-89d_normal.jpeg"],"url":["https://twitter.com/ScoundrelsUK"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Scoundrels UK"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/434031104417202176/p3uc-89d_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/ScoundrelsUK"
+    ]
+  }
+}

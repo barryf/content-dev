@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-12-21T14:05:36Z"],"entry-type":["bookmark"],"name":["Nest Learning Thermostat"],"bookmark-of":["https://store.nest.com/uk/product/thermostat/"],"category":["via-pinboard"],"slug":["nest-learning-thermostat"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-12-21T14:05:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Nest Learning Thermostat"
+    ],
+    "bookmark-of": [
+      "https://store.nest.com/uk/product/thermostat/"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "nest-learning-thermostat"
+    ]
+  }
+}

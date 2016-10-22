@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Drag items between two lists\n"],"published":["2006-01-18T14:06:02Z"],"entry-type":["bookmark"],"name":["Drag & Drop"],"bookmark-of":["http://neb.net/playground/dragdrop/"],"category":["web","dev","design","javascript","ui","dragdrop","via-pinboard"],"slug":["drag-drop"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Drag items between two lists\n"
+    ],
+    "published": [
+      "2006-01-18T14:06:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Drag & Drop"
+    ],
+    "bookmark-of": [
+      "http://neb.net/playground/dragdrop/"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "design",
+      "javascript",
+      "ui",
+      "dragdrop",
+      "via-pinboard"
+    ],
+    "slug": [
+      "drag-drop"
+    ]
+  }
+}

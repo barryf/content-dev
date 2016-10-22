@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw First proper gig, Braintree 1997. Still love them."],"published":["2016-01-22T22:39:39Z"],"entry-type":["reply"],"summary":["@cronkshaw First proper gig, Braintree 1997. Still love them."],"in-reply-to":["https://mobile.twitter.com/cronkshaw/status/690657155603558400"],"syndication":["https://twitter.com/barryf/status/690665163284881408"],"slug":["cronkshaw-first-proper-gig-braintree-1997"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw First proper gig, Braintree 1997. Still love them."
+    ],
+    "published": [
+      "2016-01-22T22:39:39Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@cronkshaw First proper gig, Braintree 1997. Still love them."
+    ],
+    "in-reply-to": [
+      "https://mobile.twitter.com/cronkshaw/status/690657155603558400"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/690665163284881408"
+    ],
+    "slug": [
+      "cronkshaw-first-proper-gig-braintree-1997"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-12-14T09:29:11Z"],"entry-type":["bookmark"],"name":["Ru3y Manor Videos"],"bookmark-of":["http://rubymanor.org/3/videos/"],"category":["presentation","rails","london","rubymanor","ruby","via-pinboard"],"slug":["ru3y-manor-videos"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-12-14T09:29:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ru3y Manor Videos"
+    ],
+    "bookmark-of": [
+      "http://rubymanor.org/3/videos/"
+    ],
+    "category": [
+      "presentation",
+      "rails",
+      "london",
+      "rubymanor",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ru3y-manor-videos"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Who chooses a Wetherspoons to meet in when you're in Islington?"],"published":["2012-03-08T18:55:02Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/177829799128076288"],"slug":["tweet-177829799128076288"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Who chooses a Wetherspoons to meet in when you're in Islington?"
+    ],
+    "published": [
+      "2012-03-08T18:55:02Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/177829799128076288"
+    ],
+    "slug": [
+      "tweet-177829799128076288"
+    ]
+  }
+}

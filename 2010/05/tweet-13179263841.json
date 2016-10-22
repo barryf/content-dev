@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The Guardian nails its colours to the Lib Dem mast: http://bit.ly/aMZX7N #libdems #ge2010"],"published":["2010-05-01T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/13179263841"],"slug":["tweet-13179263841"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The Guardian nails its colours to the Lib Dem mast: http://bit.ly/aMZX7N #libdems #ge2010"
+    ],
+    "published": [
+      "2010-05-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/13179263841"
+    ],
+    "slug": [
+      "tweet-13179263841"
+    ]
+  }
+}

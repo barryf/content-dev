@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Half watching the cricket, killing time before heading out to London for some comedy at the Water Rats tonight."],"published":["2009-07-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2598425598"],"slug":["tweet-2598425598"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Half watching the cricket, killing time before heading out to London for some comedy at the Water Rats tonight."
+    ],
+    "published": [
+      "2009-07-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2598425598"
+    ],
+    "slug": [
+      "tweet-2598425598"
+    ]
+  }
+}

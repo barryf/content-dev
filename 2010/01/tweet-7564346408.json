@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["With a prefix of \"flirty love\", the Daily Mail giggles about \"newly single\" Andy Murray and a *15* year old girl FFS: http://bit.ly/5bPXhH"],"published":["2010-01-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/7564346408"],"slug":["tweet-7564346408"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "With a prefix of \"flirty love\", the Daily Mail giggles about \"newly single\" Andy Murray and a *15* year old girl FFS: http://bit.ly/5bPXhH"
+    ],
+    "published": [
+      "2010-01-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/7564346408"
+    ],
+    "slug": [
+      "tweet-7564346408"
+    ]
+  }
+}

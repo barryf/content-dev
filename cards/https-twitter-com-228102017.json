@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["LTGooner"],"photo":["http://pbs.twimg.com/profile_images/490975058572374017/ObMnmxMh_normal.jpeg"],"url":["https://twitter.com/LadGooner"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "LTGooner"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/490975058572374017/ObMnmxMh_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/LadGooner"
+    ]
+  }
+}

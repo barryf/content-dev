@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Indix"],"photo":["https://twitter.com/Indix/profile_image?size=original"],"url":["https://twitter.com/Indix"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Indix"
+    ],
+    "photo": [
+      "https://twitter.com/Indix/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/Indix"
+    ]
+  }
+}

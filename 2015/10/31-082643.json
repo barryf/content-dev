@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-10-31T08:26:43Z"],"entry-type":["like"],"like-of":["https://twitter.com/SlackHQ/status/660208282896756736"],"syndication":["https://twitter.com/SlackHQ/status/660208282896756736"],"slug":["31-082643"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-10-31T08:26:43Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/SlackHQ/status/660208282896756736"
+    ],
+    "syndication": [
+      "https://twitter.com/SlackHQ/status/660208282896756736"
+    ],
+    "slug": [
+      "31-082643"
+    ]
+  }
+}

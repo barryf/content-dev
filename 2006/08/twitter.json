@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["The best thing ever. SMS status thingy.\n"],"published":["2006-08-24T14:43:45Z"],"entry-type":["bookmark"],"name":["Twitter"],"bookmark-of":["http://twitter.com/"],"category":["sms","cool","social","mobile","phone","telephony","telecom","text","status","community","via-pinboard"],"slug":["twitter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The best thing ever. SMS status thingy.\n"
+    ],
+    "published": [
+      "2006-08-24T14:43:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Twitter"
+    ],
+    "bookmark-of": [
+      "http://twitter.com/"
+    ],
+    "category": [
+      "sms",
+      "cool",
+      "social",
+      "mobile",
+      "phone",
+      "telephony",
+      "telecom",
+      "text",
+      "status",
+      "community",
+      "via-pinboard"
+    ],
+    "slug": [
+      "twitter"
+    ]
+  }
+}

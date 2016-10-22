@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["It's the final countdown...\n"],"published":["2005-12-20T09:40:40Z"],"entry-type":["bookmark"],"name":["Internet Explorer 5 for Mac"],"bookmark-of":["http://www.microsoft.com/mac/products/internetexplorer/internetexplorer.aspx?pid=internetexplorer"],"category":["browser","ie","mac","microsoft","web","via-pinboard"],"slug":["internet-explorer-5-for-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It's the final countdown...\n"
+    ],
+    "published": [
+      "2005-12-20T09:40:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Internet Explorer 5 for Mac"
+    ],
+    "bookmark-of": [
+      "http://www.microsoft.com/mac/products/internetexplorer/internetexplorer.aspx?pid=internetexplorer"
+    ],
+    "category": [
+      "browser",
+      "ie",
+      "mac",
+      "microsoft",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "internet-explorer-5-for-mac"
+    ]
+  }
+}

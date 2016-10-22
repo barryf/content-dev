@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["Three days of walking round a city like Prague really does boost your daily step count.\r\n\r\nhttps://barryf.s3.amazonaws.com/prague_steps.png\r\n\r\n(This may be the only post I ever make approaching a #workoutbrag)\n"],"published":["2015-02-22T14:53:52Z"],"entry-type":["note"],"summary":["Three days of walking round a city like Prague really does boost your daily step count.\r\n\r\nhttps://barryf.s3.amazonaws.com/prague_steps.jpg"],"category":["travel"],"syndication":["https://twitter.com/barryf/status/569510407196450816"],"slug":["three-days-of-walking-round-a"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Three days of walking round a city like Prague really does boost your daily step count.\r\n\r\nhttps://barryf.s3.amazonaws.com/prague_steps.png\r\n\r\n(This may be the only post I ever make approaching a #workoutbrag)\n"
+    ],
+    "published": [
+      "2015-02-22T14:53:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "Three days of walking round a city like Prague really does boost your daily step count.\r\n\r\nhttps://barryf.s3.amazonaws.com/prague_steps.jpg"
+    ],
+    "category": [
+      "travel"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/569510407196450816"
+    ],
+    "slug": [
+      "three-days-of-walking-round-a"
+    ]
+  }
+}

@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2016-07-01T14:03:32Z"],"entry-type":["bookmark"],"name":["Hamburger Menus and Hidden Navigation Hurt UX Metrics"],"bookmark-of":["https://www.nngroup.com/articles/hamburger-menus/"],"category":["ux","nav","hamburger"],"slug":["hamburger-menus-and-hidden-navigation-hurt"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-07-01T14:03:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hamburger Menus and Hidden Navigation Hurt UX Metrics"
+    ],
+    "bookmark-of": [
+      "https://www.nngroup.com/articles/hamburger-menus/"
+    ],
+    "category": [
+      "ux",
+      "nav",
+      "hamburger"
+    ],
+    "slug": [
+      "hamburger-menus-and-hidden-navigation-hurt"
+    ]
+  }
+}

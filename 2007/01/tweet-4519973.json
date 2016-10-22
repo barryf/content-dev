@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Having mixed feelings about going to Microsoft's Designertopia conference on Thursday. Must take an open mind..."],"published":["2007-01-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4519973"],"slug":["tweet-4519973"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Having mixed feelings about going to Microsoft's Designertopia conference on Thursday. Must take an open mind..."
+    ],
+    "published": [
+      "2007-01-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4519973"
+    ],
+    "slug": [
+      "tweet-4519973"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["A collection of patterns and modules for responsive designs.\r\n"],"published":["2012-10-12T07:51:01Z"],"entry-type":["bookmark"],"name":["Responsive Web Design Patterns"],"bookmark-of":["http://bradfrost.github.com/this-is-responsive/patterns.html"],"category":["responsive","design","css","layout","via-pinboard"],"slug":["responsive-web-design-patterns"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A collection of patterns and modules for responsive designs.\r\n"
+    ],
+    "published": [
+      "2012-10-12T07:51:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Responsive Web Design Patterns"
+    ],
+    "bookmark-of": [
+      "http://bradfrost.github.com/this-is-responsive/patterns.html"
+    ],
+    "category": [
+      "responsive",
+      "design",
+      "css",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "responsive-web-design-patterns"
+    ]
+  }
+}

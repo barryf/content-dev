@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I won the second innings sweepstake too, predicting a win by four wickets. Just call me Bumble."],"published":["2009-08-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3152537136"],"slug":["tweet-3152537136"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I won the second innings sweepstake too, predicting a win by four wickets. Just call me Bumble."
+    ],
+    "published": [
+      "2009-08-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3152537136"
+    ],
+    "slug": [
+      "tweet-3152537136"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Ghost stations of the London Underground on the classic Tube map http://usvsth3m.com/post/52135944891"],"published":["2014-01-21T17:08:38Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/425676321168302080"],"slug":["tweet-425676321168302080"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ghost stations of the London Underground on the classic Tube map http://usvsth3m.com/post/52135944891"
+    ],
+    "published": [
+      "2014-01-21T17:08:38Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/425676321168302080"
+    ],
+    "slug": [
+      "tweet-425676321168302080"
+    ]
+  }
+}

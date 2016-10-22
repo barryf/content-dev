@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["We've got dozens of Macs in the office. Will I be able to buy multiple copies of Lion through the Mac App Store using one company Apple ID?"],"published":["2011-06-06T21:07:33Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/77844097666269186"],"slug":["tweet-77844097666269186"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "We've got dozens of Macs in the office. Will I be able to buy multiple copies of Lion through the Mac App Store using one company Apple ID?"
+    ],
+    "published": [
+      "2011-06-06T21:07:33Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/77844097666269186"
+    ],
+    "slug": [
+      "tweet-77844097666269186"
+    ]
+  }
+}

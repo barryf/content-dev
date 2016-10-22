@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Nice image viewing effect\n"],"published":["2005-12-30T09:44:09Z"],"entry-type":["bookmark"],"name":["Lightbox JS: Fullsize Image Overlays"],"bookmark-of":["http://www.huddletogether.com/projects/lightbox/"],"category":["web","design","effects","javascript","via-pinboard"],"slug":["lightbox-js-fullsize-image-overlays"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nice image viewing effect\n"
+    ],
+    "published": [
+      "2005-12-30T09:44:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Lightbox JS: Fullsize Image Overlays"
+    ],
+    "bookmark-of": [
+      "http://www.huddletogether.com/projects/lightbox/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "effects",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lightbox-js-fullsize-image-overlays"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Read @matsadler’s definitive and exhaustive rundown of all the changes in Ruby 2.0.0 on the @globaldev site http://bfr.st/ZFYlQb #ruby2"],"published":["2013-03-12T17:27:17Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/311528838637182976"],"slug":["tweet-311528838637182976"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Read @matsadler’s definitive and exhaustive rundown of all the changes in Ruby 2.0.0 on the @globaldev site http://bfr.st/ZFYlQb #ruby2"
+    ],
+    "published": [
+      "2013-03-12T17:27:17Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/311528838637182976"
+    ],
+    "slug": [
+      "tweet-311528838637182976"
+    ]
+  }
+}

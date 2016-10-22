@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2012-01-17T17:21:59Z"],"entry-type":["bookmark"],"name":["Gabble - Yammer Mac client"],"bookmark-of":["http://gabbleapp.com/"],"category":["client","osx","mac","yammer","via-pinboard"],"slug":["gabble-yammer-mac-client"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-01-17T17:21:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Gabble - Yammer Mac client"
+    ],
+    "bookmark-of": [
+      "http://gabbleapp.com/"
+    ],
+    "category": [
+      "client",
+      "osx",
+      "mac",
+      "yammer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gabble-yammer-mac-client"
+    ]
+  }
+}

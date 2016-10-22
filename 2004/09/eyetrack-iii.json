@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Study of eye movement on news websites\n"],"published":["2004-09-10T10:36:36Z"],"entry-type":["bookmark"],"name":["Eyetrack III"],"bookmark-of":["http://www.poynterextra.org/eyetrack2004/main.htm"],"category":["usability","via-pinboard"],"slug":["eyetrack-iii"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Study of eye movement on news websites\n"
+    ],
+    "published": [
+      "2004-09-10T10:36:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Eyetrack III"
+    ],
+    "bookmark-of": [
+      "http://www.poynterextra.org/eyetrack2004/main.htm"
+    ],
+    "category": [
+      "usability",
+      "via-pinboard"
+    ],
+    "slug": [
+      "eyetrack-iii"
+    ]
+  }
+}

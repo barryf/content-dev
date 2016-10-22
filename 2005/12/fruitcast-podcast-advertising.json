@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-14T10:23:28Z"],"entry-type":["bookmark"],"name":["Fruitcast - Podcast advertising"],"bookmark-of":["http://www.fruitcast.com/"],"category":["podcast","blog","advertising","media","audio","via-pinboard"],"slug":["fruitcast-podcast-advertising"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-14T10:23:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fruitcast - Podcast advertising"
+    ],
+    "bookmark-of": [
+      "http://www.fruitcast.com/"
+    ],
+    "category": [
+      "podcast",
+      "blog",
+      "advertising",
+      "media",
+      "audio",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fruitcast-podcast-advertising"
+    ]
+  }
+}

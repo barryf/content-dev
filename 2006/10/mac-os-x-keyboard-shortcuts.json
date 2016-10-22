@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2006-10-11T13:02:04Z"],"entry-type":["bookmark"],"name":["Mac OS X keyboard shortcuts"],"bookmark-of":["http://docs.info.apple.com/article.html?artnum=75459"],"category":["mac","keyboard","startup","sysadmin","via-pinboard"],"slug":["mac-os-x-keyboard-shortcuts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-10-11T13:02:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mac OS X keyboard shortcuts"
+    ],
+    "bookmark-of": [
+      "http://docs.info.apple.com/article.html?artnum=75459"
+    ],
+    "category": [
+      "mac",
+      "keyboard",
+      "startup",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mac-os-x-keyboard-shortcuts"
+    ]
+  }
+}

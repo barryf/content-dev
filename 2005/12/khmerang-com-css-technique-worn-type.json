@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-02T21:38:45Z"],"entry-type":["bookmark"],"name":["Khmerang.com - CSS-Technique: Worn Type"],"bookmark-of":["http://www.khmerang.com/index.php?p=95"],"category":["css","web","design","font","via-pinboard"],"slug":["khmerang-com-css-technique-worn-type"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-02T21:38:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Khmerang.com - CSS-Technique: Worn Type"
+    ],
+    "bookmark-of": [
+      "http://www.khmerang.com/index.php?p=95"
+    ],
+    "category": [
+      "css",
+      "web",
+      "design",
+      "font",
+      "via-pinboard"
+    ],
+    "slug": [
+      "khmerang-com-css-technique-worn-type"
+    ]
+  }
+}

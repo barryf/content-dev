@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["iPhone/web collective: Garrett Murray and chums\n"],"published":["2009-05-23T21:04:53Z"],"entry-type":["bookmark"],"name":["pinch/zoom"],"bookmark-of":["http://pinchzoom.com/"],"category":["agency","collective","inspiration","studio","iphone","web","dev","company","via-pinboard"],"slug":["pinch-zoom"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "iPhone/web collective: Garrett Murray and chums\n"
+    ],
+    "published": [
+      "2009-05-23T21:04:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "pinch/zoom"
+    ],
+    "bookmark-of": [
+      "http://pinchzoom.com/"
+    ],
+    "category": [
+      "agency",
+      "collective",
+      "inspiration",
+      "studio",
+      "iphone",
+      "web",
+      "dev",
+      "company",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pinch-zoom"
+    ]
+  }
+}

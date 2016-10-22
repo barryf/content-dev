@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Tools and scripts to make the most of your Last.fm account from Spotify and vice versa\n"],"published":["2010-03-13T16:19:53Z"],"entry-type":["bookmark"],"name":["Spotify <3 Last.fm"],"bookmark-of":["http://pansentient.com/2009/05/spotify-3-last-fm/"],"category":["lastfm","spotify","music","hack","via-pinboard"],"slug":["spotify-3-last-fm"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tools and scripts to make the most of your Last.fm account from Spotify and vice versa\n"
+    ],
+    "published": [
+      "2010-03-13T16:19:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Spotify <3 Last.fm"
+    ],
+    "bookmark-of": [
+      "http://pansentient.com/2009/05/spotify-3-last-fm/"
+    ],
+    "category": [
+      "lastfm",
+      "spotify",
+      "music",
+      "hack",
+      "via-pinboard"
+    ],
+    "slug": [
+      "spotify-3-last-fm"
+    ]
+  }
+}

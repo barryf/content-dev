@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Kaitlyn Nelson"],"photo":["https://twitter.com/kaitlynelson/profile_image?size=original"],"url":["https://twitter.com/kaitlynelson"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kaitlyn Nelson"
+    ],
+    "photo": [
+      "https://twitter.com/kaitlynelson/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/kaitlynelson"
+    ]
+  }
+}

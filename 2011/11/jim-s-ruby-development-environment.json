@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["How @jimeh manages Ruby on his local dev machines: rbenv, bundler aliases, pow, homebrew\n"],"published":["2011-11-18T09:10:12Z"],"entry-type":["bookmark"],"name":["Jim's Ruby Development Environment"],"bookmark-of":["http://jimeh.me/blog/2011/11/01/my-ruby-development-environment/"],"category":["ruby","mac","rvm","rbenv","via-pinboard"],"slug":["jim-s-ruby-development-environment"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How @jimeh manages Ruby on his local dev machines: rbenv, bundler aliases, pow, homebrew\n"
+    ],
+    "published": [
+      "2011-11-18T09:10:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Jim's Ruby Development Environment"
+    ],
+    "bookmark-of": [
+      "http://jimeh.me/blog/2011/11/01/my-ruby-development-environment/"
+    ],
+    "category": [
+      "ruby",
+      "mac",
+      "rvm",
+      "rbenv",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jim-s-ruby-development-environment"
+    ]
+  }
+}

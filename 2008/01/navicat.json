@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["MySQL tool for Mac\n"],"published":["2008-01-19T18:01:56Z"],"entry-type":["bookmark"],"name":["Navicat"],"bookmark-of":["http://www.navicat.com/mac_detail.html"],"category":["mysql","mac","application","commercial","via-pinboard"],"slug":["navicat"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "MySQL tool for Mac\n"
+    ],
+    "published": [
+      "2008-01-19T18:01:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Navicat"
+    ],
+    "bookmark-of": [
+      "http://www.navicat.com/mac_detail.html"
+    ],
+    "category": [
+      "mysql",
+      "mac",
+      "application",
+      "commercial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "navicat"
+    ]
+  }
+}

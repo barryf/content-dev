@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/7567782/status/484729495430389760"],"published":["2014-07-03T16:04:52Z"],"content":["@barryf just pinged a playlist over to you on spottily...."],"author":["https://twitter.com/7567782"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/7567782/status/484729495430389760"
+    ],
+    "published": [
+      "2014-07-03T16:04:52Z"
+    ],
+    "content": [
+      "@barryf just pinged a playlist over to you on spottily...."
+    ],
+    "author": [
+      "https://twitter.com/7567782"
+    ]
+  }
+}

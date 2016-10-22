@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh HOUSE!"],"published":["2015-08-17T08:32:03Z"],"entry-type":["reply"],"summary":["@boffbowsh HOUSE!"],"in-reply-to":["https://twitter.com/boffbowsh/status/633194245831192576"],"syndication":["https://twitter.com/barryf/status/633194573171286016"],"slug":["boffbowsh-house"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh HOUSE!"
+    ],
+    "published": [
+      "2015-08-17T08:32:03Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@boffbowsh HOUSE!"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/boffbowsh/status/633194245831192576"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/633194573171286016"
+    ],
+    "slug": [
+      "boffbowsh-house"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-15T08:40:46Z"],"entry-type":["bookmark"],"name":["SQL to Select a random row from a database table"],"bookmark-of":["http://www.petefreitag.com/item/466.cfm"],"category":["database","sql","useful","via-pinboard"],"slug":["sql-to-select-a-random-row"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-15T08:40:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SQL to Select a random row from a database table"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/466.cfm"
+    ],
+    "category": [
+      "database",
+      "sql",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sql-to-select-a-random-row"
+    ]
+  }
+}

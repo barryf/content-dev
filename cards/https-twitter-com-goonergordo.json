@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["GoonerGordö"],"photo":["https://twitter.com/GoonerGordo/profile_image?size=original"],"url":["https://twitter.com/GoonerGordo"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "GoonerGordö"
+    ],
+    "photo": [
+      "https://twitter.com/GoonerGordo/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/GoonerGordo"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Kirsty"],"photo":["https://scontent.cdninstagram.com/t51.2885-19/10553999_607750426007442_1965074226_a.jpg"],"url":["https://www.instagram.com/kirstyaus/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kirsty"
+    ],
+    "photo": [
+      "https://scontent.cdninstagram.com/t51.2885-19/10553999_607750426007442_1965074226_a.jpg"
+    ],
+    "url": [
+      "https://www.instagram.com/kirstyaus/"
+    ]
+  }
+}

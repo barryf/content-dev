@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Write OO JS with design patterns like decorators and facades\n"],"published":["2008-01-13T17:05:58Z"],"entry-type":["bookmark"],"name":["Book: Pro JavaScript Design Patterns, by Ross Harmes and Dustin Diaz"],"bookmark-of":["http://jsdesignpatterns.com/"],"category":["javascript","pattern","web","dev","via-pinboard"],"slug":["book-pro-javascript-design-patterns-by"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Write OO JS with design patterns like decorators and facades\n"
+    ],
+    "published": [
+      "2008-01-13T17:05:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Book: Pro JavaScript Design Patterns, by Ross Harmes and Dustin Diaz"
+    ],
+    "bookmark-of": [
+      "http://jsdesignpatterns.com/"
+    ],
+    "category": [
+      "javascript",
+      "pattern",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "book-pro-javascript-design-patterns-by"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2013-07-18T11:37:33Z"],"entry-type":["bookmark"],"name":["Stupid htaccess Tricks"],"bookmark-of":["http://perishablepress.com/stupid-htaccess-tricks/"],"category":["htaccess","html","server","hosting","sysadmin","apache","via-pinboard"],"slug":["stupid-htaccess-tricks"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-07-18T11:37:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Stupid htaccess Tricks"
+    ],
+    "bookmark-of": [
+      "http://perishablepress.com/stupid-htaccess-tricks/"
+    ],
+    "category": [
+      "htaccess",
+      "html",
+      "server",
+      "hosting",
+      "sysadmin",
+      "apache",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stupid-htaccess-tricks"
+    ]
+  }
+}

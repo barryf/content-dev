@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Just what the casual MySpace-curious web-savvy geek needs. Far too much nested table gunk for me to be bothered to figure out but Mike's done the hard work. Nice.\n"],"published":["2006-07-31T09:00:05Z"],"entry-type":["bookmark"],"name":["Mike Davidson: Hacking A More Tasteful MySpace"],"bookmark-of":["http://www.mikeindustries.com/blog/archive/2006/04/hacking-myspace-layouts"],"category":["myspace","community","design","css","web","via-pinboard"],"slug":["mike-davidson-hacking-a-more-tasteful"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just what the casual MySpace-curious web-savvy geek needs. Far too much nested table gunk for me to be bothered to figure out but Mike's done the hard work. Nice.\n"
+    ],
+    "published": [
+      "2006-07-31T09:00:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mike Davidson: Hacking A More Tasteful MySpace"
+    ],
+    "bookmark-of": [
+      "http://www.mikeindustries.com/blog/archive/2006/04/hacking-myspace-layouts"
+    ],
+    "category": [
+      "myspace",
+      "community",
+      "design",
+      "css",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mike-davidson-hacking-a-more-tasteful"
+    ]
+  }
+}

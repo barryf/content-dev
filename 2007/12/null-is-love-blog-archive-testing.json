@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-08T16:16:41Z"],"entry-type":["bookmark"],"name":["Null is Love » Blog Archive » Testing in Rails: Part 4 - Unit Testing in Rails"],"bookmark-of":["http://www.nullislove.com/2007/11/29/testing-in-rails-part-4-unit-testing-in-rails/"],"category":["testing","rails","tdd","web","dev","via-pinboard"],"slug":["null-is-love-blog-archive-testing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-08T16:16:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Null is Love » Blog Archive » Testing in Rails: Part 4 - Unit Testing in Rails"
+    ],
+    "bookmark-of": [
+      "http://www.nullislove.com/2007/11/29/testing-in-rails-part-4-unit-testing-in-rails/"
+    ],
+    "category": [
+      "testing",
+      "rails",
+      "tdd",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "null-is-love-blog-archive-testing"
+    ]
+  }
+}

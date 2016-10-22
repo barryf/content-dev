@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Hayley Hinsley"],"photo":["https://twitter.com/hayleyhinsley/profile_image?size=original"],"url":["https://twitter.com/hayleyhinsley"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Hayley Hinsley"
+    ],
+    "photo": [
+      "https://twitter.com/hayleyhinsley/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/hayleyhinsley"
+    ]
+  }
+}

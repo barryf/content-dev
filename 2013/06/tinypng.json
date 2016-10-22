@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Compress PNG images while preserving transparency"],"published":["2013-06-13T10:47:22Z"],"entry-type":["bookmark"],"name":["TinyPNG"],"bookmark-of":["http://tinypng.org/"],"category":["png","compression","mobile","optimisation","image","via-pinboard"],"slug":["tinypng"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Compress PNG images while preserving transparency"
+    ],
+    "published": [
+      "2013-06-13T10:47:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TinyPNG"
+    ],
+    "bookmark-of": [
+      "http://tinypng.org/"
+    ],
+    "category": [
+      "png",
+      "compression",
+      "mobile",
+      "optimisation",
+      "image",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tinypng"
+    ]
+  }
+}

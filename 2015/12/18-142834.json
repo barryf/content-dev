@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2015-12-18T14:28:34Z"],"entry-type":["like"],"like-of":["https://twitter.com/venntro/status/677839492573564928"],"category":["venntro"],"syndication":["https://twitter.com/venntro/status/677839492573564928"],"slug":["18-142834"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-12-18T14:28:34Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/venntro/status/677839492573564928"
+    ],
+    "category": [
+      "venntro"
+    ],
+    "syndication": [
+      "https://twitter.com/venntro/status/677839492573564928"
+    ],
+    "slug": [
+      "18-142834"
+    ]
+  }
+}

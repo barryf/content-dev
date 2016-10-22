@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Rating stars for Prototype\n"],"published":["2008-05-05T08:56:15Z"],"entry-type":["bookmark"],"name":["Starbox"],"bookmark-of":["http://www.nickstakenburg.com/projects/starbox/"],"category":["star","rating","ajax","prototype","web20","feedback","comment","web","design","via-pinboard"],"slug":["starbox"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rating stars for Prototype\n"
+    ],
+    "published": [
+      "2008-05-05T08:56:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Starbox"
+    ],
+    "bookmark-of": [
+      "http://www.nickstakenburg.com/projects/starbox/"
+    ],
+    "category": [
+      "star",
+      "rating",
+      "ajax",
+      "prototype",
+      "web20",
+      "feedback",
+      "comment",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "starbox"
+    ]
+  }
+}

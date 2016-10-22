@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Haven't seen them for years. Looking forward to it, thanks."],"published":["2012-01-24T22:58:31Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/161871712068182016"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/161946005779124225"],"slug":["tweet-161946005779124225"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Haven't seen them for years. Looking forward to it, thanks."
+    ],
+    "published": [
+      "2012-01-24T22:58:31Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/161871712068182016"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/161946005779124225"
+    ],
+    "slug": [
+      "tweet-161946005779124225"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Resizable, maxlength, word count\n"],"published":["2006-10-08T12:21:48Z"],"entry-type":["bookmark"],"name":["Textarea tools"],"bookmark-of":["http://livsey.org/experiments/textareatools/"],"category":["textarea","text","html","web","design","dev","javascript","via-pinboard"],"slug":["textarea-tools"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Resizable, maxlength, word count\n"
+    ],
+    "published": [
+      "2006-10-08T12:21:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Textarea tools"
+    ],
+    "bookmark-of": [
+      "http://livsey.org/experiments/textareatools/"
+    ],
+    "category": [
+      "textarea",
+      "text",
+      "html",
+      "web",
+      "design",
+      "dev",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "textarea-tools"
+    ]
+  }
+}

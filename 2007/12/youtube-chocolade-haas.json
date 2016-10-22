@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Artwank video of chocolate bunnies melted with an iron, heat lamp and hairdryer\n"],"published":["2007-12-02T11:40:11Z"],"entry-type":["bookmark"],"name":["YouTube - Chocolade Haas"],"bookmark-of":["http://www.youtube.com/watch?v=E2Fjilze0eI"],"category":["video","chocolate","bunny","artwank","via-pinboard"],"slug":["youtube-chocolade-haas"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Artwank video of chocolate bunnies melted with an iron, heat lamp and hairdryer\n"
+    ],
+    "published": [
+      "2007-12-02T11:40:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "YouTube - Chocolade Haas"
+    ],
+    "bookmark-of": [
+      "http://www.youtube.com/watch?v=E2Fjilze0eI"
+    ],
+    "category": [
+      "video",
+      "chocolate",
+      "bunny",
+      "artwank",
+      "via-pinboard"
+    ],
+    "slug": [
+      "youtube-chocolade-haas"
+    ]
+  }
+}

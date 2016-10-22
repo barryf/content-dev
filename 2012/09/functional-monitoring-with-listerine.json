@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2012-09-29T07:41:31Z"],"entry-type":["bookmark"],"name":["Functional Monitoring with Listerine"],"bookmark-of":["http://blog.appboy.com/2012/07/functional-monitoring-with-listerine/"],"category":["monitoring","sysadmin","server","via-pinboard"],"slug":["functional-monitoring-with-listerine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-09-29T07:41:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Functional Monitoring with Listerine"
+    ],
+    "bookmark-of": [
+      "http://blog.appboy.com/2012/07/functional-monitoring-with-listerine/"
+    ],
+    "category": [
+      "monitoring",
+      "sysadmin",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "functional-monitoring-with-listerine"
+    ]
+  }
+}

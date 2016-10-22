@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-07-15T07:51:32Z"],"entry-type":["like"],"like-of":["https://twitter.com/hobbsy/status/753690417179353088"],"syndication":["https://twitter.com/hobbsy/status/753690417179353088"],"slug":["15-085132"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-07-15T07:51:32Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/hobbsy/status/753690417179353088"
+    ],
+    "syndication": [
+      "https://twitter.com/hobbsy/status/753690417179353088"
+    ],
+    "slug": [
+      "15-085132"
+    ]
+  }
+}

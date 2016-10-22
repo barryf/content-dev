@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Loving the interviews: TV5 and Theo both calling out Spurs. 3rd is on!"],"published":["2012-03-12T22:08:51Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/179327676648140801"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/179328126583713793"],"slug":["tweet-179328126583713793"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Loving the interviews: TV5 and Theo both calling out Spurs. 3rd is on!"
+    ],
+    "published": [
+      "2012-03-12T22:08:51Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/179327676648140801"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/179328126583713793"
+    ],
+    "slug": [
+      "tweet-179328126583713793"
+    ]
+  }
+}

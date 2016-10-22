@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw You're making me very hungry with all this fish'n'chip porn. I'm craving them for lunch now."],"published":["2010-12-01T12:00:03Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/9935444263305216"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/9939782545178625"],"slug":["tweet-9939782545178625"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw You're making me very hungry with all this fish'n'chip porn. I'm craving them for lunch now."
+    ],
+    "published": [
+      "2010-12-01T12:00:03Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/9935444263305216"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/9939782545178625"
+    ],
+    "slug": [
+      "tweet-9939782545178625"
+    ]
+  }
+}

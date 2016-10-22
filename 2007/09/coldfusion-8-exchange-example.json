@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["How easy is that?\n"],"published":["2007-09-28T09:28:46Z"],"entry-type":["bookmark"],"name":["ColdFusion 8/Exchange example"],"bookmark-of":["http://pastie.caboo.se/101687"],"category":["coldfusion","exchange","work","dev","email","via-pinboard"],"slug":["coldfusion-8-exchange-example"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How easy is that?\n"
+    ],
+    "published": [
+      "2007-09-28T09:28:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ColdFusion 8/Exchange example"
+    ],
+    "bookmark-of": [
+      "http://pastie.caboo.se/101687"
+    ],
+    "category": [
+      "coldfusion",
+      "exchange",
+      "work",
+      "dev",
+      "email",
+      "via-pinboard"
+    ],
+    "slug": [
+      "coldfusion-8-exchange-example"
+    ]
+  }
+}

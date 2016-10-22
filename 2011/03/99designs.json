@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Web, print, brochure and logo design marketplace/outsourcer\n"],"published":["2011-03-19T14:37:15Z"],"entry-type":["bookmark"],"name":["99designs"],"bookmark-of":["http://99designs.com/"],"category":["design","logo","web","marketplace","outsource","theme","print","via-pinboard"],"slug":["99designs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Web, print, brochure and logo design marketplace/outsourcer\n"
+    ],
+    "published": [
+      "2011-03-19T14:37:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "99designs"
+    ],
+    "bookmark-of": [
+      "http://99designs.com/"
+    ],
+    "category": [
+      "design",
+      "logo",
+      "web",
+      "marketplace",
+      "outsource",
+      "theme",
+      "print",
+      "via-pinboard"
+    ],
+    "slug": [
+      "99designs"
+    ]
+  }
+}

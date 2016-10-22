@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Min/max device widths for smartphones, iPads, etc.\n"],"published":["2010-10-06T13:45:39Z"],"entry-type":["bookmark"],"name":["Hardboiled CSS3 Media Queries"],"bookmark-of":["http://stuffandnonsense.co.uk/blog/about/hardboiled_css3_media_queries"],"category":["smartphone","ipad","mediaquery","css","css3","design","layout","via-pinboard"],"slug":["hardboiled-css3-media-queries"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Min/max device widths for smartphones, iPads, etc.\n"
+    ],
+    "published": [
+      "2010-10-06T13:45:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hardboiled CSS3 Media Queries"
+    ],
+    "bookmark-of": [
+      "http://stuffandnonsense.co.uk/blog/about/hardboiled_css3_media_queries"
+    ],
+    "category": [
+      "smartphone",
+      "ipad",
+      "mediaquery",
+      "css",
+      "css3",
+      "design",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hardboiled-css3-media-queries"
+    ]
+  }
+}

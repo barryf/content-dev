@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Use svn copy instead and preserve your plugins/setup\n"],"published":["2007-01-03T10:49:53Z"],"entry-type":["bookmark"],"name":["has_many :through: Stop using the rails command"],"bookmark-of":["http://blog.hasmanythrough.com/2006/12/28/stop-using-the-rails-command/"],"category":["rails","subversion","svn","dev","via-pinboard"],"slug":["has-many-through-stop-using-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Use svn copy instead and preserve your plugins/setup\n"
+    ],
+    "published": [
+      "2007-01-03T10:49:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "has_many :through: Stop using the rails command"
+    ],
+    "bookmark-of": [
+      "http://blog.hasmanythrough.com/2006/12/28/stop-using-the-rails-command/"
+    ],
+    "category": [
+      "rails",
+      "subversion",
+      "svn",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "has-many-through-stop-using-the"
+    ]
+  }
+}

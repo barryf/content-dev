@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Five years today as CTO of @globalpersonals and @wld http://bfr.st/WRwHeg -- great team, proud of what we've all done. More still to come."],"published":["2013-01-10T10:50:21Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/289323286175809536"],"slug":["tweet-289323286175809536"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Five years today as CTO of @globalpersonals and @wld http://bfr.st/WRwHeg -- great team, proud of what we've all done. More still to come."
+    ],
+    "published": [
+      "2013-01-10T10:50:21Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/289323286175809536"
+    ],
+    "slug": [
+      "tweet-289323286175809536"
+    ]
+  }
+}

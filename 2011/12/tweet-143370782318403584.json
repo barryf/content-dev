@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Battling bravely through man-flu but my voice is laughably pathetic. With a day of meetings ahead I'm going to be doing a lot of listening."],"published":["2011-12-04T16:47:12Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/143370782318403584"],"slug":["tweet-143370782318403584"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Battling bravely through man-flu but my voice is laughably pathetic. With a day of meetings ahead I'm going to be doing a lot of listening."
+    ],
+    "published": [
+      "2011-12-04T16:47:12Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/143370782318403584"
+    ],
+    "slug": [
+      "tweet-143370782318403584"
+    ]
+  }
+}

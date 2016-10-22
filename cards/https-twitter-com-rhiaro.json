@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Amy Guy (@rhiaro)"],"photo":["http://pbs.twimg.com/profile_images/529091890486837248/DSclEI11_normal.png"],"url":["https://twitter.com/rhiaro"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Amy Guy (@rhiaro)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/529091890486837248/DSclEI11_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/rhiaro"
+    ]
+  }
+}

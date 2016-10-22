@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-16T14:38:03Z"],"entry-type":["bookmark"],"name":["PhotoStack"],"bookmark-of":["http://photostack.org/"],"category":["photo","via-pinboard"],"slug":["photostack"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-16T14:38:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PhotoStack"
+    ],
+    "bookmark-of": [
+      "http://photostack.org/"
+    ],
+    "category": [
+      "photo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "photostack"
+    ]
+  }
+}

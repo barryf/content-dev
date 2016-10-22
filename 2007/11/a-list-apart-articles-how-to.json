@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-11-26T21:30:40Z"],"entry-type":["bookmark"],"name":["A List Apart: Articles: How to Size Text in CSS"],"bookmark-of":["http://alistapart.com/articles/howtosizetextincss"],"category":["css","design","typography","text","standards","web","ems","via-pinboard"],"slug":["a-list-apart-articles-how-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-11-26T21:30:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A List Apart: Articles: How to Size Text in CSS"
+    ],
+    "bookmark-of": [
+      "http://alistapart.com/articles/howtosizetextincss"
+    ],
+    "category": [
+      "css",
+      "design",
+      "typography",
+      "text",
+      "standards",
+      "web",
+      "ems",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-list-apart-articles-how-to"
+    ]
+  }
+}

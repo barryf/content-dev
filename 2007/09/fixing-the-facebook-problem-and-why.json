@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["How an anochronistic ColdFusion features balls up Facebook apps on CF\n"],"published":["2007-09-22T10:48:59Z"],"entry-type":["bookmark"],"name":["Fixing the Facebook Problem, and why one ColdFusion feature needs to die..."],"bookmark-of":["http://www.coldfusionjedi.com/index.cfm/2007/9/21/Fixing-the-Facebook-Problem-and-why-one-ColdFusion-feature-needs-to-die"],"category":["coldfusion","facebook","hack","dev","web","via-pinboard"],"slug":["fixing-the-facebook-problem-and-why"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How an anochronistic ColdFusion features balls up Facebook apps on CF\n"
+    ],
+    "published": [
+      "2007-09-22T10:48:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fixing the Facebook Problem, and why one ColdFusion feature needs to die..."
+    ],
+    "bookmark-of": [
+      "http://www.coldfusionjedi.com/index.cfm/2007/9/21/Fixing-the-Facebook-Problem-and-why-one-ColdFusion-feature-needs-to-die"
+    ],
+    "category": [
+      "coldfusion",
+      "facebook",
+      "hack",
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fixing-the-facebook-problem-and-why"
+    ]
+  }
+}

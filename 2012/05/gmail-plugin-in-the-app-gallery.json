@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["With source on GitHub for Chrome and Firefox extensions\n"],"published":["2012-05-22T14:24:26Z"],"entry-type":["bookmark"],"name":["Gmail Plugin in the App Gallery on SoundCloud"],"bookmark-of":["http://soundcloud.com/apps/gmail-plugin"],"category":["firefox","chrome","plugin","gmail","via-pinboard"],"slug":["gmail-plugin-in-the-app-gallery"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "With source on GitHub for Chrome and Firefox extensions\n"
+    ],
+    "published": [
+      "2012-05-22T14:24:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Gmail Plugin in the App Gallery on SoundCloud"
+    ],
+    "bookmark-of": [
+      "http://soundcloud.com/apps/gmail-plugin"
+    ],
+    "category": [
+      "firefox",
+      "chrome",
+      "plugin",
+      "gmail",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gmail-plugin-in-the-app-gallery"
+    ]
+  }
+}

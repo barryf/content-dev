@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-16T18:03:41Z"],"entry-type":["bookmark"],"name":["Working for Apples: A Windows Administrator's Guide to Serving Macs"],"bookmark-of":["http://www.informit.com/articles/printerfriendly.asp?p=430214&rl=1"],"category":["mac","windows","network","sysadmin","server","via-pinboard"],"slug":["working-for-apples-a-windows-administrator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-16T18:03:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Working for Apples: A Windows Administrator's Guide to Serving Macs"
+    ],
+    "bookmark-of": [
+      "http://www.informit.com/articles/printerfriendly.asp?p=430214&rl=1"
+    ],
+    "category": [
+      "mac",
+      "windows",
+      "network",
+      "sysadmin",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "working-for-apples-a-windows-administrator"
+    ]
+  }
+}

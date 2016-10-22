@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Optimus Alive 3-day festival in Lisbon in July booked up. Headliners: The Stone Roses, The Cure and Radiohead. Result."],"published":["2012-03-26T20:24:28Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/184375287792943105"],"slug":["tweet-184375287792943105"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Optimus Alive 3-day festival in Lisbon in July booked up. Headliners: The Stone Roses, The Cure and Radiohead. Result."
+    ],
+    "published": [
+      "2012-03-26T20:24:28Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/184375287792943105"
+    ],
+    "slug": [
+      "tweet-184375287792943105"
+    ]
+  }
+}

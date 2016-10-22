@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/20845611/status/347374996982734848"],"published":["2013-06-19T15:27:07Z"],"content":["@barryf no big rush, may hold off for a few extra beta releases I think. Hope you're all well"],"author":["https://twitter.com/20845611"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/20845611/status/347374996982734848"
+    ],
+    "published": [
+      "2013-06-19T15:27:07Z"
+    ],
+    "content": [
+      "@barryf no big rush, may hold off for a few extra beta releases I think. Hope you're all well"
+    ],
+    "author": [
+      "https://twitter.com/20845611"
+    ]
+  }
+}

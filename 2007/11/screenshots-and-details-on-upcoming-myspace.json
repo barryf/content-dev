@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-11-27T07:36:52Z"],"entry-type":["bookmark"],"name":["Screenshots And Details On Upcoming MySpace “News Feeds”"],"bookmark-of":["http://www.techcrunch.com/2007/11/26/screenshots-and-details-on-upcoming-myspace-news-feeds/"],"category":["myspace","feed","newsfeed","facebook","social","socialnetworking","codegent","via-pinboard"],"slug":["screenshots-and-details-on-upcoming-myspace"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-11-27T07:36:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Screenshots And Details On Upcoming MySpace “News Feeds”"
+    ],
+    "bookmark-of": [
+      "http://www.techcrunch.com/2007/11/26/screenshots-and-details-on-upcoming-myspace-news-feeds/"
+    ],
+    "category": [
+      "myspace",
+      "feed",
+      "newsfeed",
+      "facebook",
+      "social",
+      "socialnetworking",
+      "codegent",
+      "via-pinboard"
+    ],
+    "slug": [
+      "screenshots-and-details-on-upcoming-myspace"
+    ]
+  }
+}

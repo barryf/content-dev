@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My little green friend #mwc12 http://twitter.com/barryf/status/174826609927389184/photo/1"],"published":["2012-02-29T12:01:27Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/174826609927389184"],"slug":["tweet-174826609927389184"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My little green friend #mwc12 http://twitter.com/barryf/status/174826609927389184/photo/1"
+    ],
+    "published": [
+      "2012-02-29T12:01:27Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/174826609927389184"
+    ],
+    "slug": [
+      "tweet-174826609927389184"
+    ]
+  }
+}

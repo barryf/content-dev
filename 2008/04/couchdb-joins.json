@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["This seems like a lot of faffing to my relational brain, but handy to know how to achieve it\n"],"published":["2008-04-12T11:25:56Z"],"entry-type":["bookmark"],"name":["CouchDB \"Joins\""],"bookmark-of":["http://www.cmlenz.net/archives/2007/10/couchdb-joins"],"category":["couchdb","database","erlang","json","data","architecture","query","via-pinboard"],"slug":["couchdb-joins"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This seems like a lot of faffing to my relational brain, but handy to know how to achieve it\n"
+    ],
+    "published": [
+      "2008-04-12T11:25:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CouchDB \"Joins\""
+    ],
+    "bookmark-of": [
+      "http://www.cmlenz.net/archives/2007/10/couchdb-joins"
+    ],
+    "category": [
+      "couchdb",
+      "database",
+      "erlang",
+      "json",
+      "data",
+      "architecture",
+      "query",
+      "via-pinboard"
+    ],
+    "slug": [
+      "couchdb-joins"
+    ]
+  }
+}

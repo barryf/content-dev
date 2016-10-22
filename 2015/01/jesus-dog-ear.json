@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["\n"],"published":["2015-01-20T13:24:00Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/scaryduck/status/557514995492458497"],"syndication":["https://twitter.com/barryf/status/557530028045377537"],"slug":["jesus-dog-ear"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\n"
+    ],
+    "published": [
+      "2015-01-20T13:24:00Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/scaryduck/status/557514995492458497"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/557530028045377537"
+    ],
+    "slug": [
+      "jesus-dog-ear"
+    ]
+  }
+}

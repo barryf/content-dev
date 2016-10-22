@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"published":["2007-07-02T16:00:59Z"],"entry-type":["bookmark"],"name":["Tutorial for Flash MP3 Player"],"bookmark-of":["http://www.macloo.com/examples/audio_player/"],"category":["flash","mp3","audio","player","embed","podcasting","media","music","streaming","web","forioptics","via-pinboard"],"slug":["tutorial-for-flash-mp3-player"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-07-02T16:00:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tutorial for Flash MP3 Player"
+    ],
+    "bookmark-of": [
+      "http://www.macloo.com/examples/audio_player/"
+    ],
+    "category": [
+      "flash",
+      "mp3",
+      "audio",
+      "player",
+      "embed",
+      "podcasting",
+      "media",
+      "music",
+      "streaming",
+      "web",
+      "forioptics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tutorial-for-flash-mp3-player"
+    ]
+  }
+}

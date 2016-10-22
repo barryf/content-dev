@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Rebecca Slatkin (@RebeccaSlatkin)"],"photo":["http://pbs.twimg.com/profile_images/586738123314483200/-pLaTASX_normal.jpg"],"url":["https://twitter.com/RebeccaSlatkin"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Rebecca Slatkin (@RebeccaSlatkin)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/586738123314483200/-pLaTASX_normal.jpg"
+    ],
+    "url": [
+      "https://twitter.com/RebeccaSlatkin"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Amaan"],"photo":["https://twitter.com/2000AMAAN/profile_image?size=original"],"url":["https://twitter.com/2000AMAAN"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Amaan"
+    ],
+    "photo": [
+      "https://twitter.com/2000AMAAN/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/2000AMAAN"
+    ]
+  }
+}

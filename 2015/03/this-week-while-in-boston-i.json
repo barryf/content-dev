@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["This week, while in Boston, I finally attended my first #indiewebcamp -- two days of sharing, hacking and working on projects with some lovely, friendly people to help further the independent web. \r\n\r\nGetting back to building stuff was so rewarding personally, especially getting feedback from web legend [Tantek Çelik](http://tantek.com) and [others](http://indiewebcamp.com/2015/Cambridge/Guest_List) also trying to solve the same problems. \r\n\r\nThanks to the organisers, [Ben](http://ben.thatmustbe.me/) and [David](https://david.shanske.com/), and all the other attendees who made a British part-time developer feel welcome and renewed my passion to keep coding. Until the next IWC.\n"],"published":["2015-03-21T22:51:20Z"],"entry-type":["note"],"summary":["This week, while in Boston, I''m pleased to have finally attended my first #indiewebcamp. Two days of sharing, hacking and working on projects with some lovely, friendly people to help further the independent web."],"category":["indiewebcamp","indieweb"],"slug":["this-week-while-in-boston-i"],"syndication":["https://twitter.com/barryf/status/579415343925329920"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This week, while in Boston, I finally attended my first #indiewebcamp -- two days of sharing, hacking and working on projects with some lovely, friendly people to help further the independent web. \r\n\r\nGetting back to building stuff was so rewarding personally, especially getting feedback from web legend [Tantek Çelik](http://tantek.com) and [others](http://indiewebcamp.com/2015/Cambridge/Guest_List) also trying to solve the same problems. \r\n\r\nThanks to the organisers, [Ben](http://ben.thatmustbe.me/) and [David](https://david.shanske.com/), and all the other attendees who made a British part-time developer feel welcome and renewed my passion to keep coding. Until the next IWC.\n"
+    ],
+    "published": [
+      "2015-03-21T22:51:20Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "This week, while in Boston, I''m pleased to have finally attended my first #indiewebcamp. Two days of sharing, hacking and working on projects with some lovely, friendly people to help further the independent web."
+    ],
+    "category": [
+      "indiewebcamp",
+      "indieweb"
+    ],
+    "slug": [
+      "this-week-while-in-boston-i"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/579415343925329920"
+    ]
+  }
+}

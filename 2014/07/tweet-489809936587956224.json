@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Box of #juliany cigars, ready for Andy's wedding this weekend. http://instagram.com/p/qjxorlH_vs/"],"published":["2014-07-17T16:32:43Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/489809936587956224"],"slug":["tweet-489809936587956224"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Box of #juliany cigars, ready for Andy's wedding this weekend. http://instagram.com/p/qjxorlH_vs/"
+    ],
+    "published": [
+      "2014-07-17T16:32:43Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/489809936587956224"
+    ],
+    "slug": [
+      "tweet-489809936587956224"
+    ]
+  }
+}

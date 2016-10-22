@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Hovering thumbnails of link targets\n"],"published":["2006-08-22T12:14:00Z"],"entry-type":["bookmark"],"name":["arc90 lab : tools : Link Thumbnail"],"bookmark-of":["http://lab.arc90.com/2006/07/link_thumbnail.php"],"category":["javascript","css","web","design","screenshot","thumbnail","via-pinboard"],"slug":["arc90-lab-tools-link-thumbnail"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hovering thumbnails of link targets\n"
+    ],
+    "published": [
+      "2006-08-22T12:14:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "arc90 lab : tools : Link Thumbnail"
+    ],
+    "bookmark-of": [
+      "http://lab.arc90.com/2006/07/link_thumbnail.php"
+    ],
+    "category": [
+      "javascript",
+      "css",
+      "web",
+      "design",
+      "screenshot",
+      "thumbnail",
+      "via-pinboard"
+    ],
+    "slug": [
+      "arc90-lab-tools-link-thumbnail"
+    ]
+  }
+}

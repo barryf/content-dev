@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Debbie Hellooooo you!"],"published":["2009-06-12T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/9134/status/2136538945"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2136918972"],"slug":["tweet-2136918972"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Debbie Hellooooo you!"
+    ],
+    "published": [
+      "2009-06-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/9134/status/2136538945"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2136918972"
+    ],
+    "slug": [
+      "tweet-2136918972"
+    ]
+  }
+}

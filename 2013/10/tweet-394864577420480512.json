@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@kellyedworthy @larrylou100 Excellent! Missed you this weekend. Must catch up soon x"],"published":["2013-10-28T16:33:46Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/88656137/status/394862893273186304"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/394864577420480512"],"slug":["tweet-394864577420480512"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@kellyedworthy @larrylou100 Excellent! Missed you this weekend. Must catch up soon x"
+    ],
+    "published": [
+      "2013-10-28T16:33:46Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/88656137/status/394862893273186304"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/394864577420480512"
+    ],
+    "slug": [
+      "tweet-394864577420480512"
+    ]
+  }
+}

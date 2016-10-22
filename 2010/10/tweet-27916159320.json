@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Working from home while a workman planes my kitchen door. Losing man points."],"published":["2010-10-20T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27916159320"],"slug":["tweet-27916159320"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Working from home while a workman planes my kitchen door. Losing man points."
+    ],
+    "published": [
+      "2010-10-20T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27916159320"
+    ],
+    "slug": [
+      "tweet-27916159320"
+    ]
+  }
+}

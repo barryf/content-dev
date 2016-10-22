@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@toddogroats Wouldn't be surprised to see Vieira arrive on deadline day. Getting excited now... Come on you Reds!"],"published":["2009-08-15T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/57762711/status/3328630726"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3329937625"],"slug":["tweet-3329937625"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@toddogroats Wouldn't be surprised to see Vieira arrive on deadline day. Getting excited now... Come on you Reds!"
+    ],
+    "published": [
+      "2009-08-15T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/57762711/status/3328630726"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3329937625"
+    ],
+    "slug": [
+      "tweet-3329937625"
+    ]
+  }
+}

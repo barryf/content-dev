@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["http://twitter.com/krissygoround/status/616720651471093760"],"published":["2015-07-02T21:30:36Z"],"content":["Well done @globaldev! Hack days always remind me I'm surrounded by a zombie buffet of brainnnns.  #venntrohackday"],"author":["https://twitter.com/krissygoround"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://twitter.com/krissygoround/status/616720651471093760"
+    ],
+    "published": [
+      "2015-07-02T21:30:36Z"
+    ],
+    "content": [
+      "Well done @globaldev! Hack days always remind me I'm surrounded by a zombie buffet of brainnnns.  #venntrohackday"
+    ],
+    "author": [
+      "https://twitter.com/krissygoround"
+    ]
+  }
+}

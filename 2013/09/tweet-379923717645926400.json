@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@GrahamM_6t9 Very Mouse Trappy! I may just have found a good opportunity to hack my own solution. Nice tutorial here: http://aws.amazon.com/articles/3002109349624271"],"published":["2013-09-17T11:04:07Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7567782/status/379922054017208320"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/379923717645926400"],"slug":["tweet-379923717645926400"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@GrahamM_6t9 Very Mouse Trappy! I may just have found a good opportunity to hack my own solution. Nice tutorial here: http://aws.amazon.com/articles/3002109349624271"
+    ],
+    "published": [
+      "2013-09-17T11:04:07Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7567782/status/379922054017208320"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/379923717645926400"
+    ],
+    "slug": [
+      "tweet-379923717645926400"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@JamesLafferty Savouring it! Good to see an Arsenal striker scoring too."],"published":["2014-08-26T20:45:10Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22905856/status/504368675898798080"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/504368982262956032"],"slug":["tweet-504368982262956032"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@JamesLafferty Savouring it! Good to see an Arsenal striker scoring too."
+    ],
+    "published": [
+      "2014-08-26T20:45:10Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22905856/status/504368675898798080"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/504368982262956032"
+    ],
+    "slug": [
+      "tweet-504368982262956032"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Barry Frost"],"photo":["https://instagramimages-a.akamaihd.net/profiles/profile_667045_75sq_1316702207.jpg"],"url":["http://instagram.com/barryf"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Barry Frost"
+    ],
+    "photo": [
+      "https://instagramimages-a.akamaihd.net/profiles/profile_667045_75sq_1316702207.jpg"
+    ],
+    "url": [
+      "http://instagram.com/barryf"
+    ]
+  }
+}

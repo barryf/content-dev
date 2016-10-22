@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-09T14:48:58Z"],"entry-type":["bookmark"],"name":["Third life: Flickr co-founder pulls unlikely success from gaming failure. Again"],"bookmark-of":["http://pando.com/2014/04/05/third-life-flickr-co-founder-pulls-unlikely-success-out-of-gaming-failure-again/"],"category":["flickr","startup","via-pinboard"],"slug":["third-life-flickr-co-founder-pulls"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-09T14:48:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Third life: Flickr co-founder pulls unlikely success from gaming failure. Again"
+    ],
+    "bookmark-of": [
+      "http://pando.com/2014/04/05/third-life-flickr-co-founder-pulls-unlikely-success-out-of-gaming-failure-again/"
+    ],
+    "category": [
+      "flickr",
+      "startup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "third-life-flickr-co-founder-pulls"
+    ]
+  }
+}

@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-08T20:54:43Z"],"entry-type":["bookmark"],"name":["Troubleshooting a too-sleepy Mac"],"bookmark-of":["http://sixcolors.com/post/2015/01/troubleshooting-a-too-sleepy-mac/"],"category":["Mac","sleep"],"slug":["troubleshooting-a-too-sleepy-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-08T20:54:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Troubleshooting a too-sleepy Mac"
+    ],
+    "bookmark-of": [
+      "http://sixcolors.com/post/2015/01/troubleshooting-a-too-sleepy-mac/"
+    ],
+    "category": [
+      "Mac",
+      "sleep"
+    ],
+    "slug": [
+      "troubleshooting-a-too-sleepy-mac"
+    ]
+  }
+}

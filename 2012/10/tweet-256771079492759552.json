@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jimeh @robyoung26 If you ask for a banker’s draft (small fee) you can withdraw large amounts at short notice. It’s like a fancy cheque."],"published":["2012-10-12T14:59:30Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/3068091/status/256770628227584000"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/256771079492759552"],"slug":["tweet-256771079492759552"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jimeh @robyoung26 If you ask for a banker’s draft (small fee) you can withdraw large amounts at short notice. It’s like a fancy cheque."
+    ],
+    "published": [
+      "2012-10-12T14:59:30Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/3068091/status/256770628227584000"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/256771079492759552"
+    ],
+    "slug": [
+      "tweet-256771079492759552"
+    ]
+  }
+}

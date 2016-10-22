@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair No broken limbs? You've ruined our sweepstake... Welcome back sir."],"published":["2009-01-31T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/1165051211"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1165066138"],"slug":["tweet-1165066138"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair No broken limbs? You've ruined our sweepstake... Welcome back sir."
+    ],
+    "published": [
+      "2009-01-31T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/1165051211"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1165066138"
+    ],
+    "slug": [
+      "tweet-1165066138"
+    ]
+  }
+}

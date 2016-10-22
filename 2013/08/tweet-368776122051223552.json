@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Dave__Bell That was painful. I’d rather have watched it on a stream! Good result for your lot."],"published":["2013-08-17T16:47:33Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/234519096/status/368750437756702721"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/368776122051223552"],"slug":["tweet-368776122051223552"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Dave__Bell That was painful. I’d rather have watched it on a stream! Good result for your lot."
+    ],
+    "published": [
+      "2013-08-17T16:47:33Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/234519096/status/368750437756702721"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/368776122051223552"
+    ],
+    "slug": [
+      "tweet-368776122051223552"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["\"DNSYO is a little tool I built to help me keep track of DNS propagation. In short, it's nslookup, if nslookup queried over 1500 servers and collated their results.\""],"published":["2013-10-21T09:54:20Z"],"entry-type":["bookmark"],"name":["samarudge/dnsyo · GitHub"],"bookmark-of":["https://github.com/samarudge/dnsyo"],"category":["fromifttt","github","dns","propagation","via-pinboard"],"slug":["samarudge-dnsyo-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"DNSYO is a little tool I built to help me keep track of DNS propagation. In short, it's nslookup, if nslookup queried over 1500 servers and collated their results.\""
+    ],
+    "published": [
+      "2013-10-21T09:54:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "samarudge/dnsyo · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/samarudge/dnsyo"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "dns",
+      "propagation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "samarudge-dnsyo-github"
+    ]
+  }
+}

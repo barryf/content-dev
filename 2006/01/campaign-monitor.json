@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Email newsletter and list management software\n"],"published":["2006-01-04T07:25:43Z"],"entry-type":["bookmark"],"name":["Campaign Monitor"],"bookmark-of":["http://www.campaignmonitor.com/"],"category":["email","newsletter","ems","campaign","promotion","pr","business","marketing","via-pinboard"],"slug":["campaign-monitor"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Email newsletter and list management software\n"
+    ],
+    "published": [
+      "2006-01-04T07:25:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Campaign Monitor"
+    ],
+    "bookmark-of": [
+      "http://www.campaignmonitor.com/"
+    ],
+    "category": [
+      "email",
+      "newsletter",
+      "ems",
+      "campaign",
+      "promotion",
+      "pr",
+      "business",
+      "marketing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "campaign-monitor"
+    ]
+  }
+}

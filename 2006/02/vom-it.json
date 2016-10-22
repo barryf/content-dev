@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["My new tumbleloggy playground for geeky rubbish. I appear to have attracted some guest bloggers too.\n"],"published":["2006-02-21T15:24:22Z"],"entry-type":["bookmark"],"name":["vom.it"],"bookmark-of":["http://vom.it/"],"category":["vomit","blog","tumblelog","web","dev","geek","via-pinboard"],"slug":["vom-it"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My new tumbleloggy playground for geeky rubbish. I appear to have attracted some guest bloggers too.\n"
+    ],
+    "published": [
+      "2006-02-21T15:24:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "vom.it"
+    ],
+    "bookmark-of": [
+      "http://vom.it/"
+    ],
+    "category": [
+      "vomit",
+      "blog",
+      "tumblelog",
+      "web",
+      "dev",
+      "geek",
+      "via-pinboard"
+    ],
+    "slug": [
+      "vom-it"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Pand would twit but his chocolate phone keys aren't backlit so he's buggered."],"published":["2006-12-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1507593"],"slug":["tweet-1507593"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pand would twit but his chocolate phone keys aren't backlit so he's buggered."
+    ],
+    "published": [
+      "2006-12-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1507593"
+    ],
+    "slug": [
+      "tweet-1507593"
+    ]
+  }
+}

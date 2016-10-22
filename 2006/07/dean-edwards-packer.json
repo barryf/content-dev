@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Javascript compressor/obfuscator\n"],"published":["2006-07-20T12:55:37Z"],"entry-type":["bookmark"],"name":["Dean Edwards' Packer"],"bookmark-of":["http://dean.edwards.name/packer/"],"category":["obfuscator","web","dev","javascript","via-pinboard"],"slug":["dean-edwards-packer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Javascript compressor/obfuscator\n"
+    ],
+    "published": [
+      "2006-07-20T12:55:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dean Edwards' Packer"
+    ],
+    "bookmark-of": [
+      "http://dean.edwards.name/packer/"
+    ],
+    "category": [
+      "obfuscator",
+      "web",
+      "dev",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dean-edwards-packer"
+    ]
+  }
+}

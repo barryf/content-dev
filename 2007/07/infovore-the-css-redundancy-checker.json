@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["List all the selectors in your CSS that aren’t used by any of your HTML.\n"],"published":["2007-07-06T12:49:42Z"],"entry-type":["bookmark"],"name":["Infovore » The CSS Redundancy Checker"],"bookmark-of":["http://infovore.org/archives/2007/07/06/the-css-redundancy-checker/"],"category":["css","redundancy","html","web","dev","performance","optimisation","via-pinboard"],"slug":["infovore-the-css-redundancy-checker"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "List all the selectors in your CSS that aren’t used by any of your HTML.\n"
+    ],
+    "published": [
+      "2007-07-06T12:49:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Infovore » The CSS Redundancy Checker"
+    ],
+    "bookmark-of": [
+      "http://infovore.org/archives/2007/07/06/the-css-redundancy-checker/"
+    ],
+    "category": [
+      "css",
+      "redundancy",
+      "html",
+      "web",
+      "dev",
+      "performance",
+      "optimisation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "infovore-the-css-redundancy-checker"
+    ]
+  }
+}

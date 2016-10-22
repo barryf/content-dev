@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/17736965/status/531919098792259584"],"published":["2014-11-10T21:19:30Z"],"content":["This is the most Nathan Barley thing I've ever read http://www.newyorker.com/magazine/2014/11/17/crystal-ball-3 via @bobby"],"photo":["http://pbs.twimg.com/media/B2HBmfUCIAAmFo_.png"],"author":["https://twitter.com/17736965"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/17736965/status/531919098792259584"
+    ],
+    "published": [
+      "2014-11-10T21:19:30Z"
+    ],
+    "content": [
+      "This is the most Nathan Barley thing I've ever read http://www.newyorker.com/magazine/2014/11/17/crystal-ball-3 via @bobby"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/B2HBmfUCIAAmFo_.png"
+    ],
+    "author": [
+      "https://twitter.com/17736965"
+    ]
+  }
+}

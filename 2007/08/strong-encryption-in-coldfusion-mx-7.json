@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Including setting up support for BouncyCastle OpenPGP\n"],"published":["2007-08-30T09:19:54Z"],"entry-type":["bookmark"],"name":["Strong encryption in ColdFusion MX 7"],"bookmark-of":["http://kb.adobe.com/selfservice/viewContent.do?externalId=e546373d&sliceId=2"],"category":["coldfusion","pgp","openpgp","bouncycastle","email","security","server","sysadmin","dev","web","via-pinboard"],"slug":["strong-encryption-in-coldfusion-mx-7"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Including setting up support for BouncyCastle OpenPGP\n"
+    ],
+    "published": [
+      "2007-08-30T09:19:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Strong encryption in ColdFusion MX 7"
+    ],
+    "bookmark-of": [
+      "http://kb.adobe.com/selfservice/viewContent.do?externalId=e546373d&sliceId=2"
+    ],
+    "category": [
+      "coldfusion",
+      "pgp",
+      "openpgp",
+      "bouncycastle",
+      "email",
+      "security",
+      "server",
+      "sysadmin",
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "strong-encryption-in-coldfusion-mx-7"
+    ]
+  }
+}

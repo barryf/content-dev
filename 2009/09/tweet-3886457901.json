@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Dude, since when did you have any fat on you? Give the rest of us a chance!"],"published":["2009-09-10T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/3886426647"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3886457901"],"slug":["tweet-3886457901"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Dude, since when did you have any fat on you? Give the rest of us a chance!"
+    ],
+    "published": [
+      "2009-09-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/3886426647"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3886457901"
+    ],
+    "slug": [
+      "tweet-3886457901"
+    ]
+  }
+}

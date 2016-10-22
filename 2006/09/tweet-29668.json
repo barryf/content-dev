@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Waiting for my club sandwich to toast at Eat."],"published":["2006-09-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/29668"],"slug":["tweet-29668"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Waiting for my club sandwich to toast at Eat."
+    ],
+    "published": [
+      "2006-09-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/29668"
+    ],
+    "slug": [
+      "tweet-29668"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Hendrik Mans"],"photo":["https://twitter.com/hmans/profile_image?size=original"],"url":["http://hmans.io"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Hendrik Mans"
+    ],
+    "photo": [
+      "https://twitter.com/hmans/profile_image?size=original"
+    ],
+    "url": [
+      "http://hmans.io"
+    ]
+  }
+}

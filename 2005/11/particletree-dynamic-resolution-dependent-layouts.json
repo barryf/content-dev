@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-11-17T14:33:53Z"],"entry-type":["bookmark"],"name":["Particletree · Dynamic Resolution Dependent Layouts"],"bookmark-of":["http://particletree.com/features/dynamic-resolution-dependent-layouts/"],"category":["css","web","design","javascript","layout","via-pinboard"],"slug":["particletree-dynamic-resolution-dependent-layouts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-11-17T14:33:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Particletree · Dynamic Resolution Dependent Layouts"
+    ],
+    "bookmark-of": [
+      "http://particletree.com/features/dynamic-resolution-dependent-layouts/"
+    ],
+    "category": [
+      "css",
+      "web",
+      "design",
+      "javascript",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "particletree-dynamic-resolution-dependent-layouts"
+    ]
+  }
+}

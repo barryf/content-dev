@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["New look coming soon, plus a history of previous designs\n"],"published":["2010-02-21T11:55:41Z"],"entry-type":["bookmark"],"name":["A new global visual language for the BBC's digital services"],"bookmark-of":["http://www.bbc.co.uk/blogs/bbcinternet/2010/02/a_new_global_visual_language_f.html"],"category":["design","visual","grid","bbc","ui","brand","ux","redesign","layout","via-pinboard"],"slug":["a-new-global-visual-language-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "New look coming soon, plus a history of previous designs\n"
+    ],
+    "published": [
+      "2010-02-21T11:55:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A new global visual language for the BBC's digital services"
+    ],
+    "bookmark-of": [
+      "http://www.bbc.co.uk/blogs/bbcinternet/2010/02/a_new_global_visual_language_f.html"
+    ],
+    "category": [
+      "design",
+      "visual",
+      "grid",
+      "bbc",
+      "ui",
+      "brand",
+      "ux",
+      "redesign",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-new-global-visual-language-for"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-05T10:57:11Z"],"entry-type":["like"],"like-of":["http://aaronparecki.com/articles/2015/01/04/1/owning-my-data-in-2014"],"syndication":["https://twitter.com/aaronpk/status/551879400497500160"],"slug":["05-105711"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-05T10:57:11Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://aaronparecki.com/articles/2015/01/04/1/owning-my-data-in-2014"
+    ],
+    "syndication": [
+      "https://twitter.com/aaronpk/status/551879400497500160"
+    ],
+    "slug": [
+      "05-105711"
+    ]
+  }
+}

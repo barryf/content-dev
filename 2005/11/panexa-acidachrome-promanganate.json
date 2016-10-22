@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["\"Ask your doctor for a reason to take it\"\n"],"published":["2005-11-06T11:49:27Z"],"entry-type":["bookmark"],"name":["Panexa (Acidachrome Promanganate)"],"bookmark-of":["http://www.panexa.com/"],"category":["fun","health","satire","via-pinboard"],"slug":["panexa-acidachrome-promanganate"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Ask your doctor for a reason to take it\"\n"
+    ],
+    "published": [
+      "2005-11-06T11:49:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Panexa (Acidachrome Promanganate)"
+    ],
+    "bookmark-of": [
+      "http://www.panexa.com/"
+    ],
+    "category": [
+      "fun",
+      "health",
+      "satire",
+      "via-pinboard"
+    ],
+    "slug": [
+      "panexa-acidachrome-promanganate"
+    ]
+  }
+}

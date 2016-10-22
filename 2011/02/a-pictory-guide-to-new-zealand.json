@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Photos and commentary, with NZ fonts too\n"],"published":["2011-02-02T16:07:08Z"],"entry-type":["bookmark"],"name":["A Pictory Guide to New Zealand"],"bookmark-of":["http://www.pictorymag.com/showcases/pictory-guide-new-zealand/"],"category":["nz","travel","photo","design","via-pinboard"],"slug":["a-pictory-guide-to-new-zealand"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Photos and commentary, with NZ fonts too\n"
+    ],
+    "published": [
+      "2011-02-02T16:07:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Pictory Guide to New Zealand"
+    ],
+    "bookmark-of": [
+      "http://www.pictorymag.com/showcases/pictory-guide-new-zealand/"
+    ],
+    "category": [
+      "nz",
+      "travel",
+      "photo",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-pictory-guide-to-new-zealand"
+    ]
+  }
+}

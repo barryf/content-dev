@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Content ready, mobile friendly, and beautiful across all major email clients."],"published":["2016-02-10T17:17:43Z"],"entry-type":["bookmark"],"name":["Postmark Transactional Email Templates"],"bookmark-of":["https://github.com/wildbit/postmark-templates"],"category":["email","template","transactional"],"slug":["postmark-transactional-email-templates"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Content ready, mobile friendly, and beautiful across all major email clients."
+    ],
+    "published": [
+      "2016-02-10T17:17:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Postmark Transactional Email Templates"
+    ],
+    "bookmark-of": [
+      "https://github.com/wildbit/postmark-templates"
+    ],
+    "category": [
+      "email",
+      "template",
+      "transactional"
+    ],
+    "slug": [
+      "postmark-transactional-email-templates"
+    ]
+  }
+}

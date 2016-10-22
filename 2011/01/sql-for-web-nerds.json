@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Useful basics for database newbies, plus reminders for experienced developers\n"],"published":["2011-01-31T09:58:25Z"],"entry-type":["bookmark"],"name":["SQL for Web Nerds"],"bookmark-of":["http://philip.greenspun.com/sql/"],"category":["sql","tutorial","web","dev","via-pinboard"],"slug":["sql-for-web-nerds"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful basics for database newbies, plus reminders for experienced developers\n"
+    ],
+    "published": [
+      "2011-01-31T09:58:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SQL for Web Nerds"
+    ],
+    "bookmark-of": [
+      "http://philip.greenspun.com/sql/"
+    ],
+    "category": [
+      "sql",
+      "tutorial",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sql-for-web-nerds"
+    ]
+  }
+}

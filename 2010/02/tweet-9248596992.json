@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Leeliocallaghan Good for you. We'll all be superfit and healthy before you know it!"],"published":["2010-02-17T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/90675317/status/9207262013"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/9248596992"],"slug":["tweet-9248596992"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Leeliocallaghan Good for you. We'll all be superfit and healthy before you know it!"
+    ],
+    "published": [
+      "2010-02-17T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/90675317/status/9207262013"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/9248596992"
+    ],
+    "slug": [
+      "tweet-9248596992"
+    ]
+  }
+}

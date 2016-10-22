@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-24T09:02:56Z"],"entry-type":["bookmark"],"name":["CSS Shorthand Guide"],"bookmark-of":["http://www.dustindiaz.com/css-shorthand/"],"category":["css","design","web","dev","reference","via-pinboard"],"slug":["css-shorthand-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-24T09:02:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CSS Shorthand Guide"
+    ],
+    "bookmark-of": [
+      "http://www.dustindiaz.com/css-shorthand/"
+    ],
+    "category": [
+      "css",
+      "design",
+      "web",
+      "dev",
+      "reference",
+      "via-pinboard"
+    ],
+    "slug": [
+      "css-shorthand-guide"
+    ]
+  }
+}

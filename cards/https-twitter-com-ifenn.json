@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ian Fenn"],"photo":["https://twitter.com/ifenn/profile_image?size=original"],"url":["https://twitter.com/ifenn"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ian Fenn"
+    ],
+    "photo": [
+      "https://twitter.com/ifenn/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/ifenn"
+    ]
+  }
+}

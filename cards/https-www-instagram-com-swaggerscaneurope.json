@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["#SwaggerScanEurope"],"photo":["https://scontent.cdninstagram.com/t51.2885-19/s150x150/12357898_157123684648275_1746379591_a.jpg"],"url":["https://www.instagram.com/swaggerscaneurope/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "#SwaggerScanEurope"
+    ],
+    "photo": [
+      "https://scontent.cdninstagram.com/t51.2885-19/s150x150/12357898_157123684648275_1746379591_a.jpg"
+    ],
+    "url": [
+      "https://www.instagram.com/swaggerscaneurope/"
+    ]
+  }
+}

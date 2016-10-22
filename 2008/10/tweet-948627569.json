@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["has realised he'll be in New York on presidential election day. \"What, you mean Her Majesty isn't your ruler? Independence, you say?\""],"published":["2008-10-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/948627569"],"slug":["tweet-948627569"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "has realised he'll be in New York on presidential election day. \"What, you mean Her Majesty isn't your ruler? Independence, you say?\""
+    ],
+    "published": [
+      "2008-10-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/948627569"
+    ],
+    "slug": [
+      "tweet-948627569"
+    ]
+  }
+}

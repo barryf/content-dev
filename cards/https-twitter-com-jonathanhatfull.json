@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Jonathan Hatfull (@JonathanHatfull)"],"photo":["http://pbs.twimg.com/profile_images/564485582005358592/IWzZIUrC_normal.jpeg"],"url":["https://twitter.com/JonathanHatfull"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jonathan Hatfull (@JonathanHatfull)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/564485582005358592/IWzZIUrC_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/JonathanHatfull"
+    ]
+  }
+}

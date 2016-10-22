@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Phil Neville’s monotone has achieved the impossible: making me wish I could watch ITV and Andy Townsend."],"published":["2014-06-14T22:24:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/477939693674582018"],"slug":["tweet-477939693674582018"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Phil Neville’s monotone has achieved the impossible: making me wish I could watch ITV and Andy Townsend."
+    ],
+    "published": [
+      "2014-06-14T22:24:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/477939693674582018"
+    ],
+    "slug": [
+      "tweet-477939693674582018"
+    ]
+  }
+}

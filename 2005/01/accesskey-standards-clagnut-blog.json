@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-04T20:30:46Z"],"entry-type":["bookmark"],"name":["Accesskey standards | clagnut/blog"],"bookmark-of":["http://www.clagnut.com/blog/193/"],"category":["web","dev","via-pinboard"],"slug":["accesskey-standards-clagnut-blog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-04T20:30:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Accesskey standards | clagnut/blog"
+    ],
+    "bookmark-of": [
+      "http://www.clagnut.com/blog/193/"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "accesskey-standards-clagnut-blog"
+    ]
+  }
+}

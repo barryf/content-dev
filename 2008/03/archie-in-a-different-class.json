@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Archie comic text panels rewritten with Pulp lyrics\n"],"published":["2008-03-23T10:35:50Z"],"entry-type":["bookmark"],"name":["Archie In… A Different Class!"],"bookmark-of":["http://www.the-isb.com/?p=308"],"category":["comic","fun","mashup","humour","pulp","archie","via-pinboard"],"slug":["archie-in-a-different-class"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Archie comic text panels rewritten with Pulp lyrics\n"
+    ],
+    "published": [
+      "2008-03-23T10:35:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Archie In… A Different Class!"
+    ],
+    "bookmark-of": [
+      "http://www.the-isb.com/?p=308"
+    ],
+    "category": [
+      "comic",
+      "fun",
+      "mashup",
+      "humour",
+      "pulp",
+      "archie",
+      "via-pinboard"
+    ],
+    "slug": [
+      "archie-in-a-different-class"
+    ]
+  }
+}

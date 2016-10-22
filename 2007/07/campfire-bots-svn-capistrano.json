@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-07-03T13:06:29Z"],"entry-type":["bookmark"],"name":["Campfire bots - SVN/Capistrano"],"bookmark-of":["http://37signals.blogs.com/products/2007/07/web-firm-viget-.html"],"category":["campfire","capistrano","svn","dev","work","team","collaboration","via-pinboard"],"slug":["campfire-bots-svn-capistrano"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-07-03T13:06:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Campfire bots - SVN/Capistrano"
+    ],
+    "bookmark-of": [
+      "http://37signals.blogs.com/products/2007/07/web-firm-viget-.html"
+    ],
+    "category": [
+      "campfire",
+      "capistrano",
+      "svn",
+      "dev",
+      "work",
+      "team",
+      "collaboration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "campfire-bots-svn-capistrano"
+    ]
+  }
+}

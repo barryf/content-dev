@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-14T13:25:32Z"],"entry-type":["bookmark"],"name":["HOWTO Rip DVD Movies To Your iPod Using Free Software"],"bookmark-of":["http://diveintomark.org/howto/ipod-dvd-ripping-guide/"],"category":["ipod","dvd","video","mac","encoding","guide","itunes","film","via-pinboard"],"slug":["howto-rip-dvd-movies-to-your"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-14T13:25:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HOWTO Rip DVD Movies To Your iPod Using Free Software"
+    ],
+    "bookmark-of": [
+      "http://diveintomark.org/howto/ipod-dvd-ripping-guide/"
+    ],
+    "category": [
+      "ipod",
+      "dvd",
+      "video",
+      "mac",
+      "encoding",
+      "guide",
+      "itunes",
+      "film",
+      "via-pinboard"
+    ],
+    "slug": [
+      "howto-rip-dvd-movies-to-your"
+    ]
+  }
+}

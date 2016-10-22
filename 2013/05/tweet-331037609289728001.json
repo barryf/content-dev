@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["As much as I like Ronnie, it’s only right I back 34 year old underdog Barry Hawkins in the World Championship final. Come on, Bazza #snooker"],"published":["2013-05-05T13:28:11Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/331037609289728001"],"slug":["tweet-331037609289728001"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "As much as I like Ronnie, it’s only right I back 34 year old underdog Barry Hawkins in the World Championship final. Come on, Bazza #snooker"
+    ],
+    "published": [
+      "2013-05-05T13:28:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/331037609289728001"
+    ],
+    "slug": [
+      "tweet-331037609289728001"
+    ]
+  }
+}

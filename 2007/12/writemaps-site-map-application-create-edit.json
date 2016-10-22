@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-16T17:09:00Z"],"entry-type":["bookmark"],"name":["WriteMaps Site Map Application: Create, edit, and share your sitemaps online."],"bookmark-of":["http://www.writemaps.com/index.php/site/"],"category":["sitemap","web","map","design","project","collaboration","architecture","via-pinboard"],"slug":["writemaps-site-map-application-create-edit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-16T17:09:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "WriteMaps Site Map Application: Create, edit, and share your sitemaps online."
+    ],
+    "bookmark-of": [
+      "http://www.writemaps.com/index.php/site/"
+    ],
+    "category": [
+      "sitemap",
+      "web",
+      "map",
+      "design",
+      "project",
+      "collaboration",
+      "architecture",
+      "via-pinboard"
+    ],
+    "slug": [
+      "writemaps-site-map-application-create-edit"
+    ]
+  }
+}

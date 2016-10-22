@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-04T22:52:13Z"],"entry-type":["like"],"like-of":["https://twitter.com/tweetbot/status/563070797456367617"],"syndication":["https://twitter.com/tweetbot/status/563070797456367617"],"slug":["04-225213"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-04T22:52:13Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/tweetbot/status/563070797456367617"
+    ],
+    "syndication": [
+      "https://twitter.com/tweetbot/status/563070797456367617"
+    ],
+    "slug": [
+      "04-225213"
+    ]
+  }
+}

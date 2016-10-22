@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Grappa? Hardcore stuff Mr W. I've bad memories of mornings after grappa. Get some water in you man!"],"published":["2009-04-28T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/1643243480"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1643324324"],"slug":["tweet-1643324324"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Grappa? Hardcore stuff Mr W. I've bad memories of mornings after grappa. Get some water in you man!"
+    ],
+    "published": [
+      "2009-04-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/1643243480"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1643324324"
+    ],
+    "slug": [
+      "tweet-1643324324"
+    ]
+  }
+}

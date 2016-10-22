@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@PaulCaudell It is, isn’t it? Also opens up the possibility of small video clips (or Vines) when tweeting when the clients catch up."],"published":["2014-06-20T12:28:50Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16433935/status/479961298034491392"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/479964086319722496"],"slug":["tweet-479964086319722496"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@PaulCaudell It is, isn’t it? Also opens up the possibility of small video clips (or Vines) when tweeting when the clients catch up."
+    ],
+    "published": [
+      "2014-06-20T12:28:50Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16433935/status/479961298034491392"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/479964086319722496"
+    ],
+    "slug": [
+      "tweet-479964086319722496"
+    ]
+  }
+}

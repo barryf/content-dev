@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Best practice for using external fonts across browsers\n"],"published":["2009-09-27T20:00:05Z"],"entry-type":["bookmark"],"name":["Bulletproof @font-face syntax « Paul Irish"],"bookmark-of":["http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/"],"category":["font","css","fontface","design","bestpractice","web","via-pinboard"],"slug":["bulletproof-font-face-syntax-paul-irish"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Best practice for using external fonts across browsers\n"
+    ],
+    "published": [
+      "2009-09-27T20:00:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bulletproof @font-face syntax « Paul Irish"
+    ],
+    "bookmark-of": [
+      "http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/"
+    ],
+    "category": [
+      "font",
+      "css",
+      "fontface",
+      "design",
+      "bestpractice",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bulletproof-font-face-syntax-paul-irish"
+    ]
+  }
+}

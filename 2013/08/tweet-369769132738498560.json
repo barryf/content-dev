@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@simondevon Leaving all decisions to my expert. Thankfully she knows what she wants. #nodandsmile"],"published":["2013-08-20T10:33:25Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15835159/status/369766820389339136"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/369769132738498560"],"slug":["tweet-369769132738498560"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@simondevon Leaving all decisions to my expert. Thankfully she knows what she wants. #nodandsmile"
+    ],
+    "published": [
+      "2013-08-20T10:33:25Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15835159/status/369766820389339136"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/369769132738498560"
+    ],
+    "slug": [
+      "tweet-369769132738498560"
+    ]
+  }
+}

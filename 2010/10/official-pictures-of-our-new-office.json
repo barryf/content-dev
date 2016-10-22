@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2010-10-01T14:46:44Z"],"entry-type":["bookmark"],"name":["Official pictures of our new office - (37signals)"],"bookmark-of":["http://37signals.com/svn/posts/2593-official-pictures-of-our-new-office"],"category":["37signals","office","inspiration","minimal","work","via-pinboard"],"slug":["official-pictures-of-our-new-office"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-10-01T14:46:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Official pictures of our new office - (37signals)"
+    ],
+    "bookmark-of": [
+      "http://37signals.com/svn/posts/2593-official-pictures-of-our-new-office"
+    ],
+    "category": [
+      "37signals",
+      "office",
+      "inspiration",
+      "minimal",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "official-pictures-of-our-new-office"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@neilmiddleton Thanks, but I'm not sure CloudApp or that client will let you use your own S3 bucket."],"published":["2013-09-17T10:53:15Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4143281/status/379919360200278016"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/379920980766130176"],"slug":["tweet-379920980766130176"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@neilmiddleton Thanks, but I'm not sure CloudApp or that client will let you use your own S3 bucket."
+    ],
+    "published": [
+      "2013-09-17T10:53:15Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4143281/status/379919360200278016"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/379920980766130176"
+    ],
+    "slug": [
+      "tweet-379920980766130176"
+    ]
+  }
+}

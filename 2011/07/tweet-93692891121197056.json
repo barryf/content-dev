@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener That's a shame: I was just about to Instapaper it. Respect Marco's decision though."],"published":["2011-07-20T14:45:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14234004/status/93680849383464960"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/93692891121197056"],"slug":["tweet-93692891121197056"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener That's a shame: I was just about to Instapaper it. Respect Marco's decision though."
+    ],
+    "published": [
+      "2011-07-20T14:45:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14234004/status/93680849383464960"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/93692891121197056"
+    ],
+    "slug": [
+      "tweet-93692891121197056"
+    ]
+  }
+}

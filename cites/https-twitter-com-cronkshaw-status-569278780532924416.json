@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/cronkshaw/status/569278780532924416"],"published":["2015-02-21T23:33:32Z"],"content":["RT @barryf: A lovely animation explaining Hilbert’s Infinite Hotel Paradox which hurt my head back at university: youtube.com/watch?v=Uj3_Kq… /via @kottke"],"repost-of":["https://barryfrost.com/2015/02/a-lovely-animation-explaining-hilbert-s"],"author":["http://cronkshaw.net"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/cronkshaw/status/569278780532924416"
+    ],
+    "published": [
+      "2015-02-21T23:33:32Z"
+    ],
+    "content": [
+      "RT @barryf: A lovely animation explaining Hilbert’s Infinite Hotel Paradox which hurt my head back at university: youtube.com/watch?v=Uj3_Kq… /via @kottke"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/02/a-lovely-animation-explaining-hilbert-s"
+    ],
+    "author": [
+      "http://cronkshaw.net"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://waterpigs.co.uk/notes/4SVDcu/"],"published":["2013-10-11T13:38:00Z"],"content":["@barryf it worked! Thanks for the mention and great work on #baker!\n"],"in-reply-to":["https://barryfrost.com/2013/10/baker-45"],"author":["https://waterpigs.co.uk/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://waterpigs.co.uk/notes/4SVDcu/"
+    ],
+    "published": [
+      "2013-10-11T13:38:00Z"
+    ],
+    "content": [
+      "@barryf it worked! Thanks for the mention and great work on #baker!\n"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2013/10/baker-45"
+    ],
+    "author": [
+      "https://waterpigs.co.uk/"
+    ]
+  }
+}

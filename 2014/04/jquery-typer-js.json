@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-28T13:42:59Z"],"entry-type":["bookmark"],"name":["jquery.typer.js"],"bookmark-of":["https://github.com/layervault/jquery.typer.js"],"category":["fromifttt","github","animation","effects","via-pinboard"],"slug":["jquery-typer-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-28T13:42:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jquery.typer.js"
+    ],
+    "bookmark-of": [
+      "https://github.com/layervault/jquery.typer.js"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "animation",
+      "effects",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jquery-typer-js"
+    ]
+  }
+}

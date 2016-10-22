@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Andrew Verboncouer"],"photo":["https://twitter.com/averbs/profile_image?size=original"],"url":["https://twitter.com/averbs"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Andrew Verboncouer"
+    ],
+    "photo": [
+      "https://twitter.com/averbs/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/averbs"
+    ]
+  }
+}

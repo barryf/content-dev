@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Neil Stanley"],"photo":["https://twitter.com/nstanley/profile_image?size=original"],"url":["http://natter.com/user/neil"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Neil Stanley"
+    ],
+    "photo": [
+      "https://twitter.com/nstanley/profile_image?size=original"
+    ],
+    "url": [
+      "http://natter.com/user/neil"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-07-06T12:35:19Z"],"entry-type":["bookmark"],"name":["Advanced GTD with Remember The Milk"],"bookmark-of":["http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html"],"category":["gtd","task","productivity","rememberthemilk","todo","work","via-pinboard"],"slug":["advanced-gtd-with-remember-the-milk"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-07-06T12:35:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Advanced GTD with Remember The Milk"
+    ],
+    "bookmark-of": [
+      "http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html"
+    ],
+    "category": [
+      "gtd",
+      "task",
+      "productivity",
+      "rememberthemilk",
+      "todo",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "advanced-gtd-with-remember-the-milk"
+    ]
+  }
+}

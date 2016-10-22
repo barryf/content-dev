@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-07T18:22:22Z"],"entry-type":["bookmark"],"name":["A Comparative Overview of C#"],"bookmark-of":["http://genamics.com/developer/csharp_comparative.htm"],"category":["csharp","dotnet","via-pinboard"],"slug":["a-comparative-overview-of-c"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-07T18:22:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Comparative Overview of C#"
+    ],
+    "bookmark-of": [
+      "http://genamics.com/developer/csharp_comparative.htm"
+    ],
+    "category": [
+      "csharp",
+      "dotnet",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-comparative-overview-of-c"
+    ]
+  }
+}

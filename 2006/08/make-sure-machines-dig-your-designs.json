@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["XHTML and CSS templates from a PSD or other mockup. Tried them and was stunned at how good the service is. Quick and slick. Recommended.\n"],"published":["2006-08-03T09:58:54Z"],"entry-type":["bookmark"],"name":["Make sure machines dig your designs: XHTMLized"],"bookmark-of":["http://www.xhtmlized.com/"],"category":["xhtml","css","design","web","dev","web20","standards","business","inspiration","via-pinboard"],"slug":["make-sure-machines-dig-your-designs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "XHTML and CSS templates from a PSD or other mockup. Tried them and was stunned at how good the service is. Quick and slick. Recommended.\n"
+    ],
+    "published": [
+      "2006-08-03T09:58:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Make sure machines dig your designs: XHTMLized"
+    ],
+    "bookmark-of": [
+      "http://www.xhtmlized.com/"
+    ],
+    "category": [
+      "xhtml",
+      "css",
+      "design",
+      "web",
+      "dev",
+      "web20",
+      "standards",
+      "business",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "make-sure-machines-dig-your-designs"
+    ]
+  }
+}

@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Sam Barnes"],"url":["http://twitter.com/thesambarnes"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Sam Barnes"
+    ],
+    "url": [
+      "http://twitter.com/thesambarnes"
+    ]
+  }
+}

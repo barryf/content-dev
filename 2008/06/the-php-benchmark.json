@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Advice and best practices for PHP operations, such as looping over a hash\n"],"published":["2008-06-05T20:23:18Z"],"entry-type":["bookmark"],"name":["The PHP Benchmark"],"bookmark-of":["http://www.phpbench.com/"],"category":["php","optimisation","performance","benchmark","code","dev","opinion","via-pinboard"],"slug":["the-php-benchmark"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Advice and best practices for PHP operations, such as looping over a hash\n"
+    ],
+    "published": [
+      "2008-06-05T20:23:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The PHP Benchmark"
+    ],
+    "bookmark-of": [
+      "http://www.phpbench.com/"
+    ],
+    "category": [
+      "php",
+      "optimisation",
+      "performance",
+      "benchmark",
+      "code",
+      "dev",
+      "opinion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-php-benchmark"
+    ]
+  }
+}

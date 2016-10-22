@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sad to be missing out on a London reunion with ex colleagues tonight, but happy to be making progress with rebooting the @globaldev team."],"published":["2011-02-03T19:13:25Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/33241667876167681"],"slug":["tweet-33241667876167681"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sad to be missing out on a London reunion with ex colleagues tonight, but happy to be making progress with rebooting the @globaldev team."
+    ],
+    "published": [
+      "2011-02-03T19:13:25Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/33241667876167681"
+    ],
+    "slug": [
+      "tweet-33241667876167681"
+    ]
+  }
+}

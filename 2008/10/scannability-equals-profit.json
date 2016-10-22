@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Helping people scan-read a page through columns, grids and whitespace\n"],"published":["2008-10-18T14:59:03Z"],"entry-type":["bookmark"],"name":["Scannability Equals Profit"],"bookmark-of":["http://orderedlist.com/articles/scannability-equals-profit"],"category":["read","usability","grid","whitespace","scannability","scan","design","layout","via-pinboard"],"slug":["scannability-equals-profit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Helping people scan-read a page through columns, grids and whitespace\n"
+    ],
+    "published": [
+      "2008-10-18T14:59:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scannability Equals Profit"
+    ],
+    "bookmark-of": [
+      "http://orderedlist.com/articles/scannability-equals-profit"
+    ],
+    "category": [
+      "read",
+      "usability",
+      "grid",
+      "whitespace",
+      "scannability",
+      "scan",
+      "design",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scannability-equals-profit"
+    ]
+  }
+}

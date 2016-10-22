@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Physical counter for social network counts, e.g. Twitter followers"],"published":["2015-01-14T21:09:43Z"],"entry-type":["bookmark"],"name":["FlapIt"],"bookmark-of":["https://www.flapit.com/"],"category":["count","physical","iot"],"slug":["flapit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Physical counter for social network counts, e.g. Twitter followers"
+    ],
+    "published": [
+      "2015-01-14T21:09:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FlapIt"
+    ],
+    "bookmark-of": [
+      "https://www.flapit.com/"
+    ],
+    "category": [
+      "count",
+      "physical",
+      "iot"
+    ],
+    "slug": [
+      "flapit"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@toddogroats Absolutely. Looking forward to a couple of signings and then a good season ahead."],"published":["2009-08-02T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/57762711/status/3089012436"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3093286825"],"slug":["tweet-3093286825"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@toddogroats Absolutely. Looking forward to a couple of signings and then a good season ahead."
+    ],
+    "published": [
+      "2009-08-02T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/57762711/status/3089012436"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3093286825"
+    ],
+    "slug": [
+      "tweet-3093286825"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Morning everyone http://bit.ly/yLq7g"],"published":["2009-05-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1731504773"],"slug":["tweet-1731504773"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Morning everyone http://bit.ly/yLq7g"
+    ],
+    "published": [
+      "2009-05-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1731504773"
+    ],
+    "slug": [
+      "tweet-1731504773"
+    ]
+  }
+}

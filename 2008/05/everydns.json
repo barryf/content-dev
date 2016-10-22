@@ -1,1 +1,40 @@
-{"type":["h-entry"],"properties":{"content":["Free DNS, Static DNS, Dynamic DNS, URL Redirection\n"],"published":["2008-05-04T18:40:58Z"],"entry-type":["bookmark"],"name":["EveryDNS"],"bookmark-of":["http://www.everydns.net/"],"category":["dns","free","hosting","internet","network","domain","static","url","redirect","dev","server","sysadmin","via-pinboard"],"slug":["everydns"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free DNS, Static DNS, Dynamic DNS, URL Redirection\n"
+    ],
+    "published": [
+      "2008-05-04T18:40:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "EveryDNS"
+    ],
+    "bookmark-of": [
+      "http://www.everydns.net/"
+    ],
+    "category": [
+      "dns",
+      "free",
+      "hosting",
+      "internet",
+      "network",
+      "domain",
+      "static",
+      "url",
+      "redirect",
+      "dev",
+      "server",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "everydns"
+    ]
+  }
+}

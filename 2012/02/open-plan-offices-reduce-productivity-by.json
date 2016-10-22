@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2012-02-02T22:02:45Z"],"entry-type":["bookmark"],"name":["Open plan offices reduce productivity by 66%"],"bookmark-of":["http://www.thesoundagency.com/2011/sound-news/more-damaging-evidence-on-open-plan-offices/"],"category":["work","productivity","design","architecture","office","via-pinboard"],"slug":["open-plan-offices-reduce-productivity-by"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-02-02T22:02:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Open plan offices reduce productivity by 66%"
+    ],
+    "bookmark-of": [
+      "http://www.thesoundagency.com/2011/sound-news/more-damaging-evidence-on-open-plan-offices/"
+    ],
+    "category": [
+      "work",
+      "productivity",
+      "design",
+      "architecture",
+      "office",
+      "via-pinboard"
+    ],
+    "slug": [
+      "open-plan-offices-reduce-productivity-by"
+    ]
+  }
+}

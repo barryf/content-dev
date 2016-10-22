@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@dpzinfo A very kind thought, but even lovely Dominos pizza can't mend the shattered dreams of Arsenal fans in England tonight :("],"published":["2009-05-05T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/31444922/status/1709317504"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1709658678"],"slug":["tweet-1709658678"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@dpzinfo A very kind thought, but even lovely Dominos pizza can't mend the shattered dreams of Arsenal fans in England tonight :("
+    ],
+    "published": [
+      "2009-05-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/31444922/status/1709317504"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1709658678"
+    ],
+    "slug": [
+      "tweet-1709658678"
+    ]
+  }
+}

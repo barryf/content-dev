@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tantek Çelik"],"photo":["http://tantek.com/logo.jpg"],"url":["http://tantek.com/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tantek Çelik"
+    ],
+    "photo": [
+      "http://tantek.com/logo.jpg"
+    ],
+    "url": [
+      "http://tantek.com/"
+    ]
+  }
+}

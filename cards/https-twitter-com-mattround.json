@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Matt Round (@mattround)"],"photo":["http://pbs.twimg.com/profile_images/520934054318047232/s2_2TmXi_normal.jpeg"],"url":["https://twitter.com/mattround"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Matt Round (@mattround)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/520934054318047232/s2_2TmXi_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/mattround"
+    ]
+  }
+}

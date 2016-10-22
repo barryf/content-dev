@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tom"],"photo":["https://twitter.com/tomgiddings/profile_image?size=original"],"url":["https://twitter.com/tomgiddings"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom"
+    ],
+    "photo": [
+      "https://twitter.com/tomgiddings/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/tomgiddings"
+    ]
+  }
+}

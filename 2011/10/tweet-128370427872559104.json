@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jimeh Half term, dude. Savour it, the kids will be back at school next week."],"published":["2011-10-24T07:21:09Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/3068091/status/128370069922267136"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/128370427872559104"],"slug":["tweet-128370427872559104"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jimeh Half term, dude. Savour it, the kids will be back at school next week."
+    ],
+    "published": [
+      "2011-10-24T07:21:09Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/3068091/status/128370069922267136"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/128370427872559104"
+    ],
+    "slug": [
+      "tweet-128370427872559104"
+    ]
+  }
+}

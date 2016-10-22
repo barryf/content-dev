@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Paul Pounder"],"url":["http://twitter.com/ppounder"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Paul Pounder"
+    ],
+    "url": [
+      "http://twitter.com/ppounder"
+    ]
+  }
+}

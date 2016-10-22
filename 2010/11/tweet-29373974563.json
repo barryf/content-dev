@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["RT @MacRumors: iOS 4.1 Daylight Saving Time Bug Strikes Europe http://macrumo.rs/9de5SP /cc @stooty @clearjanuary"],"published":["2010-11-01T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/29373974563"],"slug":["tweet-29373974563"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "RT @MacRumors: iOS 4.1 Daylight Saving Time Bug Strikes Europe http://macrumo.rs/9de5SP /cc @stooty @clearjanuary"
+    ],
+    "published": [
+      "2010-11-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/29373974563"
+    ],
+    "slug": [
+      "tweet-29373974563"
+    ]
+  }
+}

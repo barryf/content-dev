@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I see that the iPod Touch now has a 32Gb option. Think I'll pick one of those babies up in Miami at the end of the month."],"published":["2008-02-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/681426252"],"slug":["tweet-681426252"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I see that the iPod Touch now has a 32Gb option. Think I'll pick one of those babies up in Miami at the end of the month."
+    ],
+    "published": [
+      "2008-02-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/681426252"
+    ],
+    "slug": [
+      "tweet-681426252"
+    ]
+  }
+}

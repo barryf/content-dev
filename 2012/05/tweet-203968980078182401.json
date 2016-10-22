@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Forest, Villa and now Chelsea have won this thing. Arsenal, time to join them."],"published":["2012-05-19T22:02:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/203968980078182401"],"slug":["tweet-203968980078182401"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Forest, Villa and now Chelsea have won this thing. Arsenal, time to join them."
+    ],
+    "published": [
+      "2012-05-19T22:02:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/203968980078182401"
+    ],
+    "slug": [
+      "tweet-203968980078182401"
+    ]
+  }
+}

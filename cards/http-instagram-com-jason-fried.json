@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["jason.fried"],"url":["http://instagram.com/jason.fried"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "jason.fried"
+    ],
+    "url": [
+      "http://instagram.com/jason.fried"
+    ]
+  }
+}

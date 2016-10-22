@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-08T10:00:50Z"],"entry-type":["bookmark"],"name":["SQL Server Express 2005, Finally Installed"],"bookmark-of":["http://www.petefreitag.com/item/458.cfm"],"category":["database","sqlserver","via-pinboard"],"slug":["sql-server-express-2005-finally-installed"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-08T10:00:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SQL Server Express 2005, Finally Installed"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/458.cfm"
+    ],
+    "category": [
+      "database",
+      "sqlserver",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sql-server-express-2005-finally-installed"
+    ]
+  }
+}

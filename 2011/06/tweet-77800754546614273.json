@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Hopelessly glued to the #keynote like a good little Apple geek"],"published":["2011-06-06T18:15:20Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/77800754546614273"],"slug":["tweet-77800754546614273"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hopelessly glued to the #keynote like a good little Apple geek"
+    ],
+    "published": [
+      "2011-06-06T18:15:20Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/77800754546614273"
+    ],
+    "slug": [
+      "tweet-77800754546614273"
+    ]
+  }
+}

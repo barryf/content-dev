@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Javascript Markdown implementation. Currently looks to be under active development.\n"],"published":["2011-05-01T08:36:34Z"],"entry-type":["bookmark"],"name":["markdown-js"],"bookmark-of":["https://github.com/evilstreak/markdown-js"],"category":["markdown","javascript","parser","markup","via-pinboard"],"slug":["markdown-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Javascript Markdown implementation. Currently looks to be under active development.\n"
+    ],
+    "published": [
+      "2011-05-01T08:36:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "markdown-js"
+    ],
+    "bookmark-of": [
+      "https://github.com/evilstreak/markdown-js"
+    ],
+    "category": [
+      "markdown",
+      "javascript",
+      "parser",
+      "markup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "markdown-js"
+    ]
+  }
+}

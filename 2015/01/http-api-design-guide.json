@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["API design guide extracted from work on the Heroku Platform API"],"published":["2015-01-18T12:26:24Z"],"entry-type":["bookmark"],"name":["HTTP API Design Guide"],"bookmark-of":["https://github.com/interagent/http-api-design"],"category":["api","guide","rest","heroku"],"slug":["http-api-design-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "API design guide extracted from work on the Heroku Platform API"
+    ],
+    "published": [
+      "2015-01-18T12:26:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTTP API Design Guide"
+    ],
+    "bookmark-of": [
+      "https://github.com/interagent/http-api-design"
+    ],
+    "category": [
+      "api",
+      "guide",
+      "rest",
+      "heroku"
+    ],
+    "slug": [
+      "http-api-design-guide"
+    ]
+  }
+}

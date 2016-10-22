@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["I for one welcome our new Adobe overlords...\n"],"published":["2005-07-27T21:10:57Z"],"entry-type":["bookmark"],"name":["PhotoshopNews: Photoshop News and Information » A Visit to Adobe"],"bookmark-of":["http://photoshopnews.com/feature-stories/a-visit-to-adobe/"],"category":["fun","macromedia","adobe","business","via-pinboard"],"slug":["photoshopnews-photoshop-news-and-information-a"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I for one welcome our new Adobe overlords...\n"
+    ],
+    "published": [
+      "2005-07-27T21:10:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PhotoshopNews: Photoshop News and Information » A Visit to Adobe"
+    ],
+    "bookmark-of": [
+      "http://photoshopnews.com/feature-stories/a-visit-to-adobe/"
+    ],
+    "category": [
+      "fun",
+      "macromedia",
+      "adobe",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "photoshopnews-photoshop-news-and-information-a"
+    ]
+  }
+}

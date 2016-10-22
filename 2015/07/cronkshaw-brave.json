@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw #brave"],"published":["2015-07-30T13:40:36Z"],"entry-type":["reply"],"summary":["@cronkshaw #brave"],"in-reply-to":["https://twitter.com/cronkshaw/status/626748243221835776"],"syndication":["https://twitter.com/barryf/status/626749242971807744"],"slug":["cronkshaw-brave"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw #brave"
+    ],
+    "published": [
+      "2015-07-30T13:40:36Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@cronkshaw #brave"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/cronkshaw/status/626748243221835776"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/626749242971807744"
+    ],
+    "slug": [
+      "cronkshaw-brave"
+    ]
+  }
+}

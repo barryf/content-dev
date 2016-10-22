@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-09-26T13:53:39Z"],"entry-type":["bookmark"],"name":["TextMate Fullscreen on Lion"],"bookmark-of":["http://gregosuri.com/2011/08/15/text-mate-full-screen.html"],"category":["textmate","fullscreen","lion","mac","plugin","via-pinboard"],"slug":["textmate-fullscreen-on-lion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-09-26T13:53:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TextMate Fullscreen on Lion"
+    ],
+    "bookmark-of": [
+      "http://gregosuri.com/2011/08/15/text-mate-full-screen.html"
+    ],
+    "category": [
+      "textmate",
+      "fullscreen",
+      "lion",
+      "mac",
+      "plugin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "textmate-fullscreen-on-lion"
+    ]
+  }
+}

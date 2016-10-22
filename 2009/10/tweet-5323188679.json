@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@clearjanuary Give it a proper listen on Spotify. Nice, gentle stuff. You could even use it as a lullaby for Austin."],"published":["2009-10-31T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/80843056/status/5322999547"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5323188679"],"slug":["tweet-5323188679"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@clearjanuary Give it a proper listen on Spotify. Nice, gentle stuff. You could even use it as a lullaby for Austin."
+    ],
+    "published": [
+      "2009-10-31T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/80843056/status/5322999547"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5323188679"
+    ],
+    "slug": [
+      "tweet-5323188679"
+    ]
+  }
+}

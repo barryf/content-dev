@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Converts integers to/from base58. Useful for short URL IDs\n"],"published":["2011-03-12T23:34:40Z"],"entry-type":["bookmark"],"name":["base58"],"bookmark-of":["https://github.com/dougal/base58"],"category":["base58","integer","url","short","shorturl","via-pinboard"],"slug":["base58"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Converts integers to/from base58. Useful for short URL IDs\n"
+    ],
+    "published": [
+      "2011-03-12T23:34:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "base58"
+    ],
+    "bookmark-of": [
+      "https://github.com/dougal/base58"
+    ],
+    "category": [
+      "base58",
+      "integer",
+      "url",
+      "short",
+      "shorturl",
+      "via-pinboard"
+    ],
+    "slug": [
+      "base58"
+    ]
+  }
+}

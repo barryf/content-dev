@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["At #HNLondon with @globaldev (@ Central Foundation Boys' School w/ 3 others) http://4sq.com/UszpHU"],"published":["2012-11-22T19:14:55Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/271693259674370048"],"slug":["tweet-271693259674370048"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "At #HNLondon with @globaldev (@ Central Foundation Boys' School w/ 3 others) http://4sq.com/UszpHU"
+    ],
+    "published": [
+      "2012-11-22T19:14:55Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/271693259674370048"
+    ],
+    "slug": [
+      "tweet-271693259674370048"
+    ]
+  }
+}

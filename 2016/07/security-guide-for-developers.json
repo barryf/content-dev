@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2016-07-26T10:40:47Z"],"entry-type":["bookmark"],"name":["Security Guide for Developers"],"bookmark-of":["https://github.com/FallibleInc/security-guide-for-developers"],"category":["security","checklist","dev"],"slug":["security-guide-for-developers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-07-26T10:40:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Security Guide for Developers"
+    ],
+    "bookmark-of": [
+      "https://github.com/FallibleInc/security-guide-for-developers"
+    ],
+    "category": [
+      "security",
+      "checklist",
+      "dev"
+    ],
+    "slug": [
+      "security-guide-for-developers"
+    ]
+  }
+}

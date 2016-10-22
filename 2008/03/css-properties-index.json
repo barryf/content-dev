@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-03-29T14:40:40Z"],"entry-type":["bookmark"],"name":["CSS Properties Index"],"bookmark-of":["http://meiert.com/en/indices/css-properties/"],"category":["css","reference","web","design","standards","via-pinboard"],"slug":["css-properties-index"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-03-29T14:40:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CSS Properties Index"
+    ],
+    "bookmark-of": [
+      "http://meiert.com/en/indices/css-properties/"
+    ],
+    "category": [
+      "css",
+      "reference",
+      "web",
+      "design",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "css-properties-index"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-05-01T10:04:07Z"],"entry-type":["bookmark"],"name":["Sign up form design - best practices & design review"],"bookmark-of":["http://www.unmatchedstyle.com/news/sign-up-form-design-best-practices-design-review.php"],"category":["signup","register","form","design","tips","via-pinboard"],"slug":["sign-up-form-design-best-practices"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-05-01T10:04:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sign up form design - best practices & design review"
+    ],
+    "bookmark-of": [
+      "http://www.unmatchedstyle.com/news/sign-up-form-design-best-practices-design-review.php"
+    ],
+    "category": [
+      "signup",
+      "register",
+      "form",
+      "design",
+      "tips",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sign-up-form-design-best-practices"
+    ]
+  }
+}

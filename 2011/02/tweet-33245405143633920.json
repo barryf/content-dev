@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@neilmiddleton They're more like Ewoks. Hmm, cross Star Wars/Trek analogy there."],"published":["2011-02-03T19:28:16Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4143281/status/33243347489390592"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/33245405143633920"],"slug":["tweet-33245405143633920"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@neilmiddleton They're more like Ewoks. Hmm, cross Star Wars/Trek analogy there."
+    ],
+    "published": [
+      "2011-02-03T19:28:16Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4143281/status/33243347489390592"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/33245405143633920"
+    ],
+    "slug": [
+      "tweet-33245405143633920"
+    ]
+  }
+}

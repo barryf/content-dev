@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["watching Radiohead from Sunday at Reading: http://bit.ly/1TgWeT (UK only)"],"published":["2009-09-01T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3693899773"],"slug":["tweet-3693899773"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "watching Radiohead from Sunday at Reading: http://bit.ly/1TgWeT (UK only)"
+    ],
+    "published": [
+      "2009-09-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3693899773"
+    ],
+    "slug": [
+      "tweet-3693899773"
+    ]
+  }
+}

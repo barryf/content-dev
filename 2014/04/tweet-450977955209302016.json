@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@tomgiddings And me — in HD too."],"published":["2014-04-01T12:48:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6830602/status/450977523607040000"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/450977955209302016"],"slug":["tweet-450977955209302016"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@tomgiddings And me — in HD too."
+    ],
+    "published": [
+      "2014-04-01T12:48:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6830602/status/450977523607040000"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/450977955209302016"
+    ],
+    "slug": [
+      "tweet-450977955209302016"
+    ]
+  }
+}

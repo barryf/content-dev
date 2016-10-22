@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Oh dear, @RackspaceUK. I would think the first way to “Get ahead of the game” in eCommerce is filtering “NoFirstname” http://twitter.com/barryf/status/471270064311005184/photo/1"],"published":["2014-05-27T12:41:53Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/471270064311005184"],"slug":["tweet-471270064311005184"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Oh dear, @RackspaceUK. I would think the first way to “Get ahead of the game” in eCommerce is filtering “NoFirstname” http://twitter.com/barryf/status/471270064311005184/photo/1"
+    ],
+    "published": [
+      "2014-05-27T12:41:53Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/471270064311005184"
+    ],
+    "slug": [
+      "tweet-471270064311005184"
+    ]
+  }
+}

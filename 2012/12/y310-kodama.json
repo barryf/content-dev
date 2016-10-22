@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["MySQL replication listener based on ruby-binlog. Kodama provides a simple DSL to easily write your own replication listener. Can be used to do things like replicate from MySQL to Postgres, etc."],"published":["2012-12-03T11:54:53Z"],"entry-type":["bookmark"],"name":["y310/kodama"],"bookmark-of":["https://github.com/y310/kodama"],"category":["database","mysql","ruby","replication","binlog","via-pinboard"],"slug":["y310-kodama"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "MySQL replication listener based on ruby-binlog. Kodama provides a simple DSL to easily write your own replication listener. Can be used to do things like replicate from MySQL to Postgres, etc."
+    ],
+    "published": [
+      "2012-12-03T11:54:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "y310/kodama"
+    ],
+    "bookmark-of": [
+      "https://github.com/y310/kodama"
+    ],
+    "category": [
+      "database",
+      "mysql",
+      "ruby",
+      "replication",
+      "binlog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "y310-kodama"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-21T16:01:11Z"],"entry-type":["bookmark"],"name":["iLounge Forums - How To Copy songs from your iPod to your hard drive"],"bookmark-of":["http://forums.ipodlounge.com/showthread.php?s=&threadid=4719"],"category":["ipod","itunes","music","mp3","mac","windows","via-pinboard"],"slug":["ilounge-forums-how-to-copy-songs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-21T16:01:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iLounge Forums - How To Copy songs from your iPod to your hard drive"
+    ],
+    "bookmark-of": [
+      "http://forums.ipodlounge.com/showthread.php?s=&threadid=4719"
+    ],
+    "category": [
+      "ipod",
+      "itunes",
+      "music",
+      "mp3",
+      "mac",
+      "windows",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ilounge-forums-how-to-copy-songs"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Good to hear @garyvee stress the importance of understanding your LTV and retention #websummit"],"published":["2013-10-30T12:43:59Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/395531527968550912"],"slug":["tweet-395531527968550912"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Good to hear @garyvee stress the importance of understanding your LTV and retention #websummit"
+    ],
+    "published": [
+      "2013-10-30T12:43:59Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/395531527968550912"
+    ],
+    "slug": [
+      "tweet-395531527968550912"
+    ]
+  }
+}

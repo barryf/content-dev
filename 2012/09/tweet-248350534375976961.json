@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw You’ll need to wait for ep2 for Malcolm Tucker but it’s worth the wait."],"published":["2012-09-19T09:19:16Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/248348992470142976"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/248350534375976961"],"slug":["tweet-248350534375976961"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw You’ll need to wait for ep2 for Malcolm Tucker but it’s worth the wait."
+    ],
+    "published": [
+      "2012-09-19T09:19:16Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/248348992470142976"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/248350534375976961"
+    ],
+    "slug": [
+      "tweet-248350534375976961"
+    ]
+  }
+}

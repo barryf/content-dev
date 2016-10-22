@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["ProjectPlus and Ack are essential add-ons\n"],"published":["2008-12-06T14:22:21Z"],"entry-type":["bookmark"],"name":["Alex Payne | How I Use TextMate"],"bookmark-of":["http://al3x.net/2008/12/03/how-i-use-textmate.html"],"category":["ack","textmate","projectplus","extension","bundle","dev","work","via-pinboard"],"slug":["alex-payne-how-i-use-textmate"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "ProjectPlus and Ack are essential add-ons\n"
+    ],
+    "published": [
+      "2008-12-06T14:22:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Alex Payne | How I Use TextMate"
+    ],
+    "bookmark-of": [
+      "http://al3x.net/2008/12/03/how-i-use-textmate.html"
+    ],
+    "category": [
+      "ack",
+      "textmate",
+      "projectplus",
+      "extension",
+      "bundle",
+      "dev",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "alex-payne-how-i-use-textmate"
+    ]
+  }
+}

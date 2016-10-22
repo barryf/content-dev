@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-06-21T10:43:21Z"],"entry-type":["bookmark"],"name":["UX Crash Course: User Psychology"],"bookmark-of":["http://thehipperelement.com/post/87574750438/ux-crash-course-user-psychology"],"category":["ux","psychology","via-pinboard"],"slug":["ux-crash-course-user-psychology"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-06-21T10:43:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UX Crash Course: User Psychology"
+    ],
+    "bookmark-of": [
+      "http://thehipperelement.com/post/87574750438/ux-crash-course-user-psychology"
+    ],
+    "category": [
+      "ux",
+      "psychology",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ux-crash-course-user-psychology"
+    ]
+  }
+}

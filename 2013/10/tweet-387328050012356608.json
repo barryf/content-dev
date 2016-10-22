@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@grayhaze Not quite. There are Android apps that implement it too: http://en.m.wikipedia.org/wiki/Visual_voicemail"],"published":["2013-10-07T21:26:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22610785/status/387325115006189568"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/387328050012356608"],"slug":["tweet-387328050012356608"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@grayhaze Not quite. There are Android apps that implement it too: http://en.m.wikipedia.org/wiki/Visual_voicemail"
+    ],
+    "published": [
+      "2013-10-07T21:26:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22610785/status/387325115006189568"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/387328050012356608"
+    ],
+    "slug": [
+      "tweet-387328050012356608"
+    ]
+  }
+}

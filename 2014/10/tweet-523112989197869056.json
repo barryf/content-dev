@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@hannah__alice @wld @ahollandgp Sorry Aaron. Wondered how Hannah was in two rooms at once!"],"published":["2014-10-17T14:07:10Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/351565163/status/523112740312068096"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/523112989197869056"],"slug":["tweet-523112989197869056"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hannah__alice @wld @ahollandgp Sorry Aaron. Wondered how Hannah was in two rooms at once!"
+    ],
+    "published": [
+      "2014-10-17T14:07:10Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/351565163/status/523112740312068096"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/523112989197869056"
+    ],
+    "slug": [
+      "tweet-523112989197869056"
+    ]
+  }
+}

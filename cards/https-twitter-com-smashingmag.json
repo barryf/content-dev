@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Smashing Magazine (@smashingmag)"],"photo":["http://pbs.twimg.com/profile_images/477218012194304000/ytI5hY2H_normal.png"],"url":["https://twitter.com/smashingmag"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Smashing Magazine (@smashingmag)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/477218012194304000/ytI5hY2H_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/smashingmag"
+    ]
+  }
+}

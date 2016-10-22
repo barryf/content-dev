@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm accidentally watching Jerry Maguire. I can feel ovaries growing."],"published":["2009-09-24T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4350292789"],"slug":["tweet-4350292789"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm accidentally watching Jerry Maguire. I can feel ovaries growing."
+    ],
+    "published": [
+      "2009-09-24T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4350292789"
+    ],
+    "slug": [
+      "tweet-4350292789"
+    ]
+  }
+}

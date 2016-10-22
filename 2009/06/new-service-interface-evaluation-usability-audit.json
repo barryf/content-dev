@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Lightweight evaluation service resulting in prioritised list of issues and advice on best practices\n"],"published":["2009-06-07T14:22:47Z"],"entry-type":["bookmark"],"name":["New Service: Interface Evaluation (Usability Audit) - Bokardo"],"bookmark-of":["http://bokardo.com/archives/new-service-interface-evaluation-usability-audit/"],"category":["bokardo","audit","usability","service","interface","ui","business","work","via-pinboard"],"slug":["new-service-interface-evaluation-usability-audit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lightweight evaluation service resulting in prioritised list of issues and advice on best practices\n"
+    ],
+    "published": [
+      "2009-06-07T14:22:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "New Service: Interface Evaluation (Usability Audit) - Bokardo"
+    ],
+    "bookmark-of": [
+      "http://bokardo.com/archives/new-service-interface-evaluation-usability-audit/"
+    ],
+    "category": [
+      "bokardo",
+      "audit",
+      "usability",
+      "service",
+      "interface",
+      "ui",
+      "business",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "new-service-interface-evaluation-usability-audit"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Stewart Lee is my hero. Very happy he's back on the telly"],"published":["2009-03-23T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1378381305"],"slug":["tweet-1378381305"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Stewart Lee is my hero. Very happy he's back on the telly"
+    ],
+    "published": [
+      "2009-03-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1378381305"
+    ],
+    "slug": [
+      "tweet-1378381305"
+    ]
+  }
+}

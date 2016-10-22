@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@tomgiddings My guess too, although it only beeped the once. Testing it was fine. Might change the battery anyway!"],"published":["2016-03-08T19:09:23Z"],"entry-type":["reply"],"summary":["@tomgiddings My guess too, although it only beeped the once. Testing it was fine. Might change the battery anyway!"],"in-reply-to":["https://mobile.twitter.com/tomgiddings/status/707271085922885632"],"syndication":["https://twitter.com/barryf/status/707282108306206720"],"slug":["tomgiddings-my-guess-too-although-it"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@tomgiddings My guess too, although it only beeped the once. Testing it was fine. Might change the battery anyway!"
+    ],
+    "published": [
+      "2016-03-08T19:09:23Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@tomgiddings My guess too, although it only beeped the once. Testing it was fine. Might change the battery anyway!"
+    ],
+    "in-reply-to": [
+      "https://mobile.twitter.com/tomgiddings/status/707271085922885632"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/707282108306206720"
+    ],
+    "slug": [
+      "tomgiddings-my-guess-too-although-it"
+    ]
+  }
+}

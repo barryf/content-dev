@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2015-08-12T08:33:51Z"],"entry-type":["bookmark"],"name":["The Hamburger Menu Doesn't Work"],"bookmark-of":["http://deep.design/the-hamburger-menu/"],"category":["hamburger","ui","navigation","ux"],"slug":["the-hamburger-menu-doesn-t-work"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-08-12T08:33:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Hamburger Menu Doesn't Work"
+    ],
+    "bookmark-of": [
+      "http://deep.design/the-hamburger-menu/"
+    ],
+    "category": [
+      "hamburger",
+      "ui",
+      "navigation",
+      "ux"
+    ],
+    "slug": [
+      "the-hamburger-menu-doesn-t-work"
+    ]
+  }
+}

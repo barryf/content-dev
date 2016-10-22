@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["RailsConf 2015"],"photo":["http://pbs.twimg.com/profile_images/418089877951881217/hLjqIGXx_normal.jpeg"],"url":["https://twitter.com/railsconf"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "RailsConf 2015"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/418089877951881217/hLjqIGXx_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/railsconf"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Organising a 250-person agile team - tribes, squads, chapters and guilds"],"published":["2012-12-06T09:40:40Z"],"entry-type":["bookmark"],"name":["Scaling Agile at Spotify"],"bookmark-of":["http://www.scribd.com/doc/113617905/Scaling-Agile-Spotify"],"category":["spotify","dev","agile","scalability","process","via-pinboard"],"slug":["scaling-agile-at-spotify"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Organising a 250-person agile team - tribes, squads, chapters and guilds"
+    ],
+    "published": [
+      "2012-12-06T09:40:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scaling Agile at Spotify"
+    ],
+    "bookmark-of": [
+      "http://www.scribd.com/doc/113617905/Scaling-Agile-Spotify"
+    ],
+    "category": [
+      "spotify",
+      "dev",
+      "agile",
+      "scalability",
+      "process",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scaling-agile-at-spotify"
+    ]
+  }
+}

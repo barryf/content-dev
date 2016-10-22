@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["A good write-up of some of the new and existing features in Prototype\n"],"published":["2006-04-12T12:46:02Z"],"entry-type":["bookmark"],"name":["Joyeur: Joyful JavaScript"],"bookmark-of":["http://joyeur.com/2006/04/07/joyful-javascript"],"category":["prototype","javascript","library","ajax","web20","web","dev","rails","via-pinboard"],"slug":["joyeur-joyful-javascript"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A good write-up of some of the new and existing features in Prototype\n"
+    ],
+    "published": [
+      "2006-04-12T12:46:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Joyeur: Joyful JavaScript"
+    ],
+    "bookmark-of": [
+      "http://joyeur.com/2006/04/07/joyful-javascript"
+    ],
+    "category": [
+      "prototype",
+      "javascript",
+      "library",
+      "ajax",
+      "web20",
+      "web",
+      "dev",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "joyeur-joyful-javascript"
+    ]
+  }
+}

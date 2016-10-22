@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-29T09:51:18Z"],"entry-type":["bookmark"],"name":["Log4Ajax"],"bookmark-of":["http://log4ajax.sourceforge.net/"],"category":["ajax","javascript","logging","web","dev","log4","via-pinboard"],"slug":["log4ajax"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-29T09:51:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Log4Ajax"
+    ],
+    "bookmark-of": [
+      "http://log4ajax.sourceforge.net/"
+    ],
+    "category": [
+      "ajax",
+      "javascript",
+      "logging",
+      "web",
+      "dev",
+      "log4",
+      "via-pinboard"
+    ],
+    "slug": [
+      "log4ajax"
+    ]
+  }
+}

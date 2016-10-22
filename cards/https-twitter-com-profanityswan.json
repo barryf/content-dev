@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Andy Dawson"],"photo":["https://twitter.com/profanityswan/profile_image?size=original"],"url":["https://twitter.com/profanityswan"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Andy Dawson"
+    ],
+    "photo": [
+      "https://twitter.com/profanityswan/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/profanityswan"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Resize images and videos to fit the available space in a fluid layout. Includes workarounds for IE\n"],"published":["2011-06-15T11:12:22Z"],"entry-type":["bookmark"],"name":["Fluid Images"],"bookmark-of":["http://www.alistapart.com/articles/fluid-images/"],"category":["fluid","design","layout","image","video","via-pinboard"],"slug":["fluid-images"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Resize images and videos to fit the available space in a fluid layout. Includes workarounds for IE\n"
+    ],
+    "published": [
+      "2011-06-15T11:12:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fluid Images"
+    ],
+    "bookmark-of": [
+      "http://www.alistapart.com/articles/fluid-images/"
+    ],
+    "category": [
+      "fluid",
+      "design",
+      "layout",
+      "image",
+      "video",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fluid-images"
+    ]
+  }
+}

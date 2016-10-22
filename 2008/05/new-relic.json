@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Stats and metrics for Rails apps (private beta)\n"],"published":["2008-05-06T07:16:56Z"],"entry-type":["bookmark"],"name":["New Relic"],"bookmark-of":["http://www.newrelic.com/"],"category":["rails","performance","monitoring","analytics","plugin","via-pinboard"],"slug":["new-relic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Stats and metrics for Rails apps (private beta)\n"
+    ],
+    "published": [
+      "2008-05-06T07:16:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "New Relic"
+    ],
+    "bookmark-of": [
+      "http://www.newrelic.com/"
+    ],
+    "category": [
+      "rails",
+      "performance",
+      "monitoring",
+      "analytics",
+      "plugin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "new-relic"
+    ]
+  }
+}

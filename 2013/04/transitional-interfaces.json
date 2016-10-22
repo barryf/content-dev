@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Adding small amounts of animation greatly helps UX and UI design"],"published":["2013-04-17T16:21:06Z"],"entry-type":["bookmark"],"name":["Transitional Interfaces"],"bookmark-of":["https://medium.com/design-ux/926eb80d64e3"],"category":["ux","interface","animation","ui","design","via-pinboard"],"slug":["transitional-interfaces"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Adding small amounts of animation greatly helps UX and UI design"
+    ],
+    "published": [
+      "2013-04-17T16:21:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Transitional Interfaces"
+    ],
+    "bookmark-of": [
+      "https://medium.com/design-ux/926eb80d64e3"
+    ],
+    "category": [
+      "ux",
+      "interface",
+      "animation",
+      "ui",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "transitional-interfaces"
+    ]
+  }
+}

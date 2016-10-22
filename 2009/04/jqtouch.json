@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["jQuery plugin to provide native animations, navigation for mobile webkit browsers - targets iPhone, G1 and Pre\n"],"published":["2009-04-09T20:45:27Z"],"entry-type":["bookmark"],"name":["jQTouch"],"bookmark-of":["http://www.jqtouch.com/"],"category":["jquery","iphone","webkit","interface","mobile","ui","plugin","iui","javascript","via-pinboard"],"slug":["jqtouch"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "jQuery plugin to provide native animations, navigation for mobile webkit browsers - targets iPhone, G1 and Pre\n"
+    ],
+    "published": [
+      "2009-04-09T20:45:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jQTouch"
+    ],
+    "bookmark-of": [
+      "http://www.jqtouch.com/"
+    ],
+    "category": [
+      "jquery",
+      "iphone",
+      "webkit",
+      "interface",
+      "mobile",
+      "ui",
+      "plugin",
+      "iui",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jqtouch"
+    ]
+  }
+}

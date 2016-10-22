@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Expense reporting. Has mobile apps"],"published":["2015-06-03T08:31:34Z"],"entry-type":["bookmark"],"name":["Expensify For Business"],"bookmark-of":["http://use.expensify.com/"],"category":["expenses","business","finance"],"slug":["expensify-for-business"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Expense reporting. Has mobile apps"
+    ],
+    "published": [
+      "2015-06-03T08:31:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Expensify For Business"
+    ],
+    "bookmark-of": [
+      "http://use.expensify.com/"
+    ],
+    "category": [
+      "expenses",
+      "business",
+      "finance"
+    ],
+    "slug": [
+      "expensify-for-business"
+    ]
+  }
+}

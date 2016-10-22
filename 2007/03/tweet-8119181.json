@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sitting in the sunshine in St James's Square watching magpies."],"published":["2007-03-15T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/8119181"],"slug":["tweet-8119181"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sitting in the sunshine in St James's Square watching magpies."
+    ],
+    "published": [
+      "2007-03-15T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/8119181"
+    ],
+    "slug": [
+      "tweet-8119181"
+    ]
+  }
+}

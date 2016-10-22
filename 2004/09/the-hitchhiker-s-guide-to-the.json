@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Woo. Flash version of the classic text adventure.\n"],"published":["2004-09-21T14:03:34Z"],"entry-type":["bookmark"],"name":["The Hitchhiker's Guide to the Galaxy - The Adventure Game"],"bookmark-of":["http://www.bbc.co.uk/radio4/hitchhikers/game.shtml"],"category":["fun","via-pinboard"],"slug":["the-hitchhiker-s-guide-to-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Woo. Flash version of the classic text adventure.\n"
+    ],
+    "published": [
+      "2004-09-21T14:03:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Hitchhiker's Guide to the Galaxy - The Adventure Game"
+    ],
+    "bookmark-of": [
+      "http://www.bbc.co.uk/radio4/hitchhikers/game.shtml"
+    ],
+    "category": [
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-hitchhiker-s-guide-to-the"
+    ]
+  }
+}

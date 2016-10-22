@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2014-07-08T07:31:32Z"],"entry-type":["bookmark"],"name":["RubyMonk"],"bookmark-of":["https://rubymonk.com/learning/books/1-ruby-primer"],"category":["ruby","course","primer","via-pinboard"],"slug":["rubymonk"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-07-08T07:31:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RubyMonk"
+    ],
+    "bookmark-of": [
+      "https://rubymonk.com/learning/books/1-ruby-primer"
+    ],
+    "category": [
+      "ruby",
+      "course",
+      "primer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rubymonk"
+    ]
+  }
+}

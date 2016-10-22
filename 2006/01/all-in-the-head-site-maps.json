@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Use a basic navigational map, an interaction flow diagram and a URI map\n"],"published":["2006-01-31T13:50:18Z"],"entry-type":["bookmark"],"name":["all in the head — Site Maps for Web Applications"],"bookmark-of":["http://allinthehead.com/retro/279/site-maps-for-web-applications"],"category":["web","architecture","design","documentation","sitemap","web20","rest","via-pinboard"],"slug":["all-in-the-head-site-maps"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Use a basic navigational map, an interaction flow diagram and a URI map\n"
+    ],
+    "published": [
+      "2006-01-31T13:50:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "all in the head — Site Maps for Web Applications"
+    ],
+    "bookmark-of": [
+      "http://allinthehead.com/retro/279/site-maps-for-web-applications"
+    ],
+    "category": [
+      "web",
+      "architecture",
+      "design",
+      "documentation",
+      "sitemap",
+      "web20",
+      "rest",
+      "via-pinboard"
+    ],
+    "slug": [
+      "all-in-the-head-site-maps"
+    ]
+  }
+}

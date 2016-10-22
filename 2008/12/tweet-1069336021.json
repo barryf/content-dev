@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Feeling pleased but slightly emasculated to have found Mark, an excellent, reliable handyman who can do stuff I can't"],"published":["2008-12-20T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1069336021"],"slug":["tweet-1069336021"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Feeling pleased but slightly emasculated to have found Mark, an excellent, reliable handyman who can do stuff I can't"
+    ],
+    "published": [
+      "2008-12-20T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1069336021"
+    ],
+    "slug": [
+      "tweet-1069336021"
+    ]
+  }
+}

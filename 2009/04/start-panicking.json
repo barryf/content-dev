@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Comprehensive demo of the link colour sniffing trick. The aim is to get browser makers to block the vulnerability.\n"],"published":["2009-04-27T14:37:19Z"],"entry-type":["bookmark"],"name":["Start Panicking!"],"bookmark-of":["http://startpanic.com/"],"category":["privacy","history","browser","security","hack","campaign","sniff","via-pinboard"],"slug":["start-panicking"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Comprehensive demo of the link colour sniffing trick. The aim is to get browser makers to block the vulnerability.\n"
+    ],
+    "published": [
+      "2009-04-27T14:37:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Start Panicking!"
+    ],
+    "bookmark-of": [
+      "http://startpanic.com/"
+    ],
+    "category": [
+      "privacy",
+      "history",
+      "browser",
+      "security",
+      "hack",
+      "campaign",
+      "sniff",
+      "via-pinboard"
+    ],
+    "slug": [
+      "start-panicking"
+    ]
+  }
+}

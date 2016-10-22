@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying junk (snail) mail this morning from a \"leading IT business\" specialising in \"Optimising Your Connected World\" #marketingguff"],"published":["2011-09-05T10:44:08Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/110664505100484608"],"slug":["tweet-110664505100484608"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying junk (snail) mail this morning from a \"leading IT business\" specialising in \"Optimising Your Connected World\" #marketingguff"
+    ],
+    "published": [
+      "2011-09-05T10:44:08Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/110664505100484608"
+    ],
+    "slug": [
+      "tweet-110664505100484608"
+    ]
+  }
+}

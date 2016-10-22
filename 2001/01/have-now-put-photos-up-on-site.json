@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["Have now put photos up on the site. Will get some explanations and \"full back-dated links\" throughout the travelblog as soon as I can."],"published":["2001-01-06T00:00:00Z"],"slug":["have-now-put-photos-up-on-site"],"entry-type":["note"],"category":["travelblog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Have now put photos up on the site. Will get some explanations and \"full back-dated links\" throughout the travelblog as soon as I can."
+    ],
+    "published": [
+      "2001-01-06T00:00:00Z"
+    ],
+    "slug": [
+      "have-now-put-photos-up-on-site"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "travelblog"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Makes a custom Rails 2.3 stack with your choice of plugins and whatnot\n"],"published":["2009-03-14T08:22:39Z"],"entry-type":["bookmark"],"name":["Rails Boost: Rails Template Generator"],"bookmark-of":["http://www.railsboost.com/templates/new"],"category":["rails","template","stack","project","dev","via-pinboard"],"slug":["rails-boost-rails-template-generator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Makes a custom Rails 2.3 stack with your choice of plugins and whatnot\n"
+    ],
+    "published": [
+      "2009-03-14T08:22:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails Boost: Rails Template Generator"
+    ],
+    "bookmark-of": [
+      "http://www.railsboost.com/templates/new"
+    ],
+    "category": [
+      "rails",
+      "template",
+      "stack",
+      "project",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-boost-rails-template-generator"
+    ]
+  }
+}

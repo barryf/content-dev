@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-07T10:48:18Z"],"entry-type":["bookmark"],"name":["JSPWiki"],"bookmark-of":["http://www.jspwiki.org/"],"category":["wiki","via-pinboard"],"slug":["jspwiki"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-07T10:48:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JSPWiki"
+    ],
+    "bookmark-of": [
+      "http://www.jspwiki.org/"
+    ],
+    "category": [
+      "wiki",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jspwiki"
+    ]
+  }
+}

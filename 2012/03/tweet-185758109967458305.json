@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Made from 100% pear http://twitpic.com/93bei0"],"published":["2012-03-30T15:59:19Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/185758109967458305"],"slug":["tweet-185758109967458305"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Made from 100% pear http://twitpic.com/93bei0"
+    ],
+    "published": [
+      "2012-03-30T15:59:19Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/185758109967458305"
+    ],
+    "slug": [
+      "tweet-185758109967458305"
+    ]
+  }
+}

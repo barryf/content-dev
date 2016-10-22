@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Check your HTML email campaign in multiple email clients\n"],"published":["2007-09-21T18:23:26Z"],"entry-type":["bookmark"],"name":["MailChimp Inbox Inspector"],"bookmark-of":["http://www.mailchimp.com/add-ons/inboxinspector/"],"category":["campaign","css","design","html","marketing","email","newsletter","outlook","validation","via-pinboard"],"slug":["mailchimp-inbox-inspector"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Check your HTML email campaign in multiple email clients\n"
+    ],
+    "published": [
+      "2007-09-21T18:23:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MailChimp Inbox Inspector"
+    ],
+    "bookmark-of": [
+      "http://www.mailchimp.com/add-ons/inboxinspector/"
+    ],
+    "category": [
+      "campaign",
+      "css",
+      "design",
+      "html",
+      "marketing",
+      "email",
+      "newsletter",
+      "outlook",
+      "validation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mailchimp-inbox-inspector"
+    ]
+  }
+}

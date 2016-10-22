@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["BS's dev team blog. I like the labs subdomain trend\n"],"published":["2007-04-18T21:02:36Z"],"entry-type":["bookmark"],"name":["BIG SPACESHIP LABS"],"bookmark-of":["http://labs.bigspaceship.com/blog/"],"category":["advertising","agency","blog","company","flash","actionscript","design","via-pinboard"],"slug":["big-spaceship-labs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "BS's dev team blog. I like the labs subdomain trend\n"
+    ],
+    "published": [
+      "2007-04-18T21:02:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "BIG SPACESHIP LABS"
+    ],
+    "bookmark-of": [
+      "http://labs.bigspaceship.com/blog/"
+    ],
+    "category": [
+      "advertising",
+      "agency",
+      "blog",
+      "company",
+      "flash",
+      "actionscript",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "big-spaceship-labs"
+    ]
+  }
+}

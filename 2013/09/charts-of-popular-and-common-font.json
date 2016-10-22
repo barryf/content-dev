@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2013-09-25T10:11:52Z"],"entry-type":["bookmark"],"name":["Charts of popular and common font uses | Typ.io"],"bookmark-of":["http://www.typ.io/charts"],"category":["type","typography","font","popular","chart","design","inspiration","via-pinboard"],"slug":["charts-of-popular-and-common-font"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-09-25T10:11:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Charts of popular and common font uses | Typ.io"
+    ],
+    "bookmark-of": [
+      "http://www.typ.io/charts"
+    ],
+    "category": [
+      "type",
+      "typography",
+      "font",
+      "popular",
+      "chart",
+      "design",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "charts-of-popular-and-common-font"
+    ]
+  }
+}

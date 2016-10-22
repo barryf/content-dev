@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Finally exchanged contracts on our new house! Moving to Virginia Water in Surrey next month."],"published":["2012-06-08T12:35:59Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/211074091476721664"],"slug":["tweet-211074091476721664"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Finally exchanged contracts on our new house! Moving to Virginia Water in Surrey next month."
+    ],
+    "published": [
+      "2012-06-08T12:35:59Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/211074091476721664"
+    ],
+    "slug": [
+      "tweet-211074091476721664"
+    ]
+  }
+}

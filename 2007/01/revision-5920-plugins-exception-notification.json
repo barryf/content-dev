@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Notifies you by email whenever your Rails app has a \"moment\"\n"],"published":["2007-01-13T16:31:00Z"],"entry-type":["bookmark"],"name":["Revision 5920: /plugins/exception_notification"],"bookmark-of":["http://dev.rubyonrails.org/svn/rails/plugins/exception_notification/"],"category":["rails","debug","plugin","email","exception","error","reporting","dev","sysadmin","via-pinboard"],"slug":["revision-5920-plugins-exception-notification"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Notifies you by email whenever your Rails app has a \"moment\"\n"
+    ],
+    "published": [
+      "2007-01-13T16:31:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Revision 5920: /plugins/exception_notification"
+    ],
+    "bookmark-of": [
+      "http://dev.rubyonrails.org/svn/rails/plugins/exception_notification/"
+    ],
+    "category": [
+      "rails",
+      "debug",
+      "plugin",
+      "email",
+      "exception",
+      "error",
+      "reporting",
+      "dev",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "revision-5920-plugins-exception-notification"
+    ]
+  }
+}

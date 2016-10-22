@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["High-resolution, royalty-free CC0 licenced photos"],"published":["2016-07-01T13:51:12Z"],"entry-type":["bookmark"],"name":["Unsplash"],"bookmark-of":["https://unsplash.com/"],"category":["photo","free","stock","art"],"slug":["unsplash"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "High-resolution, royalty-free CC0 licenced photos"
+    ],
+    "published": [
+      "2016-07-01T13:51:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Unsplash"
+    ],
+    "bookmark-of": [
+      "https://unsplash.com/"
+    ],
+    "category": [
+      "photo",
+      "free",
+      "stock",
+      "art"
+    ],
+    "slug": [
+      "unsplash"
+    ]
+  }
+}

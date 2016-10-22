@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2008-04-26T10:56:35Z"],"entry-type":["bookmark"],"name":["How to make a proper iPhone icon"],"bookmark-of":["http://www.fontblog.de/how-to-make-a-proper-iphone-icon#comments"],"category":["iphone","icon","ipod","ipodtouch","web","design","reference","via-pinboard"],"slug":["how-to-make-a-proper-iphone"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-04-26T10:56:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to make a proper iPhone icon"
+    ],
+    "bookmark-of": [
+      "http://www.fontblog.de/how-to-make-a-proper-iphone-icon#comments"
+    ],
+    "category": [
+      "iphone",
+      "icon",
+      "ipod",
+      "ipodtouch",
+      "web",
+      "design",
+      "reference",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-make-a-proper-iphone"
+    ]
+  }
+}

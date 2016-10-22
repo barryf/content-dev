@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Tweets aren't private and republishing isn't an invasion of privacy, rules the Press Complaints Commission (UK) http://www.bbc.co.uk/news/technology-12393893"],"published":["2011-02-08T16:19:03Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/35009723635859456"],"slug":["tweet-35009723635859456"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tweets aren't private and republishing isn't an invasion of privacy, rules the Press Complaints Commission (UK) http://www.bbc.co.uk/news/technology-12393893"
+    ],
+    "published": [
+      "2011-02-08T16:19:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/35009723635859456"
+    ],
+    "slug": [
+      "tweet-35009723635859456"
+    ]
+  }
+}

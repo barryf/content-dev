@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-12-13T21:35:18Z"],"entry-type":["bookmark"],"name":["Want to Know Difference Between a CTO and a VP of Engineering?"],"bookmark-of":["http://www.bothsidesofthetable.com/want-to-know-difference-between-a-cto-and-a-vp-of-engineering/"],"category":["via-pinboard"],"slug":["want-to-know-difference-between-a"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-12-13T21:35:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Want to Know Difference Between a CTO and a VP of Engineering?"
+    ],
+    "bookmark-of": [
+      "http://www.bothsidesofthetable.com/want-to-know-difference-between-a-cto-and-a-vp-of-engineering/"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "want-to-know-difference-between-a"
+    ]
+  }
+}

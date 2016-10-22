@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@onion2k Thanks very much! Our acc mgr has now emailed a list of the new URLs, but their new support pages are still not up AFAIK. Bah."],"published":["2009-04-21T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/18628546/status/1574257835"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1574703129"],"slug":["tweet-1574703129"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@onion2k Thanks very much! Our acc mgr has now emailed a list of the new URLs, but their new support pages are still not up AFAIK. Bah."
+    ],
+    "published": [
+      "2009-04-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/18628546/status/1574257835"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1574703129"
+    ],
+    "slug": [
+      "tweet-1574703129"
+    ]
+  }
+}

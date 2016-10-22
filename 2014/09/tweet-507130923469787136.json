@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw We’ve been very happily using it for a few months to replace Campfire and GTalk. Used for all our project and team discussions."],"published":["2014-09-03T11:40:08Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/507130613837492224"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/507130923469787136"],"slug":["tweet-507130923469787136"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw We’ve been very happily using it for a few months to replace Campfire and GTalk. Used for all our project and team discussions."
+    ],
+    "published": [
+      "2014-09-03T11:40:08Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/507130613837492224"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/507130923469787136"
+    ],
+    "slug": [
+      "tweet-507130923469787136"
+    ]
+  }
+}

@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["I suppose Jakob's right, but I'm not sure I'd ever feel comfofrtable beginning a sentence with a numeral.\n"],"published":["2007-05-14T19:16:23Z"],"entry-type":["bookmark"],"name":["Show Numbers as Numerals When Writing for Online Readers (Jakob Nielsen's Alertbox)"],"bookmark-of":["http://www.useit.com/alertbox/writing-numbers.html"],"category":["usability","writing","web","copywriting","interface","research","standards","text","design","via-pinboard"],"slug":["show-numbers-as-numerals-when-writing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I suppose Jakob's right, but I'm not sure I'd ever feel comfofrtable beginning a sentence with a numeral.\n"
+    ],
+    "published": [
+      "2007-05-14T19:16:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Show Numbers as Numerals When Writing for Online Readers (Jakob Nielsen's Alertbox)"
+    ],
+    "bookmark-of": [
+      "http://www.useit.com/alertbox/writing-numbers.html"
+    ],
+    "category": [
+      "usability",
+      "writing",
+      "web",
+      "copywriting",
+      "interface",
+      "research",
+      "standards",
+      "text",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "show-numbers-as-numerals-when-writing"
+    ]
+  }
+}

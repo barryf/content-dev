@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Discovering new (to me) music: Kisses, Radio Dept. and Warpaint, courtesy of Mr @hobbsy. Also loving The Pains of Being Pure at Heart."],"published":["2011-05-01T17:44:51Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/64747123421360128"],"slug":["tweet-64747123421360128"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Discovering new (to me) music: Kisses, Radio Dept. and Warpaint, courtesy of Mr @hobbsy. Also loving The Pains of Being Pure at Heart."
+    ],
+    "published": [
+      "2011-05-01T17:44:51Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/64747123421360128"
+    ],
+    "slug": [
+      "tweet-64747123421360128"
+    ]
+  }
+}

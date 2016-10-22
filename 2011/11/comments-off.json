@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Matt Gemmell argues against having comments on his blog. Preference is for someone to blog about his post, tweet back or email.\n"],"published":["2011-11-29T17:57:45Z"],"entry-type":["bookmark"],"name":["Comments Off"],"bookmark-of":["http://mattgemmell.com/2011/11/29/comments-off/"],"category":["blogcommentspamsocial","via-pinboard"],"slug":["comments-off"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Matt Gemmell argues against having comments on his blog. Preference is for someone to blog about his post, tweet back or email.\n"
+    ],
+    "published": [
+      "2011-11-29T17:57:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Comments Off"
+    ],
+    "bookmark-of": [
+      "http://mattgemmell.com/2011/11/29/comments-off/"
+    ],
+    "category": [
+      "blogcommentspamsocial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "comments-off"
+    ]
+  }
+}

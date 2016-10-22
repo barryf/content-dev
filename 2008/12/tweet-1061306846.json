@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The rabbit prefers the east wing of his house this evening.  http://snipurl.com/8h8il"],"published":["2008-12-16T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1061306846"],"slug":["tweet-1061306846"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The rabbit prefers the east wing of his house this evening.  http://snipurl.com/8h8il"
+    ],
+    "published": [
+      "2008-12-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1061306846"
+    ],
+    "slug": [
+      "tweet-1061306846"
+    ]
+  }
+}

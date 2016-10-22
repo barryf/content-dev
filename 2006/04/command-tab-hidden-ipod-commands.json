@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Hard reset, diagnostic mode and disk mode\n"],"published":["2006-04-11T08:40:24Z"],"entry-type":["bookmark"],"name":["Command-Tab » Hidden iPod Commands"],"bookmark-of":["http://www.command-tab.com/2006/03/30/hidden-ipod-commands/"],"category":["ipod","useful","repair","hardware","reference","via-pinboard"],"slug":["command-tab-hidden-ipod-commands"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hard reset, diagnostic mode and disk mode\n"
+    ],
+    "published": [
+      "2006-04-11T08:40:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Command-Tab » Hidden iPod Commands"
+    ],
+    "bookmark-of": [
+      "http://www.command-tab.com/2006/03/30/hidden-ipod-commands/"
+    ],
+    "category": [
+      "ipod",
+      "useful",
+      "repair",
+      "hardware",
+      "reference",
+      "via-pinboard"
+    ],
+    "slug": [
+      "command-tab-hidden-ipod-commands"
+    ]
+  }
+}

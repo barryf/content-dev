@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mattjukes Bah. I was at ad:tech yesterday! I would've changed my plans if I'd known you were speaking. Good luck."],"published":["2009-09-23T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15366167/status/4312407467"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4312567025"],"slug":["tweet-4312567025"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mattjukes Bah. I was at ad:tech yesterday! I would've changed my plans if I'd known you were speaking. Good luck."
+    ],
+    "published": [
+      "2009-09-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15366167/status/4312407467"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4312567025"
+    ],
+    "slug": [
+      "tweet-4312567025"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Selectively use distinct stylesheets depending on your iPad's orientation\n"],"published":["2010-04-25T14:44:57Z"],"entry-type":["bookmark"],"name":["iPad Orientation CSS"],"bookmark-of":["http://www.cloudfour.com/ipad-orientation-css/"],"category":["css","orientation","ipad","browser","via-pinboard"],"slug":["ipad-orientation-css"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Selectively use distinct stylesheets depending on your iPad's orientation\n"
+    ],
+    "published": [
+      "2010-04-25T14:44:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iPad Orientation CSS"
+    ],
+    "bookmark-of": [
+      "http://www.cloudfour.com/ipad-orientation-css/"
+    ],
+    "category": [
+      "css",
+      "orientation",
+      "ipad",
+      "browser",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ipad-orientation-css"
+    ]
+  }
+}

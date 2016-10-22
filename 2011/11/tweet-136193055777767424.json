@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["New article: Switching from Chrome to Safari bfr.st/2CSC"],"published":["2011-11-14T21:25:29Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/136193055777767424"],"slug":["tweet-136193055777767424"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "New article: Switching from Chrome to Safari bfr.st/2CSC"
+    ],
+    "published": [
+      "2011-11-14T21:25:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/136193055777767424"
+    ],
+    "slug": [
+      "tweet-136193055777767424"
+    ]
+  }
+}

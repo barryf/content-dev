@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2011-01-03T18:27:57Z"],"entry-type":["bookmark"],"name":["Mobile Emulators and Simulators"],"bookmark-of":["http://www.mobilexweb.com/emulators"],"category":["mobile","simulator","emulator","via-pinboard"],"slug":["mobile-emulators-and-simulators"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-01-03T18:27:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mobile Emulators and Simulators"
+    ],
+    "bookmark-of": [
+      "http://www.mobilexweb.com/emulators"
+    ],
+    "category": [
+      "mobile",
+      "simulator",
+      "emulator",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mobile-emulators-and-simulators"
+    ]
+  }
+}

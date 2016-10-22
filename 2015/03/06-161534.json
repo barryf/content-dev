@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-06T16:15:34Z"],"entry-type":["like"],"like-of":["http://werd.io/2015/why-im-excited-about-known-pro-and-whats-next-for"],"syndication":["https://twitter.com/benwerd/status/573645022949584896"],"slug":["06-161534"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-06T16:15:34Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://werd.io/2015/why-im-excited-about-known-pro-and-whats-next-for"
+    ],
+    "syndication": [
+      "https://twitter.com/benwerd/status/573645022949584896"
+    ],
+    "slug": [
+      "06-161534"
+    ]
+  }
+}

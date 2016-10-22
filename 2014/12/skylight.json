@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["SKYLIGHT IS A SMART PROFILER \r\nDATA DETECTIVE \r\nCODE WHISPERER \r\nBUG CATCHER \r\nFLAG RAISER \r\nFOR RAILS APPS"],"published":["2014-12-03T17:27:15Z"],"entry-type":["bookmark"],"name":["Skylight"],"bookmark-of":["https://www.skylight.io/#pricing"],"category":["analytics","profiling","rails","ruby","via-pinboard"],"slug":["skylight"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "SKYLIGHT IS A SMART PROFILER \r\nDATA DETECTIVE \r\nCODE WHISPERER \r\nBUG CATCHER \r\nFLAG RAISER \r\nFOR RAILS APPS"
+    ],
+    "published": [
+      "2014-12-03T17:27:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Skylight"
+    ],
+    "bookmark-of": [
+      "https://www.skylight.io/#pricing"
+    ],
+    "category": [
+      "analytics",
+      "profiling",
+      "rails",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "skylight"
+    ]
+  }
+}

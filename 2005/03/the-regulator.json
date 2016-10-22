@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Regular Expression tester/creator\n"],"published":["2005-03-23T09:53:33Z"],"entry-type":["bookmark"],"name":["The Regulator"],"bookmark-of":["http://regex.osherove.com/"],"category":["regex","via-pinboard"],"slug":["the-regulator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Regular Expression tester/creator\n"
+    ],
+    "published": [
+      "2005-03-23T09:53:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Regulator"
+    ],
+    "bookmark-of": [
+      "http://regex.osherove.com/"
+    ],
+    "category": [
+      "regex",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-regulator"
+    ]
+  }
+}

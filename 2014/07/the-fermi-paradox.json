@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-07-02T18:00:56Z"],"entry-type":["bookmark"],"name":["The Fermi Paradox"],"bookmark-of":["http://waitbutwhy.com/2014/05/fermi-paradox.html"],"category":["via-pinboard"],"slug":["the-fermi-paradox"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-07-02T18:00:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Fermi Paradox"
+    ],
+    "bookmark-of": [
+      "http://waitbutwhy.com/2014/05/fermi-paradox.html"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-fermi-paradox"
+    ]
+  }
+}

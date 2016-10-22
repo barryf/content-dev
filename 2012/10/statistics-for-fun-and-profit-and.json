@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Being a little more scientific about setting up and interpreting A/B tests"],"published":["2012-10-31T12:48:51Z"],"entry-type":["bookmark"],"name":["Statistics for fun and profit (and analyzing split tests)"],"bookmark-of":["http://www.songkick.com/devblog/2012/10/18/statistics-for-fun-and-profit-and-analyzing-split-tests/"],"category":["ab","testing","marketing","split","statistics","via-pinboard"],"slug":["statistics-for-fun-and-profit-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Being a little more scientific about setting up and interpreting A/B tests"
+    ],
+    "published": [
+      "2012-10-31T12:48:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Statistics for fun and profit (and analyzing split tests)"
+    ],
+    "bookmark-of": [
+      "http://www.songkick.com/devblog/2012/10/18/statistics-for-fun-and-profit-and-analyzing-split-tests/"
+    ],
+    "category": [
+      "ab",
+      "testing",
+      "marketing",
+      "split",
+      "statistics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "statistics-for-fun-and-profit-and"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["rufus jones"],"photo":["http://pbs.twimg.com/profile_images/490962099330629632/3P_xZgwV_normal.jpeg"],"url":["https://twitter.com/rufusjones1"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "rufus jones"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/490962099330629632/3P_xZgwV_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/rufusjones1"
+    ]
+  }
+}

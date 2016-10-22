@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Good tips\n"],"published":["2005-07-20T08:17:22Z"],"entry-type":["bookmark"],"name":["How I block comment spam"],"bookmark-of":["http://www.petefreitag.com/item/411.cfm"],"category":["spam","blog","via-pinboard"],"slug":["how-i-block-comment-spam"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Good tips\n"
+    ],
+    "published": [
+      "2005-07-20T08:17:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How I block comment spam"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/411.cfm"
+    ],
+    "category": [
+      "spam",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-i-block-comment-spam"
+    ]
+  }
+}

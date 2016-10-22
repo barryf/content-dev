@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["garnergram"],"url":["https://instagram.com/garnergram"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "garnergram"
+    ],
+    "url": [
+      "https://instagram.com/garnergram"
+    ]
+  }
+}

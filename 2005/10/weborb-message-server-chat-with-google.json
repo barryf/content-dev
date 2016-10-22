@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["GMap sharing Ajax chatting madness\n"],"published":["2005-10-26T08:29:17Z"],"entry-type":["bookmark"],"name":["WebORB Message Server Chat (with Google Maps)"],"bookmark-of":["http://www.themidnightcoders.net/examples/messageserver/chat/mapchatajax.htm"],"category":["gmap","ajax","chat","im","mashup","web20","via-pinboard"],"slug":["weborb-message-server-chat-with-google"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "GMap sharing Ajax chatting madness\n"
+    ],
+    "published": [
+      "2005-10-26T08:29:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "WebORB Message Server Chat (with Google Maps)"
+    ],
+    "bookmark-of": [
+      "http://www.themidnightcoders.net/examples/messageserver/chat/mapchatajax.htm"
+    ],
+    "category": [
+      "gmap",
+      "ajax",
+      "chat",
+      "im",
+      "mashup",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "weborb-message-server-chat-with-google"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Day 2 of #leweb and fewer attendees today. Interesting @paypalx workshop, esp on chained and pre-approved payments."],"published":["2009-12-10T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/6527600377"],"slug":["tweet-6527600377"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Day 2 of #leweb and fewer attendees today. Interesting @paypalx workshop, esp on chained and pre-approved payments."
+    ],
+    "published": [
+      "2009-12-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/6527600377"
+    ],
+    "slug": [
+      "tweet-6527600377"
+    ]
+  }
+}

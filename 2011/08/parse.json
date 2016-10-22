@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["\"Heroku for Mobile\" - data storage, sync, push, users, social integration using Parse's SDKs for iOS and Android\n"],"published":["2011-08-24T10:52:02Z"],"entry-type":["bookmark"],"name":["Parse"],"bookmark-of":["https://www.parse.com/"],"category":["mobile","app","ios","android","server","sync","sdk","push","via-pinboard"],"slug":["parse"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Heroku for Mobile\" - data storage, sync, push, users, social integration using Parse's SDKs for iOS and Android\n"
+    ],
+    "published": [
+      "2011-08-24T10:52:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Parse"
+    ],
+    "bookmark-of": [
+      "https://www.parse.com/"
+    ],
+    "category": [
+      "mobile",
+      "app",
+      "ios",
+      "android",
+      "server",
+      "sync",
+      "sdk",
+      "push",
+      "via-pinboard"
+    ],
+    "slug": [
+      "parse"
+    ]
+  }
+}

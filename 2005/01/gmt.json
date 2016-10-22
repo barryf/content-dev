@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-01T12:47:32Z"],"entry-type":["bookmark"],"name":["GMT"],"bookmark-of":["http://wwp.greenwichmeantime.com/time-zone/europe/uk/"],"category":["useful","time","uk","via-pinboard"],"slug":["gmt"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-01T12:47:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GMT"
+    ],
+    "bookmark-of": [
+      "http://wwp.greenwichmeantime.com/time-zone/europe/uk/"
+    ],
+    "category": [
+      "useful",
+      "time",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gmt"
+    ]
+  }
+}

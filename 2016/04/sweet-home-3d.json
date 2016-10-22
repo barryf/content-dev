@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["> Sweet Home 3D is a free interior design application that helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.\r\n\r\nRecommended by Tim"],"published":["2016-04-21T09:16:24Z"],"entry-type":["bookmark"],"name":["Sweet Home 3D"],"bookmark-of":["http://www.sweethome3d.com/"],"category":["house","home","design","3d","cad"],"slug":["sweet-home-3d"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Sweet Home 3D is a free interior design application that helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.\r\n\r\nRecommended by Tim"
+    ],
+    "published": [
+      "2016-04-21T09:16:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sweet Home 3D"
+    ],
+    "bookmark-of": [
+      "http://www.sweethome3d.com/"
+    ],
+    "category": [
+      "house",
+      "home",
+      "design",
+      "3d",
+      "cad"
+    ],
+    "slug": [
+      "sweet-home-3d"
+    ]
+  }
+}

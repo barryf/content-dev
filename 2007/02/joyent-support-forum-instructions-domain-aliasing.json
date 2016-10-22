@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2007-02-17T10:34:11Z"],"entry-type":["bookmark"],"name":["Joyent Support Forum / Instructions: Domain Aliasing for existing email accounts/websites"],"bookmark-of":["http://forum.joyent.com/viewtopic.php?id=9"],"category":["email","joyent","textdrive","hosting","via-pinboard"],"slug":["joyent-support-forum-instructions-domain-aliasing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-02-17T10:34:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Joyent Support Forum / Instructions: Domain Aliasing for existing email accounts/websites"
+    ],
+    "bookmark-of": [
+      "http://forum.joyent.com/viewtopic.php?id=9"
+    ],
+    "category": [
+      "email",
+      "joyent",
+      "textdrive",
+      "hosting",
+      "via-pinboard"
+    ],
+    "slug": [
+      "joyent-support-forum-instructions-domain-aliasing"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Barclays approved payment processors - alternatives to SagePay\n"],"published":["2011-03-07T15:05:38Z"],"entry-type":["bookmark"],"name":["Payment service providers - Barclaycard Business"],"bookmark-of":["http://www.barclaycard.co.uk/business/accepting-payments/payment-services/"],"category":["barclays","uk","payment","sagepay","card","via-pinboard"],"slug":["payment-service-providers-barclaycard-business"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Barclays approved payment processors - alternatives to SagePay\n"
+    ],
+    "published": [
+      "2011-03-07T15:05:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Payment service providers - Barclaycard Business"
+    ],
+    "bookmark-of": [
+      "http://www.barclaycard.co.uk/business/accepting-payments/payment-services/"
+    ],
+    "category": [
+      "barclays",
+      "uk",
+      "payment",
+      "sagepay",
+      "card",
+      "via-pinboard"
+    ],
+    "slug": [
+      "payment-service-providers-barclaycard-business"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Works just like del.icio.us's tag suggester, over Ajax or pre-determined\n"],"published":["2008-01-04T07:19:11Z"],"entry-type":["bookmark"],"name":["jQuery Tag Suggestion"],"bookmark-of":["http://remysharp.com/2007/12/28/jquery-tag-suggestion/"],"category":["jquery","tag","ajax","javascript","plugin","autocomplete","via-pinboard"],"slug":["jquery-tag-suggestion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Works just like del.icio.us's tag suggester, over Ajax or pre-determined\n"
+    ],
+    "published": [
+      "2008-01-04T07:19:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jQuery Tag Suggestion"
+    ],
+    "bookmark-of": [
+      "http://remysharp.com/2007/12/28/jquery-tag-suggestion/"
+    ],
+    "category": [
+      "jquery",
+      "tag",
+      "ajax",
+      "javascript",
+      "plugin",
+      "autocomplete",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jquery-tag-suggestion"
+    ]
+  }
+}

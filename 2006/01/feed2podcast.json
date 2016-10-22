@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Turn an RSS feed into a spoken podcast\n"],"published":["2006-01-13T09:49:52Z"],"entry-type":["bookmark"],"name":["Feed2Podcast"],"bookmark-of":["http://www.feed2podcast.com/"],"category":["audio","blog","podcast","rss","web20","via-pinboard"],"slug":["feed2podcast"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Turn an RSS feed into a spoken podcast\n"
+    ],
+    "published": [
+      "2006-01-13T09:49:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Feed2Podcast"
+    ],
+    "bookmark-of": [
+      "http://www.feed2podcast.com/"
+    ],
+    "category": [
+      "audio",
+      "blog",
+      "podcast",
+      "rss",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "feed2podcast"
+    ]
+  }
+}

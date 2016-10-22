@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2011-11-17T13:44:06Z"],"entry-type":["bookmark"],"name":["UK's Independent Mobile Classification Body - IMCB"],"bookmark-of":["http://www.imcb.org.uk/"],"category":["mobile","uk","regulation","government","via-pinboard"],"slug":["uk-s-independent-mobile-classification-body"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-11-17T13:44:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UK's Independent Mobile Classification Body - IMCB"
+    ],
+    "bookmark-of": [
+      "http://www.imcb.org.uk/"
+    ],
+    "category": [
+      "mobile",
+      "uk",
+      "regulation",
+      "government",
+      "via-pinboard"
+    ],
+    "slug": [
+      "uk-s-independent-mobile-classification-body"
+    ]
+  }
+}

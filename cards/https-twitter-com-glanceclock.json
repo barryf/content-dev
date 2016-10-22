@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Glance Clock"],"photo":["https://twitter.com/glanceclock/profile_image?size=original"],"url":["https://twitter.com/glanceclock"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Glance Clock"
+    ],
+    "photo": [
+      "https://twitter.com/glanceclock/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/glanceclock"
+    ]
+  }
+}

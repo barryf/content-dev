@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jasonkneen We're lucky to work in an Apple-preferred environment :)"],"published":["2011-10-18T21:39:28Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6392872/status/126380044242259968"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/126412101739745280"],"slug":["tweet-126412101739745280"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jasonkneen We're lucky to work in an Apple-preferred environment :)"
+    ],
+    "published": [
+      "2011-10-18T21:39:28Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6392872/status/126380044242259968"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/126412101739745280"
+    ],
+    "slug": [
+      "tweet-126412101739745280"
+    ]
+  }
+}

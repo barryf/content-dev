@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["ImageAlpha converts 24-bit PNG to paletted 8-bit with full alpha channel. This greately reduces file sizes with only minor loss of quality."],"published":["2013-03-13T15:15:08Z"],"entry-type":["bookmark"],"name":["ImageAlpha"],"bookmark-of":["http://pngmini.com/"],"category":["png","image","compression","optimisation","via-pinboard"],"slug":["imagealpha"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "ImageAlpha converts 24-bit PNG to paletted 8-bit with full alpha channel. This greately reduces file sizes with only minor loss of quality."
+    ],
+    "published": [
+      "2013-03-13T15:15:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ImageAlpha"
+    ],
+    "bookmark-of": [
+      "http://pngmini.com/"
+    ],
+    "category": [
+      "png",
+      "image",
+      "compression",
+      "optimisation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "imagealpha"
+    ]
+  }
+}

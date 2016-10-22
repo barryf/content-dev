@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["2 days in Oxfordshire at the @wld Partner Conference. 4 presentations to 70 partners = 1 tired me. Great time, but now I need some sleep!"],"published":["2009-10-24T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5127077443"],"slug":["tweet-5127077443"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "2 days in Oxfordshire at the @wld Partner Conference. 4 presentations to 70 partners = 1 tired me. Great time, but now I need some sleep!"
+    ],
+    "published": [
+      "2009-10-24T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5127077443"
+    ],
+    "slug": [
+      "tweet-5127077443"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Find the perfect office for your startup in London. Coworking, shared & private offices in London\r\n"],"published":["2015-05-13T15:10:24Z"],"entry-type":["bookmark"],"name":["Hubble"],"bookmark-of":["https://hubblehq.com/"],"category":["office","london","startup","coworking"],"slug":["hubble"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Find the perfect office for your startup in London. Coworking, shared & private offices in London\r\n"
+    ],
+    "published": [
+      "2015-05-13T15:10:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hubble"
+    ],
+    "bookmark-of": [
+      "https://hubblehq.com/"
+    ],
+    "category": [
+      "office",
+      "london",
+      "startup",
+      "coworking"
+    ],
+    "slug": [
+      "hubble"
+    ]
+  }
+}

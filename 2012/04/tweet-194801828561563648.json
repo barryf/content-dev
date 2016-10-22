@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["If your business depends on its payment gateway for online payments an outage isn't merely an \"inconvenience\" it means you're losing money."],"published":["2012-04-24T14:55:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/194801828561563648"],"slug":["tweet-194801828561563648"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "If your business depends on its payment gateway for online payments an outage isn't merely an \"inconvenience\" it means you're losing money."
+    ],
+    "published": [
+      "2012-04-24T14:55:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/194801828561563648"
+    ],
+    "slug": [
+      "tweet-194801828561563648"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2009-12-20T17:25:00Z"],"entry-type":["bookmark"],"name":["Simplest jQuery Slideshow"],"bookmark-of":["http://snook.ca/archives/javascript/simplest-jquery-slideshow"],"category":["jquery","slideshow","animation","slider","image","gallery","portfolio","via-pinboard"],"slug":["simplest-jquery-slideshow"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-12-20T17:25:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Simplest jQuery Slideshow"
+    ],
+    "bookmark-of": [
+      "http://snook.ca/archives/javascript/simplest-jquery-slideshow"
+    ],
+    "category": [
+      "jquery",
+      "slideshow",
+      "animation",
+      "slider",
+      "image",
+      "gallery",
+      "portfolio",
+      "via-pinboard"
+    ],
+    "slug": [
+      "simplest-jquery-slideshow"
+    ]
+  }
+}

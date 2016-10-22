@@ -1,1 +1,42 @@
-{"type":["h-entry"],"properties":{"content":["\"Unstructured Information Management applications are software systems that analyze large volumes of unstructured information in order to discover knowledge that is relevant to an end user.\"\n"],"published":["2008-10-30T14:07:53Z"],"entry-type":["bookmark"],"name":["Apache UIMA"],"bookmark-of":["http://incubator.apache.org/uima/"],"category":["uima","unstructured","textmining","information","semanticweb","language","text","search","analysis","semantic","datamining","framework","java","apache","via-pinboard"],"slug":["apache-uima"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Unstructured Information Management applications are software systems that analyze large volumes of unstructured information in order to discover knowledge that is relevant to an end user.\"\n"
+    ],
+    "published": [
+      "2008-10-30T14:07:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Apache UIMA"
+    ],
+    "bookmark-of": [
+      "http://incubator.apache.org/uima/"
+    ],
+    "category": [
+      "uima",
+      "unstructured",
+      "textmining",
+      "information",
+      "semanticweb",
+      "language",
+      "text",
+      "search",
+      "analysis",
+      "semantic",
+      "datamining",
+      "framework",
+      "java",
+      "apache",
+      "via-pinboard"
+    ],
+    "slug": [
+      "apache-uima"
+    ]
+  }
+}

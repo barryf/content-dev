@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2009-08-29T13:50:07Z"],"entry-type":["bookmark"],"name":["21 Fonts That Shouldn't Be Free...But Are!"],"bookmark-of":["http://www.unionroom.com/blog/21-fonts-that-shouldnt-be-free-but-are/"],"category":["font","typeface","free","design","via-pinboard"],"slug":["21-fonts-that-shouldn-t-be"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-08-29T13:50:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "21 Fonts That Shouldn't Be Free...But Are!"
+    ],
+    "bookmark-of": [
+      "http://www.unionroom.com/blog/21-fonts-that-shouldnt-be-free-but-are/"
+    ],
+    "category": [
+      "font",
+      "typeface",
+      "free",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "21-fonts-that-shouldn-t-be"
+    ]
+  }
+}

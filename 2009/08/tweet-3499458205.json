@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@ioptics @teabass @rawnet Good work fellas. Last Percent looks great and my OpenID sign-up and test worked well. Now go get some sleep :)"],"published":["2009-08-23T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3499458205"],"slug":["tweet-3499458205"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ioptics @teabass @rawnet Good work fellas. Last Percent looks great and my OpenID sign-up and test worked well. Now go get some sleep :)"
+    ],
+    "published": [
+      "2009-08-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3499458205"
+    ],
+    "slug": [
+      "tweet-3499458205"
+    ]
+  }
+}

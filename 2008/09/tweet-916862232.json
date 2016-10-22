@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Yeah Arsenal are killing the England team aren't they? Well done Theo!"],"published":["2008-09-10T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/916862232"],"slug":["tweet-916862232"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Yeah Arsenal are killing the England team aren't they? Well done Theo!"
+    ],
+    "published": [
+      "2008-09-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/916862232"
+    ],
+    "slug": [
+      "tweet-916862232"
+    ]
+  }
+}

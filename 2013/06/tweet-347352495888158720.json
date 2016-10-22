@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["It was fun for a week, but I’ve downgraded iOS 7 back to 6.1.4. ‘Classic’ apps’ UIs are just too jarring in daily use. Busy summer for devs."],"published":["2013-06-19T13:57:43Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347352495888158720"],"slug":["tweet-347352495888158720"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It was fun for a week, but I’ve downgraded iOS 7 back to 6.1.4. ‘Classic’ apps’ UIs are just too jarring in daily use. Busy summer for devs."
+    ],
+    "published": [
+      "2013-06-19T13:57:43Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347352495888158720"
+    ],
+    "slug": [
+      "tweet-347352495888158720"
+    ]
+  }
+}

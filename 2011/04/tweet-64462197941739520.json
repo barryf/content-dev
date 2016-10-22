@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The Ronin car chase scene through Paris is just fantastic. Love those angry Audi engine sounds."],"published":["2011-04-30T22:52:40Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/64462197941739520"],"slug":["tweet-64462197941739520"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The Ronin car chase scene through Paris is just fantastic. Love those angry Audi engine sounds."
+    ],
+    "published": [
+      "2011-04-30T22:52:40Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/64462197941739520"
+    ],
+    "slug": [
+      "tweet-64462197941739520"
+    ]
+  }
+}

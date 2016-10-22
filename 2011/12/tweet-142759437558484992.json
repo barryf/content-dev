@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@AL0sborne @tomgiddings Quite right, Alex. Now to burn off the calories with a good night's sleep. #winning"],"published":["2011-12-03T00:17:56Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23668712/status/142758865736433664"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/142759437558484992"],"slug":["tweet-142759437558484992"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@AL0sborne @tomgiddings Quite right, Alex. Now to burn off the calories with a good night's sleep. #winning"
+    ],
+    "published": [
+      "2011-12-03T00:17:56Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23668712/status/142758865736433664"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/142759437558484992"
+    ],
+    "slug": [
+      "tweet-142759437558484992"
+    ]
+  }
+}

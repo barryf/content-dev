@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My arm has been violated by a mosquito"],"published":["2008-08-26T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/899231386"],"slug":["tweet-899231386"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My arm has been violated by a mosquito"
+    ],
+    "published": [
+      "2008-08-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/899231386"
+    ],
+    "slug": [
+      "tweet-899231386"
+    ]
+  }
+}

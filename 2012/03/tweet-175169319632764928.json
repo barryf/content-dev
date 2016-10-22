@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Just imagining, but if anyone could shake up complacent carriers to price plans based on data usage and allow iVoice, Apple could."],"published":["2012-03-01T10:43:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/175169319632764928"],"slug":["tweet-175169319632764928"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just imagining, but if anyone could shake up complacent carriers to price plans based on data usage and allow iVoice, Apple could."
+    ],
+    "published": [
+      "2012-03-01T10:43:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/175169319632764928"
+    ],
+    "slug": [
+      "tweet-175169319632764928"
+    ]
+  }
+}

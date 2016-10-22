@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Started using @flintapp on iOS to access @globaldev Campfire. Smart iOS7 design and push notifications for keyword mentions. /ht @benlovell"],"published":["2013-09-25T15:43:13Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/382893056816840705"],"slug":["tweet-382893056816840705"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Started using @flintapp on iOS to access @globaldev Campfire. Smart iOS7 design and push notifications for keyword mentions. /ht @benlovell"
+    ],
+    "published": [
+      "2013-09-25T15:43:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/382893056816840705"
+    ],
+    "slug": [
+      "tweet-382893056816840705"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Preparing for #leweb tomorrow with a nice bottle of 2001 French red. Plus a bit of ironing."],"published":["2009-12-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/6440129557"],"slug":["tweet-6440129557"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Preparing for #leweb tomorrow with a nice bottle of 2001 French red. Plus a bit of ironing."
+    ],
+    "published": [
+      "2009-12-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/6440129557"
+    ],
+    "slug": [
+      "tweet-6440129557"
+    ]
+  }
+}

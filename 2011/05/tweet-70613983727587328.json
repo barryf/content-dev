@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I want to replace my work iPhone on O2 with the latest Android model for testing/research. Bewildering options. Recommendations? #lazyweb"],"published":["2011-05-17T22:17:40Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/70613983727587328"],"slug":["tweet-70613983727587328"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I want to replace my work iPhone on O2 with the latest Android model for testing/research. Bewildering options. Recommendations? #lazyweb"
+    ],
+    "published": [
+      "2011-05-17T22:17:40Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/70613983727587328"
+    ],
+    "slug": [
+      "tweet-70613983727587328"
+    ]
+  }
+}

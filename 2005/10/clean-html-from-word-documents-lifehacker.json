@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-27T08:12:32Z"],"entry-type":["bookmark"],"name":["Clean HTML From Word Documents - Lifehacker"],"bookmark-of":["http://www.lifehacker.com/software/web-publishing/clean-html-from-word-documents-133360.php"],"category":["windows","standards","html","via-pinboard"],"slug":["clean-html-from-word-documents-lifehacker"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-27T08:12:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Clean HTML From Word Documents - Lifehacker"
+    ],
+    "bookmark-of": [
+      "http://www.lifehacker.com/software/web-publishing/clean-html-from-word-documents-133360.php"
+    ],
+    "category": [
+      "windows",
+      "standards",
+      "html",
+      "via-pinboard"
+    ],
+    "slug": [
+      "clean-html-from-word-documents-lifehacker"
+    ]
+  }
+}

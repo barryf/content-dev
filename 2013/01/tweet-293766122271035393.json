@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@hobbsy Adium does the job for me with work Google Talk account."],"published":["2013-01-22T17:04:36Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/754966/status/293764332502806528"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/293766122271035393"],"slug":["tweet-293766122271035393"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hobbsy Adium does the job for me with work Google Talk account."
+    ],
+    "published": [
+      "2013-01-22T17:04:36Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/754966/status/293764332502806528"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/293766122271035393"
+    ],
+    "slug": [
+      "tweet-293766122271035393"
+    ]
+  }
+}

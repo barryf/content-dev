@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["[Browser, operating system and screen resolution data for GOV.UK](https://gds.blog.gov.uk/2014/01/28/browser-operating-system-and-screen-resolution-data-for-gov-uk/)\r\n\r\nFor people (like me) who [develop services](http://whitelabeldating.com) where most of the audience is UK-based and *non-technical*, the GOV.UK OS and browser usage statistics are especially interesting to read. \r\n\r\nThe growth of mobile/tablet share vs desktop isn't a surprise but it's the continuing strong growth of iOS, despite the handset dominance of Android, that is worth noting. We clearly echo the behaviour observed in the US where [iOS users browse more](http://appleinsider.com/articles/13/09/06/apples-ios-grows-mobile-browsing-share-in-us-to-dominant-65). \r\n\r\nIt's also clear from the handset breakdown that, in the UK at least, Android is largely synonymous with Samsung.\r\n\r\n> Again the story here is the rapid rise of “portrait” smartphone screen resolutions such as 768×1024 at the expense of traditional “landscape” desktop resolutions. Further evidence of the rapid shift to a wider variety of screen sizes [as mobile device use takes off](http://gds.blog.gov.uk/2014/01/08/when-will-more-people-visit-gov-uk-using-a-mobile-or-tablet-than-a-pc/).\r\n\r\nPortrait orientation screens  using 768×1024 resolution (probably tablets) now make up over 10% of their audience, higher than the common laptop screen size of 1280×800. If your site isn't adaptive/responsive and you've designed for a >1,000 width screen you're failing your visitors.\r\n\r\n> OS usage: BlackBerry 0.7%\r\n\r\nLastly, thankfully, I think it's time to retire the BlackBerrys from our mobile testing suite. "],"published":["2014-02-05T17:20:47Z"],"entry-type":["note"],"category":["uk","mobile","apple","via-baker"],"syndication":["https://twitter.com/barryf/status/431117145008001024"],"slug":["baker-83"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "[Browser, operating system and screen resolution data for GOV.UK](https://gds.blog.gov.uk/2014/01/28/browser-operating-system-and-screen-resolution-data-for-gov-uk/)\r\n\r\nFor people (like me) who [develop services](http://whitelabeldating.com) where most of the audience is UK-based and *non-technical*, the GOV.UK OS and browser usage statistics are especially interesting to read. \r\n\r\nThe growth of mobile/tablet share vs desktop isn't a surprise but it's the continuing strong growth of iOS, despite the handset dominance of Android, that is worth noting. We clearly echo the behaviour observed in the US where [iOS users browse more](http://appleinsider.com/articles/13/09/06/apples-ios-grows-mobile-browsing-share-in-us-to-dominant-65). \r\n\r\nIt's also clear from the handset breakdown that, in the UK at least, Android is largely synonymous with Samsung.\r\n\r\n> Again the story here is the rapid rise of “portrait” smartphone screen resolutions such as 768×1024 at the expense of traditional “landscape” desktop resolutions. Further evidence of the rapid shift to a wider variety of screen sizes [as mobile device use takes off](http://gds.blog.gov.uk/2014/01/08/when-will-more-people-visit-gov-uk-using-a-mobile-or-tablet-than-a-pc/).\r\n\r\nPortrait orientation screens  using 768×1024 resolution (probably tablets) now make up over 10% of their audience, higher than the common laptop screen size of 1280×800. If your site isn't adaptive/responsive and you've designed for a >1,000 width screen you're failing your visitors.\r\n\r\n> OS usage: BlackBerry 0.7%\r\n\r\nLastly, thankfully, I think it's time to retire the BlackBerrys from our mobile testing suite. "
+    ],
+    "published": [
+      "2014-02-05T17:20:47Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "uk",
+      "mobile",
+      "apple",
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/431117145008001024"
+    ],
+    "slug": [
+      "baker-83"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@joelchippindale Our designers swear by @pixelapse https://www.pixelapse.com"],"published":["2014-06-05T07:42:44Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16270409/status/474452968717443072"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/474456268401569792"],"slug":["tweet-474456268401569792"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@joelchippindale Our designers swear by @pixelapse https://www.pixelapse.com"
+    ],
+    "published": [
+      "2014-06-05T07:42:44Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16270409/status/474452968717443072"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/474456268401569792"
+    ],
+    "slug": [
+      "tweet-474456268401569792"
+    ]
+  }
+}

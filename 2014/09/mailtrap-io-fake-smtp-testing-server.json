@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Mailtrap is a fake SMTP server for development teams to test, view and share emails sent from the development and staging environments without spamming real customers."],"published":["2014-09-16T18:21:17Z"],"entry-type":["bookmark"],"name":["Mailtrap.io — Fake smtp testing server. Dummy smtp email testing"],"bookmark-of":["https://mailtrap.io/"],"category":["email","work","test","qa","smtp","via-pinboard"],"slug":["mailtrap-io-fake-smtp-testing-server"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mailtrap is a fake SMTP server for development teams to test, view and share emails sent from the development and staging environments without spamming real customers."
+    ],
+    "published": [
+      "2014-09-16T18:21:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mailtrap.io — Fake smtp testing server. Dummy smtp email testing"
+    ],
+    "bookmark-of": [
+      "https://mailtrap.io/"
+    ],
+    "category": [
+      "email",
+      "work",
+      "test",
+      "qa",
+      "smtp",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mailtrap-io-fake-smtp-testing-server"
+    ]
+  }
+}

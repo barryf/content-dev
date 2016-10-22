@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Asset compilation and image optimisation in a Mac app"],"published":["2013-07-25T20:38:27Z"],"entry-type":["bookmark"],"name":["CodeKit"],"bookmark-of":["http://incident57.com/codekit/"],"category":["mac","css","asset","compilation","checklist","via-pinboard"],"slug":["codekit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Asset compilation and image optimisation in a Mac app"
+    ],
+    "published": [
+      "2013-07-25T20:38:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CodeKit"
+    ],
+    "bookmark-of": [
+      "http://incident57.com/codekit/"
+    ],
+    "category": [
+      "mac",
+      "css",
+      "asset",
+      "compilation",
+      "checklist",
+      "via-pinboard"
+    ],
+    "slug": [
+      "codekit"
+    ]
+  }
+}

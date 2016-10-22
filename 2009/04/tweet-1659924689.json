@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm at Internet World, the conference for suit wearers who get excited about \"enterprise CMS solutions\" and other nonsense."],"published":["2009-04-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1659924689"],"slug":["tweet-1659924689"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm at Internet World, the conference for suit wearers who get excited about \"enterprise CMS solutions\" and other nonsense."
+    ],
+    "published": [
+      "2009-04-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1659924689"
+    ],
+    "slug": [
+      "tweet-1659924689"
+    ]
+  }
+}

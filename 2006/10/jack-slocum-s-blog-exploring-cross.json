@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Stunning border layout toolkit. Perfect for single-screen dashboard apps.\n"],"published":["2006-10-19T12:54:13Z"],"entry-type":["bookmark"],"name":["Jack Slocum's Blog » Exploring Cross-browser Web 2.0 Layouts with Yahoo! UI"],"bookmark-of":["http://www.jackslocum.com/yui/2006/10/19/cross-browser-web-20-layouts-with-yahoo-ui/"],"category":["web","interface","javascript","layout","yahoo","yui","design","framework","web20","via-pinboard"],"slug":["jack-slocum-s-blog-exploring-cross"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Stunning border layout toolkit. Perfect for single-screen dashboard apps.\n"
+    ],
+    "published": [
+      "2006-10-19T12:54:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Jack Slocum's Blog » Exploring Cross-browser Web 2.0 Layouts with Yahoo! UI"
+    ],
+    "bookmark-of": [
+      "http://www.jackslocum.com/yui/2006/10/19/cross-browser-web-20-layouts-with-yahoo-ui/"
+    ],
+    "category": [
+      "web",
+      "interface",
+      "javascript",
+      "layout",
+      "yahoo",
+      "yui",
+      "design",
+      "framework",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jack-slocum-s-blog-exploring-cross"
+    ]
+  }
+}

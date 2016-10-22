@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-23T17:44:11Z"],"entry-type":["bookmark"],"name":["Opera Mini™ 4 beta"],"bookmark-of":["http://www.operamini.com/beta/"],"category":["browser","internet","opera","mobile","phone","via-pinboard"],"slug":["opera-mini-4-beta"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-23T17:44:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Opera Mini™ 4 beta"
+    ],
+    "bookmark-of": [
+      "http://www.operamini.com/beta/"
+    ],
+    "category": [
+      "browser",
+      "internet",
+      "opera",
+      "mobile",
+      "phone",
+      "via-pinboard"
+    ],
+    "slug": [
+      "opera-mini-4-beta"
+    ]
+  }
+}

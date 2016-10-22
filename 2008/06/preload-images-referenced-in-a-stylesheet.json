@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Uses Prototype to pull out all CSS images and preload them\n"],"published":["2008-06-23T09:57:31Z"],"entry-type":["bookmark"],"name":["Preload images referenced in a stylesheet"],"bookmark-of":["http://pastie.org/209498"],"category":["css","image","prototype","javascript","preload","optimisation","performance","web","design","via-pinboard"],"slug":["preload-images-referenced-in-a-stylesheet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Uses Prototype to pull out all CSS images and preload them\n"
+    ],
+    "published": [
+      "2008-06-23T09:57:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Preload images referenced in a stylesheet"
+    ],
+    "bookmark-of": [
+      "http://pastie.org/209498"
+    ],
+    "category": [
+      "css",
+      "image",
+      "prototype",
+      "javascript",
+      "preload",
+      "optimisation",
+      "performance",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "preload-images-referenced-in-a-stylesheet"
+    ]
+  }
+}

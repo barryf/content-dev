@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Yummy font used by Moo (via Plasticbag)\n"],"published":["2007-04-20T13:21:43Z"],"entry-type":["bookmark"],"name":["Bryant font family : MyFonts"],"bookmark-of":["http://www.myfonts.com/fonts/processtype/bryant/"],"category":["font","typography","design","moo","viaplasticbag","via-pinboard"],"slug":["bryant-font-family-myfonts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Yummy font used by Moo (via Plasticbag)\n"
+    ],
+    "published": [
+      "2007-04-20T13:21:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bryant font family : MyFonts"
+    ],
+    "bookmark-of": [
+      "http://www.myfonts.com/fonts/processtype/bryant/"
+    ],
+    "category": [
+      "font",
+      "typography",
+      "design",
+      "moo",
+      "viaplasticbag",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bryant-font-family-myfonts"
+    ]
+  }
+}

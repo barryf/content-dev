@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["David E"],"photo":["https://twitter.com/Eastmad/profile_image?size=original"],"url":["http://eastman1.blogspot.com"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "David E"
+    ],
+    "photo": [
+      "https://twitter.com/Eastmad/profile_image?size=original"
+    ],
+    "url": [
+      "http://eastman1.blogspot.com"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2007-04-14T10:43:54Z"],"entry-type":["bookmark"],"name":["RailRoad diagrams generator"],"bookmark-of":["http://railroad.rubyforge.org/"],"category":["rails","diagram","design","dev","via-pinboard"],"slug":["railroad-diagrams-generator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-04-14T10:43:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RailRoad diagrams generator"
+    ],
+    "bookmark-of": [
+      "http://railroad.rubyforge.org/"
+    ],
+    "category": [
+      "rails",
+      "diagram",
+      "design",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "railroad-diagrams-generator"
+    ]
+  }
+}

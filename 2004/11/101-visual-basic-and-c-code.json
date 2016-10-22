@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-07T17:59:27Z"],"entry-type":["bookmark"],"name":["101 Visual Basic and C# Code Samples"],"bookmark-of":["http://www.microsoft.com/downloads/details.aspx?FamilyId=08E3D5F8-033D-420B-A3B1-3074505C03F3&displaylang=en"],"category":["csharp","dotnet","via-pinboard"],"slug":["101-visual-basic-and-c-code"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-07T17:59:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "101 Visual Basic and C# Code Samples"
+    ],
+    "bookmark-of": [
+      "http://www.microsoft.com/downloads/details.aspx?FamilyId=08E3D5F8-033D-420B-A3B1-3074505C03F3&displaylang=en"
+    ],
+    "category": [
+      "csharp",
+      "dotnet",
+      "via-pinboard"
+    ],
+    "slug": [
+      "101-visual-basic-and-c-code"
+    ]
+  }
+}

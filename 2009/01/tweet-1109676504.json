@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@melkirk Looking forward to welcoming you to #whitelabeldating and Windsor later this month. You'll love it here!"],"published":["2009-01-10T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14733/status/1109666957"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1109676504"],"slug":["tweet-1109676504"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@melkirk Looking forward to welcoming you to #whitelabeldating and Windsor later this month. You'll love it here!"
+    ],
+    "published": [
+      "2009-01-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14733/status/1109666957"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1109676504"
+    ],
+    "slug": [
+      "tweet-1109676504"
+    ]
+  }
+}

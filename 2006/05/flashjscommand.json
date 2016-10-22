@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["How to pass commands to a Flash object\n"],"published":["2006-05-06T12:56:51Z"],"entry-type":["bookmark"],"name":["flashjscommand"],"bookmark-of":["http://www.permadi.com/tutorial/flashjscommand/"],"category":["flash","javascript","web","dev","via-pinboard"],"slug":["flashjscommand"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to pass commands to a Flash object\n"
+    ],
+    "published": [
+      "2006-05-06T12:56:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "flashjscommand"
+    ],
+    "bookmark-of": [
+      "http://www.permadi.com/tutorial/flashjscommand/"
+    ],
+    "category": [
+      "flash",
+      "javascript",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flashjscommand"
+    ]
+  }
+}

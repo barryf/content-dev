@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@clearjanuary Ah, some splendid young ladies. Mute button also helps."],"published":["2012-06-07T11:01:36Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/80843056/status/210687345287102465"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/210687949556293632"],"slug":["tweet-210687949556293632"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@clearjanuary Ah, some splendid young ladies. Mute button also helps."
+    ],
+    "published": [
+      "2012-06-07T11:01:36Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/80843056/status/210687345287102465"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/210687949556293632"
+    ],
+    "slug": [
+      "tweet-210687949556293632"
+    ]
+  }
+}

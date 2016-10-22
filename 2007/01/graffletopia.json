@@ -1,1 +1,42 @@
-{"type":["h-entry"],"properties":{"content":["OmniGraffle stencils\n"],"published":["2007-01-04T17:52:31Z"],"entry-type":["bookmark"],"name":["Graffletopia"],"bookmark-of":["http://graffletopia.com/"],"category":["omnigraffle","mac","design","software","network","sysadmin","database","architecture","productivity","wireframe","uml","template","rails","layout","via-pinboard"],"slug":["graffletopia"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "OmniGraffle stencils\n"
+    ],
+    "published": [
+      "2007-01-04T17:52:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Graffletopia"
+    ],
+    "bookmark-of": [
+      "http://graffletopia.com/"
+    ],
+    "category": [
+      "omnigraffle",
+      "mac",
+      "design",
+      "software",
+      "network",
+      "sysadmin",
+      "database",
+      "architecture",
+      "productivity",
+      "wireframe",
+      "uml",
+      "template",
+      "rails",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "graffletopia"
+    ]
+  }
+}

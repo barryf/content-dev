@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-30T12:42:25Z"],"entry-type":["bookmark"],"name":["Learn Sketch 3"],"bookmark-of":["http://designcode.io/sketch"],"category":["sketch","tutorial","via-pinboard"],"slug":["learn-sketch-3"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-30T12:42:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Learn Sketch 3"
+    ],
+    "bookmark-of": [
+      "http://designcode.io/sketch"
+    ],
+    "category": [
+      "sketch",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "learn-sketch-3"
+    ]
+  }
+}

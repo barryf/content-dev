@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Cool start page app\n"],"published":["2005-11-15T09:33:30Z"],"entry-type":["bookmark"],"name":["Netvibes"],"bookmark-of":["http://www.netvibes.com/"],"category":["portal","homepage","aggregator","ajax","web20","via-pinboard"],"slug":["netvibes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Cool start page app\n"
+    ],
+    "published": [
+      "2005-11-15T09:33:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Netvibes"
+    ],
+    "bookmark-of": [
+      "http://www.netvibes.com/"
+    ],
+    "category": [
+      "portal",
+      "homepage",
+      "aggregator",
+      "ajax",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "netvibes"
+    ]
+  }
+}

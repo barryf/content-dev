@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-21T14:10:15Z"],"entry-type":["bookmark"],"name":["bpurcell.org - Preventing browsers from caching ColdFusion pages"],"bookmark-of":["http://www.bpurcell.org/blog/index.cfm?mode=entry&entry=1075"],"category":["coldfusion","browser","server","cache","web","dev","via-pinboard"],"slug":["bpurcell-org-preventing-browsers-from-caching"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-21T14:10:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "bpurcell.org - Preventing browsers from caching ColdFusion pages"
+    ],
+    "bookmark-of": [
+      "http://www.bpurcell.org/blog/index.cfm?mode=entry&entry=1075"
+    ],
+    "category": [
+      "coldfusion",
+      "browser",
+      "server",
+      "cache",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bpurcell-org-preventing-browsers-from-caching"
+    ]
+  }
+}

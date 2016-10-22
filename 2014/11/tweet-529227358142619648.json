@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["We're hiring a ScrumMaster for the @globaldev team http://goo.gl/gwffFw"],"published":["2014-11-03T11:03:29Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/529227358142619648"],"slug":["tweet-529227358142619648"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "We're hiring a ScrumMaster for the @globaldev team http://goo.gl/gwffFw"
+    ],
+    "published": [
+      "2014-11-03T11:03:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/529227358142619648"
+    ],
+    "slug": [
+      "tweet-529227358142619648"
+    ]
+  }
+}

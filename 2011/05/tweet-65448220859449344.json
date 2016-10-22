@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Sadly he's driven off. Probably to defraud little old ladies or something."],"published":["2011-05-03T16:10:46Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/65419739828199424"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/65448220859449344"],"slug":["tweet-65448220859449344"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Sadly he's driven off. Probably to defraud little old ladies or something."
+    ],
+    "published": [
+      "2011-05-03T16:10:46Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/65419739828199424"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/65448220859449344"
+    ],
+    "slug": [
+      "tweet-65448220859449344"
+    ]
+  }
+}

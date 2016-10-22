@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Analyse log files using SQL via SQLLite\n"],"published":["2008-10-18T16:37:17Z"],"entry-type":["bookmark"],"name":["Steve.org.uk - asql - Apache SQL querying"],"bookmark-of":["http://www.steve.org.uk/Software/asql/"],"category":["sql","log","logfile","analytics","web","apache","logging","sqllite","sysadmin","via-pinboard"],"slug":["steve-org-uk-asql-apache-sql"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Analyse log files using SQL via SQLLite\n"
+    ],
+    "published": [
+      "2008-10-18T16:37:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Steve.org.uk - asql - Apache SQL querying"
+    ],
+    "bookmark-of": [
+      "http://www.steve.org.uk/Software/asql/"
+    ],
+    "category": [
+      "sql",
+      "log",
+      "logfile",
+      "analytics",
+      "web",
+      "apache",
+      "logging",
+      "sqllite",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "steve-org-uk-asql-apache-sql"
+    ]
+  }
+}

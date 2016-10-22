@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Send email based on what people do or don't do in your app"],"published":["2014-04-30T12:23:23Z"],"entry-type":["bookmark"],"name":["Customer.io"],"bookmark-of":["http://customer.io/"],"category":["email","marketing","analytics","business","via-pinboard"],"slug":["customer-io"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Send email based on what people do or don't do in your app"
+    ],
+    "published": [
+      "2014-04-30T12:23:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Customer.io"
+    ],
+    "bookmark-of": [
+      "http://customer.io/"
+    ],
+    "category": [
+      "email",
+      "marketing",
+      "analytics",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "customer-io"
+    ]
+  }
+}

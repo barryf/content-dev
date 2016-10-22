@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Display an RSS feed using Javascript (plus some libraries)\n"],"published":["2009-03-29T17:21:21Z"],"entry-type":["bookmark"],"name":["Google Ajax Feeds Fun"],"bookmark-of":["http://orderedlist.com/articles/google-ajax-feeds-fun/"],"category":["javascript","rss","google","jquery","feed","api","ajax","via-pinboard"],"slug":["google-ajax-feeds-fun"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Display an RSS feed using Javascript (plus some libraries)\n"
+    ],
+    "published": [
+      "2009-03-29T17:21:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google Ajax Feeds Fun"
+    ],
+    "bookmark-of": [
+      "http://orderedlist.com/articles/google-ajax-feeds-fun/"
+    ],
+    "category": [
+      "javascript",
+      "rss",
+      "google",
+      "jquery",
+      "feed",
+      "api",
+      "ajax",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-ajax-feeds-fun"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2012-11-20T18:26:52Z"],"entry-type":["bookmark"],"name":["freerange/recap · GitHub"],"bookmark-of":["https://github.com/freerange/recap"],"category":["fromifttt","github","capistrano","deployment","git","via-pinboard"],"slug":["freerange-recap-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-11-20T18:26:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "freerange/recap · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/freerange/recap"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "capistrano",
+      "deployment",
+      "git",
+      "via-pinboard"
+    ],
+    "slug": [
+      "freerange-recap-github"
+    ]
+  }
+}

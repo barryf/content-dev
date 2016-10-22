@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Sam Barnes"],"photo":["https://pbs.twimg.com/profile_images/528981025582374912/8h9wwIM1.jpeg"],"url":["https://twitter.com/thesambarnes"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Sam Barnes"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/528981025582374912/8h9wwIM1.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/thesambarnes"
+    ]
+  }
+}

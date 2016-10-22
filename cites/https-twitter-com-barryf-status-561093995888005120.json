@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/561093995888005120"],"published":["2015-04-22T06:49:06Z"],"like-of":["https://barryfrost.com/2015/01/if-it-wasn-t-irritating-enough"],"author":["https://twitter.com/tomgiddings"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/561093995888005120"
+    ],
+    "published": [
+      "2015-04-22T06:49:06Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/01/if-it-wasn-t-irritating-enough"
+    ],
+    "author": [
+      "https://twitter.com/tomgiddings"
+    ]
+  }
+}

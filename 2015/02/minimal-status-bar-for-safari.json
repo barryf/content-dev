@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-25T11:14:10Z"],"entry-type":["bookmark"],"name":["Minimal Status Bar for Safari"],"bookmark-of":["http://visnup.github.io/Minimal-Status-Bar/"],"category":["safari","extension"],"slug":["minimal-status-bar-for-safari"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-25T11:14:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Minimal Status Bar for Safari"
+    ],
+    "bookmark-of": [
+      "http://visnup.github.io/Minimal-Status-Bar/"
+    ],
+    "category": [
+      "safari",
+      "extension"
+    ],
+    "slug": [
+      "minimal-status-bar-for-safari"
+    ]
+  }
+}

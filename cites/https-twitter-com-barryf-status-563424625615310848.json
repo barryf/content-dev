@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/563424625615310848"],"published":["2015-02-05T19:51:13Z"],"content":["@adamprocter I’ve not used webmention.io so you may want to try IRC for help with setup. Have you tried using it… (barryfrost.com/2015/02/i-ve-n…)"],"in-reply-to":["https://barryfrost.com/2015/02/nice-happy-to-help-let-me"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/563424625615310848"
+    ],
+    "published": [
+      "2015-02-05T19:51:13Z"
+    ],
+    "content": [
+      "@adamprocter I’ve not used webmention.io so you may want to try IRC for help with setup. Have you tried using it… (barryfrost.com/2015/02/i-ve-n…)"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/02/nice-happy-to-help-let-me"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

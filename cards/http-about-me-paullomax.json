@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Paul Lomax"],"photo":["https://twitter.com/PaulLomax/profile_image?size=original"],"url":["http://about.me/paullomax"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Paul Lomax"
+    ],
+    "photo": [
+      "https://twitter.com/PaulLomax/profile_image?size=original"
+    ],
+    "url": [
+      "http://about.me/paullomax"
+    ]
+  }
+}

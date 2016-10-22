@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["benhobson"],"url":["https://www.instagram.com/benhobson"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "benhobson"
+    ],
+    "url": [
+      "https://www.instagram.com/benhobson"
+    ]
+  }
+}

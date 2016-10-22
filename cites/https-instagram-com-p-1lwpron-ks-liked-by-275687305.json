@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://instagram.com/p/1LWpron_kS/#liked-by-275687305"],"published":["2015-04-08T22:30:01Z"],"like-of":["https://barryfrost.com/2015/04/new-gadget-installed-today-just-in"],"author":["http://instagram.com/lotinsomniac"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://instagram.com/p/1LWpron_kS/#liked-by-275687305"
+    ],
+    "published": [
+      "2015-04-08T22:30:01Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/04/new-gadget-installed-today-just-in"
+    ],
+    "author": [
+      "http://instagram.com/lotinsomniac"
+    ]
+  }
+}

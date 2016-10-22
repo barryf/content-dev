@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Interestingly Quora engineers develop on EC2 instances which are set up with custom scripts. Free meals, introductions, yoga, 1:1s, continuous deployments, employee swag.\n"],"published":["2011-03-19T14:31:24Z"],"entry-type":["bookmark"],"name":["What it's like to start work at Quora"],"bookmark-of":["http://www.quora.com/Kah-Seng-Tay/What-its-like-to-start-work-at-Quora"],"category":["business","web","work","inspiration","team","dev","ec2","via-pinboard"],"slug":["what-it-s-like-to-start"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Interestingly Quora engineers develop on EC2 instances which are set up with custom scripts. Free meals, introductions, yoga, 1:1s, continuous deployments, employee swag.\n"
+    ],
+    "published": [
+      "2011-03-19T14:31:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "What it's like to start work at Quora"
+    ],
+    "bookmark-of": [
+      "http://www.quora.com/Kah-Seng-Tay/What-its-like-to-start-work-at-Quora"
+    ],
+    "category": [
+      "business",
+      "web",
+      "work",
+      "inspiration",
+      "team",
+      "dev",
+      "ec2",
+      "via-pinboard"
+    ],
+    "slug": [
+      "what-it-s-like-to-start"
+    ]
+  }
+}

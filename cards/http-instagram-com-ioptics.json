@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["ioptics"],"photo":["https://instagramimages-a.akamaihd.net/profiles/anonymousUser.jpg"],"url":["http://instagram.com/ioptics"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "ioptics"
+    ],
+    "photo": [
+      "https://instagramimages-a.akamaihd.net/profiles/anonymousUser.jpg"
+    ],
+    "url": [
+      "http://instagram.com/ioptics"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-21T13:23:02Z"],"entry-type":["bookmark"],"name":["XHTML live chat based on the XMLHttpRequest Object"],"bookmark-of":["http://www.plasticshore.com/projects/chat/"],"category":["ajax","chat","javascript","web","dev","web20","via-pinboard"],"slug":["xhtml-live-chat-based-on-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-21T13:23:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "XHTML live chat based on the XMLHttpRequest Object"
+    ],
+    "bookmark-of": [
+      "http://www.plasticshore.com/projects/chat/"
+    ],
+    "category": [
+      "ajax",
+      "chat",
+      "javascript",
+      "web",
+      "dev",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "xhtml-live-chat-based-on-the"
+    ]
+  }
+}

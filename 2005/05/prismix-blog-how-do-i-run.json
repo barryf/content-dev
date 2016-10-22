@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-05-20T16:24:09Z"],"entry-type":["bookmark"],"name":["Prismix Blog: How do I run a JRUN Server as a Windows Service?"],"bookmark-of":["http://www.prismix.com/blog/archives/2005/05/how_do_i_run_a.cfm"],"category":["coldfusion","jrun","dev","via-pinboard"],"slug":["prismix-blog-how-do-i-run"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-05-20T16:24:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Prismix Blog: How do I run a JRUN Server as a Windows Service?"
+    ],
+    "bookmark-of": [
+      "http://www.prismix.com/blog/archives/2005/05/how_do_i_run_a.cfm"
+    ],
+    "category": [
+      "coldfusion",
+      "jrun",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "prismix-blog-how-do-i-run"
+    ]
+  }
+}

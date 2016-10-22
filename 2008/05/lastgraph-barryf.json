@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["My last.fm music profile and timeline\n"],"published":["2008-05-30T18:37:01Z"],"entry-type":["bookmark"],"name":["LastGraph: barryf"],"bookmark-of":["http://lastgraph3.aeracode.org/user/barryf/"],"category":["lastgraph","lastfm","music","trends","analysis","statistics","personal","via-pinboard"],"slug":["lastgraph-barryf"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My last.fm music profile and timeline\n"
+    ],
+    "published": [
+      "2008-05-30T18:37:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "LastGraph: barryf"
+    ],
+    "bookmark-of": [
+      "http://lastgraph3.aeracode.org/user/barryf/"
+    ],
+    "category": [
+      "lastgraph",
+      "lastfm",
+      "music",
+      "trends",
+      "analysis",
+      "statistics",
+      "personal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lastgraph-barryf"
+    ]
+  }
+}

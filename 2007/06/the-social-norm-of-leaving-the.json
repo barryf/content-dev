@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-05T21:18:18Z"],"entry-type":["bookmark"],"name":["THE SOCIAL NORM OF LEAVING THE TOILET SEAT DOWN: A GAME THEORETIC ANALYSIS"],"bookmark-of":["http://www.scq.ubc.ca/the-social-norm-of-leaving-the-toilet-seat-down-a-game-theoretic-analysis/"],"category":["science","funny","toilet","fun","humour","maths","satire","via-pinboard"],"slug":["the-social-norm-of-leaving-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-05T21:18:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "THE SOCIAL NORM OF LEAVING THE TOILET SEAT DOWN: A GAME THEORETIC ANALYSIS"
+    ],
+    "bookmark-of": [
+      "http://www.scq.ubc.ca/the-social-norm-of-leaving-the-toilet-seat-down-a-game-theoretic-analysis/"
+    ],
+    "category": [
+      "science",
+      "funny",
+      "toilet",
+      "fun",
+      "humour",
+      "maths",
+      "satire",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-social-norm-of-leaving-the"
+    ]
+  }
+}

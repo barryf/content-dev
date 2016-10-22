@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Scott JensOn (@scottjenson)"],"photo":["http://pbs.twimg.com/profile_images/576892785149628416/FiovXOSs_normal.jpeg"],"url":["https://twitter.com/scottjenson"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Scott JensOn (@scottjenson)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/576892785149628416/FiovXOSs_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/scottjenson"
+    ]
+  }
+}

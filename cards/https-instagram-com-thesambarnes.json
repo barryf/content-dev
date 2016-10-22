@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["thesambarnes"],"url":["https://instagram.com/thesambarnes"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "thesambarnes"
+    ],
+    "url": [
+      "https://instagram.com/thesambarnes"
+    ]
+  }
+}

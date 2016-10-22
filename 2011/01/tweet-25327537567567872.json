@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Endured 2.5 hours of meandering, inaccessible gibberish watching the latest Harry Potter film at the cinema. She loved it."],"published":["2011-01-12T23:05:30Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/25327537567567872"],"slug":["tweet-25327537567567872"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Endured 2.5 hours of meandering, inaccessible gibberish watching the latest Harry Potter film at the cinema. She loved it."
+    ],
+    "published": [
+      "2011-01-12T23:05:30Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/25327537567567872"
+    ],
+    "slug": [
+      "tweet-25327537567567872"
+    ]
+  }
+}

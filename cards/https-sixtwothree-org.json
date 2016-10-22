@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Jason Garber"],"photo":["https://sixtwothree.org/jgarber.png"],"url":["https://sixtwothree.org/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jason Garber"
+    ],
+    "photo": [
+      "https://sixtwothree.org/jgarber.png"
+    ],
+    "url": [
+      "https://sixtwothree.org/"
+    ]
+  }
+}

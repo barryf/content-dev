@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2009-01-24T16:35:16Z"],"entry-type":["bookmark"],"name":["App Engine Recipe - authorized_role decorator"],"bookmark-of":["http://appengine-cookbook.appspot.com/recipe/authorized_role-decorator/"],"category":["appengine","gae","security","decorator","role","authorisation","via-pinboard"],"slug":["app-engine-recipe-authorized-role-decorator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-01-24T16:35:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "App Engine Recipe - authorized_role decorator"
+    ],
+    "bookmark-of": [
+      "http://appengine-cookbook.appspot.com/recipe/authorized_role-decorator/"
+    ],
+    "category": [
+      "appengine",
+      "gae",
+      "security",
+      "decorator",
+      "role",
+      "authorisation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "app-engine-recipe-authorized-role-decorator"
+    ]
+  }
+}

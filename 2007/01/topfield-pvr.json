@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Gadget lust\n"],"published":["2007-01-27T22:09:32Z"],"entry-type":["bookmark"],"name":["Topfield PVR"],"bookmark-of":["http://www.firebox.com/index.html?dir=firebox&action=product&pid=1202"],"category":["pvr","topfield","tv","uk","media","via-pinboard"],"slug":["topfield-pvr"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Gadget lust\n"
+    ],
+    "published": [
+      "2007-01-27T22:09:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Topfield PVR"
+    ],
+    "bookmark-of": [
+      "http://www.firebox.com/index.html?dir=firebox&action=product&pid=1202"
+    ],
+    "category": [
+      "pvr",
+      "topfield",
+      "tv",
+      "uk",
+      "media",
+      "via-pinboard"
+    ],
+    "slug": [
+      "topfield-pvr"
+    ]
+  }
+}

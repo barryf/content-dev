@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw This TV lounge at Heathrow isn't quite the same. Gutted I couldn't take your seat!"],"published":["2012-02-26T15:18:55Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/173784972866502658"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/173789144659656705"],"slug":["tweet-173789144659656705"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw This TV lounge at Heathrow isn't quite the same. Gutted I couldn't take your seat!"
+    ],
+    "published": [
+      "2012-02-26T15:18:55Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/173784972866502658"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/173789144659656705"
+    ],
+    "slug": [
+      "tweet-173789144659656705"
+    ]
+  }
+}

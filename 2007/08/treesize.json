@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Hard disk space tool for Windows showing usage in a... tree\n"],"published":["2007-08-12T07:54:31Z"],"entry-type":["bookmark"],"name":["Treesize"],"bookmark-of":["http://www.jam-software.com/freeware/index.shtml"],"category":["windows","file","sysadmin","tree","free","disk","hardware","via-pinboard"],"slug":["treesize"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hard disk space tool for Windows showing usage in a... tree\n"
+    ],
+    "published": [
+      "2007-08-12T07:54:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Treesize"
+    ],
+    "bookmark-of": [
+      "http://www.jam-software.com/freeware/index.shtml"
+    ],
+    "category": [
+      "windows",
+      "file",
+      "sysadmin",
+      "tree",
+      "free",
+      "disk",
+      "hardware",
+      "via-pinboard"
+    ],
+    "slug": [
+      "treesize"
+    ]
+  }
+}

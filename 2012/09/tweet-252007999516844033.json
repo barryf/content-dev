@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Teams being announced. The boos for Terry louder than for Cole. It’s going to be spicy."],"published":["2012-09-29T11:32:43Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/252007999516844033"],"slug":["tweet-252007999516844033"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Teams being announced. The boos for Terry louder than for Cole. It’s going to be spicy."
+    ],
+    "published": [
+      "2012-09-29T11:32:43Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/252007999516844033"
+    ],
+    "slug": [
+      "tweet-252007999516844033"
+    ]
+  }
+}

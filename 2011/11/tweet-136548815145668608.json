@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@nstanley Looks like that's David McCandless. I saw that slide as part of his excellent presentation at @dconstruct last year."],"published":["2011-11-15T20:59:09Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11470692/status/134962197662142465"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/136548815145668608"],"slug":["tweet-136548815145668608"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nstanley Looks like that's David McCandless. I saw that slide as part of his excellent presentation at @dconstruct last year."
+    ],
+    "published": [
+      "2011-11-15T20:59:09Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11470692/status/134962197662142465"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/136548815145668608"
+    ],
+    "slug": [
+      "tweet-136548815145668608"
+    ]
+  }
+}

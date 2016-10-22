@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["This has ruined my Friday. Sickening. http://goo.gl/Kfgu"],"published":["2011-01-28T16:33:26Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/31027077499068418"],"slug":["tweet-31027077499068418"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This has ruined my Friday. Sickening. http://goo.gl/Kfgu"
+    ],
+    "published": [
+      "2011-01-28T16:33:26Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/31027077499068418"
+    ],
+    "slug": [
+      "tweet-31027077499068418"
+    ]
+  }
+}

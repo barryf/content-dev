@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Heading to Barcelona for the Mobile World Congress #mwc12 next week. North London Derby to watch at the airport first. Come on you reds!"],"published":["2012-02-26T12:46:47Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/173750857542803456"],"slug":["tweet-173750857542803456"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Heading to Barcelona for the Mobile World Congress #mwc12 next week. North London Derby to watch at the airport first. Come on you reds!"
+    ],
+    "published": [
+      "2012-02-26T12:46:47Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/173750857542803456"
+    ],
+    "slug": [
+      "tweet-173750857542803456"
+    ]
+  }
+}

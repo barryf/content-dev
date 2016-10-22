@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Mobile app developers from Brighton\n"],"published":["2011-07-14T06:43:46Z"],"entry-type":["bookmark"],"name":["Future Platforms"],"bookmark-of":["http://www.futureplatforms.com/"],"category":["mobile","app","brighton","uk","agency","via-pinboard"],"slug":["future-platforms"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mobile app developers from Brighton\n"
+    ],
+    "published": [
+      "2011-07-14T06:43:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Future Platforms"
+    ],
+    "bookmark-of": [
+      "http://www.futureplatforms.com/"
+    ],
+    "category": [
+      "mobile",
+      "app",
+      "brighton",
+      "uk",
+      "agency",
+      "via-pinboard"
+    ],
+    "slug": [
+      "future-platforms"
+    ]
+  }
+}

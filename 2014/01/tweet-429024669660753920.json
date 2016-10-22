@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cescwh7 Jesus, that was a long time ago. Can't have been many Gooners on here to read that frustrated tweet."],"published":["2014-01-30T22:53:46Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/363926766/status/429022400185782272"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/429024669660753920"],"slug":["tweet-429024669660753920"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cescwh7 Jesus, that was a long time ago. Can't have been many Gooners on here to read that frustrated tweet."
+    ],
+    "published": [
+      "2014-01-30T22:53:46Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/363926766/status/429022400185782272"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/429024669660753920"
+    ],
+    "slug": [
+      "tweet-429024669660753920"
+    ]
+  }
+}

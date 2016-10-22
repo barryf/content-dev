@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["\"Depot unites your customer relationships, projects, timetracking, invoicing and analysis. All your data (and all Depot features) are available from your desktop or mobile device.\""],"published":["2014-06-27T12:50:22Z"],"entry-type":["bookmark"],"name":["Depot"],"bookmark-of":["https://www.depothq.com/"],"category":["productivity","business","sme","project","timetracking","via-pinboard"],"slug":["depot"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Depot unites your customer relationships, projects, timetracking, invoicing and analysis. All your data (and all Depot features) are available from your desktop or mobile device.\""
+    ],
+    "published": [
+      "2014-06-27T12:50:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Depot"
+    ],
+    "bookmark-of": [
+      "https://www.depothq.com/"
+    ],
+    "category": [
+      "productivity",
+      "business",
+      "sme",
+      "project",
+      "timetracking",
+      "via-pinboard"
+    ],
+    "slug": [
+      "depot"
+    ]
+  }
+}

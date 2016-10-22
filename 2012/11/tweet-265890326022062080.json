@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I was in New York on election night exactly 4 years ago and (as a foreigner) was impressed by the huge sense of op — https://posts.app.net/1416398"],"published":["2012-11-06T18:56:08Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/265890326022062080"],"slug":["tweet-265890326022062080"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I was in New York on election night exactly 4 years ago and (as a foreigner) was impressed by the huge sense of op — https://posts.app.net/1416398"
+    ],
+    "published": [
+      "2012-11-06T18:56:08Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/265890326022062080"
+    ],
+    "slug": [
+      "tweet-265890326022062080"
+    ]
+  }
+}

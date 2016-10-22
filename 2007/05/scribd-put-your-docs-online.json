@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Free document sharer. No signup necessary - multi-file upload on homepage\n"],"published":["2007-05-20T09:58:24Z"],"entry-type":["bookmark"],"name":["Scribd - Put your docs online"],"bookmark-of":["http://www.scribd.com/"],"category":["publishing","web","document","social","free","via-pinboard"],"slug":["scribd-put-your-docs-online"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free document sharer. No signup necessary - multi-file upload on homepage\n"
+    ],
+    "published": [
+      "2007-05-20T09:58:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scribd - Put your docs online"
+    ],
+    "bookmark-of": [
+      "http://www.scribd.com/"
+    ],
+    "category": [
+      "publishing",
+      "web",
+      "document",
+      "social",
+      "free",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scribd-put-your-docs-online"
+    ]
+  }
+}

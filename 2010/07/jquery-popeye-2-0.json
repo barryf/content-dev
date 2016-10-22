@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Inline alternative to lightboxes, with gallerys, scaling out and captions\n"],"published":["2010-07-07T21:35:04Z"],"entry-type":["bookmark"],"name":["jQuery.popeye 2.0"],"bookmark-of":["http://dev.herr-schuessler.de/jquery/popeye/"],"category":["lightbox","effect","jquery","javascript","image","photo","inline","ui","slideshow","gallery","via-pinboard"],"slug":["jquery-popeye-2-0"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Inline alternative to lightboxes, with gallerys, scaling out and captions\n"
+    ],
+    "published": [
+      "2010-07-07T21:35:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jQuery.popeye 2.0"
+    ],
+    "bookmark-of": [
+      "http://dev.herr-schuessler.de/jquery/popeye/"
+    ],
+    "category": [
+      "lightbox",
+      "effect",
+      "jquery",
+      "javascript",
+      "image",
+      "photo",
+      "inline",
+      "ui",
+      "slideshow",
+      "gallery",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jquery-popeye-2-0"
+    ]
+  }
+}

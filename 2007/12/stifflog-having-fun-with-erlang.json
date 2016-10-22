@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-18T22:20:43Z"],"entry-type":["bookmark"],"name":["Stifflog - Having Fun With Erlang"],"bookmark-of":["http://www.stifflog.com/2007/03/12/having-fun-with-erlang/"],"category":["erlang","blog","dev","concurrency","via-pinboard"],"slug":["stifflog-having-fun-with-erlang"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-18T22:20:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Stifflog - Having Fun With Erlang"
+    ],
+    "bookmark-of": [
+      "http://www.stifflog.com/2007/03/12/having-fun-with-erlang/"
+    ],
+    "category": [
+      "erlang",
+      "blog",
+      "dev",
+      "concurrency",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stifflog-having-fun-with-erlang"
+    ]
+  }
+}

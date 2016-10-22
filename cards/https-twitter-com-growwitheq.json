@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["EQ"],"photo":["https://twitter.com/growwithEQ/profile_image?size=original"],"url":["https://twitter.com/growwithEQ"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "EQ"
+    ],
+    "photo": [
+      "https://twitter.com/growwithEQ/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/growwithEQ"
+    ]
+  }
+}

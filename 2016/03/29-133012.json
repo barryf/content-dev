@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2016-03-29T12:30:12Z"],"entry-type":["like"],"like-of":["https://twitter.com/Pinboard/status/505081162264363008"],"category":["ifttt"],"syndication":["https://twitter.com/Pinboard/status/505081162264363008"],"slug":["29-133012"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-03-29T12:30:12Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/Pinboard/status/505081162264363008"
+    ],
+    "category": [
+      "ifttt"
+    ],
+    "syndication": [
+      "https://twitter.com/Pinboard/status/505081162264363008"
+    ],
+    "slug": [
+      "29-133012"
+    ]
+  }
+}

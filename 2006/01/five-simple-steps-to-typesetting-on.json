@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Nice reminder that glyphs are possible on the web too\n"],"published":["2006-01-27T11:59:49Z"],"entry-type":["bookmark"],"name":["Five Simple Steps to Typesetting on the web: The Right Glyph for the Job : Journal : Mark Boulton | Information design"],"bookmark-of":["http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_typesetting_on_the_web_the_right_glyph_for_the_job/"],"category":["html","typography","web","design","via-pinboard"],"slug":["five-simple-steps-to-typesetting-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nice reminder that glyphs are possible on the web too\n"
+    ],
+    "published": [
+      "2006-01-27T11:59:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Five Simple Steps to Typesetting on the web: The Right Glyph for the Job : Journal : Mark Boulton | Information design"
+    ],
+    "bookmark-of": [
+      "http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_typesetting_on_the_web_the_right_glyph_for_the_job/"
+    ],
+    "category": [
+      "html",
+      "typography",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "five-simple-steps-to-typesetting-on"
+    ]
+  }
+}

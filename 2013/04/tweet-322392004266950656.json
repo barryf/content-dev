@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@TheGhoti @andrewscrivener Now you’re talking!"],"published":["2013-04-11T16:53:38Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20146547/status/322387274853658624"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/322392004266950656"],"slug":["tweet-322392004266950656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@TheGhoti @andrewscrivener Now you’re talking!"
+    ],
+    "published": [
+      "2013-04-11T16:53:38Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20146547/status/322387274853658624"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/322392004266950656"
+    ],
+    "slug": [
+      "tweet-322392004266950656"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["IM to web/RSS system. APIs etc.\n"],"published":["2006-04-22T14:13:41Z"],"entry-type":["bookmark"],"name":["sabifoo"],"bookmark-of":["http://www.sabifoo.com/main"],"category":["rss","im","chat","blog","api","aim","yahoo","msn","via-pinboard"],"slug":["sabifoo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "IM to web/RSS system. APIs etc.\n"
+    ],
+    "published": [
+      "2006-04-22T14:13:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "sabifoo"
+    ],
+    "bookmark-of": [
+      "http://www.sabifoo.com/main"
+    ],
+    "category": [
+      "rss",
+      "im",
+      "chat",
+      "blog",
+      "api",
+      "aim",
+      "yahoo",
+      "msn",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sabifoo"
+    ]
+  }
+}

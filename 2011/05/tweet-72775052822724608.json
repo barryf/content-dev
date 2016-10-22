@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@flapjackthecat Ian, I am worried about you."],"published":["2011-05-23T21:24:59Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/18174244/status/72773262198841345"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/72775052822724608"],"slug":["tweet-72775052822724608"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@flapjackthecat Ian, I am worried about you."
+    ],
+    "published": [
+      "2011-05-23T21:24:59Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/18174244/status/72773262198841345"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/72775052822724608"
+    ],
+    "slug": [
+      "tweet-72775052822724608"
+    ]
+  }
+}

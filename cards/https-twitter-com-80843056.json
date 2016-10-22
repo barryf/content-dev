@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Mark Caudell"],"photo":["http://pbs.twimg.com/profile_images/455785010541244416/dRCbG8mk_normal.jpeg"],"url":["https://twitter.com/clearjanuary"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Mark Caudell"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/455785010541244416/dRCbG8mk_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/clearjanuary"
+    ]
+  }
+}

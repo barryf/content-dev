@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/globaldev/status/591210620239925249"],"published":["2015-04-23T12:02:50Z"],"content":["Team photo taken today in our very sunny London office"],"photo":["http://pbs.twimg.com/media/CDRm7M4WEAAHo9X.jpg"],"author":["https://twitter.com/globaldev"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/globaldev/status/591210620239925249"
+    ],
+    "published": [
+      "2015-04-23T12:02:50Z"
+    ],
+    "content": [
+      "Team photo taken today in our very sunny London office"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CDRm7M4WEAAHo9X.jpg"
+    ],
+    "author": [
+      "https://twitter.com/globaldev"
+    ]
+  }
+}

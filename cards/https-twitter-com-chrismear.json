@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Chris Mear"],"photo":["https://twitter.com/chrismear/profile_image?size=original"],"url":["https://twitter.com/chrismear"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Chris Mear"
+    ],
+    "photo": [
+      "https://twitter.com/chrismear/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/chrismear"
+    ]
+  }
+}

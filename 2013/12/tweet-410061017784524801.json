@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["First day in the shiny new @globalpersonals London office. http://twitter.com/barryf/status/410061017784524801/photo/1"],"published":["2013-12-09T14:58:59Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/410061017784524801"],"slug":["tweet-410061017784524801"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "First day in the shiny new @globalpersonals London office. http://twitter.com/barryf/status/410061017784524801/photo/1"
+    ],
+    "published": [
+      "2013-12-09T14:58:59Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/410061017784524801"
+    ],
+    "slug": [
+      "tweet-410061017784524801"
+    ]
+  }
+}

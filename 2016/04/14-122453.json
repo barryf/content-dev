@@ -1,1 +1,23 @@
-{"type":["h-entry"],"properties":{"published":["2016-04-14T11:24:53Z"],"entry-type":["like"],"like-of":["https://webmention.rocks/test/1"],"category":["indieweb","webmention"],"slug":["14-122453"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-04-14T11:24:53Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://webmention.rocks/test/1"
+    ],
+    "category": [
+      "indieweb",
+      "webmention"
+    ],
+    "slug": [
+      "14-122453"
+    ]
+  }
+}

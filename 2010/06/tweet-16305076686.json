@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@FrancescaHeath Very well. Partners enjoying themselves too. Great organisation from you!"],"published":["2010-06-16T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/36374283/status/16302808003"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/16305076686"],"slug":["tweet-16305076686"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@FrancescaHeath Very well. Partners enjoying themselves too. Great organisation from you!"
+    ],
+    "published": [
+      "2010-06-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/36374283/status/16302808003"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/16305076686"
+    ],
+    "slug": [
+      "tweet-16305076686"
+    ]
+  }
+}

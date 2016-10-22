@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"published":["2007-08-31T13:14:36Z"],"entry-type":["bookmark"],"name":["Rake Task for MySQL Backup to Amazon S3"],"bookmark-of":["http://info-architects.net/2007/08/25/rake-task-for-mysql-backup-to-amazon-s3/"],"category":["amazon","s3","backup","mysql","database","sysadmin","server","aws","rake","rails","ruby","via-pinboard"],"slug":["rake-task-for-mysql-backup-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-08-31T13:14:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rake Task for MySQL Backup to Amazon S3"
+    ],
+    "bookmark-of": [
+      "http://info-architects.net/2007/08/25/rake-task-for-mysql-backup-to-amazon-s3/"
+    ],
+    "category": [
+      "amazon",
+      "s3",
+      "backup",
+      "mysql",
+      "database",
+      "sysadmin",
+      "server",
+      "aws",
+      "rake",
+      "rails",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rake-task-for-mysql-backup-to"
+    ]
+  }
+}

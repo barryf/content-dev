@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Library for mocking and stubbing with a Rails test case - even on real classes and instances, such as AR instance methods\n"],"published":["2007-01-13T16:44:23Z"],"entry-type":["bookmark"],"name":["Mocha"],"bookmark-of":["http://mocha.rubyforge.org/"],"category":["rails","tdd","test","plugin","mock","stub","library","dev","via-pinboard"],"slug":["mocha"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Library for mocking and stubbing with a Rails test case - even on real classes and instances, such as AR instance methods\n"
+    ],
+    "published": [
+      "2007-01-13T16:44:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mocha"
+    ],
+    "bookmark-of": [
+      "http://mocha.rubyforge.org/"
+    ],
+    "category": [
+      "rails",
+      "tdd",
+      "test",
+      "plugin",
+      "mock",
+      "stub",
+      "library",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mocha"
+    ]
+  }
+}

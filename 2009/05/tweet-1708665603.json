@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Settling down to the footy with Dominos' Football Special 2-4-1 on its way. Clever promo for lazy types like me."],"published":["2009-05-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1708665603"],"slug":["tweet-1708665603"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Settling down to the footy with Dominos' Football Special 2-4-1 on its way. Clever promo for lazy types like me."
+    ],
+    "published": [
+      "2009-05-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1708665603"
+    ],
+    "slug": [
+      "tweet-1708665603"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Define \"play\" !"],"published":["2012-06-13T15:03:03Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/212899661118308352"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/212923042819608577"],"slug":["tweet-212923042819608577"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Define \"play\" !"
+    ],
+    "published": [
+      "2012-06-13T15:03:03Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/212899661118308352"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/212923042819608577"
+    ],
+    "slug": [
+      "tweet-212923042819608577"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["GIF Brewery is a Mac OS X application that lets you convert brief clips from your video files into GIFs."],"published":["2013-12-23T19:20:30Z"],"entry-type":["bookmark"],"name":["GIF Brewery"],"bookmark-of":["http://www.helloresolven.com/portfolio/gifbrewery/"],"category":["gif","video","animation","via-pinboard"],"slug":["gif-brewery"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "GIF Brewery is a Mac OS X application that lets you convert brief clips from your video files into GIFs."
+    ],
+    "published": [
+      "2013-12-23T19:20:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GIF Brewery"
+    ],
+    "bookmark-of": [
+      "http://www.helloresolven.com/portfolio/gifbrewery/"
+    ],
+    "category": [
+      "gif",
+      "video",
+      "animation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gif-brewery"
+    ]
+  }
+}

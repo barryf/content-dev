@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"content":["Enjoyable course completed in London today and I'm technically now a [Certified&nbsp;Scrum&nbsp;Product&nbsp;Owner](https://www.scrumalliance.org/community/profile/bfrost4) (CSPO). Time to terrify my teams with my shiny new knowledge."],"published":["2014-11-14T18:56:49Z"],"entry-type":["note"],"category":["personal","scrum","via-baker"],"syndication":["https://twitter.com/barryf/status/533333100303224832"],"slug":["baker-110"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoyable course completed in London today and I'm technically now a [Certified&nbsp;Scrum&nbsp;Product&nbsp;Owner](https://www.scrumalliance.org/community/profile/bfrost4) (CSPO). Time to terrify my teams with my shiny new knowledge."
+    ],
+    "published": [
+      "2014-11-14T18:56:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "personal",
+      "scrum",
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/533333100303224832"
+    ],
+    "slug": [
+      "baker-110"
+    ]
+  }
+}

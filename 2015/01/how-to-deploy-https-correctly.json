@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-22T14:26:18Z"],"entry-type":["bookmark"],"name":["How to Deploy HTTPS Correctly"],"bookmark-of":["https://www.eff.org/https-everywhere/deploying-https"],"category":["https","eff","security"],"slug":["how-to-deploy-https-correctly"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-22T14:26:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Deploy HTTPS Correctly"
+    ],
+    "bookmark-of": [
+      "https://www.eff.org/https-everywhere/deploying-https"
+    ],
+    "category": [
+      "https",
+      "eff",
+      "security"
+    ],
+    "slug": [
+      "how-to-deploy-https-correctly"
+    ]
+  }
+}

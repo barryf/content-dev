@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["I think I'd enjoy being asked and asking these.\n"],"published":["2009-11-06T14:33:15Z"],"entry-type":["bookmark"],"name":["Google interview questions"],"bookmark-of":["http://www.guardian.co.uk/money/2009/nov/05/google-job-interview-questions"],"category":["interview","google","question","job","work","business","via-pinboard"],"slug":["google-interview-questions"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I think I'd enjoy being asked and asking these.\n"
+    ],
+    "published": [
+      "2009-11-06T14:33:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google interview questions"
+    ],
+    "bookmark-of": [
+      "http://www.guardian.co.uk/money/2009/nov/05/google-job-interview-questions"
+    ],
+    "category": [
+      "interview",
+      "google",
+      "question",
+      "job",
+      "work",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-interview-questions"
+    ]
+  }
+}

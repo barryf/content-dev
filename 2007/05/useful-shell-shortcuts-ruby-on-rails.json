@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-05-28T16:39:45Z"],"entry-type":["bookmark"],"name":["Useful Shell Shortcuts | Ruby on Rails for Newbies"],"bookmark-of":["http://nubyonrails.com/articles/2007/05/26/useful-shell-shortcuts"],"category":["shell","bash","linux","unix","mac","useful","via-pinboard"],"slug":["useful-shell-shortcuts-ruby-on-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-05-28T16:39:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Useful Shell Shortcuts | Ruby on Rails for Newbies"
+    ],
+    "bookmark-of": [
+      "http://nubyonrails.com/articles/2007/05/26/useful-shell-shortcuts"
+    ],
+    "category": [
+      "shell",
+      "bash",
+      "linux",
+      "unix",
+      "mac",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "useful-shell-shortcuts-ruby-on-rails"
+    ]
+  }
+}

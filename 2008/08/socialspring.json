@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["White label socal networking platform\n"],"published":["2008-08-19T13:13:14Z"],"entry-type":["bookmark"],"name":["SocialSpring"],"bookmark-of":["http://socialspring.com/"],"category":["whitelabel","networking","work","socialnetworking","rails","dev","social","platform","web","via-pinboard"],"slug":["socialspring"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "White label socal networking platform\n"
+    ],
+    "published": [
+      "2008-08-19T13:13:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SocialSpring"
+    ],
+    "bookmark-of": [
+      "http://socialspring.com/"
+    ],
+    "category": [
+      "whitelabel",
+      "networking",
+      "work",
+      "socialnetworking",
+      "rails",
+      "dev",
+      "social",
+      "platform",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "socialspring"
+    ]
+  }
+}

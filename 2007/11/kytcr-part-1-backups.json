@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["MySQL and SVN offsite scripted backups\n"],"published":["2007-11-15T22:14:14Z"],"entry-type":["bookmark"],"name":["KYTCR Part 1: Backups"],"bookmark-of":["http://railstips.org/2007/11/1/kytcr-part-i-backups"],"category":["backup","howto","mysql","rsync","ruby","rails","svn","subversion","dev","via-pinboard"],"slug":["kytcr-part-1-backups"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "MySQL and SVN offsite scripted backups\n"
+    ],
+    "published": [
+      "2007-11-15T22:14:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "KYTCR Part 1: Backups"
+    ],
+    "bookmark-of": [
+      "http://railstips.org/2007/11/1/kytcr-part-i-backups"
+    ],
+    "category": [
+      "backup",
+      "howto",
+      "mysql",
+      "rsync",
+      "ruby",
+      "rails",
+      "svn",
+      "subversion",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kytcr-part-1-backups"
+    ]
+  }
+}

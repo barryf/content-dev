@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Ordered a 250Gb drive ready for a fresh install of Leopard on my MacBook. Old 80Gb is going in an enclosure so I won't need to do a backup."],"published":["2007-11-04T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/387684772"],"slug":["tweet-387684772"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ordered a 250Gb drive ready for a fresh install of Leopard on my MacBook. Old 80Gb is going in an enclosure so I won't need to do a backup."
+    ],
+    "published": [
+      "2007-11-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/387684772"
+    ],
+    "slug": [
+      "tweet-387684772"
+    ]
+  }
+}

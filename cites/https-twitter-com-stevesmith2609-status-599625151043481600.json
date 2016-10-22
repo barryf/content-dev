@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/stevesmith2609/status/599625151043481600"],"published":["2015-05-16T17:19:11Z"],"content":["@barryf I guess they all *kinda* have kits similar to Reading."],"in-reply-to":["https://barryfrost.com/2015/05/oh-facebook-that-algorithm-needs-a"],"author":["https://twitter.com/stevesmith2609"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/stevesmith2609/status/599625151043481600"
+    ],
+    "published": [
+      "2015-05-16T17:19:11Z"
+    ],
+    "content": [
+      "@barryf I guess they all *kinda* have kits similar to Reading."
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/05/oh-facebook-that-algorithm-needs-a"
+    ],
+    "author": [
+      "https://twitter.com/stevesmith2609"
+    ]
+  }
+}

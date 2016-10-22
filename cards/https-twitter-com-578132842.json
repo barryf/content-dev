@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Kayley Jay"],"photo":["http://pbs.twimg.com/profile_images/2223247123/untitled2_normal.JPG"],"url":["https://twitter.com/kayleyjay42"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kayley Jay"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/2223247123/untitled2_normal.JPG"
+    ],
+    "url": [
+      "https://twitter.com/kayleyjay42"
+    ]
+  }
+}

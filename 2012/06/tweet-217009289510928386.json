@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sod it. Right, Father Ted on More 4 has just started."],"published":["2012-06-24T21:40:21Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/217009289510928386"],"slug":["tweet-217009289510928386"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sod it. Right, Father Ted on More 4 has just started."
+    ],
+    "published": [
+      "2012-06-24T21:40:21Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/217009289510928386"
+    ],
+    "slug": [
+      "tweet-217009289510928386"
+    ]
+  }
+}

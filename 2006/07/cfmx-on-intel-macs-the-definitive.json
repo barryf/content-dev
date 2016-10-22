@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2006-07-27T08:09:03Z"],"entry-type":["bookmark"],"name":["CFMX on Intel Macs - The Definitive Guide"],"bookmark-of":["http://webmages.com/cfmxIntelOSXguide.html"],"category":["coldfusion","mac","intel","via-pinboard"],"slug":["cfmx-on-intel-macs-the-definitive"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-07-27T08:09:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CFMX on Intel Macs - The Definitive Guide"
+    ],
+    "bookmark-of": [
+      "http://webmages.com/cfmxIntelOSXguide.html"
+    ],
+    "category": [
+      "coldfusion",
+      "mac",
+      "intel",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cfmx-on-intel-macs-the-definitive"
+    ]
+  }
+}

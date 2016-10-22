@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Configure it to toggle wifi or switch default printers based on rules such as being plugged into a named display or the power adapter. Forked from MarcoPolo.\n"],"published":["2012-02-01T20:46:10Z"],"entry-type":["bookmark"],"name":["ControlPlane"],"bookmark-of":["http://www.controlplaneapp.com/"],"category":["marcopolo","mac","home","work","context","via-pinboard"],"slug":["controlplane"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Configure it to toggle wifi or switch default printers based on rules such as being plugged into a named display or the power adapter. Forked from MarcoPolo.\n"
+    ],
+    "published": [
+      "2012-02-01T20:46:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ControlPlane"
+    ],
+    "bookmark-of": [
+      "http://www.controlplaneapp.com/"
+    ],
+    "category": [
+      "marcopolo",
+      "mac",
+      "home",
+      "work",
+      "context",
+      "via-pinboard"
+    ],
+    "slug": [
+      "controlplane"
+    ]
+  }
+}

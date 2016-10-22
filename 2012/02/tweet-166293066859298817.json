@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@robyoung26 Looking forward to seeing you in the morning, Rob."],"published":["2012-02-05T22:52:11Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/9659012/status/166258452656693248"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/166293066859298817"],"slug":["tweet-166293066859298817"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@robyoung26 Looking forward to seeing you in the morning, Rob."
+    ],
+    "published": [
+      "2012-02-05T22:52:11Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/9659012/status/166258452656693248"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/166293066859298817"
+    ],
+    "slug": [
+      "tweet-166293066859298817"
+    ]
+  }
+}

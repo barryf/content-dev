@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Customer support email manager\n"],"published":["2007-05-08T16:05:15Z"],"entry-type":["bookmark"],"name":["Sproutit: Mailroom"],"bookmark-of":["http://www.sproutit.com/mailroom"],"category":["basecamp","community","email","web20","web","support","customer","via-pinboard"],"slug":["sproutit-mailroom"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Customer support email manager\n"
+    ],
+    "published": [
+      "2007-05-08T16:05:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sproutit: Mailroom"
+    ],
+    "bookmark-of": [
+      "http://www.sproutit.com/mailroom"
+    ],
+    "category": [
+      "basecamp",
+      "community",
+      "email",
+      "web20",
+      "web",
+      "support",
+      "customer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sproutit-mailroom"
+    ]
+  }
+}

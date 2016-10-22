@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Johannesburg from 11-14 August at http://tech4africa.com/- why, are you in SA too?"],"published":["2010-07-21T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/19077619315"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/19077826927"],"slug":["tweet-19077826927"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Johannesburg from 11-14 August at http://tech4africa.com/- why, are you in SA too?"
+    ],
+    "published": [
+      "2010-07-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/19077619315"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/19077826927"
+    ],
+    "slug": [
+      "tweet-19077826927"
+    ]
+  }
+}

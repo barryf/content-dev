@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-18T17:01:34Z"],"entry-type":["bookmark"],"name":["memcached: a distributed memory object caching system"],"bookmark-of":["http://www.danga.com/memcached/"],"category":["cache","server","hosting","dev","via-pinboard"],"slug":["memcached-a-distributed-memory-object-caching"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-18T17:01:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "memcached: a distributed memory object caching system"
+    ],
+    "bookmark-of": [
+      "http://www.danga.com/memcached/"
+    ],
+    "category": [
+      "cache",
+      "server",
+      "hosting",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "memcached-a-distributed-memory-object-caching"
+    ]
+  }
+}

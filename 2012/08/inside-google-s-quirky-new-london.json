@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2012-08-08T14:47:13Z"],"entry-type":["bookmark"],"name":["Inside Google's quirky new London headquarters"],"bookmark-of":["http://www.telegraph.co.uk/technology/picture-galleries/9461561/Inside-Googles-quirky-new-London-headquarters.html"],"category":["google","office","london","environment","business","inspiration","via-pinboard"],"slug":["inside-google-s-quirky-new-london"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-08-08T14:47:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Inside Google's quirky new London headquarters"
+    ],
+    "bookmark-of": [
+      "http://www.telegraph.co.uk/technology/picture-galleries/9461561/Inside-Googles-quirky-new-London-headquarters.html"
+    ],
+    "category": [
+      "google",
+      "office",
+      "london",
+      "environment",
+      "business",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "inside-google-s-quirky-new-london"
+    ]
+  }
+}

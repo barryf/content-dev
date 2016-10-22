@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Email copy from great companies"],"published":["2016-05-16T10:10:28Z"],"entry-type":["bookmark"],"name":["Good Copy"],"bookmark-of":["http://www.goodemailcopy.com/"],"category":["email","text","marketing","crm"],"slug":["good-copy"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Email copy from great companies"
+    ],
+    "published": [
+      "2016-05-16T10:10:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Good Copy"
+    ],
+    "bookmark-of": [
+      "http://www.goodemailcopy.com/"
+    ],
+    "category": [
+      "email",
+      "text",
+      "marketing",
+      "crm"
+    ],
+    "slug": [
+      "good-copy"
+    ]
+  }
+}

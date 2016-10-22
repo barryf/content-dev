@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2006-09-12T11:23:38Z"],"entry-type":["bookmark"],"name":["UTF-8 Sampler"],"bookmark-of":["http://www.columbia.edu/kermit/utf8.html"],"category":["unicode","utf8","encoding","i18n","language","web","via-pinboard"],"slug":["utf-8-sampler"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-09-12T11:23:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UTF-8 Sampler"
+    ],
+    "bookmark-of": [
+      "http://www.columbia.edu/kermit/utf8.html"
+    ],
+    "category": [
+      "unicode",
+      "utf8",
+      "encoding",
+      "i18n",
+      "language",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "utf-8-sampler"
+    ]
+  }
+}

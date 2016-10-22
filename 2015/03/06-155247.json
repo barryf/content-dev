@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-06T15:52:47Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/stop/status/573861628564762624"],"syndication":["https://twitter.com/barryf/status/573873877119463424"],"slug":["06-155247"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-06T15:52:47Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/stop/status/573861628564762624"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/573873877119463424"
+    ],
+    "slug": [
+      "06-155247"
+    ]
+  }
+}

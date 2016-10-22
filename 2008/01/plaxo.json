@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Contacts/Calendar syncing across virtually everything\n"],"published":["2008-01-21T22:42:34Z"],"entry-type":["bookmark"],"name":["Plaxo"],"bookmark-of":["http://www.plaxo.com/"],"category":["address","contact","calendar","sync","sharing","backup","via-pinboard"],"slug":["plaxo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Contacts/Calendar syncing across virtually everything\n"
+    ],
+    "published": [
+      "2008-01-21T22:42:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Plaxo"
+    ],
+    "bookmark-of": [
+      "http://www.plaxo.com/"
+    ],
+    "category": [
+      "address",
+      "contact",
+      "calendar",
+      "sync",
+      "sharing",
+      "backup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "plaxo"
+    ]
+  }
+}

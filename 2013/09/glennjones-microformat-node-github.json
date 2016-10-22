@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-09-02T17:56:46Z"],"entry-type":["bookmark"],"name":["glennjones/microformat-node · GitHub"],"bookmark-of":["https://github.com/glennjones/microformat-node"],"category":["fromifttt","github","via-pinboard"],"slug":["glennjones-microformat-node-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-09-02T17:56:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "glennjones/microformat-node · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/glennjones/microformat-node"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "glennjones-microformat-node-github"
+    ]
+  }
+}

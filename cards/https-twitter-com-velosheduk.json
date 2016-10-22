@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Veloshed uk"],"photo":["https://twitter.com/velosheduk/profile_image?size=original"],"url":["https://twitter.com/velosheduk"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Veloshed uk"
+    ],
+    "photo": [
+      "https://twitter.com/velosheduk/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/velosheduk"
+    ]
+  }
+}

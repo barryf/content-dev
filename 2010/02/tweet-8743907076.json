@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Life doesn't get much better than this."],"published":["2010-02-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/8743907076"],"slug":["tweet-8743907076"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Life doesn't get much better than this."
+    ],
+    "published": [
+      "2010-02-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/8743907076"
+    ],
+    "slug": [
+      "tweet-8743907076"
+    ]
+  }
+}

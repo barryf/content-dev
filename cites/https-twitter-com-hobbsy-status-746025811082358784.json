@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/hobbsy/status/746025811082358784"],"published":["2016-06-23T17:03:08Z"],"content":["@barryf ah cool, thanks :) if I’m in the UK will try and pop down"],"in-reply-to":["https://barryfrost.com/2016/06/hobbsy-next-one-is-27th-july"],"author":["http://hobbsy.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/hobbsy/status/746025811082358784"
+    ],
+    "published": [
+      "2016-06-23T17:03:08Z"
+    ],
+    "content": [
+      "@barryf ah cool, thanks :) if I’m in the UK will try and pop down"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/06/hobbsy-next-one-is-27th-july"
+    ],
+    "author": [
+      "http://hobbsy.com"
+    ]
+  }
+}

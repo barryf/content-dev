@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["nstanley"],"url":["https://instagram.com/nstanley"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "nstanley"
+    ],
+    "url": [
+      "https://instagram.com/nstanley"
+    ]
+  }
+}

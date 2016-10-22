@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Dutch email service provider that \"doesn’t sell your data\"."],"published":["2015-05-08T14:02:20Z"],"entry-type":["bookmark"],"name":["Soverin"],"bookmark-of":["https://soverin.net/"],"category":["email","esp","privacy"],"slug":["soverin"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dutch email service provider that \"doesn’t sell your data\"."
+    ],
+    "published": [
+      "2015-05-08T14:02:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Soverin"
+    ],
+    "bookmark-of": [
+      "https://soverin.net/"
+    ],
+    "category": [
+      "email",
+      "esp",
+      "privacy"
+    ],
+    "slug": [
+      "soverin"
+    ]
+  }
+}

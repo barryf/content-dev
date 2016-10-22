@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Free Mac app: ambient sound equalizer "],"published":["2014-12-31T17:09:41Z"],"entry-type":["bookmark"],"name":["Noizio"],"bookmark-of":["http://noiz.io/"],"category":["mac","audio","productivity","effects","music","via-pinboard"],"slug":["noizio"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free Mac app: ambient sound equalizer "
+    ],
+    "published": [
+      "2014-12-31T17:09:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Noizio"
+    ],
+    "bookmark-of": [
+      "http://noiz.io/"
+    ],
+    "category": [
+      "mac",
+      "audio",
+      "productivity",
+      "effects",
+      "music",
+      "via-pinboard"
+    ],
+    "slug": [
+      "noizio"
+    ]
+  }
+}

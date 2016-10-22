@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["It's dark, cold and windy outside so time to shut the curtains and enjoy @somafm's Xmas Rocks radio http://somafm.com/xmasrocks/"],"published":["2013-12-23T15:35:13Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/415143564767928320"],"slug":["tweet-415143564767928320"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It's dark, cold and windy outside so time to shut the curtains and enjoy @somafm's Xmas Rocks radio http://somafm.com/xmasrocks/"
+    ],
+    "published": [
+      "2013-12-23T15:35:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/415143564767928320"
+    ],
+    "slug": [
+      "tweet-415143564767928320"
+    ]
+  }
+}

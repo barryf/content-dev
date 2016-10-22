@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@toddogroats You're right. I must be a masochist!"],"published":["2010-01-09T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/57762711/status/7568022702"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/7572925904"],"slug":["tweet-7572925904"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@toddogroats You're right. I must be a masochist!"
+    ],
+    "published": [
+      "2010-01-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/57762711/status/7568022702"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/7572925904"
+    ],
+    "slug": [
+      "tweet-7572925904"
+    ]
+  }
+}

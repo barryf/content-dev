@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Feeling sorry for the man sitting in front in a grey suit plodding through emails in Outlook 2003 on a big, grey, corporate Windows laptop."],"published":["2011-10-18T16:53:12Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/126340059002699776"],"slug":["tweet-126340059002699776"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Feeling sorry for the man sitting in front in a grey suit plodding through emails in Outlook 2003 on a big, grey, corporate Windows laptop."
+    ],
+    "published": [
+      "2011-10-18T16:53:12Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/126340059002699776"
+    ],
+    "slug": [
+      "tweet-126340059002699776"
+    ]
+  }
+}

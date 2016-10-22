@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2009-01-04T09:26:58Z"],"entry-type":["bookmark"],"name":["Big list of Django tips (and some python tips too)"],"bookmark-of":["http://ericholscher.com/blog/2008/oct/5/django-tips/"],"category":["django","python","tips","framework","dev","via-pinboard"],"slug":["big-list-of-django-tips-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-01-04T09:26:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Big list of Django tips (and some python tips too)"
+    ],
+    "bookmark-of": [
+      "http://ericholscher.com/blog/2008/oct/5/django-tips/"
+    ],
+    "category": [
+      "django",
+      "python",
+      "tips",
+      "framework",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "big-list-of-django-tips-and"
+    ]
+  }
+}

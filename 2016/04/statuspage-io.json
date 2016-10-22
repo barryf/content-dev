@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Hosted Status Pages for Your Company"],"published":["2016-04-13T13:19:31Z"],"entry-type":["bookmark"],"name":["StatusPage.io"],"bookmark-of":["https://www.statuspage.io/"],"category":["uptime","status","ping"],"slug":["statuspage-io"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Hosted Status Pages for Your Company"
+    ],
+    "published": [
+      "2016-04-13T13:19:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "StatusPage.io"
+    ],
+    "bookmark-of": [
+      "https://www.statuspage.io/"
+    ],
+    "category": [
+      "uptime",
+      "status",
+      "ping"
+    ],
+    "slug": [
+      "statuspage-io"
+    ]
+  }
+}

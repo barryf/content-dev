@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/ProductHunt/status/610833171265949697"],"published":["2015-06-16T15:35:51Z"],"content":["RT @barryf: Big collection of dating mobile apps on @ProductHunt producthunt.com/@chrismessina/… #dating"],"repost-of":["https://barryfrost.com/2015/06/big-collection-of-dating-mobile-apps"],"author":["http://producthunt.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/ProductHunt/status/610833171265949697"
+    ],
+    "published": [
+      "2015-06-16T15:35:51Z"
+    ],
+    "content": [
+      "RT @barryf: Big collection of dating mobile apps on @ProductHunt producthunt.com/@chrismessina/… #dating"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/06/big-collection-of-dating-mobile-apps"
+    ],
+    "author": [
+      "http://producthunt.com"
+    ]
+  }
+}

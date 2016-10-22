@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@kevgibbo Thanks Kevin. Exciting news for us - and partners too :)"],"published":["2012-05-10T16:24:46Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/989581/status/200621066454974464"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/200622416785977346"],"slug":["tweet-200622416785977346"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@kevgibbo Thanks Kevin. Exciting news for us - and partners too :)"
+    ],
+    "published": [
+      "2012-05-10T16:24:46Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/989581/status/200621066454974464"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/200622416785977346"
+    ],
+    "slug": [
+      "tweet-200622416785977346"
+    ]
+  }
+}

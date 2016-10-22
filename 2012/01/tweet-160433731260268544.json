@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Apparently slap cheek is a real disease for children and not a boys' school jape."],"published":["2012-01-20T18:49:16Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/160433731260268544"],"slug":["tweet-160433731260268544"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Apparently slap cheek is a real disease for children and not a boys' school jape."
+    ],
+    "published": [
+      "2012-01-20T18:49:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/160433731260268544"
+    ],
+    "slug": [
+      "tweet-160433731260268544"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener I reckon they're taking the piss in revenge for telling tales about Blatter!"],"published":["2011-06-29T13:59:50Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14234004/status/86070076003987457"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/86071377777537024"],"slug":["tweet-86071377777537024"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener I reckon they're taking the piss in revenge for telling tales about Blatter!"
+    ],
+    "published": [
+      "2011-06-29T13:59:50Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14234004/status/86070076003987457"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/86071377777537024"
+    ],
+    "slug": [
+      "tweet-86071377777537024"
+    ]
+  }
+}

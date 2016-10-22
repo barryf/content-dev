@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://aaronparecki.com/likes/2015/02/13/1/"],"published":["2015-02-13T15:11:17Z"],"content":["Liked https://barryfrost.com/2015/02/announcing-micropublish-https-micropublish-herokuapp-com"],"like-of":["https://barryfrost.com/2015/02/announcing-micropublish-https-micropublish-herokuapp-com"],"author":["https://aaronparecki.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/likes/2015/02/13/1/"
+    ],
+    "published": [
+      "2015-02-13T15:11:17Z"
+    ],
+    "content": [
+      "Liked https://barryfrost.com/2015/02/announcing-micropublish-https-micropublish-herokuapp-com"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/02/announcing-micropublish-https-micropublish-herokuapp-com"
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ]
+  }
+}

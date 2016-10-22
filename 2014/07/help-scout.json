@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Alternative to Zendesk for helpdesk/email support"],"published":["2014-07-14T16:34:52Z"],"entry-type":["bookmark"],"name":["Help Scout"],"bookmark-of":["https://www.helpscout.net/"],"category":["support","helpdesk","sme","via-pinboard"],"slug":["help-scout"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Alternative to Zendesk for helpdesk/email support"
+    ],
+    "published": [
+      "2014-07-14T16:34:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Help Scout"
+    ],
+    "bookmark-of": [
+      "https://www.helpscout.net/"
+    ],
+    "category": [
+      "support",
+      "helpdesk",
+      "sme",
+      "via-pinboard"
+    ],
+    "slug": [
+      "help-scout"
+    ]
+  }
+}

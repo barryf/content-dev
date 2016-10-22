@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Our sources say, on this dramatic transfer deadline day, that it's JIM WHITE!! #tdd"],"published":["2011-08-31T19:03:03Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/108978119955853312"],"slug":["tweet-108978119955853312"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Our sources say, on this dramatic transfer deadline day, that it's JIM WHITE!! #tdd"
+    ],
+    "published": [
+      "2011-08-31T19:03:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/108978119955853312"
+    ],
+    "slug": [
+      "tweet-108978119955853312"
+    ]
+  }
+}

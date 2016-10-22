@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["Those sandwiches look tasty."],"published":["2013-09-02T20:31:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/barryf/status/374578078619820032"],"category":["via-baker"],"syndication":["https://twitter.com/barryfdata/status/374630565670322177"],"slug":["baker-4"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Those sandwiches look tasty."
+    ],
+    "published": [
+      "2013-09-02T20:31:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/barryf/status/374578078619820032"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryfdata/status/374630565670322177"
+    ],
+    "slug": [
+      "baker-4"
+    ]
+  }
+}

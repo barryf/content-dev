@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["@aaronparecki.com Thanks very much! Please do :) I wanted to pull together the separate #indieweb components I'd read about in one place."],"published":["2013-09-16T11:27:15Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/aaronpk/status/379382350854881280"],"category":["indieweb","via-baker"],"syndication":["https://twitter.com/barryf/status/379567158021607424"],"slug":["baker-14"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@aaronparecki.com Thanks very much! Please do :) I wanted to pull together the separate #indieweb components I'd read about in one place."
+    ],
+    "published": [
+      "2013-09-16T11:27:15Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/aaronpk/status/379382350854881280"
+    ],
+    "category": [
+      "indieweb",
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/379567158021607424"
+    ],
+    "slug": [
+      "baker-14"
+    ]
+  }
+}

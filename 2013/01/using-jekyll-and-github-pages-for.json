@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2013-01-05T15:32:22Z"],"entry-type":["bookmark"],"name":["Using Jekyll and GitHub Pages for Our Site"],"bookmark-of":["http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/"],"category":["blog","github","jekyll","team","via-pinboard"],"slug":["using-jekyll-and-github-pages-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-01-05T15:32:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Jekyll and GitHub Pages for Our Site"
+    ],
+    "bookmark-of": [
+      "http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/"
+    ],
+    "category": [
+      "blog",
+      "github",
+      "jekyll",
+      "team",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-jekyll-and-github-pages-for"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-09T10:03:46Z"],"entry-type":["bookmark"],"name":["Using prototype.js v1.3.1"],"bookmark-of":["http://www.sergiopereira.com/articles/prototype.js.html"],"category":["ajax","web","dev","prototype","via-pinboard"],"slug":["using-prototype-js-v1-3-1"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-09T10:03:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using prototype.js v1.3.1"
+    ],
+    "bookmark-of": [
+      "http://www.sergiopereira.com/articles/prototype.js.html"
+    ],
+    "category": [
+      "ajax",
+      "web",
+      "dev",
+      "prototype",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-prototype-js-v1-3-1"
+    ]
+  }
+}

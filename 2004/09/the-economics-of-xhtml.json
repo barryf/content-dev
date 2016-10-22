@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-12T13:44:15Z"],"entry-type":["bookmark"],"name":["The Economics of XHTML"],"bookmark-of":["http://piecesofrakesh.blogspot.com/2004/09/economics-of-xhtml.html"],"category":["standards","via-pinboard"],"slug":["the-economics-of-xhtml"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-12T13:44:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Economics of XHTML"
+    ],
+    "bookmark-of": [
+      "http://piecesofrakesh.blogspot.com/2004/09/economics-of-xhtml.html"
+    ],
+    "category": [
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-economics-of-xhtml"
+    ]
+  }
+}

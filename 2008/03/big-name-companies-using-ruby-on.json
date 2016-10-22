@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-03-21T10:24:26Z"],"entry-type":["bookmark"],"name":["Big Name Companies Using Ruby on Rails"],"bookmark-of":["http://blog.obiefernandez.com/content/2008/03/big-name-compan.html"],"category":["rails","business","advocacy","adoption","corporate","via-pinboard"],"slug":["big-name-companies-using-ruby-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-03-21T10:24:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Big Name Companies Using Ruby on Rails"
+    ],
+    "bookmark-of": [
+      "http://blog.obiefernandez.com/content/2008/03/big-name-compan.html"
+    ],
+    "category": [
+      "rails",
+      "business",
+      "advocacy",
+      "adoption",
+      "corporate",
+      "via-pinboard"
+    ],
+    "slug": [
+      "big-name-companies-using-ruby-on"
+    ]
+  }
+}

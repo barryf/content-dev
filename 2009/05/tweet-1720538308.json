@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Can't bring myself to feel sorry for Chelsea, but there were 3 or 4 pens not given there. Great drama for the neutral."],"published":["2009-05-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1720538308"],"slug":["tweet-1720538308"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Can't bring myself to feel sorry for Chelsea, but there were 3 or 4 pens not given there. Great drama for the neutral."
+    ],
+    "published": [
+      "2009-05-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1720538308"
+    ],
+    "slug": [
+      "tweet-1720538308"
+    ]
+  }
+}

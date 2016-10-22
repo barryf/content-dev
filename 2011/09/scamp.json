@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Ruby framework for writing Campfire bots\n"],"published":["2011-09-26T13:47:42Z"],"entry-type":["bookmark"],"name":["Scamp"],"bookmark-of":["https://github.com/wjessop/Scamp"],"category":["campfire","chat","framework","ruby","via-pinboard"],"slug":["scamp"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby framework for writing Campfire bots\n"
+    ],
+    "published": [
+      "2011-09-26T13:47:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scamp"
+    ],
+    "bookmark-of": [
+      "https://github.com/wjessop/Scamp"
+    ],
+    "category": [
+      "campfire",
+      "chat",
+      "framework",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scamp"
+    ]
+  }
+}

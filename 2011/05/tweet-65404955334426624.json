@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Guy pulls up outside, music blaring from his car. Parks on a yellow line, pops a disabled badge on his dash and strolls off carefree. #grrr"],"published":["2011-05-03T13:18:51Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/65404955334426624"],"slug":["tweet-65404955334426624"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Guy pulls up outside, music blaring from his car. Parks on a yellow line, pops a disabled badge on his dash and strolls off carefree. #grrr"
+    ],
+    "published": [
+      "2011-05-03T13:18:51Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/65404955334426624"
+    ],
+    "slug": [
+      "tweet-65404955334426624"
+    ]
+  }
+}

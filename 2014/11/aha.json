@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Product roadmapping"],"published":["2014-11-26T09:52:52Z"],"entry-type":["bookmark"],"name":["Aha!"],"bookmark-of":["https://www.aha.io/"],"category":["productmanagement","product","roadmap","project","via-pinboard"],"slug":["aha"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Product roadmapping"
+    ],
+    "published": [
+      "2014-11-26T09:52:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Aha!"
+    ],
+    "bookmark-of": [
+      "https://www.aha.io/"
+    ],
+    "category": [
+      "productmanagement",
+      "product",
+      "roadmap",
+      "project",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aha"
+    ]
+  }
+}

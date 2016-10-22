@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/6830602/status/450977523607040000"],"published":["2014-04-01T12:46:35Z"],"content":["@barryf I understand your excitement, I'll just be glad to be able to watch on-demand video without buffering all the time!"],"author":["https://twitter.com/6830602"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/6830602/status/450977523607040000"
+    ],
+    "published": [
+      "2014-04-01T12:46:35Z"
+    ],
+    "content": [
+      "@barryf I understand your excitement, I'll just be glad to be able to watch on-demand video without buffering all the time!"
+    ],
+    "author": [
+      "https://twitter.com/6830602"
+    ]
+  }
+}

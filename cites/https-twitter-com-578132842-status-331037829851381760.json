@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/578132842/status/331037829851381760"],"published":["2013-05-05T13:29:03Z"],"content":["@barryf And he's another Barry!"],"author":["https://twitter.com/578132842"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/578132842/status/331037829851381760"
+    ],
+    "published": [
+      "2013-05-05T13:29:03Z"
+    ],
+    "content": [
+      "@barryf And he's another Barry!"
+    ],
+    "author": [
+      "https://twitter.com/578132842"
+    ]
+  }
+}

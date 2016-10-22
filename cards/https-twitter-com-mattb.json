@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Matt Biddulph 👻 (@mattb)"],"photo":["http://pbs.twimg.com/profile_images/686784315665985537/vx-zGo9T_normal.png"],"url":["https://twitter.com/mattb"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Matt Biddulph 👻 (@mattb)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/686784315665985537/vx-zGo9T_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/mattb"
+    ]
+  }
+}

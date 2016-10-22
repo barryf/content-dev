@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Do you listen back and transcribe yourself? May be a use for #MTurk or similar, although perhaps not if private/confidential."],"published":["2011-05-03T11:58:48Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/65381781502832640"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/65384811312857088"],"slug":["tweet-65384811312857088"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Do you listen back and transcribe yourself? May be a use for #MTurk or similar, although perhaps not if private/confidential."
+    ],
+    "published": [
+      "2011-05-03T11:58:48Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/65381781502832640"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/65384811312857088"
+    ],
+    "slug": [
+      "tweet-65384811312857088"
+    ]
+  }
+}

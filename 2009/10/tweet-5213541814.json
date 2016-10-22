@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@MelKirk No age slight intended. Must have been the close proximity to Liz Windsor earlier which plopped the word \"queen\" in my head."],"published":["2009-10-27T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14733/status/5211530590"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5213541814"],"slug":["tweet-5213541814"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@MelKirk No age slight intended. Must have been the close proximity to Liz Windsor earlier which plopped the word \"queen\" in my head."
+    ],
+    "published": [
+      "2009-10-27T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14733/status/5211530590"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5213541814"
+    ],
+    "slug": [
+      "tweet-5213541814"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2009-02-08T19:44:49Z"],"entry-type":["bookmark"],"name":["Whomwah.com » Deploying Wordpress to SliceHost using Capistrano and Git"],"bookmark-of":["http://whomwah.com/2009/02/01/deploying-wordpress-to-slicehost-using-capistrano-and-git/"],"category":["deployment","git","capistrano","wordpress","blog","slicehost","via-pinboard"],"slug":["whomwah-com-deploying-wordpress-to-slicehost"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-02-08T19:44:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Whomwah.com » Deploying Wordpress to SliceHost using Capistrano and Git"
+    ],
+    "bookmark-of": [
+      "http://whomwah.com/2009/02/01/deploying-wordpress-to-slicehost-using-capistrano-and-git/"
+    ],
+    "category": [
+      "deployment",
+      "git",
+      "capistrano",
+      "wordpress",
+      "blog",
+      "slicehost",
+      "via-pinboard"
+    ],
+    "slug": [
+      "whomwah-com-deploying-wordpress-to-slicehost"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Presentations should:\r\n\r\n- Contain no more than *10* slides\r\n- Last no more than *20* minutes\r\n- Use a minimum of *30*pt text"],"published":["2015-09-09T12:30:35Z"],"entry-type":["bookmark"],"name":["Guy Kawasaki - The 10/20/30 Rule of PowerPoint"],"bookmark-of":["http://guykawasaki.com/the_102030_rule/"],"category":["presentation","pitch","meeting"],"slug":["guy-kawasaki-the-10-20-30"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Presentations should:\r\n\r\n- Contain no more than *10* slides\r\n- Last no more than *20* minutes\r\n- Use a minimum of *30*pt text"
+    ],
+    "published": [
+      "2015-09-09T12:30:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Guy Kawasaki - The 10/20/30 Rule of PowerPoint"
+    ],
+    "bookmark-of": [
+      "http://guykawasaki.com/the_102030_rule/"
+    ],
+    "category": [
+      "presentation",
+      "pitch",
+      "meeting"
+    ],
+    "slug": [
+      "guy-kawasaki-the-10-20-30"
+    ]
+  }
+}

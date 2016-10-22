@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Let's just give up egg chasing shall we? We're clearly not very good at it."],"published":["2008-11-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1029498116"],"slug":["tweet-1029498116"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Let's just give up egg chasing shall we? We're clearly not very good at it."
+    ],
+    "published": [
+      "2008-11-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1029498116"
+    ],
+    "slug": [
+      "tweet-1029498116"
+    ]
+  }
+}

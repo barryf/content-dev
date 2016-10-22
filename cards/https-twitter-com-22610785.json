@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Kevin Purcell"],"photo":["http://pbs.twimg.com/profile_images/378800000764796838/095005a0dfca4f52de0d0842fc86045b_normal.jpeg"],"url":["https://twitter.com/grayhaze"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kevin Purcell"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000764796838/095005a0dfca4f52de0d0842fc86045b_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/grayhaze"
+    ]
+  }
+}

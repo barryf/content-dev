@@ -1,1 +1,19 @@
-{"type":["h-entry"],"properties":{"published":["2015-09-09T12:03:50Z"],"entry-type":["repost"],"repost-of":["https://mobile.twitter.com/crowquine/status/641578234199584768"],"slug":["09-130350"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-09-09T12:03:50Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://mobile.twitter.com/crowquine/status/641578234199584768"
+    ],
+    "slug": [
+      "09-130350"
+    ]
+  }
+}

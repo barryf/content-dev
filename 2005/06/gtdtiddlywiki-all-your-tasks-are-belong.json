@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["A TiddlyWiki for Getting Things Done\n"],"published":["2005-06-01T07:03:48Z"],"entry-type":["bookmark"],"name":["GTDTiddlyWiki - all your tasks are belong to you"],"bookmark-of":["http://shared.snapgrid.com/gtd_tiddlywiki.html"],"category":["gtd","wiki","via-pinboard"],"slug":["gtdtiddlywiki-all-your-tasks-are-belong"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A TiddlyWiki for Getting Things Done\n"
+    ],
+    "published": [
+      "2005-06-01T07:03:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GTDTiddlyWiki - all your tasks are belong to you"
+    ],
+    "bookmark-of": [
+      "http://shared.snapgrid.com/gtd_tiddlywiki.html"
+    ],
+    "category": [
+      "gtd",
+      "wiki",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gtdtiddlywiki-all-your-tasks-are-belong"
+    ]
+  }
+}

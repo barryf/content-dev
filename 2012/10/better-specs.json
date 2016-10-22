@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Best practices and examples for RSpec"],"published":["2012-10-05T08:06:51Z"],"entry-type":["bookmark"],"name":["Better Specs"],"bookmark-of":["http://betterspecs.org/"],"category":["ruby","rspec","testing","dev","via-pinboard"],"slug":["better-specs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Best practices and examples for RSpec"
+    ],
+    "published": [
+      "2012-10-05T08:06:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Better Specs"
+    ],
+    "bookmark-of": [
+      "http://betterspecs.org/"
+    ],
+    "category": [
+      "ruby",
+      "rspec",
+      "testing",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "better-specs"
+    ]
+  }
+}

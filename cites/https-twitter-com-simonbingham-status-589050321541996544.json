@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/simonbingham/status/589050321541996544"],"published":["2015-04-17T12:58:35Z"],"content":["RT @barryf: Video of the Tech Talk I presented to my @globaldev team on the #indieweb and why it's important you #ownyourdata vimeo.com/globaldev/tech…"],"repost-of":["https://barryfrost.com/2015/04/here-s-a-video-of-the"],"author":["http://www.simonbingham.me.uk"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/simonbingham/status/589050321541996544"
+    ],
+    "published": [
+      "2015-04-17T12:58:35Z"
+    ],
+    "content": [
+      "RT @barryf: Video of the Tech Talk I presented to my @globaldev team on the #indieweb and why it's important you #ownyourdata vimeo.com/globaldev/tech…"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/04/here-s-a-video-of-the"
+    ],
+    "author": [
+      "http://www.simonbingham.me.uk"
+    ]
+  }
+}

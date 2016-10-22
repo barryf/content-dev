@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["A simple explanation\n"],"published":["2005-07-29T15:39:38Z"],"entry-type":["bookmark"],"name":["Why crossdomain.xml is a good thing"],"bookmark-of":["http://www.martijndevisser.com/archives/000056.php"],"category":["flash","flex","security","via-pinboard"],"slug":["why-crossdomain-xml-is-a-good"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A simple explanation\n"
+    ],
+    "published": [
+      "2005-07-29T15:39:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why crossdomain.xml is a good thing"
+    ],
+    "bookmark-of": [
+      "http://www.martijndevisser.com/archives/000056.php"
+    ],
+    "category": [
+      "flash",
+      "flex",
+      "security",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-crossdomain-xml-is-a-good"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-07-01T09:57:10Z"],"entry-type":["bookmark"],"name":["Using POP3 to Retrieve Email for Rails App"],"bookmark-of":["http://snippets.dzone.com/posts/show/4214"],"category":["rails","email","pop","web","dev","via-pinboard"],"slug":["using-pop3-to-retrieve-email-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-07-01T09:57:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using POP3 to Retrieve Email for Rails App"
+    ],
+    "bookmark-of": [
+      "http://snippets.dzone.com/posts/show/4214"
+    ],
+    "category": [
+      "rails",
+      "email",
+      "pop",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-pop3-to-retrieve-email-for"
+    ]
+  }
+}

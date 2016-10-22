@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sad how Guardian’s @guardiantech section has withered. I had to resort to the Telegraph for reporting on @ee 4G launch this morning."],"published":["2012-09-11T11:48:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/245489010288513024"],"slug":["tweet-245489010288513024"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sad how Guardian’s @guardiantech section has withered. I had to resort to the Telegraph for reporting on @ee 4G launch this morning."
+    ],
+    "published": [
+      "2012-09-11T11:48:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/245489010288513024"
+    ],
+    "slug": [
+      "tweet-245489010288513024"
+    ]
+  }
+}

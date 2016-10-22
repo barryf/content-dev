@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw I’m 2/2 losses in your seat this season. Next up for me: Spurs! Gulp."],"published":["2012-10-24T21:54:01Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/261224050133700608"],"slug":["tweet-261224050133700608"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw I’m 2/2 losses in your seat this season. Next up for me: Spurs! Gulp."
+    ],
+    "published": [
+      "2012-10-24T21:54:01Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/261224050133700608"
+    ],
+    "slug": [
+      "tweet-261224050133700608"
+    ]
+  }
+}

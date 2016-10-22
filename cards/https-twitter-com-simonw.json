@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Simon Willison (@simonw)"],"photo":["http://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_normal.jpeg"],"url":["https://twitter.com/simonw"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Simon Willison (@simonw)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/simonw"
+    ]
+  }
+}

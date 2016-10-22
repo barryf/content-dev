@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Venntro"],"photo":["https://twitter.com/venntro/profile_image?size=original"],"url":["http://venntro.com"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Venntro"
+    ],
+    "photo": [
+      "https://twitter.com/venntro/profile_image?size=original"
+    ],
+    "url": [
+      "http://venntro.com"
+    ]
+  }
+}

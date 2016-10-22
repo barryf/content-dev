@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Plops an overlay onto your actual site for easy site tours\n"],"published":["2007-11-16T09:59:22Z"],"entry-type":["bookmark"],"name":["Amberjack: Site Tour Creator - Simple. Free. Open Source."],"bookmark-of":["http://amberjack.org/"],"category":["tour","javascript","opensource","web","design","overlay","useful","via-pinboard"],"slug":["amberjack-site-tour-creator-simple-free"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Plops an overlay onto your actual site for easy site tours\n"
+    ],
+    "published": [
+      "2007-11-16T09:59:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Amberjack: Site Tour Creator - Simple. Free. Open Source."
+    ],
+    "bookmark-of": [
+      "http://amberjack.org/"
+    ],
+    "category": [
+      "tour",
+      "javascript",
+      "opensource",
+      "web",
+      "design",
+      "overlay",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "amberjack-site-tour-creator-simple-free"
+    ]
+  }
+}

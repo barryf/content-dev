@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Irritated to find that my design skills from 2009 are far better than what I can do now. #outofpractice"],"published":["2011-04-11T20:48:06Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/57545482729295872"],"slug":["tweet-57545482729295872"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Irritated to find that my design skills from 2009 are far better than what I can do now. #outofpractice"
+    ],
+    "published": [
+      "2011-04-11T20:48:06Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/57545482729295872"
+    ],
+    "slug": [
+      "tweet-57545482729295872"
+    ]
+  }
+}

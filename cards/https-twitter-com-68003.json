@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Cennydd Bowles"],"photo":["http://pbs.twimg.com/profile_images/483715699718647809/umuogc58_normal.png"],"url":["https://twitter.com/Cennydd"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Cennydd Bowles"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/483715699718647809/umuogc58_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/Cennydd"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Inlines and compresses all the resources of a page into one downloadable HTML file. For use offline or on a mobile.\n"],"published":["2011-06-15T11:24:07Z"],"entry-type":["bookmark"],"name":["Inliner"],"bookmark-of":["http://inliner.leftlogic.com/"],"category":["inline","mobile","cache","html","compress","via-pinboard"],"slug":["inliner"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Inlines and compresses all the resources of a page into one downloadable HTML file. For use offline or on a mobile.\n"
+    ],
+    "published": [
+      "2011-06-15T11:24:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Inliner"
+    ],
+    "bookmark-of": [
+      "http://inliner.leftlogic.com/"
+    ],
+    "category": [
+      "inline",
+      "mobile",
+      "cache",
+      "html",
+      "compress",
+      "via-pinboard"
+    ],
+    "slug": [
+      "inliner"
+    ]
+  }
+}

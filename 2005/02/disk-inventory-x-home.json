@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Show disk usage graphically\n"],"published":["2005-02-08T09:53:49Z"],"entry-type":["bookmark"],"name":["Disk Inventory X : Home"],"bookmark-of":["http://www.derlien.com/"],"category":["mac","useful","via-pinboard"],"slug":["disk-inventory-x-home"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Show disk usage graphically\n"
+    ],
+    "published": [
+      "2005-02-08T09:53:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Disk Inventory X : Home"
+    ],
+    "bookmark-of": [
+      "http://www.derlien.com/"
+    ],
+    "category": [
+      "mac",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "disk-inventory-x-home"
+    ]
+  }
+}

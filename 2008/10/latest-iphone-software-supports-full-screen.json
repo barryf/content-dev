@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["View source on the demo to see the new meta tags that tell the iPhone not to display the web app in Safari. It's surprising how much better this makes the user experience\n"],"published":["2008-10-04T17:39:54Z"],"entry-type":["bookmark"],"name":["Latest iPhone Software supports full-screen Web apps"],"bookmark-of":["http://www.appleinsider.com/articles/08/10/03/latest_iphone_software_supports_full_screen_web_apps.html"],"category":["web","webapp","iphone","fullscreen","dev","via-pinboard"],"slug":["latest-iphone-software-supports-full-screen"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "View source on the demo to see the new meta tags that tell the iPhone not to display the web app in Safari. It's surprising how much better this makes the user experience\n"
+    ],
+    "published": [
+      "2008-10-04T17:39:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Latest iPhone Software supports full-screen Web apps"
+    ],
+    "bookmark-of": [
+      "http://www.appleinsider.com/articles/08/10/03/latest_iphone_software_supports_full_screen_web_apps.html"
+    ],
+    "category": [
+      "web",
+      "webapp",
+      "iphone",
+      "fullscreen",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "latest-iphone-software-supports-full-screen"
+    ]
+  }
+}

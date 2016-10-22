@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-28T22:53:19Z"],"entry-type":["bookmark"],"name":["evhead: Will it fly? How to Evaluate a New Product Idea"],"bookmark-of":["http://evhead.com/2007/12/how-to-evaluate-new-product-idea.asp"],"category":["business","startup","strategy","product","entrepreneur","idea","work","via-pinboard"],"slug":["evhead-will-it-fly-how-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-28T22:53:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "evhead: Will it fly? How to Evaluate a New Product Idea"
+    ],
+    "bookmark-of": [
+      "http://evhead.com/2007/12/how-to-evaluate-new-product-idea.asp"
+    ],
+    "category": [
+      "business",
+      "startup",
+      "strategy",
+      "product",
+      "entrepreneur",
+      "idea",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "evhead-will-it-fly-how-to"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Joanna Johnson"],"photo":["https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-19/10354401_576739732440217_796859852_a.jpg"],"url":["http://instagram.com/sba97jcr"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Joanna Johnson"
+    ],
+    "photo": [
+      "https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-19/10354401_576739732440217_796859852_a.jpg"
+    ],
+    "url": [
+      "http://instagram.com/sba97jcr"
+    ]
+  }
+}

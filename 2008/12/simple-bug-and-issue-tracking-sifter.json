@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Pretty bug tracker that could be a serious alternative to Lighthouse\n"],"published":["2008-12-14T13:47:57Z"],"entry-type":["bookmark"],"name":["Simple Bug and Issue Tracking | Sifter"],"bookmark-of":["http://sifterapp.com/"],"category":["bug","dev","bugtracking","lighthouse","webapp","sifter","via-pinboard"],"slug":["simple-bug-and-issue-tracking-sifter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pretty bug tracker that could be a serious alternative to Lighthouse\n"
+    ],
+    "published": [
+      "2008-12-14T13:47:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Simple Bug and Issue Tracking | Sifter"
+    ],
+    "bookmark-of": [
+      "http://sifterapp.com/"
+    ],
+    "category": [
+      "bug",
+      "dev",
+      "bugtracking",
+      "lighthouse",
+      "webapp",
+      "sifter",
+      "via-pinboard"
+    ],
+    "slug": [
+      "simple-bug-and-issue-tracking-sifter"
+    ]
+  }
+}

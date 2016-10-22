@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/thesambarnes/status/554267029554094080"],"published":["2015-01-11T13:22:12Z"],"content":["@barryf how dare you cheapen my name"],"in-reply-to":["https://barryfrost.com/2015/01/i-used-to-have-a-lovely"],"author":["http://www.thesambarnes.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/thesambarnes/status/554267029554094080"
+    ],
+    "published": [
+      "2015-01-11T13:22:12Z"
+    ],
+    "content": [
+      "@barryf how dare you cheapen my name"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/01/i-used-to-have-a-lovely"
+    ],
+    "author": [
+      "http://www.thesambarnes.com/"
+    ]
+  }
+}

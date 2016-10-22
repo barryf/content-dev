@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Useful guide to error/status codes and handling them\n"],"published":["2007-04-03T19:42:06Z"],"entry-type":["bookmark"],"name":["Using HTTP Status Codes"],"bookmark-of":["http://www.malevolent.com/weblog/archive/2007/04/03/http-status-codes/"],"category":["http","web","status","server","sysadmin","dev","via-pinboard"],"slug":["using-http-status-codes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful guide to error/status codes and handling them\n"
+    ],
+    "published": [
+      "2007-04-03T19:42:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using HTTP Status Codes"
+    ],
+    "bookmark-of": [
+      "http://www.malevolent.com/weblog/archive/2007/04/03/http-status-codes/"
+    ],
+    "category": [
+      "http",
+      "web",
+      "status",
+      "server",
+      "sysadmin",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-http-status-codes"
+    ]
+  }
+}

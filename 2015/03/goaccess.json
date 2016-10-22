@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["> GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems."],"published":["2015-03-11T16:49:13Z"],"entry-type":["bookmark"],"name":["GoAccess "],"bookmark-of":["http://goaccess.io/"],"category":["log","analyser","weblog","nginx","apache","server","unix"],"slug":["goaccess"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems."
+    ],
+    "published": [
+      "2015-03-11T16:49:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GoAccess "
+    ],
+    "bookmark-of": [
+      "http://goaccess.io/"
+    ],
+    "category": [
+      "log",
+      "analyser",
+      "weblog",
+      "nginx",
+      "apache",
+      "server",
+      "unix"
+    ],
+    "slug": [
+      "goaccess"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd Utter waste of a morning! I should’ve set them up with PayPal originally, but it’s a bit late now. Good luck :)"],"published":["2014-07-29T11:37:41Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/494083403827142656"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/494084341862240257"],"slug":["tweet-494084341862240257"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd Utter waste of a morning! I should’ve set them up with PayPal originally, but it’s a bit late now. Good luck :)"
+    ],
+    "published": [
+      "2014-07-29T11:37:41Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/494083403827142656"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/494084341862240257"
+    ],
+    "slug": [
+      "tweet-494084341862240257"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-07-14T20:16:43Z"],"entry-type":["bookmark"],"name":["UI Guidelines for Mobile Devices"],"bookmark-of":["http://www.simonwhatley.co.uk/user-interface-guidelines-for-mobile-and-tablet-devices"],"category":["ui","mobile","design","web","standards","via-pinboard"],"slug":["ui-guidelines-for-mobile-devices"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-07-14T20:16:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UI Guidelines for Mobile Devices"
+    ],
+    "bookmark-of": [
+      "http://www.simonwhatley.co.uk/user-interface-guidelines-for-mobile-and-tablet-devices"
+    ],
+    "category": [
+      "ui",
+      "mobile",
+      "design",
+      "web",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ui-guidelines-for-mobile-devices"
+    ]
+  }
+}

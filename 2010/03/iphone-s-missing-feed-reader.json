@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Round up and reviews of iPhone feed readers, including my choice Byline\n"],"published":["2010-03-13T16:28:24Z"],"entry-type":["bookmark"],"name":["iPhone’s Missing Feed Reader"],"bookmark-of":["http://shawnblanc.net/2010/03/iphone-missing-feed-reader/"],"category":["feed","rss","iphone","review","feedreader","googlereader","via-pinboard"],"slug":["iphone-s-missing-feed-reader"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Round up and reviews of iPhone feed readers, including my choice Byline\n"
+    ],
+    "published": [
+      "2010-03-13T16:28:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iPhone’s Missing Feed Reader"
+    ],
+    "bookmark-of": [
+      "http://shawnblanc.net/2010/03/iphone-missing-feed-reader/"
+    ],
+    "category": [
+      "feed",
+      "rss",
+      "iphone",
+      "review",
+      "feedreader",
+      "googlereader",
+      "via-pinboard"
+    ],
+    "slug": [
+      "iphone-s-missing-feed-reader"
+    ]
+  }
+}

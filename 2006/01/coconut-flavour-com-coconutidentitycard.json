@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Where and when was your Mac/iPod built?\n"],"published":["2006-01-04T21:07:43Z"],"entry-type":["bookmark"],"name":["coconut-flavour.com - coconutIdentityCard"],"bookmark-of":["http://www.coconut-flavour.com/coconutidentitycard/index.html"],"category":["apple","mac","osx","identity","via-pinboard"],"slug":["coconut-flavour-com-coconutidentitycard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Where and when was your Mac/iPod built?\n"
+    ],
+    "published": [
+      "2006-01-04T21:07:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "coconut-flavour.com - coconutIdentityCard"
+    ],
+    "bookmark-of": [
+      "http://www.coconut-flavour.com/coconutidentitycard/index.html"
+    ],
+    "category": [
+      "apple",
+      "mac",
+      "osx",
+      "identity",
+      "via-pinboard"
+    ],
+    "slug": [
+      "coconut-flavour-com-coconutidentitycard"
+    ]
+  }
+}

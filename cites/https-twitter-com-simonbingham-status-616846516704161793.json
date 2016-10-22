@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/simonbingham/status/616846516704161793"],"published":["2015-07-03T05:50:44Z"],"content":["RT @barryf: Commentary from today's thoroughly enjoyable Hack Day by @thesambarnes (with gems from his enviable gif folder) globaldev.co.uk/2015/07/hack-d…"],"repost-of":["https://barryfrost.com/2015/07/commentary-from-today-s-thoroughly-enjoyable"],"author":["http://www.simonbingham.me.uk"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/simonbingham/status/616846516704161793"
+    ],
+    "published": [
+      "2015-07-03T05:50:44Z"
+    ],
+    "content": [
+      "RT @barryf: Commentary from today's thoroughly enjoyable Hack Day by @thesambarnes (with gems from his enviable gif folder) globaldev.co.uk/2015/07/hack-d…"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/07/commentary-from-today-s-thoroughly-enjoyable"
+    ],
+    "author": [
+      "http://www.simonbingham.me.uk"
+    ]
+  }
+}

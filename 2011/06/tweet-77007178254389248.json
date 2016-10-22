@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The test match, Euro qualifiers, French Open finals, the Derby, lovely sunshine... How am I supposed to get anything done this weekend?"],"published":["2011-06-04T13:41:56Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/77007178254389248"],"slug":["tweet-77007178254389248"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The test match, Euro qualifiers, French Open finals, the Derby, lovely sunshine... How am I supposed to get anything done this weekend?"
+    ],
+    "published": [
+      "2011-06-04T13:41:56Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/77007178254389248"
+    ],
+    "slug": [
+      "tweet-77007178254389248"
+    ]
+  }
+}

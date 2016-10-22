@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Mark Leggett (@markleggett)"],"photo":["http://pbs.twimg.com/profile_images/482667706114514945/1awJit5m_normal.jpeg"],"url":["https://twitter.com/markleggett"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Mark Leggett (@markleggett)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/482667706114514945/1awJit5m_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/markleggett"
+    ]
+  }
+}

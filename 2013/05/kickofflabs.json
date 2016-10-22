@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Landing pages, forms and email marketing for startups"],"published":["2013-05-20T15:59:13Z"],"entry-type":["bookmark"],"name":["KickoffLabs"],"bookmark-of":["http://www.kickofflabs.com/"],"category":["business","landing","startup","viral","splash","via-pinboard"],"slug":["kickofflabs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Landing pages, forms and email marketing for startups"
+    ],
+    "published": [
+      "2013-05-20T15:59:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "KickoffLabs"
+    ],
+    "bookmark-of": [
+      "http://www.kickofflabs.com/"
+    ],
+    "category": [
+      "business",
+      "landing",
+      "startup",
+      "viral",
+      "splash",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kickofflabs"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Needs Xcode 4.1 for Lion\n"],"published":["2011-08-26T09:57:03Z"],"entry-type":["bookmark"],"name":["Enable HiDPI mode for higher resolution Mac displays"],"bookmark-of":["http://hints.macworld.com/article.php?story=20110805141544753"],"category":["mac","lion","hidpi","display","resolution","via-pinboard"],"slug":["enable-hidpi-mode-for-higher-resolution"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Needs Xcode 4.1 for Lion\n"
+    ],
+    "published": [
+      "2011-08-26T09:57:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Enable HiDPI mode for higher resolution Mac displays"
+    ],
+    "bookmark-of": [
+      "http://hints.macworld.com/article.php?story=20110805141544753"
+    ],
+    "category": [
+      "mac",
+      "lion",
+      "hidpi",
+      "display",
+      "resolution",
+      "via-pinboard"
+    ],
+    "slug": [
+      "enable-hidpi-mode-for-higher-resolution"
+    ]
+  }
+}

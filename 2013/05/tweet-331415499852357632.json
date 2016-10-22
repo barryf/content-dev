@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["After driving through holiday traffic to Gloucestershire and back to look at wedding venues I think I’ve earned a few frames of the snooker."],"published":["2013-05-06T14:29:47Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/331415499852357632"],"slug":["tweet-331415499852357632"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "After driving through holiday traffic to Gloucestershire and back to look at wedding venues I think I’ve earned a few frames of the snooker."
+    ],
+    "published": [
+      "2013-05-06T14:29:47Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/331415499852357632"
+    ],
+    "slug": [
+      "tweet-331415499852357632"
+    ]
+  }
+}

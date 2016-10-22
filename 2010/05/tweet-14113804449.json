@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["England have just won the World T20 cricket final against Australia. Emphatic, impressive 7-wicket win. World champions! #t20"],"published":["2010-05-16T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/14113804449"],"slug":["tweet-14113804449"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "England have just won the World T20 cricket final against Australia. Emphatic, impressive 7-wicket win. World champions! #t20"
+    ],
+    "published": [
+      "2010-05-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/14113804449"
+    ],
+    "slug": [
+      "tweet-14113804449"
+    ]
+  }
+}

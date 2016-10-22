@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Minimal blog engine using Sinatra, plain-text files and (optionally) git. Used by Luke Redpath.\n"],"published":["2008-12-06T15:02:38Z"],"entry-type":["bookmark"],"name":["Marley"],"bookmark-of":["http://github.com/karmi/marley/tree/master"],"category":["sinatra","blog","git","lightweight","simple","marley","ruby","via-pinboard"],"slug":["marley"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Minimal blog engine using Sinatra, plain-text files and (optionally) git. Used by Luke Redpath.\n"
+    ],
+    "published": [
+      "2008-12-06T15:02:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Marley"
+    ],
+    "bookmark-of": [
+      "http://github.com/karmi/marley/tree/master"
+    ],
+    "category": [
+      "sinatra",
+      "blog",
+      "git",
+      "lightweight",
+      "simple",
+      "marley",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "marley"
+    ]
+  }
+}

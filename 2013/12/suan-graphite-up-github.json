@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-12-18T12:12:08Z"],"entry-type":["bookmark"],"name":["suan/graphite_up · GitHub"],"bookmark-of":["https://github.com/suan/graphite_up"],"category":["fromifttt","github","via-pinboard"],"slug":["suan-graphite-up-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-12-18T12:12:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "suan/graphite_up · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/suan/graphite_up"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "suan-graphite-up-github"
+    ]
+  }
+}

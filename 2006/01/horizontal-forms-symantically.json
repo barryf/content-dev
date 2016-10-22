@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Good for simple sign-up forms\n"],"published":["2006-01-09T16:29:34Z"],"entry-type":["bookmark"],"name":["Horizontal Forms symantically"],"bookmark-of":["http://www.skyrocket.be/lab/semantic_horizontal_form.html"],"category":["web","dev","design","form","semantics","standards","via-pinboard"],"slug":["horizontal-forms-symantically"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Good for simple sign-up forms\n"
+    ],
+    "published": [
+      "2006-01-09T16:29:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Horizontal Forms symantically"
+    ],
+    "bookmark-of": [
+      "http://www.skyrocket.be/lab/semantic_horizontal_form.html"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "design",
+      "form",
+      "semantics",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "horizontal-forms-symantically"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/275007771/status/350191191364612096"],"published":["2013-06-27T09:57:40Z"],"content":["@barryf We're proud of you Barry. You're the hero Global deserves."],"author":["https://twitter.com/275007771"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/275007771/status/350191191364612096"
+    ],
+    "published": [
+      "2013-06-27T09:57:40Z"
+    ],
+    "content": [
+      "@barryf We're proud of you Barry. You're the hero Global deserves."
+    ],
+    "author": [
+      "https://twitter.com/275007771"
+    ]
+  }
+}

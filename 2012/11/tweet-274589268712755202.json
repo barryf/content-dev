@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["We look ridiculous. It’s for a very good cause, but thank god it’s the end of #movember http://twitter.com/barryf/status/274589268712755202/photo/1"],"published":["2012-11-30T19:02:38Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/274589268712755202"],"slug":["tweet-274589268712755202"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "We look ridiculous. It’s for a very good cause, but thank god it’s the end of #movember http://twitter.com/barryf/status/274589268712755202/photo/1"
+    ],
+    "published": [
+      "2012-11-30T19:02:38Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/274589268712755202"
+    ],
+    "slug": [
+      "tweet-274589268712755202"
+    ]
+  }
+}

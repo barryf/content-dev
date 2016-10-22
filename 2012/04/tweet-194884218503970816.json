@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Conflicted: I hate Chelsea and would hate for them to win the Champions' League, but can't help wanting them to keep Barcelona out."],"published":["2012-04-24T20:23:13Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/194884218503970816"],"slug":["tweet-194884218503970816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Conflicted: I hate Chelsea and would hate for them to win the Champions' League, but can't help wanting them to keep Barcelona out."
+    ],
+    "published": [
+      "2012-04-24T20:23:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/194884218503970816"
+    ],
+    "slug": [
+      "tweet-194884218503970816"
+    ]
+  }
+}

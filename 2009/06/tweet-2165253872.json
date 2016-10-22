@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sun's out. Lazy Sunday. I make that Pimms o'clock."],"published":["2009-06-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2165253872"],"slug":["tweet-2165253872"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sun's out. Lazy Sunday. I make that Pimms o'clock."
+    ],
+    "published": [
+      "2009-06-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2165253872"
+    ],
+    "slug": [
+      "tweet-2165253872"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["(Unverified) guide to setting up and testing in-app purchases for iOS devices\n"],"published":["2012-01-31T13:28:54Z"],"entry-type":["bookmark"],"name":["In App Purchases: A Full Walkthrough"],"bookmark-of":["http://troybrant.net/blog/2010/01/in-app-purchases-a-full-walkthrough/"],"category":["dev","inapp","sdk","apple","iphone","ios","via-pinboard"],"slug":["in-app-purchases-a-full-walkthrough"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(Unverified) guide to setting up and testing in-app purchases for iOS devices\n"
+    ],
+    "published": [
+      "2012-01-31T13:28:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "In App Purchases: A Full Walkthrough"
+    ],
+    "bookmark-of": [
+      "http://troybrant.net/blog/2010/01/in-app-purchases-a-full-walkthrough/"
+    ],
+    "category": [
+      "dev",
+      "inapp",
+      "sdk",
+      "apple",
+      "iphone",
+      "ios",
+      "via-pinboard"
+    ],
+    "slug": [
+      "in-app-purchases-a-full-walkthrough"
+    ]
+  }
+}

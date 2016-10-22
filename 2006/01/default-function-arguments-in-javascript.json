@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["function foo(a, b) { a = a || \"bar\", b = b || \"moo\"; ...\n"],"published":["2006-01-10T09:43:45Z"],"entry-type":["bookmark"],"name":["Default Function Arguments In JavaScript"],"bookmark-of":["http://www.vivabit.com/bollocks/2006/01/09/cheeky-tip-default-function-arguments-in-javascript"],"category":["javascript","useful","web","dev","via-pinboard"],"slug":["default-function-arguments-in-javascript"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "function foo(a, b) { a = a || \"bar\", b = b || \"moo\"; ...\n"
+    ],
+    "published": [
+      "2006-01-10T09:43:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Default Function Arguments In JavaScript"
+    ],
+    "bookmark-of": [
+      "http://www.vivabit.com/bollocks/2006/01/09/cheeky-tip-default-function-arguments-in-javascript"
+    ],
+    "category": [
+      "javascript",
+      "useful",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "default-function-arguments-in-javascript"
+    ]
+  }
+}

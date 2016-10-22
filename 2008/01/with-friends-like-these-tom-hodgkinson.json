@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Murky owners, murky terms and conditions\n"],"published":["2008-01-20T12:56:27Z"],"entry-type":["bookmark"],"name":["With friends like these ... Tom Hodgkinson on the politics of the people behind Facebook"],"bookmark-of":["http://www.guardian.co.uk/technology/2008/jan/14/facebook"],"category":["facebook","ethics","politics","social","privacy","socialnetworking","via-pinboard"],"slug":["with-friends-like-these-tom-hodgkinson"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Murky owners, murky terms and conditions\n"
+    ],
+    "published": [
+      "2008-01-20T12:56:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "With friends like these ... Tom Hodgkinson on the politics of the people behind Facebook"
+    ],
+    "bookmark-of": [
+      "http://www.guardian.co.uk/technology/2008/jan/14/facebook"
+    ],
+    "category": [
+      "facebook",
+      "ethics",
+      "politics",
+      "social",
+      "privacy",
+      "socialnetworking",
+      "via-pinboard"
+    ],
+    "slug": [
+      "with-friends-like-these-tom-hodgkinson"
+    ]
+  }
+}

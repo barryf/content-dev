@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/599640187728039936"],"published":["2015-05-16T18:18:56Z"],"content":["@agit8or Glad All Over!"],"in-reply-to":["https://barryfrost.com/2015/05/agit8or-you-just-can-t-trust"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/599640187728039936"
+    ],
+    "published": [
+      "2015-05-16T18:18:56Z"
+    ],
+    "content": [
+      "@agit8or Glad All Over!"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/05/agit8or-you-just-can-t-trust"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

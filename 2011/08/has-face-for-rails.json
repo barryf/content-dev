@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Face recognition plugin for Rails that helps to ensure avatars contain a real human face\n"],"published":["2011-08-15T14:24:20Z"],"entry-type":["bookmark"],"name":["Has Face for Rails"],"bookmark-of":["http://blog.thefrontiergroup.com.au/2011/07/introducing-has-face-for-rails/"],"category":["face","recognition","avatar","rails","plugin","via-pinboard"],"slug":["has-face-for-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Face recognition plugin for Rails that helps to ensure avatars contain a real human face\n"
+    ],
+    "published": [
+      "2011-08-15T14:24:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Has Face for Rails"
+    ],
+    "bookmark-of": [
+      "http://blog.thefrontiergroup.com.au/2011/07/introducing-has-face-for-rails/"
+    ],
+    "category": [
+      "face",
+      "recognition",
+      "avatar",
+      "rails",
+      "plugin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "has-face-for-rails"
+    ]
+  }
+}

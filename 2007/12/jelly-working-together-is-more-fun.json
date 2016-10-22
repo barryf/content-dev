@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Co-working for people to work together at home. Good for freelancers it seems\n"],"published":["2007-12-16T17:22:04Z"],"entry-type":["bookmark"],"name":["Jelly -- Working together is more fun for everyone!"],"bookmark-of":["http://workatjelly.com/"],"category":["collaboration","community","freelance","social","web","work","networking","coworking","via-pinboard"],"slug":["jelly-working-together-is-more-fun"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Co-working for people to work together at home. Good for freelancers it seems\n"
+    ],
+    "published": [
+      "2007-12-16T17:22:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Jelly -- Working together is more fun for everyone!"
+    ],
+    "bookmark-of": [
+      "http://workatjelly.com/"
+    ],
+    "category": [
+      "collaboration",
+      "community",
+      "freelance",
+      "social",
+      "web",
+      "work",
+      "networking",
+      "coworking",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jelly-working-together-is-more-fun"
+    ]
+  }
+}

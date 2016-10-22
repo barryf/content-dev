@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Analyses BPM of iTunes songs to generate playlists to match your mood\n"],"published":["2006-10-22T17:08:17Z"],"entry-type":["bookmark"],"name":["Potion Factory Blog » Blog Archive » Introducing Tangerine"],"bookmark-of":["http://www.potionfactory.com/blog/2006/10/18/introducing-tangerine/"],"category":["bpm","audio","itunes","mac","mp3","music","via-pinboard"],"slug":["potion-factory-blog-blog-archive-introducing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Analyses BPM of iTunes songs to generate playlists to match your mood\n"
+    ],
+    "published": [
+      "2006-10-22T17:08:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Potion Factory Blog » Blog Archive » Introducing Tangerine"
+    ],
+    "bookmark-of": [
+      "http://www.potionfactory.com/blog/2006/10/18/introducing-tangerine/"
+    ],
+    "category": [
+      "bpm",
+      "audio",
+      "itunes",
+      "mac",
+      "mp3",
+      "music",
+      "via-pinboard"
+    ],
+    "slug": [
+      "potion-factory-blog-blog-archive-introducing"
+    ]
+  }
+}

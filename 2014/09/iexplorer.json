@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["iPhone, iPad Music & File Transfer App for Mac & PC"],"published":["2014-09-17T12:22:11Z"],"entry-type":["bookmark"],"name":["iExplorer"],"bookmark-of":["http://www.macroplant.com/iexplorer/"],"category":["ipad","iphone","iOS","mac","backup","transfer","via-pinboard"],"slug":["iexplorer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "iPhone, iPad Music & File Transfer App for Mac & PC"
+    ],
+    "published": [
+      "2014-09-17T12:22:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iExplorer"
+    ],
+    "bookmark-of": [
+      "http://www.macroplant.com/iexplorer/"
+    ],
+    "category": [
+      "ipad",
+      "iphone",
+      "iOS",
+      "mac",
+      "backup",
+      "transfer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "iexplorer"
+    ]
+  }
+}

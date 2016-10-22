@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-05T12:15:11Z"],"entry-type":["bookmark"],"name":["The Mike Matas Blog: How to make a Life Poster"],"bookmark-of":["http://www.mikematas.com/blog/2005/01/how-to-make-life-poster.html"],"category":["photo","via-pinboard"],"slug":["the-mike-matas-blog-how-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-05T12:15:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Mike Matas Blog: How to make a Life Poster"
+    ],
+    "bookmark-of": [
+      "http://www.mikematas.com/blog/2005/01/how-to-make-life-poster.html"
+    ],
+    "category": [
+      "photo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-mike-matas-blog-how-to"
+    ]
+  }
+}

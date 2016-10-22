@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@nstanley Ha, I come all this way! Enjoy #SXSW \n"],"published":["2015-03-12T17:45:45Z"],"entry-type":["reply"],"summary":["@nstanley Ha, I come all this way! Enjoy #SXSW "],"in-reply-to":["https://twitter.com/nstanley/status/576072290418466816"],"syndication":["https://twitter.com/barryf/status/576080489888501760"],"slug":["nstanley-ha-i-come-all-this"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nstanley Ha, I come all this way! Enjoy #SXSW \n"
+    ],
+    "published": [
+      "2015-03-12T17:45:45Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@nstanley Ha, I come all this way! Enjoy #SXSW "
+    ],
+    "in-reply-to": [
+      "https://twitter.com/nstanley/status/576072290418466816"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/576080489888501760"
+    ],
+    "slug": [
+      "nstanley-ha-i-come-all-this"
+    ]
+  }
+}

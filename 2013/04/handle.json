@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Email triage/daily todo service that connects to Gmail (and Exchange?)"],"published":["2013-04-30T10:02:26Z"],"entry-type":["bookmark"],"name":["Handle"],"bookmark-of":["https://www.handle.com/"],"category":["email","todo","triage","gmail","saas","via-pinboard"],"slug":["handle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Email triage/daily todo service that connects to Gmail (and Exchange?)"
+    ],
+    "published": [
+      "2013-04-30T10:02:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Handle"
+    ],
+    "bookmark-of": [
+      "https://www.handle.com/"
+    ],
+    "category": [
+      "email",
+      "todo",
+      "triage",
+      "gmail",
+      "saas",
+      "via-pinboard"
+    ],
+    "slug": [
+      "handle"
+    ]
+  }
+}

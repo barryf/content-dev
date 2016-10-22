@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Preview email in the browser instead of sending it"],"published":["2013-01-05T21:59:25Z"],"entry-type":["bookmark"],"name":["letter_opener"],"bookmark-of":["https://github.com/ryanb/letter_opener"],"category":["email","gem","testing","rails","ruby","via-pinboard"],"slug":["letter-opener"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Preview email in the browser instead of sending it"
+    ],
+    "published": [
+      "2013-01-05T21:59:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "letter_opener"
+    ],
+    "bookmark-of": [
+      "https://github.com/ryanb/letter_opener"
+    ],
+    "category": [
+      "email",
+      "gem",
+      "testing",
+      "rails",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "letter-opener"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-08-10T11:00:01Z"],"entry-type":["bookmark"],"name":["Git - SVN Crash Course"],"bookmark-of":["http://git.or.cz/course/svn.html"],"category":["git","code","sourcecontrol","subversion","svn","dev","via-pinboard"],"slug":["git-svn-crash-course"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-08-10T11:00:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Git - SVN Crash Course"
+    ],
+    "bookmark-of": [
+      "http://git.or.cz/course/svn.html"
+    ],
+    "category": [
+      "git",
+      "code",
+      "sourcecontrol",
+      "subversion",
+      "svn",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "git-svn-crash-course"
+    ]
+  }
+}

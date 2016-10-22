@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Find prices paid on every UK property sold, land details as well as instant current valuations (£2 a pop though)\n"],"published":["2005-12-30T13:38:53Z"],"entry-type":["bookmark"],"name":["Land Registry"],"bookmark-of":["http://landregisteronline.gov.uk/"],"category":["uk","property","house","flat","land","via-pinboard"],"slug":["land-registry"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Find prices paid on every UK property sold, land details as well as instant current valuations (£2 a pop though)\n"
+    ],
+    "published": [
+      "2005-12-30T13:38:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Land Registry"
+    ],
+    "bookmark-of": [
+      "http://landregisteronline.gov.uk/"
+    ],
+    "category": [
+      "uk",
+      "property",
+      "house",
+      "flat",
+      "land",
+      "via-pinboard"
+    ],
+    "slug": [
+      "land-registry"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Slick Mac VPN proxy service"],"published":["2012-08-29T14:59:00Z"],"entry-type":["bookmark"],"name":["Tunnelbear"],"bookmark-of":["http://www.tunnelbear.com/"],"category":["mac","proxy","vpn","via-pinboard"],"slug":["tunnelbear"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slick Mac VPN proxy service"
+    ],
+    "published": [
+      "2012-08-29T14:59:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tunnelbear"
+    ],
+    "bookmark-of": [
+      "http://www.tunnelbear.com/"
+    ],
+    "category": [
+      "mac",
+      "proxy",
+      "vpn",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tunnelbear"
+    ]
+  }
+}

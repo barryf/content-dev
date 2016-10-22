@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Introducing my son, Henry Frost. I'm a very proud dad.\n"],"published":["2015-10-26T13:59:23Z"],"entry-type":["photo"],"syndication":["https://twitter.com/barryf/status/658644116390047745","https://instagram.com/p/9TahaMn_uB/"],"photo":["https://media.barryfrost.com/20151026-igymH5Cq.jpg"],"slug":["introducing-my-son-henry-frost-i"],"category":["baby","personal"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Introducing my son, Henry Frost. I'm a very proud dad.\n"
+    ],
+    "published": [
+      "2015-10-26T13:59:23Z"
+    ],
+    "entry-type": [
+      "photo"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/658644116390047745",
+      "https://instagram.com/p/9TahaMn_uB/"
+    ],
+    "photo": [
+      "https://media.barryfrost.com/20151026-igymH5Cq.jpg"
+    ],
+    "slug": [
+      "introducing-my-son-henry-frost-i"
+    ],
+    "category": [
+      "baby",
+      "personal"
+    ]
+  }
+}

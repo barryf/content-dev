@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Proportional columns, gutters and a baseline grid.\n"],"published":["2011-09-11T08:59:36Z"],"entry-type":["bookmark"],"name":["Golden Grid System"],"bookmark-of":["http://goldengridsystem.com/"],"category":["grid","layout","column","gutter","baseline","via-pinboard"],"slug":["golden-grid-system"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Proportional columns, gutters and a baseline grid.\n"
+    ],
+    "published": [
+      "2011-09-11T08:59:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Golden Grid System"
+    ],
+    "bookmark-of": [
+      "http://goldengridsystem.com/"
+    ],
+    "category": [
+      "grid",
+      "layout",
+      "column",
+      "gutter",
+      "baseline",
+      "via-pinboard"
+    ],
+    "slug": [
+      "golden-grid-system"
+    ]
+  }
+}

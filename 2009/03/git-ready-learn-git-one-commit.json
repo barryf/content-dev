@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2009-03-13T22:09:22Z"],"entry-type":["bookmark"],"name":["git ready » learn git one commit at a time"],"bookmark-of":["http://gitready.com/"],"category":["git","versioncontrol","tutorial","dev","via-pinboard"],"slug":["git-ready-learn-git-one-commit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-03-13T22:09:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "git ready » learn git one commit at a time"
+    ],
+    "bookmark-of": [
+      "http://gitready.com/"
+    ],
+    "category": [
+      "git",
+      "versioncontrol",
+      "tutorial",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "git-ready-learn-git-one-commit"
+    ]
+  }
+}

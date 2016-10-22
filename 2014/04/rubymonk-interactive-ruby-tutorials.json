@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-08T12:40:11Z"],"entry-type":["bookmark"],"name":["RubyMonk - Interactive Ruby tutorials"],"bookmark-of":["https://rubymonk.com/"],"category":["tutorial","rails","ruby","via-pinboard"],"slug":["rubymonk-interactive-ruby-tutorials"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-08T12:40:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RubyMonk - Interactive Ruby tutorials"
+    ],
+    "bookmark-of": [
+      "https://rubymonk.com/"
+    ],
+    "category": [
+      "tutorial",
+      "rails",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rubymonk-interactive-ruby-tutorials"
+    ]
+  }
+}

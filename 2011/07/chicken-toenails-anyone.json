@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Eating in China. David Sedaris isn't keen, it's fair to say.\n"],"published":["2011-07-16T12:57:18Z"],"entry-type":["bookmark"],"name":["Chicken toenails, anyone?"],"bookmark-of":["http://www.guardian.co.uk/lifeandstyle/2011/jul/15/david-sedaris-chinese-food-chicken-toenails"],"category":["china","food","hygiene","travel","via-pinboard"],"slug":["chicken-toenails-anyone"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Eating in China. David Sedaris isn't keen, it's fair to say.\n"
+    ],
+    "published": [
+      "2011-07-16T12:57:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Chicken toenails, anyone?"
+    ],
+    "bookmark-of": [
+      "http://www.guardian.co.uk/lifeandstyle/2011/jul/15/david-sedaris-chinese-food-chicken-toenails"
+    ],
+    "category": [
+      "china",
+      "food",
+      "hygiene",
+      "travel",
+      "via-pinboard"
+    ],
+    "slug": [
+      "chicken-toenails-anyone"
+    ]
+  }
+}

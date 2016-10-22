@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-05-27T16:48:41Z"],"entry-type":["bookmark"],"name":["GOV.UK elements and design patterns"],"bookmark-of":["https://designnotes.blog.gov.uk/2014/05/23/new-guides-gov-uk-elements-and-design-patterns/"],"category":["gds","styleguide","design","patterns","via-pinboard"],"slug":["gov-uk-elements-and-design-patterns"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-05-27T16:48:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GOV.UK elements and design patterns"
+    ],
+    "bookmark-of": [
+      "https://designnotes.blog.gov.uk/2014/05/23/new-guides-gov-uk-elements-and-design-patterns/"
+    ],
+    "category": [
+      "gds",
+      "styleguide",
+      "design",
+      "patterns",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gov-uk-elements-and-design-patterns"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Boiled egg eaten, tea drunk, now waiting for the umpires to stop stomping around the outfield and get play started"],"published":["2009-08-02T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3084846416"],"slug":["tweet-3084846416"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Boiled egg eaten, tea drunk, now waiting for the umpires to stop stomping around the outfield and get play started"
+    ],
+    "published": [
+      "2009-08-02T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3084846416"
+    ],
+    "slug": [
+      "tweet-3084846416"
+    ]
+  }
+}

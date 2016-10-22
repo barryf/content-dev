@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Checklist for compliance with each of the three priorities\n"],"published":["2007-09-15T09:39:07Z"],"entry-type":["bookmark"],"name":["WCAG Cheatsheet"],"bookmark-of":["http://worksperfectly.net/wcag/"],"category":["wcag","accessibility","w3c","cheatsheet","web","dev","via-pinboard"],"slug":["wcag-cheatsheet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Checklist for compliance with each of the three priorities\n"
+    ],
+    "published": [
+      "2007-09-15T09:39:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "WCAG Cheatsheet"
+    ],
+    "bookmark-of": [
+      "http://worksperfectly.net/wcag/"
+    ],
+    "category": [
+      "wcag",
+      "accessibility",
+      "w3c",
+      "cheatsheet",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "wcag-cheatsheet"
+    ]
+  }
+}

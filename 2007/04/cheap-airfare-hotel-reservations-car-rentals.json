@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Searches 100+ travel sites to get widest selection of flights etc.\n\n"],"published":["2007-04-25T19:19:47Z"],"entry-type":["bookmark"],"name":["Cheap Airfare, Hotel Reservations, Car Rentals - Kayak.co.uk"],"bookmark-of":["http://www.kayak.co.uk/"],"category":["aggregator","comparison","travel","flights","via-pinboard"],"slug":["cheap-airfare-hotel-reservations-car-rentals"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Searches 100+ travel sites to get widest selection of flights etc.\n\n"
+    ],
+    "published": [
+      "2007-04-25T19:19:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Cheap Airfare, Hotel Reservations, Car Rentals - Kayak.co.uk"
+    ],
+    "bookmark-of": [
+      "http://www.kayak.co.uk/"
+    ],
+    "category": [
+      "aggregator",
+      "comparison",
+      "travel",
+      "flights",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cheap-airfare-hotel-reservations-car-rentals"
+    ]
+  }
+}

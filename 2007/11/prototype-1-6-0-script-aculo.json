@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Notes on the new features in 1.6\n"],"published":["2007-11-11T10:58:04Z"],"entry-type":["bookmark"],"name":["Prototype 1.6.0, script.aculo.us 1.8.0, and the Bungee book now available"],"bookmark-of":["http://prototypejs.org/2007/11/7/prototype-1-6-0-script-aculo-us-1-8-0-and-the-bungee-book-now-available"],"category":["ajax","javascript","library","prototype","reference","web","dev","via-pinboard"],"slug":["prototype-1-6-0-script-aculo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Notes on the new features in 1.6\n"
+    ],
+    "published": [
+      "2007-11-11T10:58:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Prototype 1.6.0, script.aculo.us 1.8.0, and the Bungee book now available"
+    ],
+    "bookmark-of": [
+      "http://prototypejs.org/2007/11/7/prototype-1-6-0-script-aculo-us-1-8-0-and-the-bungee-book-now-available"
+    ],
+    "category": [
+      "ajax",
+      "javascript",
+      "library",
+      "prototype",
+      "reference",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "prototype-1-6-0-script-aculo"
+    ]
+  }
+}

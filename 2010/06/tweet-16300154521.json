@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sat down to lunch with @WLD partners at #royalascot  http://twitpic.com/1x8q9c"],"published":["2010-06-16T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/16300154521"],"slug":["tweet-16300154521"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sat down to lunch with @WLD partners at #royalascot  http://twitpic.com/1x8q9c"
+    ],
+    "published": [
+      "2010-06-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/16300154521"
+    ],
+    "slug": [
+      "tweet-16300154521"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2011-02-27T18:43:35Z"],"entry-type":["bookmark"],"name":["jQuery infinite scroll"],"bookmark-of":["https://github.com/brianmario/jquery-infinite-scroll"],"category":["jquery","pagination","javascript","scroll","via-pinboard"],"slug":["jquery-infinite-scroll"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-02-27T18:43:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jQuery infinite scroll"
+    ],
+    "bookmark-of": [
+      "https://github.com/brianmario/jquery-infinite-scroll"
+    ],
+    "category": [
+      "jquery",
+      "pagination",
+      "javascript",
+      "scroll",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jquery-infinite-scroll"
+    ]
+  }
+}

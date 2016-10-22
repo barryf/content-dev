@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2006-07-18T14:03:42Z"],"entry-type":["bookmark"],"name":["19 Rails Tricks Most Rails Coders Don't Know"],"bookmark-of":["http://www.rubyinside.com/19-rails-tricks-most-rails-coders-dont-know-131.html"],"category":["ruby","rails","web","dev","via-pinboard"],"slug":["19-rails-tricks-most-rails-coders"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-07-18T14:03:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "19 Rails Tricks Most Rails Coders Don't Know"
+    ],
+    "bookmark-of": [
+      "http://www.rubyinside.com/19-rails-tricks-most-rails-coders-dont-know-131.html"
+    ],
+    "category": [
+      "ruby",
+      "rails",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "19-rails-tricks-most-rails-coders"
+    ]
+  }
+}

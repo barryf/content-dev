@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Cross-domain data transfer with window.name and the Dojo framework\n"],"published":["2008-07-26T14:16:40Z"],"entry-type":["bookmark"],"name":["SitePen Blog » window.name Transport"],"bookmark-of":["http://www.sitepen.com/blog/2008/07/22/windowname-transport/"],"category":["dojo","javascript","window","web","hack","framework","crossdomain","security","via-pinboard"],"slug":["sitepen-blog-window-name-transport"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Cross-domain data transfer with window.name and the Dojo framework\n"
+    ],
+    "published": [
+      "2008-07-26T14:16:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SitePen Blog » window.name Transport"
+    ],
+    "bookmark-of": [
+      "http://www.sitepen.com/blog/2008/07/22/windowname-transport/"
+    ],
+    "category": [
+      "dojo",
+      "javascript",
+      "window",
+      "web",
+      "hack",
+      "framework",
+      "crossdomain",
+      "security",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sitepen-blog-window-name-transport"
+    ]
+  }
+}

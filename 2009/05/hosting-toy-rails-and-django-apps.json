@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Didn't realise Passenger also played with Django\n"],"published":["2009-05-30T18:44:17Z"],"entry-type":["bookmark"],"name":["Hosting toy Rails and Django apps using Passenger - jerakeen.org"],"bookmark-of":["http://jerakeen.org/notes/2009/05/hosting-rails-and-django-using-passenger/"],"category":["rails","django","passenger","application","project","deployment","via-pinboard"],"slug":["hosting-toy-rails-and-django-apps"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Didn't realise Passenger also played with Django\n"
+    ],
+    "published": [
+      "2009-05-30T18:44:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hosting toy Rails and Django apps using Passenger - jerakeen.org"
+    ],
+    "bookmark-of": [
+      "http://jerakeen.org/notes/2009/05/hosting-rails-and-django-using-passenger/"
+    ],
+    "category": [
+      "rails",
+      "django",
+      "passenger",
+      "application",
+      "project",
+      "deployment",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hosting-toy-rails-and-django-apps"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Addicted to Hamster on a Piano (Eating Popcorn) http://bit.ly/Z25F"],"published":["2008-12-02T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1034645143"],"slug":["tweet-1034645143"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Addicted to Hamster on a Piano (Eating Popcorn) http://bit.ly/Z25F"
+    ],
+    "published": [
+      "2008-12-02T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1034645143"
+    ],
+    "slug": [
+      "tweet-1034645143"
+    ]
+  }
+}

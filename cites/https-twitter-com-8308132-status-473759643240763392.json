@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/8308132/status/473759643240763392"],"published":["2014-06-03T09:34:35Z"],"content":["Well, that took a whole 12 hours: FlappySwift, FlappyBird made in Swift https://t.co/8WZApdjR7t"],"author":["https://twitter.com/8308132"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/8308132/status/473759643240763392"
+    ],
+    "published": [
+      "2014-06-03T09:34:35Z"
+    ],
+    "content": [
+      "Well, that took a whole 12 hours: FlappySwift, FlappyBird made in Swift https://t.co/8WZApdjR7t"
+    ],
+    "author": [
+      "https://twitter.com/8308132"
+    ]
+  }
+}

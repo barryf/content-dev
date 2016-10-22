@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-09-12T12:50:42Z"],"entry-type":["like"],"like-of":["https://calumryan.com/note.php?noteId=329"],"syndication":["https://twitter.com/calum_ryan/status/775281397678366720"],"slug":["12-135042"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-09-12T12:50:42Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://calumryan.com/note.php?noteId=329"
+    ],
+    "syndication": [
+      "https://twitter.com/calum_ryan/status/775281397678366720"
+    ],
+    "slug": [
+      "12-135042"
+    ]
+  }
+}

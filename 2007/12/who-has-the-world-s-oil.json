@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-23T15:20:52Z"],"entry-type":["bookmark"],"name":["Who has the world's oil vs who consumes it"],"bookmark-of":["http://andrewsullivan.theatlantic.com/.shared/image.html?/photos/uncategorized/2007/12/12/oilmap.jpg"],"category":["oil","map","economics","politics","geography","society","filetypejpg","mediaimage","via-pinboard"],"slug":["who-has-the-world-s-oil"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-23T15:20:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Who has the world's oil vs who consumes it"
+    ],
+    "bookmark-of": [
+      "http://andrewsullivan.theatlantic.com/.shared/image.html?/photos/uncategorized/2007/12/12/oilmap.jpg"
+    ],
+    "category": [
+      "oil",
+      "map",
+      "economics",
+      "politics",
+      "geography",
+      "society",
+      "filetypejpg",
+      "mediaimage",
+      "via-pinboard"
+    ],
+    "slug": [
+      "who-has-the-world-s-oil"
+    ]
+  }
+}

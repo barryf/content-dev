@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Back at the office... with a cold :("],"published":["2006-09-04T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/25340"],"slug":["tweet-25340"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Back at the office... with a cold :("
+    ],
+    "published": [
+      "2006-09-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/25340"
+    ],
+    "slug": [
+      "tweet-25340"
+    ]
+  }
+}

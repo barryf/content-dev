@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Back from the Audi dealership. Bought myself a newish ex-demo TT with lots of gadgets. Now waiting to hear when I can pick it up!"],"published":["2009-09-19T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4106223183"],"slug":["tweet-4106223183"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Back from the Audi dealership. Bought myself a newish ex-demo TT with lots of gadgets. Now waiting to hear when I can pick it up!"
+    ],
+    "published": [
+      "2009-09-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4106223183"
+    ],
+    "slug": [
+      "tweet-4106223183"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Just do it\n"],"published":["2007-05-03T07:15:20Z"],"entry-type":["bookmark"],"name":["Breadcrumb Navigation Increasingly Useful (Jakob Nielsen's Alertbox)"],"bookmark-of":["http://www.useit.com/alertbox/breadcrumbs.html"],"category":["usability","navigation","breadcrumbs","design","ui","web","interface","via-pinboard"],"slug":["breadcrumb-navigation-increasingly-useful-jakob-nielsen"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just do it\n"
+    ],
+    "published": [
+      "2007-05-03T07:15:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Breadcrumb Navigation Increasingly Useful (Jakob Nielsen's Alertbox)"
+    ],
+    "bookmark-of": [
+      "http://www.useit.com/alertbox/breadcrumbs.html"
+    ],
+    "category": [
+      "usability",
+      "navigation",
+      "breadcrumbs",
+      "design",
+      "ui",
+      "web",
+      "interface",
+      "via-pinboard"
+    ],
+    "slug": [
+      "breadcrumb-navigation-increasingly-useful-jakob-nielsen"
+    ]
+  }
+}

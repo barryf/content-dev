@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-01-10T13:39:27Z"],"entry-type":["bookmark"],"name":["IanLunn/Hover · GitHub"],"bookmark-of":["https://github.com/IanLunn/Hover"],"category":["fromifttt","github","via-pinboard"],"slug":["ianlunn-hover-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-01-10T13:39:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "IanLunn/Hover · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/IanLunn/Hover"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ianlunn-hover-github"
+    ]
+  }
+}

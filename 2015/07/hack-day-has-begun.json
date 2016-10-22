@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Hack Day has begun..."],"published":["2015-07-02T08:37:19Z"],"entry-type":["repost"],"summary":["Hack Day has begun... https://mobile.twitter.com/globaldev/status/616523806346248193"],"repost-of":["https://mobile.twitter.com/globaldev/status/616523806346248193"],"category":["globaldev","hackday"],"syndication":["https://twitter.com/barryf/status/616526061891747840"],"slug":["hack-day-has-begun"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hack Day has begun..."
+    ],
+    "published": [
+      "2015-07-02T08:37:19Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "summary": [
+      "Hack Day has begun... https://mobile.twitter.com/globaldev/status/616523806346248193"
+    ],
+    "repost-of": [
+      "https://mobile.twitter.com/globaldev/status/616523806346248193"
+    ],
+    "category": [
+      "globaldev",
+      "hackday"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/616526061891747840"
+    ],
+    "slug": [
+      "hack-day-has-begun"
+    ]
+  }
+}

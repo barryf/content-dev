@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2016-03-17T14:34:01Z"],"entry-type":["bookmark"],"name":["SSL config generator"],"bookmark-of":["https://mozilla.github.io/server-side-tls/ssl-config-generator/"],"category":["ssl","nginx","tls","config"],"slug":["ssl-config-generator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-03-17T14:34:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SSL config generator"
+    ],
+    "bookmark-of": [
+      "https://mozilla.github.io/server-side-tls/ssl-config-generator/"
+    ],
+    "category": [
+      "ssl",
+      "nginx",
+      "tls",
+      "config"
+    ],
+    "slug": [
+      "ssl-config-generator"
+    ]
+  }
+}

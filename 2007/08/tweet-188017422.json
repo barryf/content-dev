@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Too hot."],"published":["2007-08-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/188017422"],"slug":["tweet-188017422"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Too hot."
+    ],
+    "published": [
+      "2007-08-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/188017422"
+    ],
+    "slug": [
+      "tweet-188017422"
+    ]
+  }
+}

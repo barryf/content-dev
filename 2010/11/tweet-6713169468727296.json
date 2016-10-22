@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@bradhaverly this will make your day: RT @MacRumors: iOS 4.2 to Be Released Today, 'Find My iPhone' Now Free http://macrumo.rs/ct1OjH"],"published":["2010-11-22T14:18:38Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/6713169468727296"],"slug":["tweet-6713169468727296"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@bradhaverly this will make your day: RT @MacRumors: iOS 4.2 to Be Released Today, 'Find My iPhone' Now Free http://macrumo.rs/ct1OjH"
+    ],
+    "published": [
+      "2010-11-22T14:18:38Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/6713169468727296"
+    ],
+    "slug": [
+      "tweet-6713169468727296"
+    ]
+  }
+}

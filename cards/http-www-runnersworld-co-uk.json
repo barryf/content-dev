@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ben Hobson"],"photo":["https://pbs.twimg.com/profile_images/739762412631515136/6GdfRJ-s.jpg"],"url":["http://www.runnersworld.co.uk"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ben Hobson"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/739762412631515136/6GdfRJ-s.jpg"
+    ],
+    "url": [
+      "http://www.runnersworld.co.uk"
+    ]
+  }
+}

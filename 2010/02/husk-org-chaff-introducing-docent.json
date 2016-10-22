@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Building a Google App Engine powered site with the Flickr API\n"],"published":["2010-02-14T18:30:17Z"],"entry-type":["bookmark"],"name":["husk.org. chaff. Introducing docent."],"bookmark-of":["http://husk.org/blog/arch/introducing-docent.html"],"category":["flickr","api","google","googleappengine","via-pinboard"],"slug":["husk-org-chaff-introducing-docent"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Building a Google App Engine powered site with the Flickr API\n"
+    ],
+    "published": [
+      "2010-02-14T18:30:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "husk.org. chaff. Introducing docent."
+    ],
+    "bookmark-of": [
+      "http://husk.org/blog/arch/introducing-docent.html"
+    ],
+    "category": [
+      "flickr",
+      "api",
+      "google",
+      "googleappengine",
+      "via-pinboard"
+    ],
+    "slug": [
+      "husk-org-chaff-introducing-docent"
+    ]
+  }
+}

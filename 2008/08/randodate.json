@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["White label video speed dating, 50/50 share of advertising revenue\n"],"published":["2008-08-25T09:29:03Z"],"entry-type":["bookmark"],"name":["Randodate"],"bookmark-of":["http://www.randodate.com/"],"category":["video","dating","whitelabel","work","speeddating","web","via-pinboard"],"slug":["randodate"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "White label video speed dating, 50/50 share of advertising revenue\n"
+    ],
+    "published": [
+      "2008-08-25T09:29:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Randodate"
+    ],
+    "bookmark-of": [
+      "http://www.randodate.com/"
+    ],
+    "category": [
+      "video",
+      "dating",
+      "whitelabel",
+      "work",
+      "speeddating",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "randodate"
+    ]
+  }
+}

@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Elegant tabs using CSS and Javascript\n"],"published":["2006-02-24T10:08:12Z"],"entry-type":["bookmark"],"name":["DOMTab"],"bookmark-of":["http://onlinetools.org/tools/domtabdata/"],"category":["navigation","tab","dom","javascript","effects","ui","web","dev","design","via-pinboard"],"slug":["domtab"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Elegant tabs using CSS and Javascript\n"
+    ],
+    "published": [
+      "2006-02-24T10:08:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DOMTab"
+    ],
+    "bookmark-of": [
+      "http://onlinetools.org/tools/domtabdata/"
+    ],
+    "category": [
+      "navigation",
+      "tab",
+      "dom",
+      "javascript",
+      "effects",
+      "ui",
+      "web",
+      "dev",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "domtab"
+    ]
+  }
+}

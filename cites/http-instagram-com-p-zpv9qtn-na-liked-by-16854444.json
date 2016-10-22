@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["http://instagram.com/p/zPv9qTn_na/#liked-by-16854444"],"published":["2015-02-18T18:23:17Z"],"content":["likes this."],"like-of":["https://barryfrost.com/2015/02/charles-bridge-prague-one-of-the"],"author":["http://instagram.com/therunningdude"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://instagram.com/p/zPv9qTn_na/#liked-by-16854444"
+    ],
+    "published": [
+      "2015-02-18T18:23:17Z"
+    ],
+    "content": [
+      "likes this."
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/02/charles-bridge-prague-one-of-the"
+    ],
+    "author": [
+      "http://instagram.com/therunningdude"
+    ]
+  }
+}

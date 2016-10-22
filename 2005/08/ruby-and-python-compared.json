@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-09T09:02:38Z"],"entry-type":["bookmark"],"name":["Ruby and Python Compared"],"bookmark-of":["http://www.rexx.com/~oinkoink/Ruby_v_Python.html"],"category":["python","ruby","dev","via-pinboard"],"slug":["ruby-and-python-compared"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-09T09:02:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ruby and Python Compared"
+    ],
+    "bookmark-of": [
+      "http://www.rexx.com/~oinkoink/Ruby_v_Python.html"
+    ],
+    "category": [
+      "python",
+      "ruby",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-and-python-compared"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Switch the display of content and navigation depending on browser size using media query CSS.\n"],"published":["2011-08-17T07:47:40Z"],"entry-type":["bookmark"],"name":["Adactio: Journal—Re-tabulate"],"bookmark-of":["http://adactio.com/journal/4780/"],"category":["navigation","content","design","layout","css","mobile","via-pinboard"],"slug":["adactio-journal-re-tabulate"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Switch the display of content and navigation depending on browser size using media query CSS.\n"
+    ],
+    "published": [
+      "2011-08-17T07:47:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Adactio: Journal—Re-tabulate"
+    ],
+    "bookmark-of": [
+      "http://adactio.com/journal/4780/"
+    ],
+    "category": [
+      "navigation",
+      "content",
+      "design",
+      "layout",
+      "css",
+      "mobile",
+      "via-pinboard"
+    ],
+    "slug": [
+      "adactio-journal-re-tabulate"
+    ]
+  }
+}

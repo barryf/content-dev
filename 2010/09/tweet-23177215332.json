@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Spa weekend in Wiltshire booked. Dangerously outside my comfort zone, but have gained vast numbers of girlfriend brownie points."],"published":["2010-09-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/23177215332"],"slug":["tweet-23177215332"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Spa weekend in Wiltshire booked. Dangerously outside my comfort zone, but have gained vast numbers of girlfriend brownie points."
+    ],
+    "published": [
+      "2010-09-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/23177215332"
+    ],
+    "slug": [
+      "tweet-23177215332"
+    ]
+  }
+}

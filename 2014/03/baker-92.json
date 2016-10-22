@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["Wedding wine tasting today and thankfully being driven. Perk of getting married. "],"published":["2014-03-22T11:02:13Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/447327512637743104"],"place-name":["Crudwell, Wiltshire"],"slug":["baker-92"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wedding wine tasting today and thankfully being driven. Perk of getting married. "
+    ],
+    "published": [
+      "2014-03-22T11:02:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/447327512637743104"
+    ],
+    "place-name": [
+      "Crudwell, Wiltshire"
+    ],
+    "slug": [
+      "baker-92"
+    ]
+  }
+}

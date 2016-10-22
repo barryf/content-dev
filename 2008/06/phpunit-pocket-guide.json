@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2008-06-21T17:02:54Z"],"entry-type":["bookmark"],"name":["PHPUnit Pocket Guide"],"bookmark-of":["http://www.phpunit.de/pocket_guide/3.2/en/index.html"],"category":["dev","php","tdd","test","testing","tutorial","phpunit","work","via-pinboard"],"slug":["phpunit-pocket-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-06-21T17:02:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PHPUnit Pocket Guide"
+    ],
+    "bookmark-of": [
+      "http://www.phpunit.de/pocket_guide/3.2/en/index.html"
+    ],
+    "category": [
+      "dev",
+      "php",
+      "tdd",
+      "test",
+      "testing",
+      "tutorial",
+      "phpunit",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "phpunit-pocket-guide"
+    ]
+  }
+}

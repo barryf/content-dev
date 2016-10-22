@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-11T13:41:22Z"],"entry-type":["bookmark"],"name":["Permalinks using ISAPI Rewrite"],"bookmark-of":["http://blog.bluecrescenttech.com/archives/2004/07/29/wordpress-permalink-formatting-and-wimp/#more-7"],"category":["web","dev","via-pinboard"],"slug":["permalinks-using-isapi-rewrite"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-11T13:41:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Permalinks using ISAPI Rewrite"
+    ],
+    "bookmark-of": [
+      "http://blog.bluecrescenttech.com/archives/2004/07/29/wordpress-permalink-formatting-and-wimp/#more-7"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "permalinks-using-isapi-rewrite"
+    ]
+  }
+}

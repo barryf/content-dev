@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@AaronNeale Thanks Aaron."],"published":["2012-06-08T12:37:28Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/116431582/status/211074218048225280"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/211074466208423936"],"slug":["tweet-211074466208423936"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@AaronNeale Thanks Aaron."
+    ],
+    "published": [
+      "2012-06-08T12:37:28Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/116431582/status/211074218048225280"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/211074466208423936"
+    ],
+    "slug": [
+      "tweet-211074466208423936"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw great idea. I'll blow their retinas next time with my finest nylon masterpiece."],"published":["2009-06-25T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/2323440654"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2327841197"],"slug":["tweet-2327841197"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw great idea. I'll blow their retinas next time with my finest nylon masterpiece."
+    ],
+    "published": [
+      "2009-06-25T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/2323440654"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2327841197"
+    ],
+    "slug": [
+      "tweet-2327841197"
+    ]
+  }
+}

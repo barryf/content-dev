@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Includes option to follow/ignore redirects\n"],"published":["2008-12-11T19:53:20Z"],"entry-type":["bookmark"],"name":["HTTP Client - Mac Developer Tool for HTTP Debugging"],"bookmark-of":["http://ditchnet.org/httpclient/"],"category":["http","debug","mac","internet","free","via-pinboard"],"slug":["http-client-mac-developer-tool-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Includes option to follow/ignore redirects\n"
+    ],
+    "published": [
+      "2008-12-11T19:53:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTTP Client - Mac Developer Tool for HTTP Debugging"
+    ],
+    "bookmark-of": [
+      "http://ditchnet.org/httpclient/"
+    ],
+    "category": [
+      "http",
+      "debug",
+      "mac",
+      "internet",
+      "free",
+      "via-pinboard"
+    ],
+    "slug": [
+      "http-client-mac-developer-tool-for"
+    ]
+  }
+}

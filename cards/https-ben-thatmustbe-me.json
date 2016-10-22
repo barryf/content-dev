@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ben Roberts"],"photo":["https://ben.thatmustbe.me/image/static/icon_128.jpg"],"url":["https://ben.thatmustbe.me/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ben Roberts"
+    ],
+    "photo": [
+      "https://ben.thatmustbe.me/image/static/icon_128.jpg"
+    ],
+    "url": [
+      "https://ben.thatmustbe.me/"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["\"Growth hacking is a dirty world. Scraping websites and spamming activity feeds grows a business in the same way anorexia solves weight problems, swapping sustainable solutions with short term kludges.\""],"published":["2014-01-23T19:25:08Z"],"entry-type":["bookmark"],"name":["Intercom: If it's important, don't hack it"],"bookmark-of":["http://insideintercom.io/if-its-important-dont-hack-it/"],"category":["intercom","ux","growth","metrics","via-pinboard"],"slug":["intercom-if-it-s-important-don"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Growth hacking is a dirty world. Scraping websites and spamming activity feeds grows a business in the same way anorexia solves weight problems, swapping sustainable solutions with short term kludges.\""
+    ],
+    "published": [
+      "2014-01-23T19:25:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Intercom: If it's important, don't hack it"
+    ],
+    "bookmark-of": [
+      "http://insideintercom.io/if-its-important-dont-hack-it/"
+    ],
+    "category": [
+      "intercom",
+      "ux",
+      "growth",
+      "metrics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "intercom-if-it-s-important-don"
+    ]
+  }
+}

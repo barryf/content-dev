@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["RRDTool/Ganglia for analysis at Flickr. Counts to a log over UDP.\n"],"published":["2008-11-08T10:23:51Z"],"entry-type":["bookmark"],"name":["Code: Flickr Developer Blog » Counting"],"bookmark-of":["http://code.flickr.com/blog/2008/10/27/counting-timing/"],"category":["sysadmin","rrdtool","graph","udp","rrd","chart","flickr","monitoring","stats","metrics","via-pinboard"],"slug":["code-flickr-developer-blog-counting"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "RRDTool/Ganglia for analysis at Flickr. Counts to a log over UDP.\n"
+    ],
+    "published": [
+      "2008-11-08T10:23:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Code: Flickr Developer Blog » Counting"
+    ],
+    "bookmark-of": [
+      "http://code.flickr.com/blog/2008/10/27/counting-timing/"
+    ],
+    "category": [
+      "sysadmin",
+      "rrdtool",
+      "graph",
+      "udp",
+      "rrd",
+      "chart",
+      "flickr",
+      "monitoring",
+      "stats",
+      "metrics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "code-flickr-developer-blog-counting"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Giving this recipe a go. Milk and white wine in a bolognese? 4 hours' cooking time? Better be good: http://bit.ly/e462Qs"],"published":["2010-11-27T20:38:58Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/8620821543129088"],"slug":["tweet-8620821543129088"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Giving this recipe a go. Milk and white wine in a bolognese? 4 hours' cooking time? Better be good: http://bit.ly/e462Qs"
+    ],
+    "published": [
+      "2010-11-27T20:38:58Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/8620821543129088"
+    ],
+    "slug": [
+      "tweet-8620821543129088"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Upcoming attractive-looking HR software"],"published":["2013-05-24T14:54:17Z"],"entry-type":["bookmark"],"name":["KIN HR"],"bookmark-of":["http://kinhr.com/"],"category":["hr","saas","via-pinboard"],"slug":["kin-hr"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Upcoming attractive-looking HR software"
+    ],
+    "published": [
+      "2013-05-24T14:54:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "KIN HR"
+    ],
+    "bookmark-of": [
+      "http://kinhr.com/"
+    ],
+    "category": [
+      "hr",
+      "saas",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kin-hr"
+    ]
+  }
+}

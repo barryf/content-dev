@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Can play any Flash video format - including h264\n"],"published":["2008-06-26T12:32:28Z"],"entry-type":["bookmark"],"name":["JW FLV Media Player"],"bookmark-of":["http://www.jeroenwijering.com/?item=JW_FLV_Player"],"category":["flash","video","flv","player","opensource","streaming","work","forglan","via-pinboard"],"slug":["jw-flv-media-player"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Can play any Flash video format - including h264\n"
+    ],
+    "published": [
+      "2008-06-26T12:32:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JW FLV Media Player"
+    ],
+    "bookmark-of": [
+      "http://www.jeroenwijering.com/?item=JW_FLV_Player"
+    ],
+    "category": [
+      "flash",
+      "video",
+      "flv",
+      "player",
+      "opensource",
+      "streaming",
+      "work",
+      "forglan",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jw-flv-media-player"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Prashant Sharma"],"photo":["https://twitter.com/iprashantsharma/profile_image?size=original"],"url":["https://twitter.com/iprashantsharma"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Prashant Sharma"
+    ],
+    "photo": [
+      "https://twitter.com/iprashantsharma/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/iprashantsharma"
+    ]
+  }
+}

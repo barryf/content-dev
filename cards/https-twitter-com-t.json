@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["⚡️ (@t)"],"photo":["http://pbs.twimg.com/profile_images/423350922408767488/nlA_m2WH_normal.jpeg"],"url":["https://twitter.com/t"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "⚡️ (@t)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/423350922408767488/nlA_m2WH_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/t"
+    ]
+  }
+}

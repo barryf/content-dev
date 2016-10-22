@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Devin Hunt"],"photo":["http://pbs.twimg.com/profile_images/529054901590974464/BxrzdV-v_normal.png"],"url":["https://twitter.com/hailpixel"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Devin Hunt"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/529054901590974464/BxrzdV-v_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/hailpixel"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-11-06T08:33:33Z"],"entry-type":["bookmark"],"name":["Good Product Team Bad Product Team"],"bookmark-of":["http://www.svpg.com/good-product-team-bad-product-team/"],"category":["via-pinboard"],"slug":["good-product-team-bad-product-team"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-11-06T08:33:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Good Product Team Bad Product Team"
+    ],
+    "bookmark-of": [
+      "http://www.svpg.com/good-product-team-bad-product-team/"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "good-product-team-bad-product-team"
+    ]
+  }
+}

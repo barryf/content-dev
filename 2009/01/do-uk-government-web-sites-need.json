@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Not at all. There's a magic paragraph quoted for evidence.\n"],"published":["2009-01-24T16:37:53Z"],"entry-type":["bookmark"],"name":["Do UK government web sites need to look exactly the same in every browser?"],"bookmark-of":["http://forabeautifulweb.com/blog/about/do_uk_government_web_sites_need_to_look_exactly_the_same_in_every_browser/"],"category":["uk","government","browser","standards","design","ie6","legacy","via-pinboard"],"slug":["do-uk-government-web-sites-need"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Not at all. There's a magic paragraph quoted for evidence.\n"
+    ],
+    "published": [
+      "2009-01-24T16:37:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Do UK government web sites need to look exactly the same in every browser?"
+    ],
+    "bookmark-of": [
+      "http://forabeautifulweb.com/blog/about/do_uk_government_web_sites_need_to_look_exactly_the_same_in_every_browser/"
+    ],
+    "category": [
+      "uk",
+      "government",
+      "browser",
+      "standards",
+      "design",
+      "ie6",
+      "legacy",
+      "via-pinboard"
+    ],
+    "slug": [
+      "do-uk-government-web-sites-need"
+    ]
+  }
+}

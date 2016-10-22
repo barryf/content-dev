@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Survey results from CF community. Much has changed since I last wrote CFML."],"published":["2016-02-23T10:12:36Z"],"entry-type":["bookmark"],"name":["State of the CF Union Survey 2016"],"bookmark-of":["http://www.teratech.com/blog/index.cfm/2016/2/19/State-of-the-CF-Union-Survey-2016--Results"],"category":["cfml","coldfusion","2016","survey"],"slug":["state-of-the-cf-union-survey"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Survey results from CF community. Much has changed since I last wrote CFML."
+    ],
+    "published": [
+      "2016-02-23T10:12:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "State of the CF Union Survey 2016"
+    ],
+    "bookmark-of": [
+      "http://www.teratech.com/blog/index.cfm/2016/2/19/State-of-the-CF-Union-Survey-2016--Results"
+    ],
+    "category": [
+      "cfml",
+      "coldfusion",
+      "2016",
+      "survey"
+    ],
+    "slug": [
+      "state-of-the-cf-union-survey"
+    ]
+  }
+}

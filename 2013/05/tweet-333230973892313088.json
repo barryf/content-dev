@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm at The Jinglin' Geordie (Edinburgh, UK) http://4sq.com/ZWswDP"],"published":["2013-05-11T14:43:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/333230973892313088"],"slug":["tweet-333230973892313088"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm at The Jinglin' Geordie (Edinburgh, UK) http://4sq.com/ZWswDP"
+    ],
+    "published": [
+      "2013-05-11T14:43:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/333230973892313088"
+    ],
+    "slug": [
+      "tweet-333230973892313088"
+    ]
+  }
+}

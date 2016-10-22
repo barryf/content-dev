@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Especially useful until Adobe release a Universal version of the Flash IDE.\n"],"published":["2006-10-04T10:34:08Z"],"entry-type":["bookmark"],"name":["VisualHub: The Universal Video Converter for Mac."],"bookmark-of":["http://www.techspansion.com/visualhub/"],"category":["video","mac","flv","quicktime","encoding","flash","universal","via-pinboard"],"slug":["visualhub-the-universal-video-converter-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Especially useful until Adobe release a Universal version of the Flash IDE.\n"
+    ],
+    "published": [
+      "2006-10-04T10:34:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "VisualHub: The Universal Video Converter for Mac."
+    ],
+    "bookmark-of": [
+      "http://www.techspansion.com/visualhub/"
+    ],
+    "category": [
+      "video",
+      "mac",
+      "flv",
+      "quicktime",
+      "encoding",
+      "flash",
+      "universal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "visualhub-the-universal-video-converter-for"
+    ]
+  }
+}

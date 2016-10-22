@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-03T08:38:26Z"],"entry-type":["bookmark"],"name":["Cool business card designs"],"bookmark-of":["http://creativebits.org/cool_business_card_designs"],"category":["design","inspiration","business","print","media","via-pinboard"],"slug":["cool-business-card-designs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-03T08:38:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Cool business card designs"
+    ],
+    "bookmark-of": [
+      "http://creativebits.org/cool_business_card_designs"
+    ],
+    "category": [
+      "design",
+      "inspiration",
+      "business",
+      "print",
+      "media",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cool-business-card-designs"
+    ]
+  }
+}

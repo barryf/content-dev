@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter there is/was a fan in my office if you want it."],"published":["2013-08-22T10:54:42Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/370479493074661376"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/370499261047513088"],"slug":["tweet-370499261047513088"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter there is/was a fan in my office if you want it."
+    ],
+    "published": [
+      "2013-08-22T10:54:42Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/370479493074661376"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/370499261047513088"
+    ],
+    "slug": [
+      "tweet-370499261047513088"
+    ]
+  }
+}

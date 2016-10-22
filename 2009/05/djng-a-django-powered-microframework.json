@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Still requires Django's libraries, but doesn't require settings.py or urls.py\n"],"published":["2009-05-23T20:42:25Z"],"entry-type":["bookmark"],"name":["djng—a Django powered microframework"],"bookmark-of":["http://simonwillison.net/2009/May/19/djng/"],"category":["microframework","python","django","framework","dev","via-pinboard"],"slug":["djng-a-django-powered-microframework"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Still requires Django's libraries, but doesn't require settings.py or urls.py\n"
+    ],
+    "published": [
+      "2009-05-23T20:42:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "djng—a Django powered microframework"
+    ],
+    "bookmark-of": [
+      "http://simonwillison.net/2009/May/19/djng/"
+    ],
+    "category": [
+      "microframework",
+      "python",
+      "django",
+      "framework",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "djng-a-django-powered-microframework"
+    ]
+  }
+}

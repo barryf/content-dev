@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Recommendations on small laptop bags\n"],"published":["2008-09-20T17:10:52Z"],"entry-type":["bookmark"],"name":["Hivelogic - The Laptop Bag"],"bookmark-of":["http://hivelogic.com/articles/2008/09/the-laptop-bag"],"category":["bag","laptop","mac","shopping","review","via-pinboard"],"slug":["hivelogic-the-laptop-bag"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Recommendations on small laptop bags\n"
+    ],
+    "published": [
+      "2008-09-20T17:10:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hivelogic - The Laptop Bag"
+    ],
+    "bookmark-of": [
+      "http://hivelogic.com/articles/2008/09/the-laptop-bag"
+    ],
+    "category": [
+      "bag",
+      "laptop",
+      "mac",
+      "shopping",
+      "review",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hivelogic-the-laptop-bag"
+    ]
+  }
+}

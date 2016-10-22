@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Superb afternoon at a rainy Rec today in a dry corp box watching @bathrugby courtesy of @nstanley. Thanks, Neil &amp; co."],"published":["2014-02-08T22:47:11Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/432284502560604160"],"slug":["tweet-432284502560604160"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Superb afternoon at a rainy Rec today in a dry corp box watching @bathrugby courtesy of @nstanley. Thanks, Neil &amp; co."
+    ],
+    "published": [
+      "2014-02-08T22:47:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/432284502560604160"
+    ],
+    "slug": [
+      "tweet-432284502560604160"
+    ]
+  }
+}

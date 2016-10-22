@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@deepfried Great band and great times in Wellington. Hope you're well mate. It's knocking on eight years now since that NZM2 night!"],"published":["2009-04-30T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/13643882/status/1663919214"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1663964185"],"slug":["tweet-1663964185"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@deepfried Great band and great times in Wellington. Hope you're well mate. It's knocking on eight years now since that NZM2 night!"
+    ],
+    "published": [
+      "2009-04-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/13643882/status/1663919214"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1663964185"
+    ],
+    "slug": [
+      "tweet-1663964185"
+    ]
+  }
+}

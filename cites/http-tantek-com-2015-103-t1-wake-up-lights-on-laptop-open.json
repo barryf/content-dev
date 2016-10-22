@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["http://tantek.com/2015/103/t1/wake-up-lights-on-laptop-open"],"published":["2015-04-13T07:01:00Z"],"content":["Wake up after falling asleep, lights on, laptop open.\nFinish post, fix a bug, reply thanks, lights off, back to sleep."],"author":["http://tantek.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://tantek.com/2015/103/t1/wake-up-lights-on-laptop-open"
+    ],
+    "published": [
+      "2015-04-13T07:01:00Z"
+    ],
+    "content": [
+      "Wake up after falling asleep, lights on, laptop open.\nFinish post, fix a bug, reply thanks, lights off, back to sleep."
+    ],
+    "author": [
+      "http://tantek.com/"
+    ]
+  }
+}

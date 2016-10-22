@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["RT @timblair: engaged to @debbie - congratulations to you both x"],"published":["2009-02-02T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1170962717"],"slug":["tweet-1170962717"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "RT @timblair: engaged to @debbie - congratulations to you both x"
+    ],
+    "published": [
+      "2009-02-02T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1170962717"
+    ],
+    "slug": [
+      "tweet-1170962717"
+    ]
+  }
+}

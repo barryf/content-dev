@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/275007771/status/433961308250443777"],"published":["2014-02-13T13:50:13Z"],"content":["He was tall and looked very rich and manly."],"author":["https://twitter.com/275007771"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/275007771/status/433961308250443777"
+    ],
+    "published": [
+      "2014-02-13T13:50:13Z"
+    ],
+    "content": [
+      "He was tall and looked very rich and manly."
+    ],
+    "author": [
+      "https://twitter.com/275007771"
+    ]
+  }
+}

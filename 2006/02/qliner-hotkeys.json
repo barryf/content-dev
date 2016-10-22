@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Free Windows hotkey configuration tool\n"],"published":["2006-02-26T18:20:03Z"],"entry-type":["bookmark"],"name":["qliner hotkeys"],"bookmark-of":["http://www.qliner.com/hotkeys/"],"category":["keyboard","opensource","windows","free","via-pinboard"],"slug":["qliner-hotkeys"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free Windows hotkey configuration tool\n"
+    ],
+    "published": [
+      "2006-02-26T18:20:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "qliner hotkeys"
+    ],
+    "bookmark-of": [
+      "http://www.qliner.com/hotkeys/"
+    ],
+    "category": [
+      "keyboard",
+      "opensource",
+      "windows",
+      "free",
+      "via-pinboard"
+    ],
+    "slug": [
+      "qliner-hotkeys"
+    ]
+  }
+}

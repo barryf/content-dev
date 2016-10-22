@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Not a complete feature set (currently), but useful nonetheless\n"],"published":["2006-02-14T16:48:28Z"],"entry-type":["bookmark"],"name":["Textile for ColdFusion"],"bookmark-of":["http://foundeo.com/products/textile/"],"category":["coldfusion","textile","filter","html","markup","web","dev","via-pinboard"],"slug":["textile-for-coldfusion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Not a complete feature set (currently), but useful nonetheless\n"
+    ],
+    "published": [
+      "2006-02-14T16:48:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Textile for ColdFusion"
+    ],
+    "bookmark-of": [
+      "http://foundeo.com/products/textile/"
+    ],
+    "category": [
+      "coldfusion",
+      "textile",
+      "filter",
+      "html",
+      "markup",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "textile-for-coldfusion"
+    ]
+  }
+}

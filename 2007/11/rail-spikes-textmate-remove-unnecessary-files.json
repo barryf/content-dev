@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Makes searching in files much faster\n"],"published":["2007-11-15T22:16:08Z"],"entry-type":["bookmark"],"name":["Rail Spikes: Textmate: remove unnecessary files from Rails project"],"bookmark-of":["http://railspikes.com/2007/11/13/textmate-rails-remove-vendor-files"],"category":["textmate","editor","mac","todo","useful","via-pinboard"],"slug":["rail-spikes-textmate-remove-unnecessary-files"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Makes searching in files much faster\n"
+    ],
+    "published": [
+      "2007-11-15T22:16:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rail Spikes: Textmate: remove unnecessary files from Rails project"
+    ],
+    "bookmark-of": [
+      "http://railspikes.com/2007/11/13/textmate-rails-remove-vendor-files"
+    ],
+    "category": [
+      "textmate",
+      "editor",
+      "mac",
+      "todo",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rail-spikes-textmate-remove-unnecessary-files"
+    ]
+  }
+}

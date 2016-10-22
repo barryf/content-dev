@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2012-10-11T16:50:54Z"],"entry-type":["bookmark"],"name":["Kicksend/mailcheck · GitHub"],"bookmark-of":["https://github.com/Kicksend/mailcheck"],"category":["fromifttt","github","via-pinboard"],"slug":["kicksend-mailcheck-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-10-11T16:50:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Kicksend/mailcheck · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/Kicksend/mailcheck"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kicksend-mailcheck-github"
+    ]
+  }
+}

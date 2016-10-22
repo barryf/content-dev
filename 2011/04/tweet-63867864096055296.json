@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["In bed on a bank holiday morning but I've been abandoned in favour of this bloody #royalwedding on TV."],"published":["2011-04-29T07:31:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/63867864096055296"],"slug":["tweet-63867864096055296"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "In bed on a bank holiday morning but I've been abandoned in favour of this bloody #royalwedding on TV."
+    ],
+    "published": [
+      "2011-04-29T07:31:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/63867864096055296"
+    ],
+    "slug": [
+      "tweet-63867864096055296"
+    ]
+  }
+}

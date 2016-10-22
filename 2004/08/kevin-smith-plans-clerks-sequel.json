@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["...10 years on\n"],"published":["2004-08-30T21:20:39Z"],"entry-type":["bookmark"],"name":["Kevin Smith plans 'Clerks' sequel"],"bookmark-of":["http://www.cnn.com/2004/SHOWBIZ/Movies/08/30/clerks.sequel.ap/index.html"],"category":["film","via-pinboard"],"slug":["kevin-smith-plans-clerks-sequel"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "...10 years on\n"
+    ],
+    "published": [
+      "2004-08-30T21:20:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Kevin Smith plans 'Clerks' sequel"
+    ],
+    "bookmark-of": [
+      "http://www.cnn.com/2004/SHOWBIZ/Movies/08/30/clerks.sequel.ap/index.html"
+    ],
+    "category": [
+      "film",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kevin-smith-plans-clerks-sequel"
+    ]
+  }
+}

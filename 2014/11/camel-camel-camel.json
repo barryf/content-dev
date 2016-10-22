@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Amazon price tracker, history charts and price drop alerts"],"published":["2014-11-25T13:13:42Z"],"entry-type":["bookmark"],"name":["Camel Camel Camel"],"bookmark-of":["http://uk.camelcamelcamel.com/"],"category":["amazon","trends","shopping","deal","via-pinboard"],"slug":["camel-camel-camel"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Amazon price tracker, history charts and price drop alerts"
+    ],
+    "published": [
+      "2014-11-25T13:13:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Camel Camel Camel"
+    ],
+    "bookmark-of": [
+      "http://uk.camelcamelcamel.com/"
+    ],
+    "category": [
+      "amazon",
+      "trends",
+      "shopping",
+      "deal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "camel-camel-camel"
+    ]
+  }
+}

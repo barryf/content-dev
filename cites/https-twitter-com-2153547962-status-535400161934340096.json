@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/2153547962/status/535400161934340096"],"published":["2014-11-20T11:52:00Z"],"content":["BEWARE! \nDuck scams may be occurring in your local area! \nStay vigilant at all times!"],"photo":["http://pbs.twimg.com/media/B24fl5eCIAA-8Ew.jpg"],"author":["https://twitter.com/2153547962"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/2153547962/status/535400161934340096"
+    ],
+    "published": [
+      "2014-11-20T11:52:00Z"
+    ],
+    "content": [
+      "BEWARE! \nDuck scams may be occurring in your local area! \nStay vigilant at all times!"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/B24fl5eCIAA-8Ew.jpg"
+    ],
+    "author": [
+      "https://twitter.com/2153547962"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-20T20:57:58Z"],"entry-type":["like"],"like-of":["http://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place"],"syndication":["http://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place"],"slug":["20-205758"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-20T20:57:58Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place"
+    ],
+    "syndication": [
+      "http://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place"
+    ],
+    "slug": [
+      "20-205758"
+    ]
+  }
+}

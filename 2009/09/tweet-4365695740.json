@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Watching our very own @melkirk present beautifully at #idate about social media and dating. Best presentation so far IMHO."],"published":["2009-09-25T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4365695740"],"slug":["tweet-4365695740"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watching our very own @melkirk present beautifully at #idate about social media and dating. Best presentation so far IMHO."
+    ],
+    "published": [
+      "2009-09-25T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4365695740"
+    ],
+    "slug": [
+      "tweet-4365695740"
+    ]
+  }
+}

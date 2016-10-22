@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["PHP wiki\n"],"published":["2005-09-21T13:22:38Z"],"entry-type":["bookmark"],"name":["wiki:dokuwiki [DokuWiki]"],"bookmark-of":["http://wiki.splitbrain.org/wiki:dokuwiki"],"category":["wiki","web","php","opensource","apache","standards","cms","via-pinboard"],"slug":["wiki-dokuwiki-dokuwiki"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "PHP wiki\n"
+    ],
+    "published": [
+      "2005-09-21T13:22:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "wiki:dokuwiki [DokuWiki]"
+    ],
+    "bookmark-of": [
+      "http://wiki.splitbrain.org/wiki:dokuwiki"
+    ],
+    "category": [
+      "wiki",
+      "web",
+      "php",
+      "opensource",
+      "apache",
+      "standards",
+      "cms",
+      "via-pinboard"
+    ],
+    "slug": [
+      "wiki-dokuwiki-dokuwiki"
+    ]
+  }
+}

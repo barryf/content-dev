@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Job title should reflect what someone is responsible for, rather than using generic COO, CIO, CTO, etc.\n"],"published":["2011-06-15T11:21:42Z"],"entry-type":["bookmark"],"name":["The head of X"],"bookmark-of":["http://swombat.com/2011/5/28/responsibilities"],"category":["work","job","title","startup","business","company","recruitment","via-pinboard"],"slug":["the-head-of-x"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Job title should reflect what someone is responsible for, rather than using generic COO, CIO, CTO, etc.\n"
+    ],
+    "published": [
+      "2011-06-15T11:21:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The head of X"
+    ],
+    "bookmark-of": [
+      "http://swombat.com/2011/5/28/responsibilities"
+    ],
+    "category": [
+      "work",
+      "job",
+      "title",
+      "startup",
+      "business",
+      "company",
+      "recruitment",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-head-of-x"
+    ]
+  }
+}

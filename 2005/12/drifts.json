@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Addictive Flash bubble-collecting game\n"],"published":["2005-12-04T16:26:12Z"],"entry-type":["bookmark"],"name":["Drifts"],"bookmark-of":["http://www.repeatwhiletrue.com/drifts/"],"category":["fun","game","flash","addictive","via-pinboard"],"slug":["drifts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Addictive Flash bubble-collecting game\n"
+    ],
+    "published": [
+      "2005-12-04T16:26:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Drifts"
+    ],
+    "bookmark-of": [
+      "http://www.repeatwhiletrue.com/drifts/"
+    ],
+    "category": [
+      "fun",
+      "game",
+      "flash",
+      "addictive",
+      "via-pinboard"
+    ],
+    "slug": [
+      "drifts"
+    ]
+  }
+}

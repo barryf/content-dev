@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet."],"published":["2015-01-13T13:55:08Z"],"entry-type":["bookmark"],"name":["Syncthing"],"bookmark-of":["http://syncthing.net/"],"category":["sync","cloud","privacy","open"],"slug":["syncthing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet."
+    ],
+    "published": [
+      "2015-01-13T13:55:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Syncthing"
+    ],
+    "bookmark-of": [
+      "http://syncthing.net/"
+    ],
+    "category": [
+      "sync",
+      "cloud",
+      "privacy",
+      "open"
+    ],
+    "slug": [
+      "syncthing"
+    ]
+  }
+}

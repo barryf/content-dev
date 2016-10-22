@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Command line micropub client"],"published":["2016-09-23T07:47:38Z"],"entry-type":["bookmark"],"name":["shpub"],"bookmark-of":["https://github.com/cweiske/shpub"],"category":["micropub","indieweb","shell"],"slug":["shpub"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Command line micropub client"
+    ],
+    "published": [
+      "2016-09-23T07:47:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "shpub"
+    ],
+    "bookmark-of": [
+      "https://github.com/cweiske/shpub"
+    ],
+    "category": [
+      "micropub",
+      "indieweb",
+      "shell"
+    ],
+    "slug": [
+      "shpub"
+    ]
+  }
+}

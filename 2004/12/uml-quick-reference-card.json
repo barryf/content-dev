@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-12-01T17:47:41Z"],"entry-type":["bookmark"],"name":["UML Quick Reference Card"],"bookmark-of":["http://tnerual.eriogerg.free.fr/uml.html"],"category":["dev","uml","via-pinboard"],"slug":["uml-quick-reference-card"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-12-01T17:47:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UML Quick Reference Card"
+    ],
+    "bookmark-of": [
+      "http://tnerual.eriogerg.free.fr/uml.html"
+    ],
+    "category": [
+      "dev",
+      "uml",
+      "via-pinboard"
+    ],
+    "slug": [
+      "uml-quick-reference-card"
+    ]
+  }
+}

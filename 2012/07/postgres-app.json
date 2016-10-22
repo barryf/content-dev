@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["\"The easiest way to run PostgreSQL on the Mac\""],"published":["2012-07-19T20:20:13Z"],"entry-type":["bookmark"],"name":["Postgres.app"],"bookmark-of":["http://postgresapp.com/"],"category":["postgres","postgresql","database","mac","via-pinboard"],"slug":["postgres-app"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"The easiest way to run PostgreSQL on the Mac\""
+    ],
+    "published": [
+      "2012-07-19T20:20:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Postgres.app"
+    ],
+    "bookmark-of": [
+      "http://postgresapp.com/"
+    ],
+    "category": [
+      "postgres",
+      "postgresql",
+      "database",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "postgres-app"
+    ]
+  }
+}

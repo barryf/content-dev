@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Nice alternatively to MacStumbler\n"],"published":["2007-04-30T14:43:02Z"],"entry-type":["bookmark"],"name":["AP Grapher - Mac OS X AirPort Stumbler and Wireless Graphing Software"],"bookmark-of":["http://www.chimoosoft.com/products/apgrapher/"],"category":["wifi","mac","bandwidth","networj","via-pinboard"],"slug":["ap-grapher-mac-os-x-airport"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nice alternatively to MacStumbler\n"
+    ],
+    "published": [
+      "2007-04-30T14:43:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "AP Grapher - Mac OS X AirPort Stumbler and Wireless Graphing Software"
+    ],
+    "bookmark-of": [
+      "http://www.chimoosoft.com/products/apgrapher/"
+    ],
+    "category": [
+      "wifi",
+      "mac",
+      "bandwidth",
+      "networj",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ap-grapher-mac-os-x-airport"
+    ]
+  }
+}

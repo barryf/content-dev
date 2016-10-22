@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2013-10-09T09:37:22Z"],"entry-type":["bookmark"],"name":["SublimeGit"],"bookmark-of":["https://sublimegit.net/"],"category":["git","plugin","sublime","via-pinboard"],"slug":["sublimegit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-10-09T09:37:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SublimeGit"
+    ],
+    "bookmark-of": [
+      "https://sublimegit.net/"
+    ],
+    "category": [
+      "git",
+      "plugin",
+      "sublime",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sublimegit"
+    ]
+  }
+}

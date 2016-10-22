@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Ruby gem for querying Maxmind.com's GeoIP database, which returns the geographic location of a server given its IP address "],"published":["2013-07-30T08:07:50Z"],"entry-type":["bookmark"],"name":["GeoIP"],"bookmark-of":["https://github.com/cjheath/geoip"],"category":["geoip","maxmind","geo","location","via-pinboard"],"slug":["geoip"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby gem for querying Maxmind.com's GeoIP database, which returns the geographic location of a server given its IP address "
+    ],
+    "published": [
+      "2013-07-30T08:07:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GeoIP"
+    ],
+    "bookmark-of": [
+      "https://github.com/cjheath/geoip"
+    ],
+    "category": [
+      "geoip",
+      "maxmind",
+      "geo",
+      "location",
+      "via-pinboard"
+    ],
+    "slug": [
+      "geoip"
+    ]
+  }
+}

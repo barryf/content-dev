@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Interview with the inspiring Lukas Mathis (Ignore the Code)\n"],"published":["2010-03-13T16:20:47Z"],"entry-type":["bookmark"],"name":["How Software Engineers and Designers Can Increase Their Focus"],"bookmark-of":["http://howtogetfocused.com/chapters/how-software-engineers-and-designers-can-increase-their-focus/"],"category":["inspiration","life","productivity","focus","work","via-pinboard"],"slug":["how-software-engineers-and-designers-can"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Interview with the inspiring Lukas Mathis (Ignore the Code)\n"
+    ],
+    "published": [
+      "2010-03-13T16:20:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How Software Engineers and Designers Can Increase Their Focus"
+    ],
+    "bookmark-of": [
+      "http://howtogetfocused.com/chapters/how-software-engineers-and-designers-can-increase-their-focus/"
+    ],
+    "category": [
+      "inspiration",
+      "life",
+      "productivity",
+      "focus",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-software-engineers-and-designers-can"
+    ]
+  }
+}

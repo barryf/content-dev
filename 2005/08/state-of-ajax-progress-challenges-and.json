@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-22T11:57:33Z"],"entry-type":["bookmark"],"name":["State of Ajax: Progress, Challenges, and Implications for SOAs"],"bookmark-of":["http://hinchcliffe.org/archive/2005/08/18/1675.aspx"],"category":["ajax","dev","web","web20","soa","via-pinboard"],"slug":["state-of-ajax-progress-challenges-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-22T11:57:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "State of Ajax: Progress, Challenges, and Implications for SOAs"
+    ],
+    "bookmark-of": [
+      "http://hinchcliffe.org/archive/2005/08/18/1675.aspx"
+    ],
+    "category": [
+      "ajax",
+      "dev",
+      "web",
+      "web20",
+      "soa",
+      "via-pinboard"
+    ],
+    "slug": [
+      "state-of-ajax-progress-challenges-and"
+    ]
+  }
+}

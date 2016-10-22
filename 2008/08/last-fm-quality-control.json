@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Graphs, meters, warning bears and lots and lots of tools. How Last.fm keeps running\n"],"published":["2008-08-20T20:44:13Z"],"entry-type":["bookmark"],"name":["Last.fm – Quality Control"],"bookmark-of":["http://blog.last.fm/2008/08/01/quality-control"],"category":["web","dev","testing","qc","lastfm","monitoring","visualisation","quality","work","via-pinboard"],"slug":["last-fm-quality-control"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Graphs, meters, warning bears and lots and lots of tools. How Last.fm keeps running\n"
+    ],
+    "published": [
+      "2008-08-20T20:44:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Last.fm – Quality Control"
+    ],
+    "bookmark-of": [
+      "http://blog.last.fm/2008/08/01/quality-control"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "testing",
+      "qc",
+      "lastfm",
+      "monitoring",
+      "visualisation",
+      "quality",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "last-fm-quality-control"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@stevesmith2609 Strong middle name"],"published":["2015-04-15T15:09:16Z"],"entry-type":["reply"],"summary":["@stevesmith2609 Strong middle name"],"in-reply-to":["https://twitter.com/stevesmith2609/status/588332719983173632"],"syndication":["https://twitter.com/barryf/status/588358449576054787"],"slug":["stevesmith2609-strong-middle-name"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@stevesmith2609 Strong middle name"
+    ],
+    "published": [
+      "2015-04-15T15:09:16Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@stevesmith2609 Strong middle name"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/stevesmith2609/status/588332719983173632"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/588358449576054787"
+    ],
+    "slug": [
+      "stevesmith2609-strong-middle-name"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Steve Goldstein (@MKTWgoldstein)"],"photo":["http://pbs.twimg.com/profile_images/499337594254016512/piRlC47p_normal.png"],"url":["https://twitter.com/MKTWgoldstein"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Steve Goldstein (@MKTWgoldstein)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/499337594254016512/piRlC47p_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/MKTWgoldstein"
+    ]
+  }
+}

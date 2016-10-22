@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Provides a historic record of service availability for APIs or SaaS apps. Runs on Google App Engine.\n"],"published":["2010-07-21T08:05:58Z"],"entry-type":["bookmark"],"name":["Stashboard: The open source status dashboard"],"bookmark-of":["http://www.stashboard.org/"],"category":["gae","uptime","rest","api","saas","monitoring","status","via-pinboard"],"slug":["stashboard-the-open-source-status-dashboard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Provides a historic record of service availability for APIs or SaaS apps. Runs on Google App Engine.\n"
+    ],
+    "published": [
+      "2010-07-21T08:05:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Stashboard: The open source status dashboard"
+    ],
+    "bookmark-of": [
+      "http://www.stashboard.org/"
+    ],
+    "category": [
+      "gae",
+      "uptime",
+      "rest",
+      "api",
+      "saas",
+      "monitoring",
+      "status",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stashboard-the-open-source-status-dashboard"
+    ]
+  }
+}

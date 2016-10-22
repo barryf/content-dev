@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-04-30T13:40:45Z"],"entry-type":["bookmark"],"name":["When is it time buy a new computer?"],"bookmark-of":["http://ninjapirate.com/newcomputer.html"],"category":["fun","humour","geek","computer","business","via-pinboard"],"slug":["when-is-it-time-buy-a"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-04-30T13:40:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "When is it time buy a new computer?"
+    ],
+    "bookmark-of": [
+      "http://ninjapirate.com/newcomputer.html"
+    ],
+    "category": [
+      "fun",
+      "humour",
+      "geek",
+      "computer",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "when-is-it-time-buy-a"
+    ]
+  }
+}

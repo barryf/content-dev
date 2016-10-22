@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair, try feeding your kittens with pizza crusts. Or apple cores. Works a treat."],"published":["2008-04-10T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/786709619"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/786769292"],"slug":["tweet-786769292"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair, try feeding your kittens with pizza crusts. Or apple cores. Works a treat."
+    ],
+    "published": [
+      "2008-04-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/786709619"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/786769292"
+    ],
+    "slug": [
+      "tweet-786769292"
+    ]
+  }
+}

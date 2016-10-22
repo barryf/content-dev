@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Hugely useful MySQL parameter. The post's author says he'll often design an application without indexes and then use this parameter (in development) to add indexes where needed\n"],"published":["2008-08-13T19:54:54Z"],"entry-type":["bookmark"],"name":["log_queries_not_using_indexes"],"bookmark-of":["http://optimmysql.blogspot.com/2008/05/variable-day-out-14-logqueriesnotusingi.html"],"category":["mysql","forflatpackedworld","tuning","performance","index","database","application","dev","logging","sql","via-pinboard"],"slug":["log-queries-not-using-indexes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hugely useful MySQL parameter. The post's author says he'll often design an application without indexes and then use this parameter (in development) to add indexes where needed\n"
+    ],
+    "published": [
+      "2008-08-13T19:54:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "log_queries_not_using_indexes"
+    ],
+    "bookmark-of": [
+      "http://optimmysql.blogspot.com/2008/05/variable-day-out-14-logqueriesnotusingi.html"
+    ],
+    "category": [
+      "mysql",
+      "forflatpackedworld",
+      "tuning",
+      "performance",
+      "index",
+      "database",
+      "application",
+      "dev",
+      "logging",
+      "sql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "log-queries-not-using-indexes"
+    ]
+  }
+}

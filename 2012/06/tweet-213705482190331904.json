@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@AL0sborne @boffbowsh I sense a new globaldev blog post: dating tips from two of our own!"],"published":["2012-06-15T18:52:12Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23668712/status/213693606945497089"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/213705482190331904"],"slug":["tweet-213705482190331904"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@AL0sborne @boffbowsh I sense a new globaldev blog post: dating tips from two of our own!"
+    ],
+    "published": [
+      "2012-06-15T18:52:12Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23668712/status/213693606945497089"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/213705482190331904"
+    ],
+    "slug": [
+      "tweet-213705482190331904"
+    ]
+  }
+}

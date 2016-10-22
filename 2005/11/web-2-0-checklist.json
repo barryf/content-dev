@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-11-22T11:11:08Z"],"entry-type":["bookmark"],"name":["Web 2.0 Checklist"],"bookmark-of":["http://msippey.tadalist.com/lists/public/155420"],"category":["web20","fun","web","dev","via-pinboard"],"slug":["web-2-0-checklist"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-11-22T11:11:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Web 2.0 Checklist"
+    ],
+    "bookmark-of": [
+      "http://msippey.tadalist.com/lists/public/155420"
+    ],
+    "category": [
+      "web20",
+      "fun",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "web-2-0-checklist"
+    ]
+  }
+}

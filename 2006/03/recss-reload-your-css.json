@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Bookmarklet to reload stylesheets without reloading the page\n"],"published":["2006-03-18T13:54:53Z"],"entry-type":["bookmark"],"name":["ReCSS: Reload your CSS"],"bookmark-of":["http://dojotoolkit.org/~david/recss.html"],"category":["css","web","dev","via-pinboard"],"slug":["recss-reload-your-css"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Bookmarklet to reload stylesheets without reloading the page\n"
+    ],
+    "published": [
+      "2006-03-18T13:54:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ReCSS: Reload your CSS"
+    ],
+    "bookmark-of": [
+      "http://dojotoolkit.org/~david/recss.html"
+    ],
+    "category": [
+      "css",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "recss-reload-your-css"
+    ]
+  }
+}

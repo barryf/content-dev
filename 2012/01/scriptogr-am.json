@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Similar concept to Calepin - use your Dropbox to publish a Markdown-formatted blog\n"],"published":["2012-01-04T16:45:29Z"],"entry-type":["bookmark"],"name":["scriptogr.am"],"bookmark-of":["http://scriptogr.am/"],"category":["markdown","cms","blog","dropbox","via-pinboard"],"slug":["scriptogr-am"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Similar concept to Calepin - use your Dropbox to publish a Markdown-formatted blog\n"
+    ],
+    "published": [
+      "2012-01-04T16:45:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "scriptogr.am"
+    ],
+    "bookmark-of": [
+      "http://scriptogr.am/"
+    ],
+    "category": [
+      "markdown",
+      "cms",
+      "blog",
+      "dropbox",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scriptogr-am"
+    ]
+  }
+}

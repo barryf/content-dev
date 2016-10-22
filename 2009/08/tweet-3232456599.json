@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Pleased to see so many people flocking to @wld this evening. I think that's a record number of members online."],"published":["2009-08-10T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3232456599"],"slug":["tweet-3232456599"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pleased to see so many people flocking to @wld this evening. I think that's a record number of members online."
+    ],
+    "published": [
+      "2009-08-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3232456599"
+    ],
+    "slug": [
+      "tweet-3232456599"
+    ]
+  }
+}

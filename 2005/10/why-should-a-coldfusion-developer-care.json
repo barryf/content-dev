@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-24T08:43:34Z"],"entry-type":["bookmark"],"name":["Why should a ColdFusion Developer care about Flex 2.0 - AS Fusion"],"bookmark-of":["http://www.asfusion.com/blog/entry/why-should-a-coldfusion-developer-care"],"category":["coldfusion","flex","macromedia","web","dev","via-pinboard"],"slug":["why-should-a-coldfusion-developer-care"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-24T08:43:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why should a ColdFusion Developer care about Flex 2.0 - AS Fusion"
+    ],
+    "bookmark-of": [
+      "http://www.asfusion.com/blog/entry/why-should-a-coldfusion-developer-care"
+    ],
+    "category": [
+      "coldfusion",
+      "flex",
+      "macromedia",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-should-a-coldfusion-developer-care"
+    ]
+  }
+}

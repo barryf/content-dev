@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids Thanks Tom. Flash blocker used mainly to prevent ads, but it also switches to HTML5 video where available: runs cooler on my laptop"],"published":["2011-11-15T12:11:09Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/136366829294727168"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/136415942434500609"],"slug":["tweet-136415942434500609"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids Thanks Tom. Flash blocker used mainly to prevent ads, but it also switches to HTML5 video where available: runs cooler on my laptop"
+    ],
+    "published": [
+      "2011-11-15T12:11:09Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/136366829294727168"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/136415942434500609"
+    ],
+    "slug": [
+      "tweet-136415942434500609"
+    ]
+  }
+}

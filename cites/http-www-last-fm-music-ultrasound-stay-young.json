@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["http://www.last.fm/music/Ultrasound/_/Stay+Young"],"published":["2015-04-10T18:08:25Z"],"content":["‘Stay Young’ by Ultrasound"],"photo":["http://userserve-ak.last.fm/serve/174s/12641217.jpg"],"author":[null]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://www.last.fm/music/Ultrasound/_/Stay+Young"
+    ],
+    "published": [
+      "2015-04-10T18:08:25Z"
+    ],
+    "content": [
+      "‘Stay Young’ by Ultrasound"
+    ],
+    "photo": [
+      "http://userserve-ak.last.fm/serve/174s/12641217.jpg"
+    ],
+    "author": [
+      null
+    ]
+  }
+}

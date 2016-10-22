@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["YAPyF - from Aaron Swartz\n"],"published":["2005-12-08T09:44:17Z"],"entry-type":["bookmark"],"name":["web.py: makes web apps"],"bookmark-of":["http://webpy.org/"],"category":["dev","framework","python","web","via-pinboard"],"slug":["web-py-makes-web-apps"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "YAPyF - from Aaron Swartz\n"
+    ],
+    "published": [
+      "2005-12-08T09:44:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "web.py: makes web apps"
+    ],
+    "bookmark-of": [
+      "http://webpy.org/"
+    ],
+    "category": [
+      "dev",
+      "framework",
+      "python",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "web-py-makes-web-apps"
+    ]
+  }
+}

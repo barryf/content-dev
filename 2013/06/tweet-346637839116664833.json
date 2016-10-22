@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids It’s a new low for Twitter."],"published":["2013-06-17T14:37:55Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/346637733889966083"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/346637839116664833"],"slug":["tweet-346637839116664833"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids It’s a new low for Twitter."
+    ],
+    "published": [
+      "2013-06-17T14:37:55Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/346637733889966083"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/346637839116664833"
+    ],
+    "slug": [
+      "tweet-346637839116664833"
+    ]
+  }
+}

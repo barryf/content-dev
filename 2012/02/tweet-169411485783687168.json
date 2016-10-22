@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I like Valentine's Day when I'm given Fist of Fun as a present (not a euphemism) http://www.gofasterstripe.com/cgi-bin/website.cgi?page=videofull&id=11569"],"published":["2012-02-14T13:23:40Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/169411485783687168"],"slug":["tweet-169411485783687168"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I like Valentine's Day when I'm given Fist of Fun as a present (not a euphemism) http://www.gofasterstripe.com/cgi-bin/website.cgi?page=videofull&id=11569"
+    ],
+    "published": [
+      "2012-02-14T13:23:40Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/169411485783687168"
+    ],
+    "slug": [
+      "tweet-169411485783687168"
+    ]
+  }
+}

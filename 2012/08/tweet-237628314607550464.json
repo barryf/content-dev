@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Man Utd's new checked shirt must look propah nice with a Burberry cap on Yeovil High Street."],"published":["2012-08-20T19:12:59Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/237628314607550464"],"slug":["tweet-237628314607550464"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Man Utd's new checked shirt must look propah nice with a Burberry cap on Yeovil High Street."
+    ],
+    "published": [
+      "2012-08-20T19:12:59Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/237628314607550464"
+    ],
+    "slug": [
+      "tweet-237628314607550464"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Buy legal documents to setup UK companies - recommended by Ryan Carson at the Future of Web Apps conference\n"],"published":["2006-02-18T21:12:51Z"],"entry-type":["bookmark"],"name":["Clickdocs"],"bookmark-of":["http://www.clickdocs.co.uk/"],"category":["uk","legal","documentation","business","via-pinboard"],"slug":["clickdocs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Buy legal documents to setup UK companies - recommended by Ryan Carson at the Future of Web Apps conference\n"
+    ],
+    "published": [
+      "2006-02-18T21:12:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Clickdocs"
+    ],
+    "bookmark-of": [
+      "http://www.clickdocs.co.uk/"
+    ],
+    "category": [
+      "uk",
+      "legal",
+      "documentation",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "clickdocs"
+    ]
+  }
+}

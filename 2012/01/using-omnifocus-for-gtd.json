@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2012-01-25T14:44:00Z"],"entry-type":["bookmark"],"name":["Using Omnifocus for GTD"],"bookmark-of":["http://downloads.omnigroup.com/software/MacOSX/Extras/OmniFocus/GTDandOmniFocus.pdf"],"category":["productivity","gtd","omnifocus","via-pinboard"],"slug":["using-omnifocus-for-gtd"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-01-25T14:44:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Omnifocus for GTD"
+    ],
+    "bookmark-of": [
+      "http://downloads.omnigroup.com/software/MacOSX/Extras/OmniFocus/GTDandOmniFocus.pdf"
+    ],
+    "category": [
+      "productivity",
+      "gtd",
+      "omnifocus",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-omnifocus-for-gtd"
+    ]
+  }
+}

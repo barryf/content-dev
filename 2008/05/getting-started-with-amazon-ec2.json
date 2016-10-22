@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2008-05-04T18:40:11Z"],"entry-type":["bookmark"],"name":["Getting Started with Amazon EC2"],"bookmark-of":["http://paulstamatiou.com/2008/04/05/how-to-getting-started-with-amazon-ec2"],"category":["ec2","amazon","howto","aws","hosting","server","sysadmin","via-pinboard"],"slug":["getting-started-with-amazon-ec2"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-05-04T18:40:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Getting Started with Amazon EC2"
+    ],
+    "bookmark-of": [
+      "http://paulstamatiou.com/2008/04/05/how-to-getting-started-with-amazon-ec2"
+    ],
+    "category": [
+      "ec2",
+      "amazon",
+      "howto",
+      "aws",
+      "hosting",
+      "server",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "getting-started-with-amazon-ec2"
+    ]
+  }
+}

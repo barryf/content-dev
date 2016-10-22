@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Self-update Cocoa module which manages download, install and restart\n"],"published":["2007-01-04T11:02:42Z"],"entry-type":["bookmark"],"name":["Sparkle"],"bookmark-of":["http://andymatuschak.org/pages/sparkle"],"category":["business","cocoa","dev","mac","software","via-pinboard"],"slug":["sparkle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Self-update Cocoa module which manages download, install and restart\n"
+    ],
+    "published": [
+      "2007-01-04T11:02:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sparkle"
+    ],
+    "bookmark-of": [
+      "http://andymatuschak.org/pages/sparkle"
+    ],
+    "category": [
+      "business",
+      "cocoa",
+      "dev",
+      "mac",
+      "software",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sparkle"
+    ]
+  }
+}

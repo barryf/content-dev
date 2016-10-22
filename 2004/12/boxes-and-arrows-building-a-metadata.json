@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-12-01T11:09:00Z"],"entry-type":["bookmark"],"name":["Boxes and Arrows: Building a Metadata-Based Website"],"bookmark-of":["http://www.boxesandarrows.com/archives/building_a_metadatabased_website.php"],"category":["dev","web","via-pinboard"],"slug":["boxes-and-arrows-building-a-metadata"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-12-01T11:09:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Boxes and Arrows: Building a Metadata-Based Website"
+    ],
+    "bookmark-of": [
+      "http://www.boxesandarrows.com/archives/building_a_metadatabased_website.php"
+    ],
+    "category": [
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "boxes-and-arrows-building-a-metadata"
+    ]
+  }
+}

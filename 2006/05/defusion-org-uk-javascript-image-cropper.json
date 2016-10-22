@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Nice Javascript image cropper\n"],"published":["2006-05-26T12:53:24Z"],"entry-type":["bookmark"],"name":["DEfusion.org.uk » JavaScript Image Cropper UI, using Prototype & script.aculo.us"],"bookmark-of":["http://www.defusion.org.uk/code/javascript-image-cropper-ui-using-prototype-scriptaculous/"],"category":["image","javascript","web","dev","via-pinboard"],"slug":["defusion-org-uk-javascript-image-cropper"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nice Javascript image cropper\n"
+    ],
+    "published": [
+      "2006-05-26T12:53:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DEfusion.org.uk » JavaScript Image Cropper UI, using Prototype & script.aculo.us"
+    ],
+    "bookmark-of": [
+      "http://www.defusion.org.uk/code/javascript-image-cropper-ui-using-prototype-scriptaculous/"
+    ],
+    "category": [
+      "image",
+      "javascript",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "defusion-org-uk-javascript-image-cropper"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@lilja: \"I'm just geotagging my photos on Flickr. It's important.\" The geekiest girlfriend alive."],"published":["2008-09-06T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5680/status/897379123"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/912178714"],"slug":["tweet-912178714"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@lilja: \"I'm just geotagging my photos on Flickr. It's important.\" The geekiest girlfriend alive."
+    ],
+    "published": [
+      "2008-09-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5680/status/897379123"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/912178714"
+    ],
+    "slug": [
+      "tweet-912178714"
+    ]
+  }
+}

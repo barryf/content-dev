@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Driving off to the seaside in the morning. Hoping for candy floss, rock, donkeys and kiss-me-quick hats."],"published":["2010-02-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/9028649150"],"slug":["tweet-9028649150"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Driving off to the seaside in the morning. Hoping for candy floss, rock, donkeys and kiss-me-quick hats."
+    ],
+    "published": [
+      "2010-02-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/9028649150"
+    ],
+    "slug": [
+      "tweet-9028649150"
+    ]
+  }
+}

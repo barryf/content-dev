@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Yet another image zoomer but still quite sexy\n"],"published":["2008-04-01T22:10:42Z"],"entry-type":["bookmark"],"name":["FancyBox - jQuery image zooming plugin"],"bookmark-of":["http://fancy.klade.lv/"],"category":["jquery","lightbox","gallery","image","web","web20","javascript","via-pinboard"],"slug":["fancybox-jquery-image-zooming-plugin"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Yet another image zoomer but still quite sexy\n"
+    ],
+    "published": [
+      "2008-04-01T22:10:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FancyBox - jQuery image zooming plugin"
+    ],
+    "bookmark-of": [
+      "http://fancy.klade.lv/"
+    ],
+    "category": [
+      "jquery",
+      "lightbox",
+      "gallery",
+      "image",
+      "web",
+      "web20",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fancybox-jquery-image-zooming-plugin"
+    ]
+  }
+}

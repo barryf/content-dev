@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["At the risk of sounding like a Panic fanboy, this looks rather impressive and damn good value.\n"],"published":["2007-04-23T21:48:41Z"],"entry-type":["bookmark"],"name":["Panic - Coda - One-Window Web Development for Mac OS X"],"bookmark-of":["http://www.panic.com/coda/"],"category":["web","dev","design","css","panic","mac","via-pinboard"],"slug":["panic-coda-one-window-web-development"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "At the risk of sounding like a Panic fanboy, this looks rather impressive and damn good value.\n"
+    ],
+    "published": [
+      "2007-04-23T21:48:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Panic - Coda - One-Window Web Development for Mac OS X"
+    ],
+    "bookmark-of": [
+      "http://www.panic.com/coda/"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "design",
+      "css",
+      "panic",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "panic-coda-one-window-web-development"
+    ]
+  }
+}

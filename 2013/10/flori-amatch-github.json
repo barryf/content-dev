@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["This is a collection of classes that can be used for Approximate matching, searching, and comparing of Strings. They implement algorithms that compute the Levenshtein edit distance, Sellers edit distance, the Hamming distance, the longest common subsequence length, the longest common substring length, the pair distance metric, the Jaro-Winkler metric."],"published":["2013-10-21T18:14:27Z"],"entry-type":["bookmark"],"name":["flori/amatch · GitHub"],"bookmark-of":["https://github.com/flori/amatch"],"category":["string","compare","match","search","levenshtein","via-pinboard"],"slug":["flori-amatch-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This is a collection of classes that can be used for Approximate matching, searching, and comparing of Strings. They implement algorithms that compute the Levenshtein edit distance, Sellers edit distance, the Hamming distance, the longest common subsequence length, the longest common substring length, the pair distance metric, the Jaro-Winkler metric."
+    ],
+    "published": [
+      "2013-10-21T18:14:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "flori/amatch · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/flori/amatch"
+    ],
+    "category": [
+      "string",
+      "compare",
+      "match",
+      "search",
+      "levenshtein",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flori-amatch-github"
+    ]
+  }
+}

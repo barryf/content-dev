@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/ian_winter/status/639370525949751296"],"published":["2015-09-03T09:33:06Z"],"content":["RT @barryf: New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor dev.venntro.com/jobs/"],"repost-of":["https://barryfrost.com/2015/09/new-roles-i-m-looking-for"],"author":["https://ian.io"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/ian_winter/status/639370525949751296"
+    ],
+    "published": [
+      "2015-09-03T09:33:06Z"
+    ],
+    "content": [
+      "RT @barryf: New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor dev.venntro.com/jobs/"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/09/new-roles-i-m-looking-for"
+    ],
+    "author": [
+      "https://ian.io"
+    ]
+  }
+}

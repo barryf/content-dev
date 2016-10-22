@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["A list of ISPs that shape traffic or do other nasty things to their customers' internet connection\n"],"published":["2008-12-11T20:35:07Z"],"entry-type":["bookmark"],"name":["Bad ISPs"],"bookmark-of":["http://azureuswiki.com/index.php/Bad_ISPs#United_Kingdom"],"category":["isp","web","bittorrent","p2p","broadband","traffic","trafficshaping","internet","via-pinboard"],"slug":["bad-isps"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A list of ISPs that shape traffic or do other nasty things to their customers' internet connection\n"
+    ],
+    "published": [
+      "2008-12-11T20:35:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bad ISPs"
+    ],
+    "bookmark-of": [
+      "http://azureuswiki.com/index.php/Bad_ISPs#United_Kingdom"
+    ],
+    "category": [
+      "isp",
+      "web",
+      "bittorrent",
+      "p2p",
+      "broadband",
+      "traffic",
+      "trafficshaping",
+      "internet",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bad-isps"
+    ]
+  }
+}

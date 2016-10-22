@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["As @mattzilla and @smccran pointed out, Play Doh would have been much better than plasticine because I could at least have eaten it."],"published":["2009-05-22T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1881208061"],"slug":["tweet-1881208061"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "As @mattzilla and @smccran pointed out, Play Doh would have been much better than plasticine because I could at least have eaten it."
+    ],
+    "published": [
+      "2009-05-22T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1881208061"
+    ],
+    "slug": [
+      "tweet-1881208061"
+    ]
+  }
+}

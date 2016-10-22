@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@GrahamM_6t9 That’s really very close. Yes, we’re ~20 in the London office now. How are you these days?"],"published":["2014-10-16T18:49:32Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7567782/status/522803506563256320"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/522821662165590016"],"slug":["tweet-522821662165590016"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@GrahamM_6t9 That’s really very close. Yes, we’re ~20 in the London office now. How are you these days?"
+    ],
+    "published": [
+      "2014-10-16T18:49:32Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7567782/status/522803506563256320"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/522821662165590016"
+    ],
+    "slug": [
+      "tweet-522821662165590016"
+    ]
+  }
+}

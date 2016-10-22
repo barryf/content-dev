@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2014-11-24T09:57:55Z"],"entry-type":["bookmark"],"name":["A/B testing push notifications with Parse"],"bookmark-of":["http://blog.parse.com/2014/11/20/ab-best-practices-on-parse/"],"category":["push","ab","testing","parse","ios","via-pinboard"],"slug":["a-b-testing-push-notifications-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-11-24T09:57:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A/B testing push notifications with Parse"
+    ],
+    "bookmark-of": [
+      "http://blog.parse.com/2014/11/20/ab-best-practices-on-parse/"
+    ],
+    "category": [
+      "push",
+      "ab",
+      "testing",
+      "parse",
+      "ios",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-b-testing-push-notifications-with"
+    ]
+  }
+}

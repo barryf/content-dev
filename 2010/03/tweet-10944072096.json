@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes You like Bailey's?"],"published":["2010-03-23T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/10942434917"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10944072096"],"slug":["tweet-10944072096"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes You like Bailey's?"
+    ],
+    "published": [
+      "2010-03-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/10942434917"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10944072096"
+    ],
+    "slug": [
+      "tweet-10944072096"
+    ]
+  }
+}

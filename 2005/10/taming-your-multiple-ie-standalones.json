@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-15T10:00:32Z"],"entry-type":["bookmark"],"name":["Taming Your Multiple IE Standalones"],"bookmark-of":["http://www.positioniseverything.net/articles/multiIE.html"],"category":["ie","testing","web","dev","browser","design","via-pinboard"],"slug":["taming-your-multiple-ie-standalones"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-15T10:00:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Taming Your Multiple IE Standalones"
+    ],
+    "bookmark-of": [
+      "http://www.positioniseverything.net/articles/multiIE.html"
+    ],
+    "category": [
+      "ie",
+      "testing",
+      "web",
+      "dev",
+      "browser",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "taming-your-multiple-ie-standalones"
+    ]
+  }
+}

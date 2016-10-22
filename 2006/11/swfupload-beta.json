@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Multiple file uploads using Flash\n"],"published":["2006-11-17T08:27:29Z"],"entry-type":["bookmark"],"name":["SWFUpload beta"],"bookmark-of":["http://labb.dev.mammon.se/swfupload/"],"category":["flash","upload","web","dev","file","javascript","via-pinboard"],"slug":["swfupload-beta"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Multiple file uploads using Flash\n"
+    ],
+    "published": [
+      "2006-11-17T08:27:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SWFUpload beta"
+    ],
+    "bookmark-of": [
+      "http://labb.dev.mammon.se/swfupload/"
+    ],
+    "category": [
+      "flash",
+      "upload",
+      "web",
+      "dev",
+      "file",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "swfupload-beta"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jasonkneen And yet it's still in its wrapper. Too busy!"],"published":["2011-10-14T13:32:36Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6392872/status/124779874455011329"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/124840028038889473"],"slug":["tweet-124840028038889473"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jasonkneen And yet it's still in its wrapper. Too busy!"
+    ],
+    "published": [
+      "2011-10-14T13:32:36Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6392872/status/124779874455011329"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/124840028038889473"
+    ],
+    "slug": [
+      "tweet-124840028038889473"
+    ]
+  }
+}

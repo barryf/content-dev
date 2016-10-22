@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Techniques to increase front-end web performance"],"published":["2015-06-11T10:37:23Z"],"entry-type":["bookmark"],"name":["Making a difference with performance"],"bookmark-of":["http://jaicab.com/2015/05/18/making-a-difference-with-performance/"],"category":["performance","web","design"],"slug":["making-a-difference-with-performance"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Techniques to increase front-end web performance"
+    ],
+    "published": [
+      "2015-06-11T10:37:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Making a difference with performance"
+    ],
+    "bookmark-of": [
+      "http://jaicab.com/2015/05/18/making-a-difference-with-performance/"
+    ],
+    "category": [
+      "performance",
+      "web",
+      "design"
+    ],
+    "slug": [
+      "making-a-difference-with-performance"
+    ]
+  }
+}

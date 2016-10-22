@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Crieff 🚕 Edinburgh 🚞 Kings Cross 🚇 Paddington 🚞 Slough 🚞 Windsor 🚗 Home in 9.5 hours"],"published":["2013-05-14T16:22:36Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/334342993282736129"],"slug":["tweet-334342993282736129"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Crieff 🚕 Edinburgh 🚞 Kings Cross 🚇 Paddington 🚞 Slough 🚞 Windsor 🚗 Home in 9.5 hours"
+    ],
+    "published": [
+      "2013-05-14T16:22:36Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/334342993282736129"
+    ],
+    "slug": [
+      "tweet-334342993282736129"
+    ]
+  }
+}

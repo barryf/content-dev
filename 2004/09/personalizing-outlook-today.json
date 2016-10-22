@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-13T12:44:22Z"],"entry-type":["bookmark"],"name":["Personalizing Outlook Today"],"bookmark-of":["http://weblogs.asp.net/cumpsd/archive/2004/06/25/166026.aspx"],"category":["outlook","via-pinboard"],"slug":["personalizing-outlook-today"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-13T12:44:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Personalizing Outlook Today"
+    ],
+    "bookmark-of": [
+      "http://weblogs.asp.net/cumpsd/archive/2004/06/25/166026.aspx"
+    ],
+    "category": [
+      "outlook",
+      "via-pinboard"
+    ],
+    "slug": [
+      "personalizing-outlook-today"
+    ]
+  }
+}

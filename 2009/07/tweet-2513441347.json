@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I love my new office and MacBook Pro setup. Happy geek.   http://twitpic.com/9l5sy"],"published":["2009-07-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2513441347"],"slug":["tweet-2513441347"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I love my new office and MacBook Pro setup. Happy geek.   http://twitpic.com/9l5sy"
+    ],
+    "published": [
+      "2009-07-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2513441347"
+    ],
+    "slug": [
+      "tweet-2513441347"
+    ]
+  }
+}

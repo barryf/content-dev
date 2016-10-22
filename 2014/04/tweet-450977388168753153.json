@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@tomgiddings The Openreach site still says “coming soon” but BT accepted my order early. Worth checking in May. I shouldn’t be this excited."],"published":["2014-04-01T12:46:02Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6830602/status/450976943656435712"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/450977388168753153"],"slug":["tweet-450977388168753153"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@tomgiddings The Openreach site still says “coming soon” but BT accepted my order early. Worth checking in May. I shouldn’t be this excited."
+    ],
+    "published": [
+      "2014-04-01T12:46:02Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6830602/status/450976943656435712"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/450977388168753153"
+    ],
+    "slug": [
+      "tweet-450977388168753153"
+    ]
+  }
+}

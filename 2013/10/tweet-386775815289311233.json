@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewgarner Nice. I didn’t realise the 4 was out yet - thanks. I should go see it for comparison."],"published":["2013-10-06T08:51:54Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15734896/status/386764878645837824"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/386775815289311233"],"slug":["tweet-386775815289311233"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewgarner Nice. I didn’t realise the 4 was out yet - thanks. I should go see it for comparison."
+    ],
+    "published": [
+      "2013-10-06T08:51:54Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15734896/status/386764878645837824"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/386775815289311233"
+    ],
+    "slug": [
+      "tweet-386775815289311233"
+    ]
+  }
+}

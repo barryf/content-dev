@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Via your Mac's web server\n"],"published":["2007-09-24T16:39:01Z"],"entry-type":["bookmark"],"name":["iTunes streaming to your iPhone"],"bookmark-of":["http://embraceware.com/blog/2007/09/21/out-of-the-box-itunes-streaming-to-your-iphone/"],"category":["mac","server","itunes","iphone","streaming","music","audio","via-pinboard"],"slug":["itunes-streaming-to-your-iphone"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Via your Mac's web server\n"
+    ],
+    "published": [
+      "2007-09-24T16:39:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iTunes streaming to your iPhone"
+    ],
+    "bookmark-of": [
+      "http://embraceware.com/blog/2007/09/21/out-of-the-box-itunes-streaming-to-your-iphone/"
+    ],
+    "category": [
+      "mac",
+      "server",
+      "itunes",
+      "iphone",
+      "streaming",
+      "music",
+      "audio",
+      "via-pinboard"
+    ],
+    "slug": [
+      "itunes-streaming-to-your-iphone"
+    ]
+  }
+}

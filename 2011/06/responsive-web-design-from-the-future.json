@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["\"Responsive web design is about a lot more than the size of your screen\". HTML5's history API, pushState, replaceState, Hashbangs, Ajax, Pjax and other topics from GitHub's designer\n"],"published":["2011-06-02T12:55:56Z"],"entry-type":["bookmark"],"name":["Responsive web design from the future"],"bookmark-of":["http://warpspire.com/talks/responsive/"],"category":["pushstate","replacestate","hashbang","ajax","pjax","html5","responsive","design","history","web","github","via-pinboard"],"slug":["responsive-web-design-from-the-future"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Responsive web design is about a lot more than the size of your screen\". HTML5's history API, pushState, replaceState, Hashbangs, Ajax, Pjax and other topics from GitHub's designer\n"
+    ],
+    "published": [
+      "2011-06-02T12:55:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Responsive web design from the future"
+    ],
+    "bookmark-of": [
+      "http://warpspire.com/talks/responsive/"
+    ],
+    "category": [
+      "pushstate",
+      "replacestate",
+      "hashbang",
+      "ajax",
+      "pjax",
+      "html5",
+      "responsive",
+      "design",
+      "history",
+      "web",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "responsive-web-design-from-the-future"
+    ]
+  }
+}

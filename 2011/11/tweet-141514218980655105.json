@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["BERG's Little Printer: cute wireless mini printer that produces b&w weather, puzzles, headlines and updates via cloud http://bergcloud.com/littleprinter/"],"published":["2011-11-29T13:49:53Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/141514218980655105"],"slug":["tweet-141514218980655105"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "BERG's Little Printer: cute wireless mini printer that produces b&w weather, puzzles, headlines and updates via cloud http://bergcloud.com/littleprinter/"
+    ],
+    "published": [
+      "2011-11-29T13:49:53Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/141514218980655105"
+    ],
+    "slug": [
+      "tweet-141514218980655105"
+    ]
+  }
+}

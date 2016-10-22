@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-02-21T08:00:04Z"],"entry-type":["bookmark"],"name":["Host Your Static Website on Amazon S3"],"bookmark-of":["http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html"],"category":["hosting","aws","s3","static","server","via-pinboard"],"slug":["host-your-static-website-on-amazon"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-02-21T08:00:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Host Your Static Website on Amazon S3"
+    ],
+    "bookmark-of": [
+      "http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html"
+    ],
+    "category": [
+      "hosting",
+      "aws",
+      "s3",
+      "static",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "host-your-static-website-on-amazon"
+    ]
+  }
+}

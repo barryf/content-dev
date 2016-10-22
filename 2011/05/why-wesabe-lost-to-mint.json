@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Lessons and myth-debunking. Spending 6 months to write their own bank data importer - rather than using Yodlee - was perhaps key. Also note that Mint used SEM to acquire customers at $1/user.\n"],"published":["2011-05-01T12:13:08Z"],"entry-type":["bookmark"],"name":["Why Wesabe Lost to Mint"],"bookmark-of":["http://blog.precipice.org/why-wesabe-lost-to-mint"],"category":["mint","wesabe","bank","business","startup","lessons","via-pinboard"],"slug":["why-wesabe-lost-to-mint"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lessons and myth-debunking. Spending 6 months to write their own bank data importer - rather than using Yodlee - was perhaps key. Also note that Mint used SEM to acquire customers at $1/user.\n"
+    ],
+    "published": [
+      "2011-05-01T12:13:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why Wesabe Lost to Mint"
+    ],
+    "bookmark-of": [
+      "http://blog.precipice.org/why-wesabe-lost-to-mint"
+    ],
+    "category": [
+      "mint",
+      "wesabe",
+      "bank",
+      "business",
+      "startup",
+      "lessons",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-wesabe-lost-to-mint"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-10T11:32:29Z"],"entry-type":["bookmark"],"name":["XML.com: Very Dynamic Web Interfaces"],"bookmark-of":["http://www.xml.com/pub/a/2005/02/09/xml-http-request.html"],"category":["javascript","dhtml","web","dev","via-pinboard"],"slug":["xml-com-very-dynamic-web-interfaces"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-10T11:32:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "XML.com: Very Dynamic Web Interfaces"
+    ],
+    "bookmark-of": [
+      "http://www.xml.com/pub/a/2005/02/09/xml-http-request.html"
+    ],
+    "category": [
+      "javascript",
+      "dhtml",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "xml-com-very-dynamic-web-interfaces"
+    ]
+  }
+}

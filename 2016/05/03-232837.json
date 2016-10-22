@@ -1,1 +1,24 @@
-{"type":["h-entry"],"properties":{"published":["2016-05-03T22:28:37Z"],"entry-type":["repost"],"repost-of":["https://mobile.twitter.com/simonw/status/727593669386113024"],"category":["hamburger","navigation","ux"],"slug":["03-232837"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-05-03T22:28:37Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://mobile.twitter.com/simonw/status/727593669386113024"
+    ],
+    "category": [
+      "hamburger",
+      "navigation",
+      "ux"
+    ],
+    "slug": [
+      "03-232837"
+    ]
+  }
+}

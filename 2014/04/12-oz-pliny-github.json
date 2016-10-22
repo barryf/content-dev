@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-07T13:08:44Z"],"entry-type":["bookmark"],"name":["12-oz/pliny · GitHub"],"bookmark-of":["https://github.com/12-oz/pliny"],"category":["fromifttt","github","via-pinboard"],"slug":["12-oz-pliny-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-07T13:08:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "12-oz/pliny · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/12-oz/pliny"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "12-oz-pliny-github"
+    ]
+  }
+}

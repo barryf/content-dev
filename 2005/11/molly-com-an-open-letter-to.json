@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Disney Store UK: was good; now poo\n"],"published":["2005-11-09T19:37:45Z"],"entry-type":["bookmark"],"name":["molly.com » An Open Letter to Disney Store UK"],"bookmark-of":["http://www.molly.com/2005/11/03/an-open-letter-to-disney-store-uk/"],"category":["accessibility","css","html","standards","via-pinboard"],"slug":["molly-com-an-open-letter-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Disney Store UK: was good; now poo\n"
+    ],
+    "published": [
+      "2005-11-09T19:37:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "molly.com » An Open Letter to Disney Store UK"
+    ],
+    "bookmark-of": [
+      "http://www.molly.com/2005/11/03/an-open-letter-to-disney-store-uk/"
+    ],
+    "category": [
+      "accessibility",
+      "css",
+      "html",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "molly-com-an-open-letter-to"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@keithclarkcouk Can we buy them unlocked?"],"published":["2011-11-12T09:34:59Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/74691846/status/135288053987164161"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/135289475663282176"],"slug":["tweet-135289475663282176"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@keithclarkcouk Can we buy them unlocked?"
+    ],
+    "published": [
+      "2011-11-12T09:34:59Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/74691846/status/135288053987164161"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/135289475663282176"
+    ],
+    "slug": [
+      "tweet-135289475663282176"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@neilmiddleton Intriguing. Looking forward to hearing more."],"published":["2013-03-04T18:56:24Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4143281/status/308651893150859264"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/308652160080547840"],"slug":["tweet-308652160080547840"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@neilmiddleton Intriguing. Looking forward to hearing more."
+    ],
+    "published": [
+      "2013-03-04T18:56:24Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4143281/status/308651893150859264"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/308652160080547840"
+    ],
+    "slug": [
+      "tweet-308652160080547840"
+    ]
+  }
+}

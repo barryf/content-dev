@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2006-08-31T18:41:34Z"],"entry-type":["bookmark"],"name":["Instant Badger: RegEx to fully validate RFC822 email addresses"],"bookmark-of":["http://instantbadger.blogspot.com/2006/08/regex-to-fully-validate-rfc822-email.html"],"category":["regex","rfc","email","via-pinboard"],"slug":["instant-badger-regex-to-fully-validate"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-08-31T18:41:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Instant Badger: RegEx to fully validate RFC822 email addresses"
+    ],
+    "bookmark-of": [
+      "http://instantbadger.blogspot.com/2006/08/regex-to-fully-validate-rfc822-email.html"
+    ],
+    "category": [
+      "regex",
+      "rfc",
+      "email",
+      "via-pinboard"
+    ],
+    "slug": [
+      "instant-badger-regex-to-fully-validate"
+    ]
+  }
+}

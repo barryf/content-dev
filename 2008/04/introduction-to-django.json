@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-04-19T10:29:05Z"],"entry-type":["bookmark"],"name":["Introduction to Django"],"bookmark-of":["http://toys.jacobian.org/presentations/2008/pycon/tutorial/"],"category":["django","python","presentation","dev","web","framework","via-pinboard"],"slug":["introduction-to-django"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-04-19T10:29:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Introduction to Django"
+    ],
+    "bookmark-of": [
+      "http://toys.jacobian.org/presentations/2008/pycon/tutorial/"
+    ],
+    "category": [
+      "django",
+      "python",
+      "presentation",
+      "dev",
+      "web",
+      "framework",
+      "via-pinboard"
+    ],
+    "slug": [
+      "introduction-to-django"
+    ]
+  }
+}

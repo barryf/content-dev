@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@hannah__alice Well done, Kiwis. Lump in my throat when they sung Pokarekare Ana for me too!"],"published":["2013-04-17T14:27:55Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/351565163/status/324528504895057920"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/324529661281443840"],"slug":["tweet-324529661281443840"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hannah__alice Well done, Kiwis. Lump in my throat when they sung Pokarekare Ana for me too!"
+    ],
+    "published": [
+      "2013-04-17T14:27:55Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/351565163/status/324528504895057920"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/324529661281443840"
+    ],
+    "slug": [
+      "tweet-324529661281443840"
+    ]
+  }
+}

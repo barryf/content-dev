@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@lebreeze Maybe, but we'll have a go and attack. Better than stuttering against Schalke."],"published":["2010-12-17T16:46:19Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14114260/status/15807377546678273"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/15810031521898497"],"slug":["tweet-15810031521898497"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@lebreeze Maybe, but we'll have a go and attack. Better than stuttering against Schalke."
+    ],
+    "published": [
+      "2010-12-17T16:46:19Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14114260/status/15807377546678273"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/15810031521898497"
+    ],
+    "slug": [
+      "tweet-15810031521898497"
+    ]
+  }
+}

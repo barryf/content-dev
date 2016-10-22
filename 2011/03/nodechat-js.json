@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Using node.js, backbone.js, socket.io, and redis to make a real time chat app\n"],"published":["2011-03-10T12:33:28Z"],"entry-type":["bookmark"],"name":["nodechat.js"],"bookmark-of":["http://fzysqr.com/2011/02/28/nodechat-js-using-node-js-backbone-js-socket-io-and-redis-to-make-a-real-time-chat-app/"],"category":["nodejs","backbone","socket","redis","chat","im","fortimblair","via-pinboard"],"slug":["nodechat-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Using node.js, backbone.js, socket.io, and redis to make a real time chat app\n"
+    ],
+    "published": [
+      "2011-03-10T12:33:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "nodechat.js"
+    ],
+    "bookmark-of": [
+      "http://fzysqr.com/2011/02/28/nodechat-js-using-node-js-backbone-js-socket-io-and-redis-to-make-a-real-time-chat-app/"
+    ],
+    "category": [
+      "nodejs",
+      "backbone",
+      "socket",
+      "redis",
+      "chat",
+      "im",
+      "fortimblair",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nodechat-js"
+    ]
+  }
+}

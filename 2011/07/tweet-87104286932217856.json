@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["There's a huge pirate bouncy [castle] ship in the nursery school playground behind my house. Insanely jealous."],"published":["2011-07-02T10:24:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/87104286932217856"],"slug":["tweet-87104286932217856"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "There's a huge pirate bouncy [castle] ship in the nursery school playground behind my house. Insanely jealous."
+    ],
+    "published": [
+      "2011-07-02T10:24:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/87104286932217856"
+    ],
+    "slug": [
+      "tweet-87104286932217856"
+    ]
+  }
+}

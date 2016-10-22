@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Shaun Keaveny"],"photo":["http://pbs.twimg.com/profile_images/436089940691021824/sy59Wm4Y_normal.jpeg"],"url":["https://twitter.com/shaunwkeaveny"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Shaun Keaveny"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/436089940691021824/sy59Wm4Y_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/shaunwkeaveny"
+    ]
+  }
+}

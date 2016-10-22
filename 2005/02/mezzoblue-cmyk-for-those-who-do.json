@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-12T10:14:07Z"],"entry-type":["bookmark"],"name":["mezzoblue: CMYK (for Those Who Do RGB)"],"bookmark-of":["http://www.mezzoblue.com/archives/2005/02/11/cmyk_for_tho/index.php"],"category":["print","design","via-pinboard"],"slug":["mezzoblue-cmyk-for-those-who-do"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-12T10:14:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "mezzoblue: CMYK (for Those Who Do RGB)"
+    ],
+    "bookmark-of": [
+      "http://www.mezzoblue.com/archives/2005/02/11/cmyk_for_tho/index.php"
+    ],
+    "category": [
+      "print",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mezzoblue-cmyk-for-those-who-do"
+    ]
+  }
+}

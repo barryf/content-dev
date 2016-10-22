@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Use IDs like /123-abc-def for URLs instead of /12\n"],"published":["2007-01-13T15:43:59Z"],"entry-type":["bookmark"],"name":["Not So Stupid » Blog Archive » URLs on Rails"],"bookmark-of":["http://www.notsostupid.com/blog/2006/07/07/urls-on-rails/"],"category":["rails","url","web","seo","dev","via-pinboard"],"slug":["not-so-stupid-blog-archive-urls"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Use IDs like /123-abc-def for URLs instead of /12\n"
+    ],
+    "published": [
+      "2007-01-13T15:43:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Not So Stupid » Blog Archive » URLs on Rails"
+    ],
+    "bookmark-of": [
+      "http://www.notsostupid.com/blog/2006/07/07/urls-on-rails/"
+    ],
+    "category": [
+      "rails",
+      "url",
+      "web",
+      "seo",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "not-so-stupid-blog-archive-urls"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Free, postcode search, sale history, Google Maps, clean interface, wonderful\n"],"published":["2007-02-04T09:50:15Z"],"entry-type":["bookmark"],"name":["UK House Prices"],"bookmark-of":["http://www.houseprices.co.uk/"],"category":["uk","property","house","map","flat","postcode","viaremovablecloud","via-pinboard"],"slug":["uk-house-prices"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free, postcode search, sale history, Google Maps, clean interface, wonderful\n"
+    ],
+    "published": [
+      "2007-02-04T09:50:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UK House Prices"
+    ],
+    "bookmark-of": [
+      "http://www.houseprices.co.uk/"
+    ],
+    "category": [
+      "uk",
+      "property",
+      "house",
+      "map",
+      "flat",
+      "postcode",
+      "viaremovablecloud",
+      "via-pinboard"
+    ],
+    "slug": [
+      "uk-house-prices"
+    ]
+  }
+}

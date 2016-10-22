@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Look out for Barry... coming soon! http://bit.ly/2grESF"],"published":["2008-09-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/939350678"],"slug":["tweet-939350678"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Look out for Barry... coming soon! http://bit.ly/2grESF"
+    ],
+    "published": [
+      "2008-09-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/939350678"
+    ],
+    "slug": [
+      "tweet-939350678"
+    ]
+  }
+}

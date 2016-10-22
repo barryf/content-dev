@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Jim Groom (@jimgroom)"],"photo":["http://pbs.twimg.com/profile_images/553655176599318529/rogpWacS_normal.jpeg"],"url":["https://twitter.com/jimgroom"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jim Groom (@jimgroom)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/553655176599318529/rogpWacS_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/jimgroom"
+    ]
+  }
+}

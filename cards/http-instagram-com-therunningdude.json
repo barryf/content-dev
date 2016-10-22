@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Gary Taylor"],"photo":["https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-19/10895373_743683639013605_1416211285_a.jpg"],"url":["http://instagram.com/therunningdude"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Gary Taylor"
+    ],
+    "photo": [
+      "https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-19/10895373_743683639013605_1416211285_a.jpg"
+    ],
+    "url": [
+      "http://instagram.com/therunningdude"
+    ]
+  }
+}

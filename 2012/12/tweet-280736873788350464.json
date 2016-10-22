@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Off to London for @robinince’s Nine Carols for Godless People this evening. Humanist festive cheer with comedians, science people and music."],"published":["2012-12-17T18:11:01Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/280736873788350464"],"slug":["tweet-280736873788350464"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Off to London for @robinince’s Nine Carols for Godless People this evening. Humanist festive cheer with comedians, science people and music."
+    ],
+    "published": [
+      "2012-12-17T18:11:01Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/280736873788350464"
+    ],
+    "slug": [
+      "tweet-280736873788350464"
+    ]
+  }
+}

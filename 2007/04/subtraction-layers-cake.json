@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Grid-based layout design in Photoshop\n"],"published":["2007-04-05T12:34:57Z"],"entry-type":["bookmark"],"name":["Subtraction: Layers Cake"],"bookmark-of":["http://www.subtraction.com/archives/2007/0402_layers_cake.php"],"category":["design","photoshop","web","grid","layout","forrawnetcreative","via-pinboard"],"slug":["subtraction-layers-cake"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Grid-based layout design in Photoshop\n"
+    ],
+    "published": [
+      "2007-04-05T12:34:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Subtraction: Layers Cake"
+    ],
+    "bookmark-of": [
+      "http://www.subtraction.com/archives/2007/0402_layers_cake.php"
+    ],
+    "category": [
+      "design",
+      "photoshop",
+      "web",
+      "grid",
+      "layout",
+      "forrawnetcreative",
+      "via-pinboard"
+    ],
+    "slug": [
+      "subtraction-layers-cake"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh Can't beat a bit of Sorkin. Armando Ianucci's Veep promises great things too if you like your 'merkin comedy."],"published":["2012-03-31T22:56:25Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/186224170152116224"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/186225464266854400"],"slug":["tweet-186225464266854400"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh Can't beat a bit of Sorkin. Armando Ianucci's Veep promises great things too if you like your 'merkin comedy."
+    ],
+    "published": [
+      "2012-03-31T22:56:25Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/186224170152116224"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/186225464266854400"
+    ],
+    "slug": [
+      "tweet-186225464266854400"
+    ]
+  }
+}

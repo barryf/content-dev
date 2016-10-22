@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Could be handy if I start using Instapaper\n"],"published":["2008-02-02T12:58:08Z"],"entry-type":["bookmark"],"name":["NetNewsWire -> instapaper (AppleScript)"],"bookmark-of":["http://nuspi.blogspot.com/2008/02/post-to-instapaper-applescript.html"],"category":["instapaper","netnewswire","workflow","personal","applescript","mac","rss","todo","via-pinboard"],"slug":["netnewswire-instapaper-applescript"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Could be handy if I start using Instapaper\n"
+    ],
+    "published": [
+      "2008-02-02T12:58:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "NetNewsWire -> instapaper (AppleScript)"
+    ],
+    "bookmark-of": [
+      "http://nuspi.blogspot.com/2008/02/post-to-instapaper-applescript.html"
+    ],
+    "category": [
+      "instapaper",
+      "netnewswire",
+      "workflow",
+      "personal",
+      "applescript",
+      "mac",
+      "rss",
+      "todo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "netnewswire-instapaper-applescript"
+    ]
+  }
+}

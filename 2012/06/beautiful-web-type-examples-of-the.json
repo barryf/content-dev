@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2012-06-13T09:57:05Z"],"entry-type":["bookmark"],"name":["Beautiful web type - examples of the best Google web typefaces /via @sevenupcan"],"bookmark-of":["http://hellohappy.org/beautiful-web-type/"],"category":["tweet","google","typography","font","free","via-pinboard"],"slug":["beautiful-web-type-examples-of-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-06-13T09:57:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Beautiful web type - examples of the best Google web typefaces /via @sevenupcan"
+    ],
+    "bookmark-of": [
+      "http://hellohappy.org/beautiful-web-type/"
+    ],
+    "category": [
+      "tweet",
+      "google",
+      "typography",
+      "font",
+      "free",
+      "via-pinboard"
+    ],
+    "slug": [
+      "beautiful-web-type-examples-of-the"
+    ]
+  }
+}

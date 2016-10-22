@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@jeffdaviess Still feeling fine, thanks, 2 years on. Very glad I went through with the surgery. Good luck if you’re considering it."],"published":["2012-11-29T22:50:05Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/274284123999309824"],"slug":["tweet-274284123999309824"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jeffdaviess Still feeling fine, thanks, 2 years on. Very glad I went through with the surgery. Good luck if you’re considering it."
+    ],
+    "published": [
+      "2012-11-29T22:50:05Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/274284123999309824"
+    ],
+    "slug": [
+      "tweet-274284123999309824"
+    ]
+  }
+}

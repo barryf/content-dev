@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Challenge me on #Letterpress, a new word game for iPhone and iPad. I'm barryfrost on Game Center http://www.atebits.com/letterpress/"],"published":["2012-10-25T07:05:16Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/261362778714042368"],"slug":["tweet-261362778714042368"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Challenge me on #Letterpress, a new word game for iPhone and iPad. I'm barryfrost on Game Center http://www.atebits.com/letterpress/"
+    ],
+    "published": [
+      "2012-10-25T07:05:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/261362778714042368"
+    ],
+    "slug": [
+      "tweet-261362778714042368"
+    ]
+  }
+}

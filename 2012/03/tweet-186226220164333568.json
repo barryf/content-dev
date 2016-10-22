@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jasonkneen Nice try, JK. #arsefeckgirls"],"published":["2012-03-31T22:59:25Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6392872/status/186224559077339137"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/186226220164333568"],"slug":["tweet-186226220164333568"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jasonkneen Nice try, JK. #arsefeckgirls"
+    ],
+    "published": [
+      "2012-03-31T22:59:25Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6392872/status/186224559077339137"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/186226220164333568"
+    ],
+    "slug": [
+      "tweet-186226220164333568"
+    ]
+  }
+}

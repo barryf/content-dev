@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-12-20T15:40:50Z"],"entry-type":["bookmark"],"name":["voxpelli/webpage-webmentions · GitHub"],"bookmark-of":["https://github.com/voxpelli/webpage-webmentions"],"category":["fromifttt","github","via-pinboard"],"slug":["voxpelli-webpage-webmentions-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-12-20T15:40:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "voxpelli/webpage-webmentions · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/voxpelli/webpage-webmentions"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "voxpelli-webpage-webmentions-github"
+    ]
+  }
+}

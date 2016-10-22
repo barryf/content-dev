@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://mobile.twitter.com/RebeccaSlatkin/status/588061034822377472"],"published":["2015-04-14T19:27:31Z"],"content":["What recruiters think I want: Beer cart, ping pong table\nWhat I really want: Silence, coworkers with good table manners, attention to UX"],"author":["https://twitter.com/RebeccaSlatkin"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://mobile.twitter.com/RebeccaSlatkin/status/588061034822377472"
+    ],
+    "published": [
+      "2015-04-14T19:27:31Z"
+    ],
+    "content": [
+      "What recruiters think I want: Beer cart, ping pong table\nWhat I really want: Silence, coworkers with good table manners, attention to UX"
+    ],
+    "author": [
+      "https://twitter.com/RebeccaSlatkin"
+    ]
+  }
+}

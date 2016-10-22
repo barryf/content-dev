@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Tightened up design that maximises to a Fluid window. Needs userstyles so use a pre-1.0 version of Fluid or pay for the Pro version.\n"],"published":["2011-05-07T11:44:22Z"],"entry-type":["bookmark"],"name":["Simplenote Fluid userstyle"],"bookmark-of":["http://www.ryanrjames.com/2011/01/03/simplenote-fluid-userstyle/"],"category":["fluid","ssb","userstyle","simplenote","via-pinboard"],"slug":["simplenote-fluid-userstyle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tightened up design that maximises to a Fluid window. Needs userstyles so use a pre-1.0 version of Fluid or pay for the Pro version.\n"
+    ],
+    "published": [
+      "2011-05-07T11:44:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Simplenote Fluid userstyle"
+    ],
+    "bookmark-of": [
+      "http://www.ryanrjames.com/2011/01/03/simplenote-fluid-userstyle/"
+    ],
+    "category": [
+      "fluid",
+      "ssb",
+      "userstyle",
+      "simplenote",
+      "via-pinboard"
+    ],
+    "slug": [
+      "simplenote-fluid-userstyle"
+    ]
+  }
+}

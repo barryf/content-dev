@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Wow. Comprehensive and compulsive as Frank suggests. (via nickdunn).\n"],"published":["2007-05-10T12:21:27Z"],"entry-type":["bookmark"],"name":["FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES"],"bookmark-of":["http://www.columbia.edu/kermit/postal.html#england"],"category":["mail","reference","uk","postal","postcode","via-pinboard"],"slug":["frank-s-compulsive-guide-to-postal"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wow. Comprehensive and compulsive as Frank suggests. (via nickdunn).\n"
+    ],
+    "published": [
+      "2007-05-10T12:21:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES"
+    ],
+    "bookmark-of": [
+      "http://www.columbia.edu/kermit/postal.html#england"
+    ],
+    "category": [
+      "mail",
+      "reference",
+      "uk",
+      "postal",
+      "postcode",
+      "via-pinboard"
+    ],
+    "slug": [
+      "frank-s-compulsive-guide-to-postal"
+    ]
+  }
+}

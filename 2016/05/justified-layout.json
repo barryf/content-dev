@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Pass in box sizes and get back sizes and coordinates for a justified layout"],"published":["2016-05-09T11:16:11Z"],"entry-type":["bookmark"],"name":["justified-layout"],"bookmark-of":["https://github.com/flickr/justified-layout"],"category":["album","gallery","flickr","image","justified"],"slug":["justified-layout"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pass in box sizes and get back sizes and coordinates for a justified layout"
+    ],
+    "published": [
+      "2016-05-09T11:16:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "justified-layout"
+    ],
+    "bookmark-of": [
+      "https://github.com/flickr/justified-layout"
+    ],
+    "category": [
+      "album",
+      "gallery",
+      "flickr",
+      "image",
+      "justified"
+    ],
+    "slug": [
+      "justified-layout"
+    ]
+  }
+}

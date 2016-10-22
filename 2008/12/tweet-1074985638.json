@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Ruby framework Merb to be absorbed in to Rails 3 next year (via @luke_bkk) http://bit.ly/14F2Q"],"published":["2008-12-23T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1074985638"],"slug":["tweet-1074985638"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby framework Merb to be absorbed in to Rails 3 next year (via @luke_bkk) http://bit.ly/14F2Q"
+    ],
+    "published": [
+      "2008-12-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1074985638"
+    ],
+    "slug": [
+      "tweet-1074985638"
+    ]
+  }
+}

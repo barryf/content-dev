@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@JohnCStaunton @cronkshaw Sounds good, John. Perhaps we could meet up during one of the breaks or at lunch?"],"published":["2013-10-29T23:18:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/390086047/status/395322359647047680"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/395328721634463744"],"slug":["tweet-395328721634463744"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@JohnCStaunton @cronkshaw Sounds good, John. Perhaps we could meet up during one of the breaks or at lunch?"
+    ],
+    "published": [
+      "2013-10-29T23:18:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/390086047/status/395322359647047680"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/395328721634463744"
+    ],
+    "slug": [
+      "tweet-395328721634463744"
+    ]
+  }
+}

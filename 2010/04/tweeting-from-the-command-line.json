@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Ian's script, useful if you're an utter shell nerd like him\n"],"published":["2010-04-25T14:38:53Z"],"entry-type":["bookmark"],"name":["Tweeting from the command line"],"bookmark-of":["http://ianwinter.co.uk/2010/04/21/tweeting-from-the-command-line/"],"category":["twitter","shell","script","via-pinboard"],"slug":["tweeting-from-the-command-line"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ian's script, useful if you're an utter shell nerd like him\n"
+    ],
+    "published": [
+      "2010-04-25T14:38:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tweeting from the command line"
+    ],
+    "bookmark-of": [
+      "http://ianwinter.co.uk/2010/04/21/tweeting-from-the-command-line/"
+    ],
+    "category": [
+      "twitter",
+      "shell",
+      "script",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tweeting-from-the-command-line"
+    ]
+  }
+}

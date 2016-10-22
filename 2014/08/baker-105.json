@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["[Product Hunt's Tinder for X](http://www.producthunt.com/e/tinder-for-x): a list of the many many apps that ape Tinder's swipe approach."],"published":["2014-08-26T14:57:48Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/504281615066234880"],"slug":["baker-105"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "[Product Hunt's Tinder for X](http://www.producthunt.com/e/tinder-for-x): a list of the many many apps that ape Tinder's swipe approach."
+    ],
+    "published": [
+      "2014-08-26T14:57:48Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/504281615066234880"
+    ],
+    "slug": [
+      "baker-105"
+    ]
+  }
+}

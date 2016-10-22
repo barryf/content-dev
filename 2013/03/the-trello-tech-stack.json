@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2013-03-17T18:14:15Z"],"entry-type":["bookmark"],"name":["The Trello Tech Stack"],"bookmark-of":["http://blog.fogcreek.com/the-trello-tech-stack/"],"category":["javascript","nodejs","architecture","trello","via-pinboard"],"slug":["the-trello-tech-stack"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-03-17T18:14:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Trello Tech Stack"
+    ],
+    "bookmark-of": [
+      "http://blog.fogcreek.com/the-trello-tech-stack/"
+    ],
+    "category": [
+      "javascript",
+      "nodejs",
+      "architecture",
+      "trello",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-trello-tech-stack"
+    ]
+  }
+}

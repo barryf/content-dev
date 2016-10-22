@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewgarner Busboy to pair with postboy?"],"published":["2011-10-28T17:08:08Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15734896/status/129867923312480258"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/129967696275177472"],"slug":["tweet-129967696275177472"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewgarner Busboy to pair with postboy?"
+    ],
+    "published": [
+      "2011-10-28T17:08:08Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15734896/status/129867923312480258"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/129967696275177472"
+    ],
+    "slug": [
+      "tweet-129967696275177472"
+    ]
+  }
+}

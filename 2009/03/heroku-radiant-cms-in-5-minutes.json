@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Using Radiant on Heroku\n"],"published":["2009-03-26T22:37:28Z"],"entry-type":["bookmark"],"name":["Heroku | Radiant CMS in 5 Minutes Or Less"],"bookmark-of":["http://blog.heroku.com/archives/2009/3/26/radiant_cms_in_5_minutes_or_less/"],"category":["heroku","radiant","rails","cms","blog","via-pinboard"],"slug":["heroku-radiant-cms-in-5-minutes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Using Radiant on Heroku\n"
+    ],
+    "published": [
+      "2009-03-26T22:37:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Heroku | Radiant CMS in 5 Minutes Or Less"
+    ],
+    "bookmark-of": [
+      "http://blog.heroku.com/archives/2009/3/26/radiant_cms_in_5_minutes_or_less/"
+    ],
+    "category": [
+      "heroku",
+      "radiant",
+      "rails",
+      "cms",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "heroku-radiant-cms-in-5-minutes"
+    ]
+  }
+}

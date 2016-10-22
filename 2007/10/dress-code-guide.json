@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-10-01T13:18:50Z"],"entry-type":["bookmark"],"name":["Dress Code Guide"],"bookmark-of":["http://www.dresscodeguide.com/"],"category":["clothing","etiquette","fashion","social","travel","dress","via-pinboard"],"slug":["dress-code-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-10-01T13:18:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dress Code Guide"
+    ],
+    "bookmark-of": [
+      "http://www.dresscodeguide.com/"
+    ],
+    "category": [
+      "clothing",
+      "etiquette",
+      "fashion",
+      "social",
+      "travel",
+      "dress",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dress-code-guide"
+    ]
+  }
+}

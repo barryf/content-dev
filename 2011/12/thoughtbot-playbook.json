@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Experiences and best practices from the thoughtbot team\r\n"],"published":["2011-12-09T18:38:16Z"],"entry-type":["bookmark"],"name":["thoughtbot playbook"],"bookmark-of":["http://playbook.thoughtbot.com/"],"category":["dev","advocacy","team","business","company","via-pinboard"],"slug":["thoughtbot-playbook"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Experiences and best practices from the thoughtbot team\r\n"
+    ],
+    "published": [
+      "2011-12-09T18:38:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "thoughtbot playbook"
+    ],
+    "bookmark-of": [
+      "http://playbook.thoughtbot.com/"
+    ],
+    "category": [
+      "dev",
+      "advocacy",
+      "team",
+      "business",
+      "company",
+      "via-pinboard"
+    ],
+    "slug": [
+      "thoughtbot-playbook"
+    ]
+  }
+}

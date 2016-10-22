@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Bottom line: unless you're doing heavy maths stick with a dual core\n"],"published":["2007-09-15T10:27:23Z"],"entry-type":["bookmark"],"name":["Coding Horror: Choosing Dual or Quad Core"],"bookmark-of":["http://www.codinghorror.com/blog/archives/000942.html"],"category":["dualcore","quadcore","processor","cpu","hardware","benchmark","via-pinboard"],"slug":["coding-horror-choosing-dual-or-quad"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Bottom line: unless you're doing heavy maths stick with a dual core\n"
+    ],
+    "published": [
+      "2007-09-15T10:27:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Coding Horror: Choosing Dual or Quad Core"
+    ],
+    "bookmark-of": [
+      "http://www.codinghorror.com/blog/archives/000942.html"
+    ],
+    "category": [
+      "dualcore",
+      "quadcore",
+      "processor",
+      "cpu",
+      "hardware",
+      "benchmark",
+      "via-pinboard"
+    ],
+    "slug": [
+      "coding-horror-choosing-dual-or-quad"
+    ]
+  }
+}

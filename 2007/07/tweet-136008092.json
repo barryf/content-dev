@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Listening to Alex squeal at photos of bunnies"],"published":["2007-07-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/136008092"],"slug":["tweet-136008092"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Listening to Alex squeal at photos of bunnies"
+    ],
+    "published": [
+      "2007-07-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/136008092"
+    ],
+    "slug": [
+      "tweet-136008092"
+    ]
+  }
+}

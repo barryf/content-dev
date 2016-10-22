@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-12T09:07:47Z"],"entry-type":["bookmark"],"name":["Aaron Johnson: Subversion + Ant Release Scripts"],"bookmark-of":["http://cephas.net/blog/2005/10/11/subversion_ant_release_scripts.html"],"category":["subversion","ant","script","dev","deployment","via-pinboard"],"slug":["aaron-johnson-subversion-ant-release-scripts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-12T09:07:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Aaron Johnson: Subversion + Ant Release Scripts"
+    ],
+    "bookmark-of": [
+      "http://cephas.net/blog/2005/10/11/subversion_ant_release_scripts.html"
+    ],
+    "category": [
+      "subversion",
+      "ant",
+      "script",
+      "dev",
+      "deployment",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aaron-johnson-subversion-ant-release-scripts"
+    ]
+  }
+}

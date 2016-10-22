@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Fraud tool that monitors traffic in real time to detect fraudulent activity"],"published":["2013-03-12T10:31:16Z"],"entry-type":["bookmark"],"name":["Sift Science"],"bookmark-of":["https://siftscience.com/"],"category":["fraud","ecommerce","scammer","via-pinboard"],"slug":["sift-science"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Fraud tool that monitors traffic in real time to detect fraudulent activity"
+    ],
+    "published": [
+      "2013-03-12T10:31:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sift Science"
+    ],
+    "bookmark-of": [
+      "https://siftscience.com/"
+    ],
+    "category": [
+      "fraud",
+      "ecommerce",
+      "scammer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sift-science"
+    ]
+  }
+}

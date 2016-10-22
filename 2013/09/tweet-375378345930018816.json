@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The rise of cards as a design pattern: http://insideintercom.io/why-cards-are-the-future-of-the-web/ and http://ben-evans.com/benedictevans/2013/6/18/canvases"],"published":["2013-09-04T22:02:26Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/375378345930018816"],"slug":["tweet-375378345930018816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The rise of cards as a design pattern: http://insideintercom.io/why-cards-are-the-future-of-the-web/ and http://ben-evans.com/benedictevans/2013/6/18/canvases"
+    ],
+    "published": [
+      "2013-09-04T22:02:26Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/375378345930018816"
+    ],
+    "slug": [
+      "tweet-375378345930018816"
+    ]
+  }
+}

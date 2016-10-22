@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-05-14T12:51:55Z"],"entry-type":["bookmark"],"name":["AWS Elastic Beanstalk for Ruby 2"],"bookmark-of":["http://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-for-ruby-2/"],"category":["aws","amazon","ruby","elasticbeanstalk","via-pinboard"],"slug":["aws-elastic-beanstalk-for-ruby-2"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-05-14T12:51:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "AWS Elastic Beanstalk for Ruby 2"
+    ],
+    "bookmark-of": [
+      "http://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-for-ruby-2/"
+    ],
+    "category": [
+      "aws",
+      "amazon",
+      "ruby",
+      "elasticbeanstalk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aws-elastic-beanstalk-for-ruby-2"
+    ]
+  }
+}

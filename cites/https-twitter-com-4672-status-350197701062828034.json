@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/4672/status/350197701062828034"],"published":["2013-06-27T10:23:32Z"],"content":["@barryf Hang on, I'm pretty sure it was a collaborative effort. Glory hunter."],"author":["https://twitter.com/4672"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/4672/status/350197701062828034"
+    ],
+    "published": [
+      "2013-06-27T10:23:32Z"
+    ],
+    "content": [
+      "@barryf Hang on, I'm pretty sure it was a collaborative effort. Glory hunter."
+    ],
+    "author": [
+      "https://twitter.com/4672"
+    ]
+  }
+}

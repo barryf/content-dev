@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mattjukes Damn you! *blocks @mattjukes*"],"published":["2011-03-14T18:24:35Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15366167/status/47356243613974528"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/47362503906299904"],"slug":["tweet-47362503906299904"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mattjukes Damn you! *blocks @mattjukes*"
+    ],
+    "published": [
+      "2011-03-14T18:24:35Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15366167/status/47356243613974528"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/47362503906299904"
+    ],
+    "slug": [
+      "tweet-47362503906299904"
+    ]
+  }
+}

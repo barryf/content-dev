@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-13T16:10:05Z"],"entry-type":["like"],"like-of":["https://twitter.com/ProjectDavis/status/566236460429234176"],"syndication":["https://twitter.com/ProjectDavis/status/566236460429234176"],"slug":["13-161005"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-13T16:10:05Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/ProjectDavis/status/566236460429234176"
+    ],
+    "syndication": [
+      "https://twitter.com/ProjectDavis/status/566236460429234176"
+    ],
+    "slug": [
+      "13-161005"
+    ]
+  }
+}

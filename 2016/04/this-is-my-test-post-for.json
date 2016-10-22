@@ -1,1 +1,23 @@
-{"type":["h-entry"],"properties":{"content":["This is my test post for [webmention.rocks](https://webmention.rocks)! Posted using my own #indieweb server. Webmentions sent using the [mention-client-ruby](https://github.com/indieweb/mention-client-ruby) library.\r\n\nhttps://webmention.rocks/test/1\nhttps://webmention.rocks/test/2\nhttps://webmention.rocks/test/3\nhttps://webmention.rocks/test/4\nhttps://webmention.rocks/test/5\nhttps://webmention.rocks/test/6\nhttps://webmention.rocks/test/7\nhttps://webmention.rocks/test/8\nhttps://webmention.rocks/test/9\nhttps://webmention.rocks/test/10\nhttps://webmention.rocks/test/11\nhttps://webmention.rocks/test/12\nhttps://webmention.rocks/test/13\nhttps://webmention.rocks/test/14\nhttps://webmention.rocks/test/15\nhttps://webmention.rocks/test/16\nhttps://webmention.rocks/test/17\nhttps://webmention.rocks/test/18\nhttps://webmention.rocks/test/19\nhttps://webmention.rocks/test/20\nhttps://webmention.rocks/test/21\n\n"],"published":["2016-04-22T11:17:29Z"],"entry-type":["note"],"category":["indieweb","webmention"],"slug":["this-is-my-test-post-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This is my test post for [webmention.rocks](https://webmention.rocks)! Posted using my own #indieweb server. Webmentions sent using the [mention-client-ruby](https://github.com/indieweb/mention-client-ruby) library.\r\n\nhttps://webmention.rocks/test/1\nhttps://webmention.rocks/test/2\nhttps://webmention.rocks/test/3\nhttps://webmention.rocks/test/4\nhttps://webmention.rocks/test/5\nhttps://webmention.rocks/test/6\nhttps://webmention.rocks/test/7\nhttps://webmention.rocks/test/8\nhttps://webmention.rocks/test/9\nhttps://webmention.rocks/test/10\nhttps://webmention.rocks/test/11\nhttps://webmention.rocks/test/12\nhttps://webmention.rocks/test/13\nhttps://webmention.rocks/test/14\nhttps://webmention.rocks/test/15\nhttps://webmention.rocks/test/16\nhttps://webmention.rocks/test/17\nhttps://webmention.rocks/test/18\nhttps://webmention.rocks/test/19\nhttps://webmention.rocks/test/20\nhttps://webmention.rocks/test/21\n\n"
+    ],
+    "published": [
+      "2016-04-22T11:17:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "indieweb",
+      "webmention"
+    ],
+    "slug": [
+      "this-is-my-test-post-for"
+    ]
+  }
+}

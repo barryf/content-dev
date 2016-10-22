@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["These days I mainly go to gigs of reformed bands from the nineties. Tonight: Pulp in Brixton http://l.songkick.com/Fgq0"],"published":["2011-09-01T14:18:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/109268775785869312"],"slug":["tweet-109268775785869312"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "These days I mainly go to gigs of reformed bands from the nineties. Tonight: Pulp in Brixton http://l.songkick.com/Fgq0"
+    ],
+    "published": [
+      "2011-09-01T14:18:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/109268775785869312"
+    ],
+    "slug": [
+      "tweet-109268775785869312"
+    ]
+  }
+}

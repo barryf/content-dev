@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"content":["It's been a bit quiet from me online this month: I've been busy getting married and honeymooning. Exhilarated, exhausted, but very happy."],"published":["2014-08-25T18:11:34Z"],"entry-type":["note"],"category":["personal","via-baker"],"syndication":["https://twitter.com/barryf/status/503967989973397505"],"slug":["baker-104"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It's been a bit quiet from me online this month: I've been busy getting married and honeymooning. Exhilarated, exhausted, but very happy."
+    ],
+    "published": [
+      "2014-08-25T18:11:34Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "personal",
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/503967989973397505"
+    ],
+    "slug": [
+      "baker-104"
+    ]
+  }
+}

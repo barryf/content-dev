@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@t Thanks, Tantek! Glad you liked it. The intro/why part was clearly heavily inspired by one of your talks. "],"published":["2015-04-20T06:40:21Z"],"entry-type":["reply"],"summary":["@t Thanks, Tantek! Glad you liked it. The intro/why part was clearly heavily inspired by one of your talks. "],"in-reply-to":["http://tantek.com/2015/109/t1/great-talk-barryf-need-indieweb"],"syndication":["https://twitter.com/barryf/status/590042317383340032"],"slug":["t-thanks-tantek-glad-you-liked"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@t Thanks, Tantek! Glad you liked it. The intro/why part was clearly heavily inspired by one of your talks. "
+    ],
+    "published": [
+      "2015-04-20T06:40:21Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@t Thanks, Tantek! Glad you liked it. The intro/why part was clearly heavily inspired by one of your talks. "
+    ],
+    "in-reply-to": [
+      "http://tantek.com/2015/109/t1/great-talk-barryf-need-indieweb"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/590042317383340032"
+    ],
+    "slug": [
+      "t-thanks-tantek-glad-you-liked"
+    ]
+  }
+}

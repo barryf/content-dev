@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["A critique of Gmail\n"],"published":["2004-09-11T17:39:49Z"],"entry-type":["bookmark"],"name":["Boxes and Arrows: The Information Architecture of Email"],"bookmark-of":["http://www.boxesandarrows.com/archives/the_information_architecture_of_email.php"],"category":["gmail","via-pinboard"],"slug":["boxes-and-arrows-the-information-architecture"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A critique of Gmail\n"
+    ],
+    "published": [
+      "2004-09-11T17:39:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Boxes and Arrows: The Information Architecture of Email"
+    ],
+    "bookmark-of": [
+      "http://www.boxesandarrows.com/archives/the_information_architecture_of_email.php"
+    ],
+    "category": [
+      "gmail",
+      "via-pinboard"
+    ],
+    "slug": [
+      "boxes-and-arrows-the-information-architecture"
+    ]
+  }
+}

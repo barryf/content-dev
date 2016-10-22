@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Discussion on the rights and wrongs of storing session data in cookies\n"],"published":["2007-12-08T16:13:34Z"],"entry-type":["bookmark"],"name":["caboose new controversial default rails session storage: cookies"],"bookmark-of":["http://blog.caboo.se/articles/2007/2/21/new-controversial-default-rails-session-storage-cookies"],"category":["rails","session","cookie","security","encryption","framework","dev","performance","via-pinboard"],"slug":["caboose-new-controversial-default-rails-session"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Discussion on the rights and wrongs of storing session data in cookies\n"
+    ],
+    "published": [
+      "2007-12-08T16:13:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "caboose new controversial default rails session storage: cookies"
+    ],
+    "bookmark-of": [
+      "http://blog.caboo.se/articles/2007/2/21/new-controversial-default-rails-session-storage-cookies"
+    ],
+    "category": [
+      "rails",
+      "session",
+      "cookie",
+      "security",
+      "encryption",
+      "framework",
+      "dev",
+      "performance",
+      "via-pinboard"
+    ],
+    "slug": [
+      "caboose-new-controversial-default-rails-session"
+    ]
+  }
+}

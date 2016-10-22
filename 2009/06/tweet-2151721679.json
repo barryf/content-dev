@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Even though I don't tend to use Facebook much, I'm still pleased to have grabbed http://facebook.com/barryfrost"],"published":["2009-06-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2151721679"],"slug":["tweet-2151721679"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Even though I don't tend to use Facebook much, I'm still pleased to have grabbed http://facebook.com/barryfrost"
+    ],
+    "published": [
+      "2009-06-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2151721679"
+    ],
+    "slug": [
+      "tweet-2151721679"
+    ]
+  }
+}

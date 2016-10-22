@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/554344174791581696"],"published":["2015-01-14T19:46:44Z"],"content":["favorited this."],"like-of":["https://barryfrost.com/2015/01/i-believe-that-s-how-all"],"author":["https://twitter.com/rosswilliams"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/554344174791581696"
+    ],
+    "published": [
+      "2015-01-14T19:46:44Z"
+    ],
+    "content": [
+      "favorited this."
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/01/i-believe-that-s-how-all"
+    ],
+    "author": [
+      "https://twitter.com/rosswilliams"
+    ]
+  }
+}

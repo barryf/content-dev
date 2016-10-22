@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["When filling out a payment form it shows a fake card with your details/card scheme."],"published":["2014-06-09T08:42:14Z"],"entry-type":["bookmark"],"name":["Card — make your credit card better in one line of code"],"bookmark-of":["http://jessepollak.github.io/card/"],"category":["card","ecommerce","checkout","payment","form","ux","via-pinboard"],"slug":["card-make-your-credit-card-better"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "When filling out a payment form it shows a fake card with your details/card scheme."
+    ],
+    "published": [
+      "2014-06-09T08:42:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Card — make your credit card better in one line of code"
+    ],
+    "bookmark-of": [
+      "http://jessepollak.github.io/card/"
+    ],
+    "category": [
+      "card",
+      "ecommerce",
+      "checkout",
+      "payment",
+      "form",
+      "ux",
+      "via-pinboard"
+    ],
+    "slug": [
+      "card-make-your-credit-card-better"
+    ]
+  }
+}

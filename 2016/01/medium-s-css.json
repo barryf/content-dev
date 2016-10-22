@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["The evolution of Medium's CSS strategy"],"published":["2016-01-07T13:12:48Z"],"entry-type":["bookmark"],"name":["Medium’s CSS"],"bookmark-of":["https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.fkc2nr67t"],"category":["css","less","medium"],"slug":["medium-s-css"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The evolution of Medium's CSS strategy"
+    ],
+    "published": [
+      "2016-01-07T13:12:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Medium’s CSS"
+    ],
+    "bookmark-of": [
+      "https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.fkc2nr67t"
+    ],
+    "category": [
+      "css",
+      "less",
+      "medium"
+    ],
+    "slug": [
+      "medium-s-css"
+    ]
+  }
+}

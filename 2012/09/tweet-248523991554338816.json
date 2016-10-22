@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My iPhone carrier label just switched from Orange to EE. Looks like the name change is underway @EE"],"published":["2012-09-19T20:48:31Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/248523991554338816"],"slug":["tweet-248523991554338816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My iPhone carrier label just switched from Orange to EE. Looks like the name change is underway @EE"
+    ],
+    "published": [
+      "2012-09-19T20:48:31Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/248523991554338816"
+    ],
+    "slug": [
+      "tweet-248523991554338816"
+    ]
+  }
+}

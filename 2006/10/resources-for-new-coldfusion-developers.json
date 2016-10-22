@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2006-10-05T13:19:28Z"],"entry-type":["bookmark"],"name":["Resources for New ColdFusion Developers"],"bookmark-of":["http://www.brooks-bilson.com/blogs/rob/index.cfm?mode=entry&entry=1008EFB7-BDF1-042D-15EFBAA3409377F1"],"category":["coldfusion","tips","dev","via-pinboard"],"slug":["resources-for-new-coldfusion-developers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-10-05T13:19:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Resources for New ColdFusion Developers"
+    ],
+    "bookmark-of": [
+      "http://www.brooks-bilson.com/blogs/rob/index.cfm?mode=entry&entry=1008EFB7-BDF1-042D-15EFBAA3409377F1"
+    ],
+    "category": [
+      "coldfusion",
+      "tips",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "resources-for-new-coldfusion-developers"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@agit8or Superb. Ruby and MySQL next! When can we add him to the schedule?"],"published":["2013-02-06T22:21:11Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/19501149/status/299279963255881728"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/299281614628868096"],"slug":["tweet-299281614628868096"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@agit8or Superb. Ruby and MySQL next! When can we add him to the schedule?"
+    ],
+    "published": [
+      "2013-02-06T22:21:11Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/19501149/status/299279963255881728"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/299281614628868096"
+    ],
+    "slug": [
+      "tweet-299281614628868096"
+    ]
+  }
+}

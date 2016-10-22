@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I've ordered a Belkin WeMo Switch so that I can remote control things over the internet. Thinking about my heating... http://bfr.st/PBO7hI"],"published":["2012-10-17T12:48:17Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/258549995953868800"],"slug":["tweet-258549995953868800"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've ordered a Belkin WeMo Switch so that I can remote control things over the internet. Thinking about my heating... http://bfr.st/PBO7hI"
+    ],
+    "published": [
+      "2012-10-17T12:48:17Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/258549995953868800"
+    ],
+    "slug": [
+      "tweet-258549995953868800"
+    ]
+  }
+}

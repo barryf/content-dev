@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I’ve somehow been subscribed to a civil engineering recruitment postal list from Hays. We hire Rails engineers but not actual railway ones!"],"published":["2014-04-14T12:19:45Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/455681815614066689"],"slug":["tweet-455681815614066689"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I’ve somehow been subscribed to a civil engineering recruitment postal list from Hays. We hire Rails engineers but not actual railway ones!"
+    ],
+    "published": [
+      "2014-04-14T12:19:45Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/455681815614066689"
+    ],
+    "slug": [
+      "tweet-455681815614066689"
+    ]
+  }
+}

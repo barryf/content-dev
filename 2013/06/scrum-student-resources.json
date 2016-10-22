@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Recommended reading list for those embarking on Scrum"],"published":["2013-06-03T09:08:20Z"],"entry-type":["bookmark"],"name":["Scrum Student Resources"],"bookmark-of":["http://www.scrumalliance.org/pages/scrum_student_resources"],"category":["scrum","agile","read","documentation","via-pinboard"],"slug":["scrum-student-resources"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Recommended reading list for those embarking on Scrum"
+    ],
+    "published": [
+      "2013-06-03T09:08:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scrum Student Resources"
+    ],
+    "bookmark-of": [
+      "http://www.scrumalliance.org/pages/scrum_student_resources"
+    ],
+    "category": [
+      "scrum",
+      "agile",
+      "read",
+      "documentation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scrum-student-resources"
+    ]
+  }
+}

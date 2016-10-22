@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Christophe Ducamp"],"photo":["https://twitter.com/xtof_fr/profile_image?size=original"],"url":["https://twitter.com/xtof_fr"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Christophe Ducamp"
+    ],
+    "photo": [
+      "https://twitter.com/xtof_fr/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/xtof_fr"
+    ]
+  }
+}

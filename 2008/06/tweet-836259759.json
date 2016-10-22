@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@flatpackedworld no"],"published":["2008-06-16T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/836152850"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/836259759"],"slug":["tweet-836259759"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@flatpackedworld no"
+    ],
+    "published": [
+      "2008-06-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/836152850"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/836259759"
+    ],
+    "slug": [
+      "tweet-836259759"
+    ]
+  }
+}

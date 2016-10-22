@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Consistent use of the same avatar in all services helps associate the account with you. I've been using the same (cheesy) photo everywhere for the last couple of years.\n"],"published":["2009-02-08T15:06:38Z"],"entry-type":["bookmark"],"name":["Hivelogic - Why Your Avatar Matters"],"bookmark-of":["http://hivelogic.com/articles/2009/02/why-your-avatar-matters"],"category":["avatar","icon","image","photo","personal","identity","social","marketing","brand","via-pinboard"],"slug":["hivelogic-why-your-avatar-matters"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Consistent use of the same avatar in all services helps associate the account with you. I've been using the same (cheesy) photo everywhere for the last couple of years.\n"
+    ],
+    "published": [
+      "2009-02-08T15:06:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hivelogic - Why Your Avatar Matters"
+    ],
+    "bookmark-of": [
+      "http://hivelogic.com/articles/2009/02/why-your-avatar-matters"
+    ],
+    "category": [
+      "avatar",
+      "icon",
+      "image",
+      "photo",
+      "personal",
+      "identity",
+      "social",
+      "marketing",
+      "brand",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hivelogic-why-your-avatar-matters"
+    ]
+  }
+}

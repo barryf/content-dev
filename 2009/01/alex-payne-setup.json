@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Alex's list of hardware and software that he uses daily\n"],"published":["2009-01-04T09:28:17Z"],"entry-type":["bookmark"],"name":["Alex Payne - setup"],"bookmark-of":["http://al3x.net/2009/01/02/waferbaby-interview.html"],"category":["setup","hardware","software","mac","useful","via-pinboard"],"slug":["alex-payne-setup"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Alex's list of hardware and software that he uses daily\n"
+    ],
+    "published": [
+      "2009-01-04T09:28:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Alex Payne - setup"
+    ],
+    "bookmark-of": [
+      "http://al3x.net/2009/01/02/waferbaby-interview.html"
+    ],
+    "category": [
+      "setup",
+      "hardware",
+      "software",
+      "mac",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "alex-payne-setup"
+    ]
+  }
+}

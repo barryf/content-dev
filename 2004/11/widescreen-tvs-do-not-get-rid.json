@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-08T13:50:17Z"],"entry-type":["bookmark"],"name":["Widescreen TVs do NOT get rid of black bars totally. - AVS Forum"],"bookmark-of":["http://www.avsforum.com/avs-vb/showthread.php?s=&threadid=332843"],"category":["media","useful","via-pinboard"],"slug":["widescreen-tvs-do-not-get-rid"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-08T13:50:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Widescreen TVs do NOT get rid of black bars totally. - AVS Forum"
+    ],
+    "bookmark-of": [
+      "http://www.avsforum.com/avs-vb/showthread.php?s=&threadid=332843"
+    ],
+    "category": [
+      "media",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "widescreen-tvs-do-not-get-rid"
+    ]
+  }
+}

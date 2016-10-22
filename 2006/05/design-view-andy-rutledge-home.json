@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Great design, fresh layout\n"],"published":["2006-05-01T09:07:25Z"],"entry-type":["bookmark"],"name":["Design View : Andy Rutledge - Home"],"bookmark-of":["http://www.andyrutledge.com/"],"category":["blog","web","design","inspiration","via-pinboard"],"slug":["design-view-andy-rutledge-home"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Great design, fresh layout\n"
+    ],
+    "published": [
+      "2006-05-01T09:07:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Design View : Andy Rutledge - Home"
+    ],
+    "bookmark-of": [
+      "http://www.andyrutledge.com/"
+    ],
+    "category": [
+      "blog",
+      "web",
+      "design",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "design-view-andy-rutledge-home"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/7705762/status/346636753618223105"],"published":["2013-06-17T14:33:36Z"],"content":["@barryf Have you just written a catflap twitter API :-)"],"author":["https://twitter.com/7705762"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/7705762/status/346636753618223105"
+    ],
+    "published": [
+      "2013-06-17T14:33:36Z"
+    ],
+    "content": [
+      "@barryf Have you just written a catflap twitter API :-)"
+    ],
+    "author": [
+      "https://twitter.com/7705762"
+    ]
+  }
+}

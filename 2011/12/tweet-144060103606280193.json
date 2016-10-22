@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jongilbraith @easyjo I'll be checking underneath my car before leaving tonight"],"published":["2011-12-06T14:26:19Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15190927/status/144057489846046721"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/144060103606280193"],"slug":["tweet-144060103606280193"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jongilbraith @easyjo I'll be checking underneath my car before leaving tonight"
+    ],
+    "published": [
+      "2011-12-06T14:26:19Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15190927/status/144057489846046721"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/144060103606280193"
+    ],
+    "slug": [
+      "tweet-144060103606280193"
+    ]
+  }
+}

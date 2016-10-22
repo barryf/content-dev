@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2011-11-04T15:46:56Z"],"entry-type":["bookmark"],"name":["Installing Hubot on Heroku"],"bookmark-of":["http://visuallounge.techsmith.com/2011/11/dev_corner_-_installing_hubot.html"],"category":["heroku","hubot","bot","campfire","ruby","team","dev","via-pinboard"],"slug":["installing-hubot-on-heroku"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-11-04T15:46:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Installing Hubot on Heroku"
+    ],
+    "bookmark-of": [
+      "http://visuallounge.techsmith.com/2011/11/dev_corner_-_installing_hubot.html"
+    ],
+    "category": [
+      "heroku",
+      "hubot",
+      "bot",
+      "campfire",
+      "ruby",
+      "team",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "installing-hubot-on-heroku"
+    ]
+  }
+}

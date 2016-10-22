@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Truly the best thing since sliced bread\n"],"published":["2006-02-20T13:58:50Z"],"entry-type":["bookmark"],"name":["JSON for the masses"],"bookmark-of":["http://www.dustindiaz.com/json-for-the-masses/"],"category":["json","javascript","web","dev","via-pinboard"],"slug":["json-for-the-masses"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Truly the best thing since sliced bread\n"
+    ],
+    "published": [
+      "2006-02-20T13:58:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JSON for the masses"
+    ],
+    "bookmark-of": [
+      "http://www.dustindiaz.com/json-for-the-masses/"
+    ],
+    "category": [
+      "json",
+      "javascript",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "json-for-the-masses"
+    ]
+  }
+}

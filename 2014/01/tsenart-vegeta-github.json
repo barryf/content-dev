@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-01-08T11:57:07Z"],"entry-type":["bookmark"],"name":["tsenart/vegeta · GitHub"],"bookmark-of":["https://github.com/tsenart/vegeta"],"category":["fromifttt","github","via-pinboard"],"slug":["tsenart-vegeta-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-01-08T11:57:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "tsenart/vegeta · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/tsenart/vegeta"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tsenart-vegeta-github"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@twitsplosion RT @codegent: I couldn't live without... LeCool http://www.codegent.com/blog/2013/8/i-couldnt-live-without-lecool"],"published":["2013-08-23T16:39:31Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/370948426831503361"],"slug":["tweet-370948426831503361"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@twitsplosion RT @codegent: I couldn't live without... LeCool http://www.codegent.com/blog/2013/8/i-couldnt-live-without-lecool"
+    ],
+    "published": [
+      "2013-08-23T16:39:31Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/370948426831503361"
+    ],
+    "slug": [
+      "tweet-370948426831503361"
+    ]
+  }
+}

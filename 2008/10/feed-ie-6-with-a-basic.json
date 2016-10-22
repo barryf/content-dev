@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Reminder of how to serve special stylesheets to IE\n"],"published":["2008-10-04T17:35:02Z"],"entry-type":["bookmark"],"name":["Feed IE 6 with a basic stylesheet"],"bookmark-of":["http://www.simonclayson.co.uk/reportage/ie_6_text_only/"],"category":["ie","internetexplorer","browser","web","standards","css","via-pinboard"],"slug":["feed-ie-6-with-a-basic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Reminder of how to serve special stylesheets to IE\n"
+    ],
+    "published": [
+      "2008-10-04T17:35:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Feed IE 6 with a basic stylesheet"
+    ],
+    "bookmark-of": [
+      "http://www.simonclayson.co.uk/reportage/ie_6_text_only/"
+    ],
+    "category": [
+      "ie",
+      "internetexplorer",
+      "browser",
+      "web",
+      "standards",
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "feed-ie-6-with-a-basic"
+    ]
+  }
+}

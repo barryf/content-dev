@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Video from Suede's 1993 Brixton gig"],"published":["2015-03-07T12:23:28Z"],"entry-type":["bookmark"],"name":["Suede - Love & Poison"],"bookmark-of":["https://www.youtube.com/watch?v=r6HtfERfhYc"],"category":["suede","music","video"],"slug":["suede-love-poison"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Video from Suede's 1993 Brixton gig"
+    ],
+    "published": [
+      "2015-03-07T12:23:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Suede - Love & Poison"
+    ],
+    "bookmark-of": [
+      "https://www.youtube.com/watch?v=r6HtfERfhYc"
+    ],
+    "category": [
+      "suede",
+      "music",
+      "video"
+    ],
+    "slug": [
+      "suede-love-poison"
+    ]
+  }
+}

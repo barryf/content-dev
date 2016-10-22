@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Automated deployment for .NET"],"published":["2013-03-11T08:31:35Z"],"entry-type":["bookmark"],"name":["Octopus Deploy"],"bookmark-of":["http://octopusdeploy.com/"],"category":["dotnet","deployment","automation","via-pinboard"],"slug":["octopus-deploy"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Automated deployment for .NET"
+    ],
+    "published": [
+      "2013-03-11T08:31:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Octopus Deploy"
+    ],
+    "bookmark-of": [
+      "http://octopusdeploy.com/"
+    ],
+    "category": [
+      "dotnet",
+      "deployment",
+      "automation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "octopus-deploy"
+    ]
+  }
+}

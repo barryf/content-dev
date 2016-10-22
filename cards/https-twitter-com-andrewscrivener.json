@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Andrew Scrivener"],"photo":["https://twitter.com/andrewscrivener/profile_image?size=original"],"url":["https://twitter.com/andrewscrivener"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Andrew Scrivener"
+    ],
+    "photo": [
+      "https://twitter.com/andrewscrivener/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/andrewscrivener"
+    ]
+  }
+}

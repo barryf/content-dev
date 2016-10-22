@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["When to use \"new\" in Javascript. Answer: hardly ever :)\n"],"published":["2006-11-20T15:02:32Z"],"entry-type":["bookmark"],"name":["JavaScript, We Hardly new Ya » Yahoo! User Interface Blog"],"bookmark-of":["http://yuiblog.com/blog/2006/11/13/javascript-we-hardly-new-ya/"],"category":["javascript","dev","code","refrrence","tip","via-pinboard"],"slug":["javascript-we-hardly-new-ya-yahoo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "When to use \"new\" in Javascript. Answer: hardly ever :)\n"
+    ],
+    "published": [
+      "2006-11-20T15:02:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JavaScript, We Hardly new Ya » Yahoo! User Interface Blog"
+    ],
+    "bookmark-of": [
+      "http://yuiblog.com/blog/2006/11/13/javascript-we-hardly-new-ya/"
+    ],
+    "category": [
+      "javascript",
+      "dev",
+      "code",
+      "refrrence",
+      "tip",
+      "via-pinboard"
+    ],
+    "slug": [
+      "javascript-we-hardly-new-ya-yahoo"
+    ]
+  }
+}

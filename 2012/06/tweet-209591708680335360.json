@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Just bought a helicopter. Be warned: it’ll destroy your bank holiday."],"published":["2012-06-04T10:25:32Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/209587507166326784"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/209591708680335360"],"slug":["tweet-209591708680335360"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Just bought a helicopter. Be warned: it’ll destroy your bank holiday."
+    ],
+    "published": [
+      "2012-06-04T10:25:32Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/209587507166326784"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/209591708680335360"
+    ],
+    "slug": [
+      "tweet-209591708680335360"
+    ]
+  }
+}

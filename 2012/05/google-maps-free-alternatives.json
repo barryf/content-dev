@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2012-05-03T12:25:48Z"],"entry-type":["bookmark"],"name":["Google Maps free alternatives"],"bookmark-of":["http://www.fubra.com/blog/2011/11/24/google-maps-free-alternatives/"],"category":["opensource","map","openstreetmap","maps","via-pinboard"],"slug":["google-maps-free-alternatives"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-05-03T12:25:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google Maps free alternatives"
+    ],
+    "bookmark-of": [
+      "http://www.fubra.com/blog/2011/11/24/google-maps-free-alternatives/"
+    ],
+    "category": [
+      "opensource",
+      "map",
+      "openstreetmap",
+      "maps",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-maps-free-alternatives"
+    ]
+  }
+}

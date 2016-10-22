@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Wondering if there are any major UK media companies left for Ian to get angry about."],"published":["2007-05-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/48174002"],"slug":["tweet-48174002"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wondering if there are any major UK media companies left for Ian to get angry about."
+    ],
+    "published": [
+      "2007-05-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/48174002"
+    ],
+    "slug": [
+      "tweet-48174002"
+    ]
+  }
+}

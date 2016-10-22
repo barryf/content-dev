@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-10-10T15:09:53Z"],"entry-type":["bookmark"],"name":["amatsuda/kaminari · GitHub"],"bookmark-of":["https://github.com/amatsuda/kaminari"],"category":["fromifttt","github","via-pinboard"],"slug":["amatsuda-kaminari-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-10-10T15:09:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "amatsuda/kaminari · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/amatsuda/kaminari"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "amatsuda-kaminari-github"
+    ]
+  }
+}

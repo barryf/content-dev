@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Ha, thanks. Little bit of publicity for us there."],"published":["2013-02-27T23:19:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/306878268332716032"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/306906334652145665"],"slug":["tweet-306906334652145665"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Ha, thanks. Little bit of publicity for us there."
+    ],
+    "published": [
+      "2013-02-27T23:19:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/306878268332716032"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/306906334652145665"
+    ],
+    "slug": [
+      "tweet-306906334652145665"
+    ]
+  }
+}

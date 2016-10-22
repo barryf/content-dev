@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/david_kirton/status/658958544398655488"],"published":["2015-10-27T10:48:54Z"],"content":["@barryf Congratulations and jolly good luck to you!"],"in-reply-to":["https://barryfrost.com/2015/10/introducing-my-son-henry-frost-i"],"author":["https://twitter.com/david_kirton"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/david_kirton/status/658958544398655488"
+    ],
+    "published": [
+      "2015-10-27T10:48:54Z"
+    ],
+    "content": [
+      "@barryf Congratulations and jolly good luck to you!"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/10/introducing-my-son-henry-frost-i"
+    ],
+    "author": [
+      "https://twitter.com/david_kirton"
+    ]
+  }
+}

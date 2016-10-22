@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Legend. From 6Music's The Axe Factor\n"],"published":["2010-04-25T14:50:19Z"],"entry-type":["bookmark"],"name":["Bernard Butler teaches you to play Animal Nitrate"],"bookmark-of":["http://www.bbc.co.uk/6music/events/theaxefactor/play1.shtml"],"category":["music","axefactor","suede","bernardbutler","legend","via-pinboard"],"slug":["bernard-butler-teaches-you-to-play"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Legend. From 6Music's The Axe Factor\n"
+    ],
+    "published": [
+      "2010-04-25T14:50:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bernard Butler teaches you to play Animal Nitrate"
+    ],
+    "bookmark-of": [
+      "http://www.bbc.co.uk/6music/events/theaxefactor/play1.shtml"
+    ],
+    "category": [
+      "music",
+      "axefactor",
+      "suede",
+      "bernardbutler",
+      "legend",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bernard-butler-teaches-you-to-play"
+    ]
+  }
+}

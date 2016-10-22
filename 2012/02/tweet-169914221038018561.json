@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Not sure it'll replace Things, but Clear is fun to play with. Love the little touches, like unlocking a Tweetbot theme http://twitter.com/barryf/status/169914221038018561/photo/1"],"published":["2012-02-15T22:41:22Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/169914221038018561"],"slug":["tweet-169914221038018561"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Not sure it'll replace Things, but Clear is fun to play with. Love the little touches, like unlocking a Tweetbot theme http://twitter.com/barryf/status/169914221038018561/photo/1"
+    ],
+    "published": [
+      "2012-02-15T22:41:22Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/169914221038018561"
+    ],
+    "slug": [
+      "tweet-169914221038018561"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Just received my £270 cheque from @envirofoneuk for my iPhone 4. Easy, transparent and less stress than eBay. Recommended."],"published":["2011-10-27T12:09:54Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/129530257177980929"],"slug":["tweet-129530257177980929"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just received my £270 cheque from @envirofoneuk for my iPhone 4. Easy, transparent and less stress than eBay. Recommended."
+    ],
+    "published": [
+      "2011-10-27T12:09:54Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/129530257177980929"
+    ],
+    "slug": [
+      "tweet-129530257177980929"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["\"Advanced HTML5 Hybrid Mobile App Framework\". Used for Jiko app."],"published":["2014-09-30T13:54:18Z"],"entry-type":["bookmark"],"name":["Ionic"],"bookmark-of":["http://ionicframework.com/"],"category":["mobile","html5","ios","framework","via-pinboard"],"slug":["ionic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Advanced HTML5 Hybrid Mobile App Framework\". Used for Jiko app."
+    ],
+    "published": [
+      "2014-09-30T13:54:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ionic"
+    ],
+    "bookmark-of": [
+      "http://ionicframework.com/"
+    ],
+    "category": [
+      "mobile",
+      "html5",
+      "ios",
+      "framework",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ionic"
+    ]
+  }
+}

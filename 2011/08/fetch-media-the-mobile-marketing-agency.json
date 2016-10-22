@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-08-19T08:38:29Z"],"entry-type":["bookmark"],"name":["Fetch Media, the Mobile Marketing Agency"],"bookmark-of":["http://www.fetchmedia.co.uk/"],"category":["mobile","advertising","agency","marketing","uk","via-pinboard"],"slug":["fetch-media-the-mobile-marketing-agency"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-08-19T08:38:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fetch Media, the Mobile Marketing Agency"
+    ],
+    "bookmark-of": [
+      "http://www.fetchmedia.co.uk/"
+    ],
+    "category": [
+      "mobile",
+      "advertising",
+      "agency",
+      "marketing",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fetch-media-the-mobile-marketing-agency"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["House move done. Now off for a weekend on the Isle of Wight to escape the endless unpacking."],"published":["2012-07-27T17:29:09Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/228904875105337344"],"slug":["tweet-228904875105337344"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "House move done. Now off for a weekend on the Isle of Wight to escape the endless unpacking."
+    ],
+    "published": [
+      "2012-07-27T17:29:09Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/228904875105337344"
+    ],
+    "slug": [
+      "tweet-228904875105337344"
+    ]
+  }
+}

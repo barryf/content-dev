@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Turn your notes into beautiful presentations"],"published":["2014-12-10T17:36:01Z"],"entry-type":["bookmark"],"name":["Deckset for Mac"],"bookmark-of":["http://www.decksetapp.com/"],"category":["presentation","markdown","mac","via-pinboard"],"slug":["deckset-for-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Turn your notes into beautiful presentations"
+    ],
+    "published": [
+      "2014-12-10T17:36:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Deckset for Mac"
+    ],
+    "bookmark-of": [
+      "http://www.decksetapp.com/"
+    ],
+    "category": [
+      "presentation",
+      "markdown",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "deckset-for-mac"
+    ]
+  }
+}

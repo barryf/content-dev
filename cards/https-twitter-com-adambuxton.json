@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Adam Buxton (@AdamBuxton)"],"photo":["http://pbs.twimg.com/profile_images/378800000081358814/1f9ac8ecdc5e5d88cd601f3eba635b5e_normal.png"],"url":["https://twitter.com/AdamBuxton"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Adam Buxton (@AdamBuxton)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000081358814/1f9ac8ecdc5e5d88cd601f3eba635b5e_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/AdamBuxton"
+    ]
+  }
+}

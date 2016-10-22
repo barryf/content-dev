@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@globalpersonals Thanks, GP. Great day and now enjoying post-wedding calm."],"published":["2014-08-03T17:49:35Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/65641893/status/495605948946190336"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/495989872667422721"],"slug":["tweet-495989872667422721"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@globalpersonals Thanks, GP. Great day and now enjoying post-wedding calm."
+    ],
+    "published": [
+      "2014-08-03T17:49:35Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/65641893/status/495605948946190336"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/495989872667422721"
+    ],
+    "slug": [
+      "tweet-495989872667422721"
+    ]
+  }
+}

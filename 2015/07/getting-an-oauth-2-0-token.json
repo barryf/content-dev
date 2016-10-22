@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-07-29T09:18:32Z"],"entry-type":["bookmark"],"name":["Getting an OAuth 2.0 Token with Alamofire"],"bookmark-of":["https://grokswift.com/alamofire-OAuth2/"],"category":["ios","swift","oauth"],"slug":["getting-an-oauth-2-0-token"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-07-29T09:18:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Getting an OAuth 2.0 Token with Alamofire"
+    ],
+    "bookmark-of": [
+      "https://grokswift.com/alamofire-OAuth2/"
+    ],
+    "category": [
+      "ios",
+      "swift",
+      "oauth"
+    ],
+    "slug": [
+      "getting-an-oauth-2-0-token"
+    ]
+  }
+}

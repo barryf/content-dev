@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@TarryBoast Not a problem and thank you for reintroducing me to the term \"douchebag\" :)"],"published":["2010-03-12T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20447592/status/10366956427"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10369550115"],"slug":["tweet-10369550115"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@TarryBoast Not a problem and thank you for reintroducing me to the term \"douchebag\" :)"
+    ],
+    "published": [
+      "2010-03-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20447592/status/10366956427"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10369550115"
+    ],
+    "slug": [
+      "tweet-10369550115"
+    ]
+  }
+}

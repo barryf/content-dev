@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/20845611/status/284448120752992256"],"published":["2012-12-27T23:58:11Z"],"content":["@barryf are you villa in disguise :-)"],"author":["https://twitter.com/20845611"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/20845611/status/284448120752992256"
+    ],
+    "published": [
+      "2012-12-27T23:58:11Z"
+    ],
+    "content": [
+      "@barryf are you villa in disguise :-)"
+    ],
+    "author": [
+      "https://twitter.com/20845611"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Yep. There's even an annual international dating conference in Miami in January. Dating's big business!"],"published":["2010-11-30T15:00:02Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/9607279712145408"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/9622690763640832"],"slug":["tweet-9622690763640832"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Yep. There's even an annual international dating conference in Miami in January. Dating's big business!"
+    ],
+    "published": [
+      "2010-11-30T15:00:02Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/9607279712145408"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/9622690763640832"
+    ],
+    "slug": [
+      "tweet-9622690763640832"
+    ]
+  }
+}

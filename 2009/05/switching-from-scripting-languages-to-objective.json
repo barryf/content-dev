@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Libraries for XML, RegEx, Sqlite and more that should be useful when building iPhone apps\n"],"published":["2009-05-31T14:48:44Z"],"entry-type":["bookmark"],"name":["Switching from scripting languages to Objective C and iPhone: useful libraries :: Hackdiary"],"bookmark-of":["http://www.hackdiary.com/2009/01/26/switching-from-scripting-languages-to-objective-c-and-iphone-useful-libraries/"],"category":["iphone","objectivec","library","dev","sqlite","xml","json","regex","via-pinboard"],"slug":["switching-from-scripting-languages-to-objective"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Libraries for XML, RegEx, Sqlite and more that should be useful when building iPhone apps\n"
+    ],
+    "published": [
+      "2009-05-31T14:48:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Switching from scripting languages to Objective C and iPhone: useful libraries :: Hackdiary"
+    ],
+    "bookmark-of": [
+      "http://www.hackdiary.com/2009/01/26/switching-from-scripting-languages-to-objective-c-and-iphone-useful-libraries/"
+    ],
+    "category": [
+      "iphone",
+      "objectivec",
+      "library",
+      "dev",
+      "sqlite",
+      "xml",
+      "json",
+      "regex",
+      "via-pinboard"
+    ],
+    "slug": [
+      "switching-from-scripting-languages-to-objective"
+    ]
+  }
+}

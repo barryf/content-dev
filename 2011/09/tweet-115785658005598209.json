@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@gerhardlazu Thanks Gerhard. Very kind of you. Hurry up and move to Windsor so we can have you back!"],"published":["2011-09-19T13:53:46Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14770251/status/115772770427740160"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/115785658005598209"],"slug":["tweet-115785658005598209"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@gerhardlazu Thanks Gerhard. Very kind of you. Hurry up and move to Windsor so we can have you back!"
+    ],
+    "published": [
+      "2011-09-19T13:53:46Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14770251/status/115772770427740160"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/115785658005598209"
+    ],
+    "slug": [
+      "tweet-115785658005598209"
+    ]
+  }
+}

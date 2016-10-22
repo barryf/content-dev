@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-07-12T19:57:53Z"],"entry-type":["bookmark"],"name":["A Dao of Web Design: A List Apart"],"bookmark-of":["http://www.alistapart.com/articles/dao/"],"category":["css","design","standards","via-pinboard"],"slug":["a-dao-of-web-design-a"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-07-12T19:57:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Dao of Web Design: A List Apart"
+    ],
+    "bookmark-of": [
+      "http://www.alistapart.com/articles/dao/"
+    ],
+    "category": [
+      "css",
+      "design",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-dao-of-web-design-a"
+    ]
+  }
+}

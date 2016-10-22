@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-05-08T12:18:48Z"],"entry-type":["bookmark"],"name":["Microformats Wiki"],"bookmark-of":["http://microformats.org/wiki/Main_Page"],"category":["microformat","web","web20","tag","dev","via-pinboard"],"slug":["microformats-wiki"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-05-08T12:18:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Microformats Wiki"
+    ],
+    "bookmark-of": [
+      "http://microformats.org/wiki/Main_Page"
+    ],
+    "category": [
+      "microformat",
+      "web",
+      "web20",
+      "tag",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "microformats-wiki"
+    ]
+  }
+}

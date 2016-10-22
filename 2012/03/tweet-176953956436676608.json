@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@sheenius Could you let me know her member ID and I'll investigate? It's included in any emails from her dating site."],"published":["2012-03-06T08:54:45Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/33274129/status/176929815717347328"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/176953956436676608"],"slug":["tweet-176953956436676608"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@sheenius Could you let me know her member ID and I'll investigate? It's included in any emails from her dating site."
+    ],
+    "published": [
+      "2012-03-06T08:54:45Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/33274129/status/176929815717347328"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/176953956436676608"
+    ],
+    "slug": [
+      "tweet-176953956436676608"
+    ]
+  }
+}

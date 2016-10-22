@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Kelly Edworthy"],"photo":["http://pbs.twimg.com/profile_images/447442031678599168/coi_7-QJ_normal.jpeg"],"url":["https://twitter.com/kellyedworthy"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kelly Edworthy"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/447442031678599168/coi_7-QJ_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/kellyedworthy"
+    ]
+  }
+}

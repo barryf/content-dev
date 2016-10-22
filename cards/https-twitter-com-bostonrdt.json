@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Boston News"],"photo":["https://twitter.com/BostonRDT/profile_image?size=original"],"url":["https://twitter.com/BostonRDT"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Boston News"
+    ],
+    "photo": [
+      "https://twitter.com/BostonRDT/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/BostonRDT"
+    ]
+  }
+}

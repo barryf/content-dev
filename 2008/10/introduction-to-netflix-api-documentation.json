@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["How to document an API. Thoroughly\n"],"published":["2008-10-04T17:43:12Z"],"entry-type":["bookmark"],"name":["Introduction to Netflix API Documentation"],"bookmark-of":["http://developer.netflix.com/docs"],"category":["netflik","api","mashup","rest","documentation","web","work","via-pinboard"],"slug":["introduction-to-netflix-api-documentation"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to document an API. Thoroughly\n"
+    ],
+    "published": [
+      "2008-10-04T17:43:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Introduction to Netflix API Documentation"
+    ],
+    "bookmark-of": [
+      "http://developer.netflix.com/docs"
+    ],
+    "category": [
+      "netflik",
+      "api",
+      "mashup",
+      "rest",
+      "documentation",
+      "web",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "introduction-to-netflix-api-documentation"
+    ]
+  }
+}

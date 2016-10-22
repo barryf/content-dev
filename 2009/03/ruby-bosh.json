@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["XMPP BOSH session initialiser\n"],"published":["2009-03-28T16:20:26Z"],"entry-type":["bookmark"],"name":["ruby_bosh"],"bookmark-of":["http://intridea.com/2009/3/1/rubybosh-an-xmpp-bosh-session-initializer?blog=company"],"category":["xmpp","bosh","ruby","im","chat","via-pinboard"],"slug":["ruby-bosh"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "XMPP BOSH session initialiser\n"
+    ],
+    "published": [
+      "2009-03-28T16:20:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ruby_bosh"
+    ],
+    "bookmark-of": [
+      "http://intridea.com/2009/3/1/rubybosh-an-xmpp-bosh-session-initializer?blog=company"
+    ],
+    "category": [
+      "xmpp",
+      "bosh",
+      "ruby",
+      "im",
+      "chat",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-bosh"
+    ]
+  }
+}

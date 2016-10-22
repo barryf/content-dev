@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@kevgibbo If it's true I'm sure it won't just disappear, but I've exported my links just in case: http://bit.ly/dn4tY2"],"published":["2010-12-17T15:55:37Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/989581/status/15541044380696576"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/15797272314912768"],"slug":["tweet-15797272314912768"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@kevgibbo If it's true I'm sure it won't just disappear, but I've exported my links just in case: http://bit.ly/dn4tY2"
+    ],
+    "published": [
+      "2010-12-17T15:55:37Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/989581/status/15541044380696576"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/15797272314912768"
+    ],
+    "slug": [
+      "tweet-15797272314912768"
+    ]
+  }
+}

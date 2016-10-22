@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Cloud managed MongoDB on the infrastructure of your choice"],"published":["2015-03-11T16:19:30Z"],"entry-type":["bookmark"],"name":["MMS: The easiest way to run MongoDB"],"bookmark-of":["https://mms.mongodb.com/"],"category":["mongodb","mongo","cloud","aws"],"slug":["mms-the-easiest-way-to-run"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Cloud managed MongoDB on the infrastructure of your choice"
+    ],
+    "published": [
+      "2015-03-11T16:19:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MMS: The easiest way to run MongoDB"
+    ],
+    "bookmark-of": [
+      "https://mms.mongodb.com/"
+    ],
+    "category": [
+      "mongodb",
+      "mongo",
+      "cloud",
+      "aws"
+    ],
+    "slug": [
+      "mms-the-easiest-way-to-run"
+    ]
+  }
+}

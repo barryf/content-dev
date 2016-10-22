@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["If you haven't already seen, we launched a new @globaldev site at http://globaldev.co.uk alongside @globalpersonals' at http://globalpersonals.co.uk"],"published":["2012-04-16T14:20:32Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/191893842868441088"],"slug":["tweet-191893842868441088"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "If you haven't already seen, we launched a new @globaldev site at http://globaldev.co.uk alongside @globalpersonals' at http://globalpersonals.co.uk"
+    ],
+    "published": [
+      "2012-04-16T14:20:32Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/191893842868441088"
+    ],
+    "slug": [
+      "tweet-191893842868441088"
+    ]
+  }
+}

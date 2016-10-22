@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2006-03-27T10:39:46Z"],"entry-type":["bookmark"],"name":["4096 Color Wheel Version 2.1"],"bookmark-of":["http://www.ficml.org/jemimap/style/color/wheel.html"],"category":["colour","web","design","inspiration","via-pinboard"],"slug":["4096-color-wheel-version-2-1"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-03-27T10:39:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "4096 Color Wheel Version 2.1"
+    ],
+    "bookmark-of": [
+      "http://www.ficml.org/jemimap/style/color/wheel.html"
+    ],
+    "category": [
+      "colour",
+      "web",
+      "design",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "4096-color-wheel-version-2-1"
+    ]
+  }
+}

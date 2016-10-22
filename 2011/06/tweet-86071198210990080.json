@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw I always sign up to these things anyway to have a nose around. Hoping they enable for Google Apps accounts too."],"published":["2011-06-29T13:59:07Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/86027532708745217"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/86071198210990080"],"slug":["tweet-86071198210990080"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw I always sign up to these things anyway to have a nose around. Hoping they enable for Google Apps accounts too."
+    ],
+    "published": [
+      "2011-06-29T13:59:07Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/86027532708745217"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/86071198210990080"
+    ],
+    "slug": [
+      "tweet-86071198210990080"
+    ]
+  }
+}

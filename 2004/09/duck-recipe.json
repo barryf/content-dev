@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Mmm...\n"],"published":["2004-09-10T14:00:13Z"],"entry-type":["bookmark"],"name":["Duck Recipe"],"bookmark-of":["http://textism.com/article/788/"],"category":["recipe","via-pinboard"],"slug":["duck-recipe"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mmm...\n"
+    ],
+    "published": [
+      "2004-09-10T14:00:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Duck Recipe"
+    ],
+    "bookmark-of": [
+      "http://textism.com/article/788/"
+    ],
+    "category": [
+      "recipe",
+      "via-pinboard"
+    ],
+    "slug": [
+      "duck-recipe"
+    ]
+  }
+}

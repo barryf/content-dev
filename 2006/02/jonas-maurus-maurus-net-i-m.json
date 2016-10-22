@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["While I'm not a fan of PHP, every language/platform has its drawbacks\n"],"published":["2006-02-23T14:01:38Z"],"entry-type":["bookmark"],"name":["Jonas Maurus’ maurus.net » I’m sorry, but PHP sucks!"],"bookmark-of":["http://maurus.net/work/php-sucks/"],"category":["php","advocacy","language","web","via-pinboard"],"slug":["jonas-maurus-maurus-net-i-m"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "While I'm not a fan of PHP, every language/platform has its drawbacks\n"
+    ],
+    "published": [
+      "2006-02-23T14:01:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Jonas Maurus’ maurus.net » I’m sorry, but PHP sucks!"
+    ],
+    "bookmark-of": [
+      "http://maurus.net/work/php-sucks/"
+    ],
+    "category": [
+      "php",
+      "advocacy",
+      "language",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jonas-maurus-maurus-net-i-m"
+    ]
+  }
+}

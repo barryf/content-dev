@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying the warm welcome at US Passport Control. I just love being treated like a criminal. Finger prints? Good God."],"published":["2008-02-27T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/764140079"],"slug":["tweet-764140079"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying the warm welcome at US Passport Control. I just love being treated like a criminal. Finger prints? Good God."
+    ],
+    "published": [
+      "2008-02-27T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/764140079"
+    ],
+    "slug": [
+      "tweet-764140079"
+    ]
+  }
+}

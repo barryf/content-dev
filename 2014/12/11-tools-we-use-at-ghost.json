@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2014-12-16T09:22:59Z"],"entry-type":["bookmark"],"name":["11 Tools We Use at Ghost for Distributed Teams & Digital Nomads"],"bookmark-of":["http://blog.ghost.org/distributed-team-tools/"],"category":["team","remote","management","via-pinboard"],"slug":["11-tools-we-use-at-ghost"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-12-16T09:22:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "11 Tools We Use at Ghost for Distributed Teams & Digital Nomads"
+    ],
+    "bookmark-of": [
+      "http://blog.ghost.org/distributed-team-tools/"
+    ],
+    "category": [
+      "team",
+      "remote",
+      "management",
+      "via-pinboard"
+    ],
+    "slug": [
+      "11-tools-we-use-at-ghost"
+    ]
+  }
+}

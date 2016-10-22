@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Add cards to your chosen Trello list via Alfred"],"published":["2013-04-30T16:11:25Z"],"entry-type":["bookmark"],"name":["Alfred-for-Trello"],"bookmark-of":["https://github.com/MikoMagni/Alfred-for-Trello"],"category":["alfred","workflow","trello","automation","gtd","via-pinboard"],"slug":["alfred-for-trello"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Add cards to your chosen Trello list via Alfred"
+    ],
+    "published": [
+      "2013-04-30T16:11:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Alfred-for-Trello"
+    ],
+    "bookmark-of": [
+      "https://github.com/MikoMagni/Alfred-for-Trello"
+    ],
+    "category": [
+      "alfred",
+      "workflow",
+      "trello",
+      "automation",
+      "gtd",
+      "via-pinboard"
+    ],
+    "slug": [
+      "alfred-for-trello"
+    ]
+  }
+}

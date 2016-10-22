@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The rumours are true. How I'm giving Essex reality queen @laurenpope a boost: http://www.nma.co.uk/news/towie-stars-dating-site-gets-mobile-boost/4000816.article"],"published":["2012-03-22T16:05:03Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/182860452605333504"],"slug":["tweet-182860452605333504"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The rumours are true. How I'm giving Essex reality queen @laurenpope a boost: http://www.nma.co.uk/news/towie-stars-dating-site-gets-mobile-boost/4000816.article"
+    ],
+    "published": [
+      "2012-03-22T16:05:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/182860452605333504"
+    ],
+    "slug": [
+      "tweet-182860452605333504"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Vaurien is basically a Chaos Monkey for your TCP connections. Vaurien acts as a proxy between your application and any backend. You can use it in your functional tests or even on a real deployment through the command-line."],"published":["2015-03-11T16:20:15Z"],"entry-type":["bookmark"],"name":["Vaurien, the Chaos TCP Proxy"],"bookmark-of":["http://vaurien.readthedocs.org/en/1.8/"],"category":["chaosmonkey","testing","tcp","network"],"slug":["vaurien-the-chaos-tcp-proxy"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Vaurien is basically a Chaos Monkey for your TCP connections. Vaurien acts as a proxy between your application and any backend. You can use it in your functional tests or even on a real deployment through the command-line."
+    ],
+    "published": [
+      "2015-03-11T16:20:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Vaurien, the Chaos TCP Proxy"
+    ],
+    "bookmark-of": [
+      "http://vaurien.readthedocs.org/en/1.8/"
+    ],
+    "category": [
+      "chaosmonkey",
+      "testing",
+      "tcp",
+      "network"
+    ],
+    "slug": [
+      "vaurien-the-chaos-tcp-proxy"
+    ]
+  }
+}

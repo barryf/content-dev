@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["A write up of how FB's chat works. Meaty server and programming requirements\n"],"published":["2008-05-17T19:13:38Z"],"entry-type":["bookmark"],"name":["Facebook Chat"],"bookmark-of":["http://www.facebook.com/note.php?note_id=14218138919"],"category":["erlang","facebook","chat","cplusplus","xhr","bosh","comet","ajax","javascript","php","thrift","via-pinboard"],"slug":["facebook-chat"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A write up of how FB's chat works. Meaty server and programming requirements\n"
+    ],
+    "published": [
+      "2008-05-17T19:13:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Facebook Chat"
+    ],
+    "bookmark-of": [
+      "http://www.facebook.com/note.php?note_id=14218138919"
+    ],
+    "category": [
+      "erlang",
+      "facebook",
+      "chat",
+      "cplusplus",
+      "xhr",
+      "bosh",
+      "comet",
+      "ajax",
+      "javascript",
+      "php",
+      "thrift",
+      "via-pinboard"
+    ],
+    "slug": [
+      "facebook-chat"
+    ]
+  }
+}

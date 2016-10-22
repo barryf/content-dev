@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Tim Bray hits the nail on the head\n"],"published":["2005-07-03T15:54:46Z"],"entry-type":["bookmark"],"name":["ongoing · The Hunger Barrier"],"bookmark-of":["http://www.tbray.org/ongoing/When/200x/2003/07/11/AfriFood"],"category":["politics","aid","poverty","via-pinboard"],"slug":["ongoing-the-hunger-barrier"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tim Bray hits the nail on the head\n"
+    ],
+    "published": [
+      "2005-07-03T15:54:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ongoing · The Hunger Barrier"
+    ],
+    "bookmark-of": [
+      "http://www.tbray.org/ongoing/When/200x/2003/07/11/AfriFood"
+    ],
+    "category": [
+      "politics",
+      "aid",
+      "poverty",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ongoing-the-hunger-barrier"
+    ]
+  }
+}

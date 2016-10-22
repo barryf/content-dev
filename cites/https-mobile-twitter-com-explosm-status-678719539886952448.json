@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://mobile.twitter.com/explosm/status/678719539886952448"],"published":["2015-12-20T23:32:02Z"],"content":["Today's comic is delicious.\nOr horrifying.\nYou be the judge: http://explosm.net/comics/4154"],"photo":["http://pbs.twimg.com/media/CWtL0zVU4AADdnN.png"],"author":["https://twitter.com/Explosm"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://mobile.twitter.com/explosm/status/678719539886952448"
+    ],
+    "published": [
+      "2015-12-20T23:32:02Z"
+    ],
+    "content": [
+      "Today's comic is delicious.\nOr horrifying.\nYou be the judge: http://explosm.net/comics/4154"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CWtL0zVU4AADdnN.png"
+    ],
+    "author": [
+      "https://twitter.com/Explosm"
+    ]
+  }
+}

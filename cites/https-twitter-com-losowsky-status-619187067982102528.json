@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/losowsky/status/619187067982102528"],"published":["2015-07-09T16:51:15Z"],"content":["@barryf If you don't act to change behavior, new tools won't change anything, a dive been learning."],"in-reply-to":["https://barryfrost.com/2015/07/losowsky-read-a-few-links-on"],"author":["http://www.losowsky.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/losowsky/status/619187067982102528"
+    ],
+    "published": [
+      "2015-07-09T16:51:15Z"
+    ],
+    "content": [
+      "@barryf If you don't act to change behavior, new tools won't change anything, a dive been learning."
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/07/losowsky-read-a-few-links-on"
+    ],
+    "author": [
+      "http://www.losowsky.com"
+    ]
+  }
+}

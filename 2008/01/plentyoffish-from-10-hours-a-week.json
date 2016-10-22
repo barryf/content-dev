@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Markus Frind interviewed in the NYT\n"],"published":["2008-01-13T17:24:30Z"],"entry-type":["bookmark"],"name":["PlentyOfFish: From 10 Hours a Week, $10 Million a Year - New York Times"],"bookmark-of":["http://www.nytimes.com/2008/01/13/business/13digi.html?_r=1"],"category":["dating","business","work","scaling","via-pinboard"],"slug":["plentyoffish-from-10-hours-a-week"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Markus Frind interviewed in the NYT\n"
+    ],
+    "published": [
+      "2008-01-13T17:24:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PlentyOfFish: From 10 Hours a Week, $10 Million a Year - New York Times"
+    ],
+    "bookmark-of": [
+      "http://www.nytimes.com/2008/01/13/business/13digi.html?_r=1"
+    ],
+    "category": [
+      "dating",
+      "business",
+      "work",
+      "scaling",
+      "via-pinboard"
+    ],
+    "slug": [
+      "plentyoffish-from-10-hours-a-week"
+    ]
+  }
+}

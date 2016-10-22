@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["\"'Finally!' they cry, 'a way to save column inches'.\"\n"],"published":["2007-08-29T12:25:52Z"],"entry-type":["bookmark"],"name":["Diana + Madeleine ="],"bookmark-of":["http://www.b3ta.com/board/7555859"],"category":["diana","uk","newspaper","media","fun","via-pinboard"],"slug":["diana-madeleine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"'Finally!' they cry, 'a way to save column inches'.\"\n"
+    ],
+    "published": [
+      "2007-08-29T12:25:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Diana + Madeleine ="
+    ],
+    "bookmark-of": [
+      "http://www.b3ta.com/board/7555859"
+    ],
+    "category": [
+      "diana",
+      "uk",
+      "newspaper",
+      "media",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "diana-madeleine"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Write and host a Rails app all-in-one\n"],"published":["2007-11-11T11:36:05Z"],"entry-type":["bookmark"],"name":["Heroku"],"bookmark-of":["http://heroku.com/"],"category":["deployment","dev","hosting","rails","web","inspiration","via-pinboard"],"slug":["heroku"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Write and host a Rails app all-in-one\n"
+    ],
+    "published": [
+      "2007-11-11T11:36:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Heroku"
+    ],
+    "bookmark-of": [
+      "http://heroku.com/"
+    ],
+    "category": [
+      "deployment",
+      "dev",
+      "hosting",
+      "rails",
+      "web",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "heroku"
+    ]
+  }
+}

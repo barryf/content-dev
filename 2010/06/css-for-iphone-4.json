@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Targeting iPhone 4 with HTML link tag\n"],"published":["2010-06-28T13:30:06Z"],"entry-type":["bookmark"],"name":["CSS for iPhone 4"],"bookmark-of":["http://thomasmaier.me/2010/06/css-for-iphone-4-retina-display/"],"category":["html","iphone","iphone4","css","via-pinboard"],"slug":["css-for-iphone-4"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Targeting iPhone 4 with HTML link tag\n"
+    ],
+    "published": [
+      "2010-06-28T13:30:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CSS for iPhone 4"
+    ],
+    "bookmark-of": [
+      "http://thomasmaier.me/2010/06/css-for-iphone-4-retina-display/"
+    ],
+    "category": [
+      "html",
+      "iphone",
+      "iphone4",
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "css-for-iphone-4"
+    ]
+  }
+}

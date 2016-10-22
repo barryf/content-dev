@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ibrahim El-gaby"],"photo":["https://twitter.com/IbrahimAFC/profile_image?size=original"],"url":["https://twitter.com/IbrahimAFC"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ibrahim El-gaby"
+    ],
+    "photo": [
+      "https://twitter.com/IbrahimAFC/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/IbrahimAFC"
+    ]
+  }
+}

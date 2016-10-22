@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-10-26T09:10:03Z"],"entry-type":["bookmark"],"name":["Getting Started with Node.js (for Cocoa developers)"],"bookmark-of":["http://inessential.com/2013/12/09/getting_started_with_node_js_for_cocoa_"],"category":["nodejs","javascript","dev","guide","via-pinboard"],"slug":["getting-started-with-node-js-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-10-26T09:10:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Getting Started with Node.js (for Cocoa developers)"
+    ],
+    "bookmark-of": [
+      "http://inessential.com/2013/12/09/getting_started_with_node_js_for_cocoa_"
+    ],
+    "category": [
+      "nodejs",
+      "javascript",
+      "dev",
+      "guide",
+      "via-pinboard"
+    ],
+    "slug": [
+      "getting-started-with-node-js-for"
+    ]
+  }
+}

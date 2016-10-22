@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@aaronpk I didn't know I had such power! And yet when I want Siri to do something she never understands me :("],"published":["2015-06-24T06:55:45Z"],"entry-type":["reply"],"summary":["@aaronpk I didn't know I had such power! And yet when I want Siri to do something she never understands me :("],"in-reply-to":["https://aaronparecki.com/notes/2015/06/23/2/alexa"],"syndication":["https://twitter.com/barryf/status/613601401323700224"],"slug":["aaronpk-i-didn-t-know-i"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@aaronpk I didn't know I had such power! And yet when I want Siri to do something she never understands me :("
+    ],
+    "published": [
+      "2015-06-24T06:55:45Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@aaronpk I didn't know I had such power! And yet when I want Siri to do something she never understands me :("
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/notes/2015/06/23/2/alexa"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/613601401323700224"
+    ],
+    "slug": [
+      "aaronpk-i-didn-t-know-i"
+    ]
+  }
+}

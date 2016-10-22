@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://instagram.com/p/xB0Z7aH_nC/#liked-by-61375"],"published":["2015-03-12T17:19:15Z"],"like-of":["https://barryfrost.com/2014/12/new-festive-top-merry-christmas"],"author":["http://instagram.com/thesambarnes"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://instagram.com/p/xB0Z7aH_nC/#liked-by-61375"
+    ],
+    "published": [
+      "2015-03-12T17:19:15Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2014/12/new-festive-top-merry-christmas"
+    ],
+    "author": [
+      "http://instagram.com/thesambarnes"
+    ]
+  }
+}

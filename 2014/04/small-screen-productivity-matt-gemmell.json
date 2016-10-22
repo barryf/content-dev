@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-29T21:59:29Z"],"entry-type":["bookmark"],"name":["Small screen productivity - Matt Gemmell"],"bookmark-of":["http://mattgemmell.com/small-screen-productivity"],"category":["via-pinboard"],"slug":["small-screen-productivity-matt-gemmell"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-29T21:59:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Small screen productivity - Matt Gemmell"
+    ],
+    "bookmark-of": [
+      "http://mattgemmell.com/small-screen-productivity"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "small-screen-productivity-matt-gemmell"
+    ]
+  }
+}

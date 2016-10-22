@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["HSBC card transactions are reportedly failing this morning. Terrible timing considering it's the last day of the month."],"published":["2009-05-31T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1979570750"],"slug":["tweet-1979570750"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "HSBC card transactions are reportedly failing this morning. Terrible timing considering it's the last day of the month."
+    ],
+    "published": [
+      "2009-05-31T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1979570750"
+    ],
+    "slug": [
+      "tweet-1979570750"
+    ]
+  }
+}

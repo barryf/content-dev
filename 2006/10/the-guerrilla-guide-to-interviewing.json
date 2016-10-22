@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["from Joel on Software\n"],"published":["2006-10-30T09:46:48Z"],"entry-type":["bookmark"],"name":["The Guerrilla Guide to Interviewing"],"bookmark-of":["http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html"],"category":["interview","job","business","work","recruitment","career","via-pinboard"],"slug":["the-guerrilla-guide-to-interviewing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "from Joel on Software\n"
+    ],
+    "published": [
+      "2006-10-30T09:46:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Guerrilla Guide to Interviewing"
+    ],
+    "bookmark-of": [
+      "http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html"
+    ],
+    "category": [
+      "interview",
+      "job",
+      "business",
+      "work",
+      "recruitment",
+      "career",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-guerrilla-guide-to-interviewing"
+    ]
+  }
+}

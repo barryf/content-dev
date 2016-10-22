@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Awesome UK property search engine with a lovely endless-scrolling dynamic interface\n"],"published":["2009-05-04T15:08:02Z"],"entry-type":["bookmark"],"name":["Globrix"],"bookmark-of":["http://www.globrix.com/"],"category":["interface","search","uk","property","ajax","map","home","via-pinboard"],"slug":["globrix"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Awesome UK property search engine with a lovely endless-scrolling dynamic interface\n"
+    ],
+    "published": [
+      "2009-05-04T15:08:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Globrix"
+    ],
+    "bookmark-of": [
+      "http://www.globrix.com/"
+    ],
+    "category": [
+      "interface",
+      "search",
+      "uk",
+      "property",
+      "ajax",
+      "map",
+      "home",
+      "via-pinboard"
+    ],
+    "slug": [
+      "globrix"
+    ]
+  }
+}

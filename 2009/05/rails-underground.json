@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["24-25th July in London with some decent looking speakers\n"],"published":["2009-05-17T08:33:28Z"],"entry-type":["bookmark"],"name":["Rails Underground"],"bookmark-of":["http://www.rails-underground.com/"],"category":["uk","london","rails","conference","event","via-pinboard"],"slug":["rails-underground"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "24-25th July in London with some decent looking speakers\n"
+    ],
+    "published": [
+      "2009-05-17T08:33:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails Underground"
+    ],
+    "bookmark-of": [
+      "http://www.rails-underground.com/"
+    ],
+    "category": [
+      "uk",
+      "london",
+      "rails",
+      "conference",
+      "event",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-underground"
+    ]
+  }
+}

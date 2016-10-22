@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Now supports BBC iPlayer. Time to get myself a Mac Mini and start using this - will also work with Apple TV.\n"],"published":["2009-01-11T21:26:18Z"],"entry-type":["bookmark"],"name":["boxee: the open, connected, social media center for mac os x and linux"],"bookmark-of":["http://boxee.tv/"],"category":["boxee","tv","media","appletv","apple","mac","video","audio","bbc","social","via-pinboard"],"slug":["boxee-the-open-connected-social-media"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Now supports BBC iPlayer. Time to get myself a Mac Mini and start using this - will also work with Apple TV.\n"
+    ],
+    "published": [
+      "2009-01-11T21:26:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "boxee: the open, connected, social media center for mac os x and linux"
+    ],
+    "bookmark-of": [
+      "http://boxee.tv/"
+    ],
+    "category": [
+      "boxee",
+      "tv",
+      "media",
+      "appletv",
+      "apple",
+      "mac",
+      "video",
+      "audio",
+      "bbc",
+      "social",
+      "via-pinboard"
+    ],
+    "slug": [
+      "boxee-the-open-connected-social-media"
+    ]
+  }
+}

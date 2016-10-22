@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Format boring UTC timestamps as \"3 weeks ago\" using Javascript\n"],"published":["2008-01-31T13:36:07Z"],"entry-type":["bookmark"],"name":["JavaScript Pretty Date | John Resig"],"bookmark-of":["http://ejohn.org/blog/javascript-pretty-date/"],"category":["javascript","jquery","library","time","date","utc","pretty","dev","web","via-pinboard"],"slug":["javascript-pretty-date-john-resig"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Format boring UTC timestamps as \"3 weeks ago\" using Javascript\n"
+    ],
+    "published": [
+      "2008-01-31T13:36:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JavaScript Pretty Date | John Resig"
+    ],
+    "bookmark-of": [
+      "http://ejohn.org/blog/javascript-pretty-date/"
+    ],
+    "category": [
+      "javascript",
+      "jquery",
+      "library",
+      "time",
+      "date",
+      "utc",
+      "pretty",
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "javascript-pretty-date-john-resig"
+    ]
+  }
+}

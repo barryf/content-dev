@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Solar powered mobile charger"],"published":["2012-12-02T17:25:42Z"],"entry-type":["bookmark"],"name":["powermonkey explorer"],"bookmark-of":["https://powertraveller.com/iwantsome/primatepower/powermonkey-explorer/"],"category":["mobile","charger","power","electricity","solar","via-pinboard"],"slug":["powermonkey-explorer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Solar powered mobile charger"
+    ],
+    "published": [
+      "2012-12-02T17:25:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "powermonkey explorer"
+    ],
+    "bookmark-of": [
+      "https://powertraveller.com/iwantsome/primatepower/powermonkey-explorer/"
+    ],
+    "category": [
+      "mobile",
+      "charger",
+      "power",
+      "electricity",
+      "solar",
+      "via-pinboard"
+    ],
+    "slug": [
+      "powermonkey-explorer"
+    ]
+  }
+}

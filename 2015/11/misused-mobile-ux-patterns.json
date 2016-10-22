@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-11-20T08:40:28Z"],"entry-type":["bookmark"],"name":["Misused mobile UX patterns"],"bookmark-of":["https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.spama55h9"],"category":["ux","patterns","design"],"slug":["misused-mobile-ux-patterns"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-11-20T08:40:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Misused mobile UX patterns"
+    ],
+    "bookmark-of": [
+      "https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.spama55h9"
+    ],
+    "category": [
+      "ux",
+      "patterns",
+      "design"
+    ],
+    "slug": [
+      "misused-mobile-ux-patterns"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["This is why you should only buy genuine chargers for your expensive laptop: http://www.righto.com/2016/03/counterfeit-macbook-charger-teardown.html"],"published":["2016-03-29T12:33:41Z"],"entry-type":["note"],"summary":["This is why you should only buy genuine chargers for your expensive laptop: http://www.righto.com/2016/03/counterfeit-macbook-charger-teardown.html "],"category":["safety","apple"],"syndication":["https://twitter.com/barryf/status/714792652269424641"],"slug":["this-is-why-you-should-only"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This is why you should only buy genuine chargers for your expensive laptop: http://www.righto.com/2016/03/counterfeit-macbook-charger-teardown.html"
+    ],
+    "published": [
+      "2016-03-29T12:33:41Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "This is why you should only buy genuine chargers for your expensive laptop: http://www.righto.com/2016/03/counterfeit-macbook-charger-teardown.html "
+    ],
+    "category": [
+      "safety",
+      "apple"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/714792652269424641"
+    ],
+    "slug": [
+      "this-is-why-you-should-only"
+    ]
+  }
+}

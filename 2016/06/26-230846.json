@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-06-26T22:08:46Z"],"entry-type":["like"],"like-of":["https://twitter.com/benhammersley/status/747123645684690944"],"syndication":["https://twitter.com/benhammersley/status/747123645684690944"],"slug":["26-230846"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-06-26T22:08:46Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/benhammersley/status/747123645684690944"
+    ],
+    "syndication": [
+      "https://twitter.com/benhammersley/status/747123645684690944"
+    ],
+    "slug": [
+      "26-230846"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://instagram.com/p/4t9gNpFYMC/"],"published":["2015-07-04T15:26:23Z"],"content":["1.21 Gigawatts!!!!"],"author":["https://instagram.com/thesambarnes"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://instagram.com/p/4t9gNpFYMC/"
+    ],
+    "published": [
+      "2015-07-04T15:26:23Z"
+    ],
+    "content": [
+      "1.21 Gigawatts!!!!"
+    ],
+    "author": [
+      "https://instagram.com/thesambarnes"
+    ]
+  }
+}

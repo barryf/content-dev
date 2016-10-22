@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair and so it begins!"],"published":["2008-07-04T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/850164454"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/850221229"],"slug":["tweet-850221229"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair and so it begins!"
+    ],
+    "published": [
+      "2008-07-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/850164454"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/850221229"
+    ],
+    "slug": [
+      "tweet-850221229"
+    ]
+  }
+}

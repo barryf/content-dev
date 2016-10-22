@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Subverting the system: scoffing a chocolate muffin with the queen's head on. Thanks @timblair #muffinanarchy"],"published":["2011-01-28T14:54:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/31002208430465024"],"slug":["tweet-31002208430465024"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Subverting the system: scoffing a chocolate muffin with the queen's head on. Thanks @timblair #muffinanarchy"
+    ],
+    "published": [
+      "2011-01-28T14:54:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/31002208430465024"
+    ],
+    "slug": [
+      "tweet-31002208430465024"
+    ]
+  }
+}

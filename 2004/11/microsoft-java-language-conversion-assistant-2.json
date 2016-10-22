@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-07T17:54:43Z"],"entry-type":["bookmark"],"name":["Microsoft Java Language Conversion Assistant 2.0"],"bookmark-of":["http://msdn.microsoft.com/vstudio/downloads/tools/jlca/"],"category":["csharp","dotnet","java","via-pinboard"],"slug":["microsoft-java-language-conversion-assistant-2"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-07T17:54:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Microsoft Java Language Conversion Assistant 2.0"
+    ],
+    "bookmark-of": [
+      "http://msdn.microsoft.com/vstudio/downloads/tools/jlca/"
+    ],
+    "category": [
+      "csharp",
+      "dotnet",
+      "java",
+      "via-pinboard"
+    ],
+    "slug": [
+      "microsoft-java-language-conversion-assistant-2"
+    ]
+  }
+}

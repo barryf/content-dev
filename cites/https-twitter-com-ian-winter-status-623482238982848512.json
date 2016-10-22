@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/ian_winter/status/623482238982848512"],"published":["2015-07-21T13:18:44Z"],"content":["RT @barryf: Pushed a quick facelift live for our old globaldev team site to match the new company @venntro branding: dev.venntro.com"],"repost-of":["https://barryfrost.com/2015/07/pushed-a-quick-facelift-live-for"],"author":["https://ian.io"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/ian_winter/status/623482238982848512"
+    ],
+    "published": [
+      "2015-07-21T13:18:44Z"
+    ],
+    "content": [
+      "RT @barryf: Pushed a quick facelift live for our old globaldev team site to match the new company @venntro branding: dev.venntro.com"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/07/pushed-a-quick-facelift-live-for"
+    ],
+    "author": [
+      "https://ian.io"
+    ]
+  }
+}

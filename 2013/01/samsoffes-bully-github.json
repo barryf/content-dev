@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-01-05T22:26:12Z"],"entry-type":["bookmark"],"name":["samsoffes/bully · GitHub"],"bookmark-of":["https://github.com/samsoffes/bully"],"category":["fromifttt","github","via-pinboard"],"slug":["samsoffes-bully-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-01-05T22:26:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "samsoffes/bully · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/samsoffes/bully"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "samsoffes-bully-github"
+    ]
+  }
+}

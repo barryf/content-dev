@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh @ian_winter Nice. Would love one of those too if they take off."],"published":["2012-10-17T13:09:15Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/258553300025241601"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/258555272472170497"],"slug":["tweet-258555272472170497"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh @ian_winter Nice. Would love one of those too if they take off."
+    ],
+    "published": [
+      "2012-10-17T13:09:15Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/258553300025241601"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/258555272472170497"
+    ],
+    "slug": [
+      "tweet-258555272472170497"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-01-27T22:16:06Z"],"entry-type":["bookmark"],"name":["OmniNerd - Articles: Processing Credit Cards with Ruby on Rails"],"bookmark-of":["http://www.omninerd.com/2007/01/23/articles/66"],"category":["rails","web","dev","payment","creditcard","ecommerce","money","business","via-pinboard"],"slug":["omninerd-articles-processing-credit-cards-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-01-27T22:16:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "OmniNerd - Articles: Processing Credit Cards with Ruby on Rails"
+    ],
+    "bookmark-of": [
+      "http://www.omninerd.com/2007/01/23/articles/66"
+    ],
+    "category": [
+      "rails",
+      "web",
+      "dev",
+      "payment",
+      "creditcard",
+      "ecommerce",
+      "money",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "omninerd-articles-processing-credit-cards-with"
+    ]
+  }
+}

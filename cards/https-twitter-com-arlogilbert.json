@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Arlo Gilbert"],"photo":["https://twitter.com/arlogilbert/profile_image?size=original"],"url":["https://twitter.com/arlogilbert"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Arlo Gilbert"
+    ],
+    "photo": [
+      "https://twitter.com/arlogilbert/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/arlogilbert"
+    ]
+  }
+}

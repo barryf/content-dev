@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Technical background to the new homepage\n"],"published":["2007-05-10T10:15:15Z"],"entry-type":["bookmark"],"name":["niksilver.com » Guardian Unlimited’s new look: Some background on templating"],"bookmark-of":["http://niksilver.com/2007/05/10/guardian-unlimiteds-new-look-some-background-on-templating/"],"category":["web","design","guardian","cms","ddd","homepage","template","via-pinboard"],"slug":["niksilver-com-guardian-unlimited-s-new"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Technical background to the new homepage\n"
+    ],
+    "published": [
+      "2007-05-10T10:15:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "niksilver.com » Guardian Unlimited’s new look: Some background on templating"
+    ],
+    "bookmark-of": [
+      "http://niksilver.com/2007/05/10/guardian-unlimiteds-new-look-some-background-on-templating/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "guardian",
+      "cms",
+      "ddd",
+      "homepage",
+      "template",
+      "via-pinboard"
+    ],
+    "slug": [
+      "niksilver-com-guardian-unlimited-s-new"
+    ]
+  }
+}

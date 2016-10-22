@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@nstanley Me too. Powerless to resist."],"published":["2011-10-07T17:27:01Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11470692/status/122349890645921792"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/122362303076245504"],"slug":["tweet-122362303076245504"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nstanley Me too. Powerless to resist."
+    ],
+    "published": [
+      "2011-10-07T17:27:01Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11470692/status/122349890645921792"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/122362303076245504"
+    ],
+    "slug": [
+      "tweet-122362303076245504"
+    ]
+  }
+}

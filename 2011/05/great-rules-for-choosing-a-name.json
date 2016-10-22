@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Distinctiveness, brevity, appropriateness, easy-to-spell, pronounceability, linkability, extendability, protectability...\n"],"published":["2011-05-01T10:51:11Z"],"entry-type":["bookmark"],"name":["Great rules for choosing a name"],"bookmark-of":["http://contrast.ie/blog/great-rules-for-choosing-a-name/"],"category":["naming","business","brand","marketing","startup","via-pinboard"],"slug":["great-rules-for-choosing-a-name"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Distinctiveness, brevity, appropriateness, easy-to-spell, pronounceability, linkability, extendability, protectability...\n"
+    ],
+    "published": [
+      "2011-05-01T10:51:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Great rules for choosing a name"
+    ],
+    "bookmark-of": [
+      "http://contrast.ie/blog/great-rules-for-choosing-a-name/"
+    ],
+    "category": [
+      "naming",
+      "business",
+      "brand",
+      "marketing",
+      "startup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "great-rules-for-choosing-a-name"
+    ]
+  }
+}

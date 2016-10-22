@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Terrible manager. Lucky for Scots there's no relegation in international football."],"published":["2013-01-15T13:24:11Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/291173587438682112"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/291173937214259202"],"slug":["tweet-291173937214259202"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Terrible manager. Lucky for Scots there's no relegation in international football."
+    ],
+    "published": [
+      "2013-01-15T13:24:11Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/291173587438682112"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/291173937214259202"
+    ],
+    "slug": [
+      "tweet-291173937214259202"
+    ]
+  }
+}

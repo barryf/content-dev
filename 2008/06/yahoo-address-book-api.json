@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Same idea as Google contacts API: means you don't require a user's username/password to find their contacts\n"],"published":["2008-06-05T20:15:13Z"],"entry-type":["bookmark"],"name":["Yahoo! Address Book API"],"bookmark-of":["http://developer.yahoo.com/addressbook/"],"category":["api","yahoo","addressbook","contacts","identity","phish","via-pinboard"],"slug":["yahoo-address-book-api"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Same idea as Google contacts API: means you don't require a user's username/password to find their contacts\n"
+    ],
+    "published": [
+      "2008-06-05T20:15:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Yahoo! Address Book API"
+    ],
+    "bookmark-of": [
+      "http://developer.yahoo.com/addressbook/"
+    ],
+    "category": [
+      "api",
+      "yahoo",
+      "addressbook",
+      "contacts",
+      "identity",
+      "phish",
+      "via-pinboard"
+    ],
+    "slug": [
+      "yahoo-address-book-api"
+    ]
+  }
+}

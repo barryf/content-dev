@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewgarner I'll name him Tom after the other bear in the team."],"published":["2011-12-06T17:04:42Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15734896/status/144098992983244801"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/144099960852451328"],"slug":["tweet-144099960852451328"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewgarner I'll name him Tom after the other bear in the team."
+    ],
+    "published": [
+      "2011-12-06T17:04:42Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15734896/status/144098992983244801"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/144099960852451328"
+    ],
+    "slug": [
+      "tweet-144099960852451328"
+    ]
+  }
+}

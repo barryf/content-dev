@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Introduction to progamming for 13+ kids\n"],"published":["2007-04-26T12:31:26Z"],"entry-type":["bookmark"],"name":["Hackety Hack: the Coder's Starter Kit"],"bookmark-of":["http://hacketyhack.net/"],"category":["education","tutorial","kids","ruby","via-pinboard"],"slug":["hackety-hack-the-coder-s-starter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Introduction to progamming for 13+ kids\n"
+    ],
+    "published": [
+      "2007-04-26T12:31:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hackety Hack: the Coder's Starter Kit"
+    ],
+    "bookmark-of": [
+      "http://hacketyhack.net/"
+    ],
+    "category": [
+      "education",
+      "tutorial",
+      "kids",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hackety-hack-the-coder-s-starter"
+    ]
+  }
+}

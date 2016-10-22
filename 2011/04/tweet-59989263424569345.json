@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I may live in Windsor but no one gave me a castle. Something to wear on the wedding day: http://www.philosophyfootball.com/view_item.php?pid=694 #commoner #royalwedding"],"published":["2011-04-18T14:38:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/59989263424569345"],"slug":["tweet-59989263424569345"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I may live in Windsor but no one gave me a castle. Something to wear on the wedding day: http://www.philosophyfootball.com/view_item.php?pid=694 #commoner #royalwedding"
+    ],
+    "published": [
+      "2011-04-18T14:38:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/59989263424569345"
+    ],
+    "slug": [
+      "tweet-59989263424569345"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["wondering if @timblair has become a tramp, scraping around for dropped coins"],"published":["2007-06-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/103974692"],"slug":["tweet-103974692"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "wondering if @timblair has become a tramp, scraping around for dropped coins"
+    ],
+    "published": [
+      "2007-06-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/103974692"
+    ],
+    "slug": [
+      "tweet-103974692"
+    ]
+  }
+}

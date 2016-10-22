@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-02T17:34:29Z"],"entry-type":["bookmark"],"name":["The Elements of Meaningful XHTML"],"bookmark-of":["http://tantek.com/presentations/2005/09/elements-of-xhtml/"],"category":["xhtml","web","standards","via-pinboard"],"slug":["the-elements-of-meaningful-xhtml"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-02T17:34:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Elements of Meaningful XHTML"
+    ],
+    "bookmark-of": [
+      "http://tantek.com/presentations/2005/09/elements-of-xhtml/"
+    ],
+    "category": [
+      "xhtml",
+      "web",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-elements-of-meaningful-xhtml"
+    ]
+  }
+}

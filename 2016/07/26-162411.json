@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-07-26T15:24:11Z"],"entry-type":["like"],"like-of":["https://twitter.com/grantbunyan/status/757958988126363648"],"syndication":["https://twitter.com/grantbunyan/status/757958988126363648"],"slug":["26-162411"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-07-26T15:24:11Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/grantbunyan/status/757958988126363648"
+    ],
+    "syndication": [
+      "https://twitter.com/grantbunyan/status/757958988126363648"
+    ],
+    "slug": [
+      "26-162411"
+    ]
+  }
+}

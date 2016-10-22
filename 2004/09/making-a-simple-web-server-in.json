@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-03T12:55:17Z"],"entry-type":["bookmark"],"name":["Making a simple web server in Python"],"bookmark-of":["http://fragments.turtlemeat.com/pythonwebserver.php"],"category":["python","via-pinboard"],"slug":["making-a-simple-web-server-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-03T12:55:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Making a simple web server in Python"
+    ],
+    "bookmark-of": [
+      "http://fragments.turtlemeat.com/pythonwebserver.php"
+    ],
+    "category": [
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "making-a-simple-web-server-in"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@stooty I'd forgotten how lo-fi voting was: two old ladies with a pad of voting slips and a big black box. Simple. Hung does look likely."],"published":["2010-05-06T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20042159/status/13476089915"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/13477092450"],"slug":["tweet-13477092450"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@stooty I'd forgotten how lo-fi voting was: two old ladies with a pad of voting slips and a big black box. Simple. Hung does look likely."
+    ],
+    "published": [
+      "2010-05-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20042159/status/13476089915"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/13477092450"
+    ],
+    "slug": [
+      "tweet-13477092450"
+    ]
+  }
+}

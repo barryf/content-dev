@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["For PDF generating/Distiller/PostScript stuff\n"],"published":["2006-11-24T14:04:03Z"],"entry-type":["bookmark"],"name":["LiveCycle Portal"],"bookmark-of":["http://www.livecycleportal.org/"],"category":["adobe","livecycle","pdf","web","document","acrobat","via-pinboard"],"slug":["livecycle-portal"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "For PDF generating/Distiller/PostScript stuff\n"
+    ],
+    "published": [
+      "2006-11-24T14:04:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "LiveCycle Portal"
+    ],
+    "bookmark-of": [
+      "http://www.livecycleportal.org/"
+    ],
+    "category": [
+      "adobe",
+      "livecycle",
+      "pdf",
+      "web",
+      "document",
+      "acrobat",
+      "via-pinboard"
+    ],
+    "slug": [
+      "livecycle-portal"
+    ]
+  }
+}

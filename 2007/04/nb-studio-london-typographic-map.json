@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-04-25T18:45:29Z"],"entry-type":["bookmark"],"name":["NB: Studio (London typographic map)"],"bookmark-of":["http://www.nbstudio.co.uk/londonskerning/index.html"],"category":["agency","london","map","typography","design","inspiration","via-pinboard"],"slug":["nb-studio-london-typographic-map"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-04-25T18:45:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "NB: Studio (London typographic map)"
+    ],
+    "bookmark-of": [
+      "http://www.nbstudio.co.uk/londonskerning/index.html"
+    ],
+    "category": [
+      "agency",
+      "london",
+      "map",
+      "typography",
+      "design",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nb-studio-london-typographic-map"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["How the Economist elegantly created whitespace by tweaking its body font\n"],"published":["2007-01-12T13:52:09Z"],"entry-type":["bookmark"],"name":["Economist 101 & Ecotype"],"bookmark-of":["http://www.daidala.com/economist101ecotype.html"],"category":["typography","economist","design","font","inspiration","whitespace","uk","via-pinboard"],"slug":["economist-101-ecotype"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How the Economist elegantly created whitespace by tweaking its body font\n"
+    ],
+    "published": [
+      "2007-01-12T13:52:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Economist 101 & Ecotype"
+    ],
+    "bookmark-of": [
+      "http://www.daidala.com/economist101ecotype.html"
+    ],
+    "category": [
+      "typography",
+      "economist",
+      "design",
+      "font",
+      "inspiration",
+      "whitespace",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "economist-101-ecotype"
+    ]
+  }
+}

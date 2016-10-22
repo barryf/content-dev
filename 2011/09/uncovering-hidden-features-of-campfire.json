@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Emoji and secret sounds to annoy and confuse your colleagues.\n"],"published":["2011-09-01T08:46:55Z"],"entry-type":["bookmark"],"name":["Uncovering hidden features of Campfire"],"bookmark-of":["http://msujaws.wordpress.com/2011/03/29/uncovering-hidden-features-of-campfire/"],"category":["campfire","emoji","chat","team","via-pinboard"],"slug":["uncovering-hidden-features-of-campfire"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Emoji and secret sounds to annoy and confuse your colleagues.\n"
+    ],
+    "published": [
+      "2011-09-01T08:46:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Uncovering hidden features of Campfire"
+    ],
+    "bookmark-of": [
+      "http://msujaws.wordpress.com/2011/03/29/uncovering-hidden-features-of-campfire/"
+    ],
+    "category": [
+      "campfire",
+      "emoji",
+      "chat",
+      "team",
+      "via-pinboard"
+    ],
+    "slug": [
+      "uncovering-hidden-features-of-campfire"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Doing a GTD-style mind sweep of tasks and actions into my new beta @asana account. Starting to believe the hype: http://techcrunch.com/2011/02/07/finally-facebook-co-founder-opens-the-curtain-on-two-year-old-asana/"],"published":["2011-07-04T20:40:47Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/87984221687255040"],"slug":["tweet-87984221687255040"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Doing a GTD-style mind sweep of tasks and actions into my new beta @asana account. Starting to believe the hype: http://techcrunch.com/2011/02/07/finally-facebook-co-founder-opens-the-curtain-on-two-year-old-asana/"
+    ],
+    "published": [
+      "2011-07-04T20:40:47Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/87984221687255040"
+    ],
+    "slug": [
+      "tweet-87984221687255040"
+    ]
+  }
+}

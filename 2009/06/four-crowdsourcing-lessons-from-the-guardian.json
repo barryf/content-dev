@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Plus background on the site itself: Guardian using Django and EC2 for the first time on a project.\n"],"published":["2009-06-28T16:00:46Z"],"entry-type":["bookmark"],"name":["Four crowdsourcing lessons from the Guardian’s (spectacular) expenses-scandal experiment"],"bookmark-of":["http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/"],"category":["sjango","guardian","ec2","crowdsourcing","social","uk","politics","journalism","via-pinboard"],"slug":["four-crowdsourcing-lessons-from-the-guardian"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Plus background on the site itself: Guardian using Django and EC2 for the first time on a project.\n"
+    ],
+    "published": [
+      "2009-06-28T16:00:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Four crowdsourcing lessons from the Guardian’s (spectacular) expenses-scandal experiment"
+    ],
+    "bookmark-of": [
+      "http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/"
+    ],
+    "category": [
+      "sjango",
+      "guardian",
+      "ec2",
+      "crowdsourcing",
+      "social",
+      "uk",
+      "politics",
+      "journalism",
+      "via-pinboard"
+    ],
+    "slug": [
+      "four-crowdsourcing-lessons-from-the-guardian"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Andrew Bloch"],"photo":["http://pbs.twimg.com/profile_images/378800000081556501/a8dcf8e2c00be908922c05b37ef2479d_normal.jpeg"],"url":["https://twitter.com/AndrewBloch"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Andrew Bloch"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000081556501/a8dcf8e2c00be908922c05b37ef2479d_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/AndrewBloch"
+    ]
+  }
+}

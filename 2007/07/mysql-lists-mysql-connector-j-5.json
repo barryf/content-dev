@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["With CF optimisations. Suitable for MySQL 4.1+\n"],"published":["2007-07-21T16:21:38Z"],"entry-type":["bookmark"],"name":["MySQL Lists: mysql: Connector/J 5.1.2 Beta Released"],"bookmark-of":["http://lists.mysql.com/mysql/207831"],"category":["mysql","database","coldfusion","driver","via-pinboard"],"slug":["mysql-lists-mysql-connector-j-5"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "With CF optimisations. Suitable for MySQL 4.1+\n"
+    ],
+    "published": [
+      "2007-07-21T16:21:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MySQL Lists: mysql: Connector/J 5.1.2 Beta Released"
+    ],
+    "bookmark-of": [
+      "http://lists.mysql.com/mysql/207831"
+    ],
+    "category": [
+      "mysql",
+      "database",
+      "coldfusion",
+      "driver",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mysql-lists-mysql-connector-j-5"
+    ]
+  }
+}

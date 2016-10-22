@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@hannah__alice @timblair @thesambarnes @andrewgarner Ideally one with a hood. With ears. In tiger print. Basically a tiger costume."],"published":["2013-10-30T23:10:22Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/351565163/status/395686942094143488"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/395689161753391104"],"slug":["tweet-395689161753391104"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hannah__alice @timblair @thesambarnes @andrewgarner Ideally one with a hood. With ears. In tiger print. Basically a tiger costume."
+    ],
+    "published": [
+      "2013-10-30T23:10:22Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/351565163/status/395686942094143488"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/395689161753391104"
+    ],
+    "slug": [
+      "tweet-395689161753391104"
+    ]
+  }
+}

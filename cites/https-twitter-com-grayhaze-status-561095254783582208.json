@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/grayhaze/status/561095254783582208"],"published":["2015-01-30T09:35:08Z"],"content":["retweeted this."],"repost-of":["https://barryfrost.com/2015/01/if-it-wasn-t-irritating-enough"],"author":["https://twitter.com/grayhaze"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/grayhaze/status/561095254783582208"
+    ],
+    "published": [
+      "2015-01-30T09:35:08Z"
+    ],
+    "content": [
+      "retweeted this."
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/01/if-it-wasn-t-irritating-enough"
+    ],
+    "author": [
+      "https://twitter.com/grayhaze"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Inbetweeners writers: do your homework. Uni of Warwick is based in Coventry. Also that student house has a London road sign outside. Lazy."],"published":["2010-10-04T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/26396240315"],"slug":["tweet-26396240315"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Inbetweeners writers: do your homework. Uni of Warwick is based in Coventry. Also that student house has a London road sign outside. Lazy."
+    ],
+    "published": [
+      "2010-10-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/26396240315"
+    ],
+    "slug": [
+      "tweet-26396240315"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Nigella's wearing a silk dressing gown and chopping up a large chorizo. The tease."],"published":["2008-12-18T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1065660963"],"slug":["tweet-1065660963"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nigella's wearing a silk dressing gown and chopping up a large chorizo. The tease."
+    ],
+    "published": [
+      "2008-12-18T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1065660963"
+    ],
+    "slug": [
+      "tweet-1065660963"
+    ]
+  }
+}

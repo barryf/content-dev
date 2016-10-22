@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw I think someone decided to scroll back through all tweets referring to Arsenal and found my one was the first so RT’d it."],"published":["2014-01-31T11:20:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/429097325982535680"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/429212539738943488"],"slug":["tweet-429212539738943488"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw I think someone decided to scroll back through all tweets referring to Arsenal and found my one was the first so RT’d it."
+    ],
+    "published": [
+      "2014-01-31T11:20:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/429097325982535680"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/429212539738943488"
+    ],
+    "slug": [
+      "tweet-429212539738943488"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@Philip5150 Me too. Doves are one of my most played bands. Can't believe it's been 4 years since Some Cities."],"published":["2009-03-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1321270613"],"slug":["tweet-1321270613"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Philip5150 Me too. Doves are one of my most played bands. Can't believe it's been 4 years since Some Cities."
+    ],
+    "published": [
+      "2009-03-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1321270613"
+    ],
+    "slug": [
+      "tweet-1321270613"
+    ]
+  }
+}

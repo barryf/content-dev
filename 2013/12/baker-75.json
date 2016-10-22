@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh @thesambarnes I think we have a new Stanley Devbot image for :|"],"published":["2013-12-23T16:08:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/boffbowsh/status/415145287536369664"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/415151894995410944"],"slug":["baker-75"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh @thesambarnes I think we have a new Stanley Devbot image for :|"
+    ],
+    "published": [
+      "2013-12-23T16:08:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/boffbowsh/status/415145287536369664"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/415151894995410944"
+    ],
+    "slug": [
+      "baker-75"
+    ]
+  }
+}

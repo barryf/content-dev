@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thinking Tim should be blowing out candles and not being geeky..."],"published":["2006-09-22T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/33889"],"slug":["tweet-33889"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thinking Tim should be blowing out candles and not being geeky..."
+    ],
+    "published": [
+      "2006-09-22T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/33889"
+    ],
+    "slug": [
+      "tweet-33889"
+    ]
+  }
+}

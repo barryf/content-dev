@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2010-06-19T16:54:44Z"],"entry-type":["bookmark"],"name":["\"Login\" is not a verb"],"bookmark-of":["http://www.loginisnotaverb.com/"],"category":["login","english","pedant","language","via-pinboard"],"slug":["login-is-not-a-verb"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-06-19T16:54:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "\"Login\" is not a verb"
+    ],
+    "bookmark-of": [
+      "http://www.loginisnotaverb.com/"
+    ],
+    "category": [
+      "login",
+      "english",
+      "pedant",
+      "language",
+      "via-pinboard"
+    ],
+    "slug": [
+      "login-is-not-a-verb"
+    ]
+  }
+}

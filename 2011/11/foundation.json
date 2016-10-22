@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Rapid Prototyping and Building Framework - by Zurb people\n"],"published":["2011-11-02T21:56:10Z"],"entry-type":["bookmark"],"name":["Foundation"],"bookmark-of":["http://foundation.zurb.com/"],"category":["prototypelayoutcssdesign","via-pinboard"],"slug":["foundation"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rapid Prototyping and Building Framework - by Zurb people\n"
+    ],
+    "published": [
+      "2011-11-02T21:56:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Foundation"
+    ],
+    "bookmark-of": [
+      "http://foundation.zurb.com/"
+    ],
+    "category": [
+      "prototypelayoutcssdesign",
+      "via-pinboard"
+    ],
+    "slug": [
+      "foundation"
+    ]
+  }
+}

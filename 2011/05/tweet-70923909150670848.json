@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@BradHaverly Competition is always good, benefits everyone. Sneaky suspicion that v5 will be a big jump."],"published":["2011-05-18T18:49:12Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/70923909150670848"],"slug":["tweet-70923909150670848"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BradHaverly Competition is always good, benefits everyone. Sneaky suspicion that v5 will be a big jump."
+    ],
+    "published": [
+      "2011-05-18T18:49:12Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/70923909150670848"
+    ],
+    "slug": [
+      "tweet-70923909150670848"
+    ]
+  }
+}

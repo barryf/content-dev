@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["“E-Pro” by Beck is my new jam. ♫  http://t.thisismyjam.com/barryf #thisismyjam"],"published":["2012-02-07T17:39:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/166939174266601473"],"slug":["tweet-166939174266601473"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "“E-Pro” by Beck is my new jam. ♫  http://t.thisismyjam.com/barryf #thisismyjam"
+    ],
+    "published": [
+      "2012-02-07T17:39:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/166939174266601473"
+    ],
+    "slug": [
+      "tweet-166939174266601473"
+    ]
+  }
+}

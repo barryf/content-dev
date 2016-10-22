@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Create a page where people can ask you questions. Simple but effective.\n"],"published":["2010-05-13T12:52:37Z"],"entry-type":["bookmark"],"name":["formspring.me"],"bookmark-of":["http://www.formspring.me/"],"category":["form","survey","question","answer","via-pinboard"],"slug":["formspring-me"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Create a page where people can ask you questions. Simple but effective.\n"
+    ],
+    "published": [
+      "2010-05-13T12:52:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "formspring.me"
+    ],
+    "bookmark-of": [
+      "http://www.formspring.me/"
+    ],
+    "category": [
+      "form",
+      "survey",
+      "question",
+      "answer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "formspring-me"
+    ]
+  }
+}

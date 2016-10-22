@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Didn't know this - href=\"//myserver.com/image.jpg\" maintains the HTTP/HTTPS state. Very handy for checkout pages\n"],"published":["2007-10-23T12:06:19Z"],"entry-type":["bookmark"],"name":["Http-https transitions and relative URLs"],"bookmark-of":["http://www.nedbatchelder.com/blog/200710.html#e20071017T215538"],"category":["html","http","https","markup","url","web","security","ssl","dev","via-pinboard"],"slug":["http-https-transitions-and-relative-urls"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Didn't know this - href=\"//myserver.com/image.jpg\" maintains the HTTP/HTTPS state. Very handy for checkout pages\n"
+    ],
+    "published": [
+      "2007-10-23T12:06:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Http-https transitions and relative URLs"
+    ],
+    "bookmark-of": [
+      "http://www.nedbatchelder.com/blog/200710.html#e20071017T215538"
+    ],
+    "category": [
+      "html",
+      "http",
+      "https",
+      "markup",
+      "url",
+      "web",
+      "security",
+      "ssl",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "http-https-transitions-and-relative-urls"
+    ]
+  }
+}

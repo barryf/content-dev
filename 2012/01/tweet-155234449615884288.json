@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jimeh Colourful."],"published":["2012-01-06T10:29:11Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/3068091/status/155233528886476800"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/155234449615884288"],"slug":["tweet-155234449615884288"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jimeh Colourful."
+    ],
+    "published": [
+      "2012-01-06T10:29:11Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/3068091/status/155233528886476800"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/155234449615884288"
+    ],
+    "slug": [
+      "tweet-155234449615884288"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["They've moved to Raphael (JS charting library). Also interesting is the commentary on how they wanted to support the iPad and the considerations around :hovering and persistent detail/tips\n"],"published":["2010-06-10T12:38:11Z"],"entry-type":["bookmark"],"name":["Say goodbye to Flash with our all new charts"],"bookmark-of":["http://www.campaignmonitor.com/blog/post/3161/say-goodbye-to-flash-with-our-new-javascript-charts/"],"category":["ipad","flash","raphael","chart","hover","via-pinboard"],"slug":["say-goodbye-to-flash-with-our"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "They've moved to Raphael (JS charting library). Also interesting is the commentary on how they wanted to support the iPad and the considerations around :hovering and persistent detail/tips\n"
+    ],
+    "published": [
+      "2010-06-10T12:38:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Say goodbye to Flash with our all new charts"
+    ],
+    "bookmark-of": [
+      "http://www.campaignmonitor.com/blog/post/3161/say-goodbye-to-flash-with-our-new-javascript-charts/"
+    ],
+    "category": [
+      "ipad",
+      "flash",
+      "raphael",
+      "chart",
+      "hover",
+      "via-pinboard"
+    ],
+    "slug": [
+      "say-goodbye-to-flash-with-our"
+    ]
+  }
+}

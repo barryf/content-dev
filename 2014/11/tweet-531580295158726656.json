@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Birthday surprise tonight at very funny @alandavies1 gig thanks to @larrylou100."],"published":["2014-11-09T22:53:13Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/531580295158726656"],"slug":["tweet-531580295158726656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Birthday surprise tonight at very funny @alandavies1 gig thanks to @larrylou100."
+    ],
+    "published": [
+      "2014-11-09T22:53:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/531580295158726656"
+    ],
+    "slug": [
+      "tweet-531580295158726656"
+    ]
+  }
+}

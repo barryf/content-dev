@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes @boffbowsh I won the Champions League, FA Cup and League Cup as Arsenal and also a full international. Easy. Come along, Sam."],"published":["2012-06-06T16:22:52Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/210297166978228224"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/210406413565034496"],"slug":["tweet-210406413565034496"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes @boffbowsh I won the Champions League, FA Cup and League Cup as Arsenal and also a full international. Easy. Come along, Sam."
+    ],
+    "published": [
+      "2012-06-06T16:22:52Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/210297166978228224"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/210406413565034496"
+    ],
+    "slug": [
+      "tweet-210406413565034496"
+    ]
+  }
+}

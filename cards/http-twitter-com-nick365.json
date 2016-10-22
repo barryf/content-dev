@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Nick Tsinonis"],"url":["http://twitter.com/nick365"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Nick Tsinonis"
+    ],
+    "url": [
+      "http://twitter.com/nick365"
+    ]
+  }
+}

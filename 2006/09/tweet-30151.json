@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Feeling smug about my five minute stroll to work. All about working local."],"published":["2006-09-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/30151"],"slug":["tweet-30151"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Feeling smug about my five minute stroll to work. All about working local."
+    ],
+    "published": [
+      "2006-09-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/30151"
+    ],
+    "slug": [
+      "tweet-30151"
+    ]
+  }
+}

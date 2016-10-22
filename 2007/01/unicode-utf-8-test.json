@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Test if your OS/browser/fonts display UTF-8 correctly. Includes Greek and Cyrillic tests\n"],"published":["2007-01-20T15:22:36Z"],"entry-type":["bookmark"],"name":["Unicode (UTF-8) Test"],"bookmark-of":["http://www.unics.uni-hannover.de/nhtcapri/multilingual1.html"],"category":["unicode","utf-8","language","charset","browser","font","multilingual","html","useful","via-pinboard"],"slug":["unicode-utf-8-test"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Test if your OS/browser/fonts display UTF-8 correctly. Includes Greek and Cyrillic tests\n"
+    ],
+    "published": [
+      "2007-01-20T15:22:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Unicode (UTF-8) Test"
+    ],
+    "bookmark-of": [
+      "http://www.unics.uni-hannover.de/nhtcapri/multilingual1.html"
+    ],
+    "category": [
+      "unicode",
+      "utf-8",
+      "language",
+      "charset",
+      "browser",
+      "font",
+      "multilingual",
+      "html",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "unicode-utf-8-test"
+    ]
+  }
+}

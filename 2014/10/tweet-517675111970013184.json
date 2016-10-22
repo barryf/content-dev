@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Just realised I had Word, Excel and PowerPoint all open on my Mac. Feel dirty now."],"published":["2014-10-02T13:58:59Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/517675111970013184"],"slug":["tweet-517675111970013184"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just realised I had Word, Excel and PowerPoint all open on my Mac. Feel dirty now."
+    ],
+    "published": [
+      "2014-10-02T13:58:59Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/517675111970013184"
+    ],
+    "slug": [
+      "tweet-517675111970013184"
+    ]
+  }
+}

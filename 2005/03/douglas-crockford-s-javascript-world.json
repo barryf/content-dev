@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Excellent guide that debunks myths and misconceptions about JS\n"],"published":["2005-03-23T15:46:41Z"],"entry-type":["bookmark"],"name":["Douglas Crockford's Javascript World"],"bookmark-of":["http://www.crockford.com/javascript/"],"category":["javascript","via-pinboard"],"slug":["douglas-crockford-s-javascript-world"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Excellent guide that debunks myths and misconceptions about JS\n"
+    ],
+    "published": [
+      "2005-03-23T15:46:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Douglas Crockford's Javascript World"
+    ],
+    "bookmark-of": [
+      "http://www.crockford.com/javascript/"
+    ],
+    "category": [
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "douglas-crockford-s-javascript-world"
+    ]
+  }
+}

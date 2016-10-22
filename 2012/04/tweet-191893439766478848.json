@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Back in the office after a splendid week away and pleased to find our well-oiled machine humming away."],"published":["2012-04-16T14:18:55Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/191893439766478848"],"slug":["tweet-191893439766478848"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Back in the office after a splendid week away and pleased to find our well-oiled machine humming away."
+    ],
+    "published": [
+      "2012-04-16T14:18:55Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/191893439766478848"
+    ],
+    "slug": [
+      "tweet-191893439766478848"
+    ]
+  }
+}

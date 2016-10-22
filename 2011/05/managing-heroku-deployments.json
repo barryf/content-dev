@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Multiple Heroku remotes, backups for rolbacks and auto tagging of deployments.\n"],"published":["2011-05-11T14:54:18Z"],"entry-type":["bookmark"],"name":["Managing Heroku deployments"],"bookmark-of":["http://georgebrock.com/blog/managing-heroku-deployments"],"category":["heroku","deployment","backup","remote","tagging","via-pinboard"],"slug":["managing-heroku-deployments"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Multiple Heroku remotes, backups for rolbacks and auto tagging of deployments.\n"
+    ],
+    "published": [
+      "2011-05-11T14:54:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Managing Heroku deployments"
+    ],
+    "bookmark-of": [
+      "http://georgebrock.com/blog/managing-heroku-deployments"
+    ],
+    "category": [
+      "heroku",
+      "deployment",
+      "backup",
+      "remote",
+      "tagging",
+      "via-pinboard"
+    ],
+    "slug": [
+      "managing-heroku-deployments"
+    ]
+  }
+}

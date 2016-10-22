@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-03-05T13:27:16Z"],"entry-type":["bookmark"],"name":["Using Lighttpd, Mplayer/Mencoder and Flvtool2 to Implement Flash Video Streaming :: Homo-Adminus Blog by Alexey Kovyrin"],"bookmark-of":["http://blog.kovyrin.net/2006/10/08/lighttpd-memcoder-flvtool-for-streaming/"],"category":["flash","video","streaming","mplayer","mencoder","flvtool2","via-pinboard"],"slug":["using-lighttpd-mplayer-mencoder-and-flvtool2"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-03-05T13:27:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Lighttpd, Mplayer/Mencoder and Flvtool2 to Implement Flash Video Streaming :: Homo-Adminus Blog by Alexey Kovyrin"
+    ],
+    "bookmark-of": [
+      "http://blog.kovyrin.net/2006/10/08/lighttpd-memcoder-flvtool-for-streaming/"
+    ],
+    "category": [
+      "flash",
+      "video",
+      "streaming",
+      "mplayer",
+      "mencoder",
+      "flvtool2",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-lighttpd-mplayer-mencoder-and-flvtool2"
+    ]
+  }
+}

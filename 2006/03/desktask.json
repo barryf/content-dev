@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Connects to Outlook to display upcoming calendar/task items on the desktop background\n"],"published":["2006-03-18T14:45:28Z"],"entry-type":["bookmark"],"name":["DeskTask"],"bookmark-of":["http://www.carthagosoft.net/desktask.htm"],"category":["windows","outlook","calendar","via-pinboard"],"slug":["desktask"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Connects to Outlook to display upcoming calendar/task items on the desktop background\n"
+    ],
+    "published": [
+      "2006-03-18T14:45:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DeskTask"
+    ],
+    "bookmark-of": [
+      "http://www.carthagosoft.net/desktask.htm"
+    ],
+    "category": [
+      "windows",
+      "outlook",
+      "calendar",
+      "via-pinboard"
+    ],
+    "slug": [
+      "desktask"
+    ]
+  }
+}

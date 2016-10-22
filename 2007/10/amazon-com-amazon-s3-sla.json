@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2007-10-28T18:24:02Z"],"entry-type":["bookmark"],"name":["Amazon.com: Amazon S3 SLA"],"bookmark-of":["http://www.amazon.com/gp/browse.html?node=379654011"],"category":["aws","hosting","infrastructure","s3","sla","amazon","legal","scaling","architecture","via-pinboard"],"slug":["amazon-com-amazon-s3-sla"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-10-28T18:24:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Amazon.com: Amazon S3 SLA"
+    ],
+    "bookmark-of": [
+      "http://www.amazon.com/gp/browse.html?node=379654011"
+    ],
+    "category": [
+      "aws",
+      "hosting",
+      "infrastructure",
+      "s3",
+      "sla",
+      "amazon",
+      "legal",
+      "scaling",
+      "architecture",
+      "via-pinboard"
+    ],
+    "slug": [
+      "amazon-com-amazon-s3-sla"
+    ]
+  }
+}

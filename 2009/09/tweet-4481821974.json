@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Leaving a gig in London early makes me wish I didn't live in Berkshire; escaping the city and whizzing through countryside I'm glad I do."],"published":["2009-09-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4481821974"],"slug":["tweet-4481821974"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Leaving a gig in London early makes me wish I didn't live in Berkshire; escaping the city and whizzing through countryside I'm glad I do."
+    ],
+    "published": [
+      "2009-09-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4481821974"
+    ],
+    "slug": [
+      "tweet-4481821974"
+    ]
+  }
+}

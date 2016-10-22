@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Round-trip CFC/XMI solution\n"],"published":["2004-11-25T09:40:41Z"],"entry-type":["bookmark"],"name":["cfcxmi.tigris.org"],"bookmark-of":["http://cfcxmi.tigris.org/"],"category":["coldfusion","dev","via-pinboard"],"slug":["cfcxmi-tigris-org"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Round-trip CFC/XMI solution\n"
+    ],
+    "published": [
+      "2004-11-25T09:40:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "cfcxmi.tigris.org"
+    ],
+    "bookmark-of": [
+      "http://cfcxmi.tigris.org/"
+    ],
+    "category": [
+      "coldfusion",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cfcxmi-tigris-org"
+    ]
+  }
+}

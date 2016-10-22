@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@Aleksandr_Orlov Congratulations on your @newmediaage awards tonight. I hope Sergei gets the day off tomorrow to celebrate."],"published":["2009-06-25T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2334793664"],"slug":["tweet-2334793664"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Aleksandr_Orlov Congratulations on your @newmediaage awards tonight. I hope Sergei gets the day off tomorrow to celebrate."
+    ],
+    "published": [
+      "2009-06-25T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2334793664"
+    ],
+    "slug": [
+      "tweet-2334793664"
+    ]
+  }
+}

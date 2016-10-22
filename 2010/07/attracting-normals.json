@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Well argued point - don't design for geeks, target the Normals\n"],"published":["2010-07-18T14:06:47Z"],"entry-type":["bookmark"],"name":["Attracting Normals"],"bookmark-of":["http://spencerfry.com/attracting-normals"],"category":["business","normal","geek","marketing","via-pinboard"],"slug":["attracting-normals"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Well argued point - don't design for geeks, target the Normals\n"
+    ],
+    "published": [
+      "2010-07-18T14:06:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Attracting Normals"
+    ],
+    "bookmark-of": [
+      "http://spencerfry.com/attracting-normals"
+    ],
+    "category": [
+      "business",
+      "normal",
+      "geek",
+      "marketing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "attracting-normals"
+    ]
+  }
+}

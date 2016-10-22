@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Demotes XSS vulnerabilities\n"],"published":["2008-05-20T20:47:14Z"],"entry-type":["bookmark"],"name":["McAfee 'Hacker Safe' cert sheds more cred"],"bookmark-of":["http://www.theregister.co.uk/2008/04/29/mcafee_hacker_safe_sites_vulnerable/"],"category":["hackersafe","mcafee","xss","security","web","work","via-pinboard"],"slug":["mcafee-hacker-safe-cert-sheds-more"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Demotes XSS vulnerabilities\n"
+    ],
+    "published": [
+      "2008-05-20T20:47:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "McAfee 'Hacker Safe' cert sheds more cred"
+    ],
+    "bookmark-of": [
+      "http://www.theregister.co.uk/2008/04/29/mcafee_hacker_safe_sites_vulnerable/"
+    ],
+    "category": [
+      "hackersafe",
+      "mcafee",
+      "xss",
+      "security",
+      "web",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mcafee-hacker-safe-cert-sheds-more"
+    ]
+  }
+}

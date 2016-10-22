@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/stop/status/573861628564762624"],"published":["2015-03-06T15:04:08Z"],"content":["Just because you *can* post screenshots of text from an article or mobile web page doesn’t mean you *should*."],"author":["https://twitter.com/stop"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/stop/status/573861628564762624"
+    ],
+    "published": [
+      "2015-03-06T15:04:08Z"
+    ],
+    "content": [
+      "Just because you *can* post screenshots of text from an article or mobile web page doesn’t mean you *should*."
+    ],
+    "author": [
+      "https://twitter.com/stop"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jonnyhobbo Long overdue! Relieved not to have to decide between warm showers and warm rooms."],"published":["2013-02-03T19:05:08Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/554206736/status/298143703741108224"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/298145112184205312"],"slug":["tweet-298145112184205312"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jonnyhobbo Long overdue! Relieved not to have to decide between warm showers and warm rooms."
+    ],
+    "published": [
+      "2013-02-03T19:05:08Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/554206736/status/298143703741108224"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/298145112184205312"
+    ],
+    "slug": [
+      "tweet-298145112184205312"
+    ]
+  }
+}

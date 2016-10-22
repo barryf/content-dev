@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["API for Custom Analytics"],"published":["2014-03-23T19:40:12Z"],"entry-type":["bookmark"],"name":["Keen IO"],"bookmark-of":["https://keen.io/"],"category":["analytics","service","metrics","api","via-pinboard"],"slug":["keen-io"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "API for Custom Analytics"
+    ],
+    "published": [
+      "2014-03-23T19:40:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Keen IO"
+    ],
+    "bookmark-of": [
+      "https://keen.io/"
+    ],
+    "category": [
+      "analytics",
+      "service",
+      "metrics",
+      "api",
+      "via-pinboard"
+    ],
+    "slug": [
+      "keen-io"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Micropub is now a @W3C CR. Congratulations to @aaronpk and all the #indieweb contributors. \r\n\r\nWith this news I'm excited to see further clients and servers start to emerge. I've been using Micropub as the only method of posting to this site since January 2015 but I've yet to add in full update/delete capabilities. Time to get hacking.\r\n"],"published":["2016-08-24T10:55:59Z"],"entry-type":["repost"],"summary":["Micropub is now a @W3C CR. Congratulations to @aaronpk and all the #indieweb contributors. https://aaronparecki.com/2016/08/23/2/micropub-cr"],"repost-of":["https://aaronparecki.com/2016/08/23/2/micropub-cr"],"category":["micropub","indieweb","w3c"],"syndication":["https://twitter.com/barryf/status/768401483448496128"],"slug":["micropub-is-now-a-w3c-cr"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Micropub is now a @W3C CR. Congratulations to @aaronpk and all the #indieweb contributors. \r\n\r\nWith this news I'm excited to see further clients and servers start to emerge. I've been using Micropub as the only method of posting to this site since January 2015 but I've yet to add in full update/delete capabilities. Time to get hacking.\r\n"
+    ],
+    "published": [
+      "2016-08-24T10:55:59Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "summary": [
+      "Micropub is now a @W3C CR. Congratulations to @aaronpk and all the #indieweb contributors. https://aaronparecki.com/2016/08/23/2/micropub-cr"
+    ],
+    "repost-of": [
+      "https://aaronparecki.com/2016/08/23/2/micropub-cr"
+    ],
+    "category": [
+      "micropub",
+      "indieweb",
+      "w3c"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/768401483448496128"
+    ],
+    "slug": [
+      "micropub-is-now-a-w3c-cr"
+    ]
+  }
+}

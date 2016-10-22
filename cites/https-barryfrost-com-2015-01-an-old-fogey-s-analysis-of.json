@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://barryfrost.com/2015/01/an-old-fogey-s-analysis-of"],"published":["2015-01-21T15:54:02Z"],"content":["A note of caution about this previously-linked article on social media usage among teens: \n\n \n Teens’ use of social media is significantly shaped by race and class, geography and cultural background."],"mention-of":["https://barryfrost.com/2015/01/a-teenager-s-view-on-social"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryfrost.com/2015/01/an-old-fogey-s-analysis-of"
+    ],
+    "published": [
+      "2015-01-21T15:54:02Z"
+    ],
+    "content": [
+      "A note of caution about this previously-linked article on social media usage among teens: \n\n \n Teens’ use of social media is significantly shaped by race and class, geography and cultural background."
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2015/01/a-teenager-s-view-on-social"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

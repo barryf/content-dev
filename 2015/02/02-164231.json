@@ -1,1 +1,19 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-02T16:42:31Z"],"entry-type":["like"],"like-of":["https://kylewm.com/2015/02/liking-a-post-via-woodwind-1"],"slug":["02-164231"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-02T16:42:31Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://kylewm.com/2015/02/liking-a-post-via-woodwind-1"
+    ],
+    "slug": [
+      "02-164231"
+    ]
+  }
+}

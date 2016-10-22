@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Richard Rutter from Clearleft on intelligent use of web fonts, including specifying alternatives for italics where appropriate. Good stuff.\n"],"published":["2009-02-08T20:03:47Z"],"entry-type":["bookmark"],"name":["Facing up to Fonts | Slides and notes"],"bookmark-of":["http://webtypography.net/talks/skillswap09/"],"category":["web","font","typography","typeface","clearleft","design","via-pinboard"],"slug":["facing-up-to-fonts-slides-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Richard Rutter from Clearleft on intelligent use of web fonts, including specifying alternatives for italics where appropriate. Good stuff.\n"
+    ],
+    "published": [
+      "2009-02-08T20:03:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Facing up to Fonts | Slides and notes"
+    ],
+    "bookmark-of": [
+      "http://webtypography.net/talks/skillswap09/"
+    ],
+    "category": [
+      "web",
+      "font",
+      "typography",
+      "typeface",
+      "clearleft",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "facing-up-to-fonts-slides-and"
+    ]
+  }
+}

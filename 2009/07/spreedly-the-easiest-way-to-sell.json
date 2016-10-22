@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2009-07-13T20:22:44Z"],"entry-type":["bookmark"],"name":["Spreedly: The Easiest Way to Sell Subscriptions on your Site"],"bookmark-of":["http://spreedly.com/"],"category":["subscription","payment","paypal","rebill","gateway","ecommerce","billing","merchant","saas","via-pinboard"],"slug":["spreedly-the-easiest-way-to-sell"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-07-13T20:22:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Spreedly: The Easiest Way to Sell Subscriptions on your Site"
+    ],
+    "bookmark-of": [
+      "http://spreedly.com/"
+    ],
+    "category": [
+      "subscription",
+      "payment",
+      "paypal",
+      "rebill",
+      "gateway",
+      "ecommerce",
+      "billing",
+      "merchant",
+      "saas",
+      "via-pinboard"
+    ],
+    "slug": [
+      "spreedly-the-easiest-way-to-sell"
+    ]
+  }
+}

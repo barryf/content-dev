@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Another Javascript library to sort tables\n"],"published":["2006-02-26T17:43:41Z"],"entry-type":["bookmark"],"name":["Standardista Table Sorting"],"bookmark-of":["http://www.workingwith.me.uk/articles/scripting/standardista_table_sorting"],"category":["javascript","standards","web","dev","via-pinboard"],"slug":["standardista-table-sorting"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another Javascript library to sort tables\n"
+    ],
+    "published": [
+      "2006-02-26T17:43:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Standardista Table Sorting"
+    ],
+    "bookmark-of": [
+      "http://www.workingwith.me.uk/articles/scripting/standardista_table_sorting"
+    ],
+    "category": [
+      "javascript",
+      "standards",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "standardista-table-sorting"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Open source emoji designed for the web."],"published":["2014-09-11T18:14:13Z"],"entry-type":["bookmark"],"name":["Emoji One"],"bookmark-of":["http://www.emojione.com/"],"category":["emoji","design","emoticon","chat","im","via-pinboard"],"slug":["emoji-one"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Open source emoji designed for the web."
+    ],
+    "published": [
+      "2014-09-11T18:14:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Emoji One"
+    ],
+    "bookmark-of": [
+      "http://www.emojione.com/"
+    ],
+    "category": [
+      "emoji",
+      "design",
+      "emoticon",
+      "chat",
+      "im",
+      "via-pinboard"
+    ],
+    "slug": [
+      "emoji-one"
+    ]
+  }
+}

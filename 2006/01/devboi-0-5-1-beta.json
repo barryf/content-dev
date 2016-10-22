@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Sidebar reference guides, including RoR\n"],"published":["2006-01-02T14:58:39Z"],"entry-type":["bookmark"],"name":["DevBoi 0.5.1 Beta"],"bookmark-of":["http://www.martincohen.info/products/devboi/"],"category":["firefox","reference","html","plugin","extension","css","rails","dom","ruby","javascript","via-pinboard"],"slug":["devboi-0-5-1-beta"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sidebar reference guides, including RoR\n"
+    ],
+    "published": [
+      "2006-01-02T14:58:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DevBoi 0.5.1 Beta"
+    ],
+    "bookmark-of": [
+      "http://www.martincohen.info/products/devboi/"
+    ],
+    "category": [
+      "firefox",
+      "reference",
+      "html",
+      "plugin",
+      "extension",
+      "css",
+      "rails",
+      "dom",
+      "ruby",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "devboi-0-5-1-beta"
+    ]
+  }
+}

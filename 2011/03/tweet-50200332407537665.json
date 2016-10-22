@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Pleased with Due, a reminder iPhone/iPad app that badgers me repeatedly until I do what I keep putting off - http://www.dueapp.com/"],"published":["2011-03-22T14:21:06Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/50200332407537665"],"slug":["tweet-50200332407537665"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pleased with Due, a reminder iPhone/iPad app that badgers me repeatedly until I do what I keep putting off - http://www.dueapp.com/"
+    ],
+    "published": [
+      "2011-03-22T14:21:06Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/50200332407537665"
+    ],
+    "slug": [
+      "tweet-50200332407537665"
+    ]
+  }
+}

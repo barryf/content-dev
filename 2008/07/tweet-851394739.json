@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying watching my annual tennis match. Can the Swiss chap come from behind?"],"published":["2008-07-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/851394739"],"slug":["tweet-851394739"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying watching my annual tennis match. Can the Swiss chap come from behind?"
+    ],
+    "published": [
+      "2008-07-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/851394739"
+    ],
+    "slug": [
+      "tweet-851394739"
+    ]
+  }
+}

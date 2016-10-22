@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@hobbsy Nice. What's the quality like? Looking forward to seeing them increase their selection."],"published":["2012-01-09T11:50:13Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/754966/status/156340825280880640"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/156342005662875648"],"slug":["tweet-156342005662875648"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hobbsy Nice. What's the quality like? Looking forward to seeing them increase their selection."
+    ],
+    "published": [
+      "2012-01-09T11:50:13Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/754966/status/156340825280880640"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/156342005662875648"
+    ],
+    "slug": [
+      "tweet-156342005662875648"
+    ]
+  }
+}

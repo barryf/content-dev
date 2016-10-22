@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Last tweet not quite excited enough… Woo woo! I’m a homeowner! Yay! :)"],"published":["2012-07-23T21:01:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/227508783415443456"],"slug":["tweet-227508783415443456"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Last tweet not quite excited enough… Woo woo! I’m a homeowner! Yay! :)"
+    ],
+    "published": [
+      "2012-07-23T21:01:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/227508783415443456"
+    ],
+    "slug": [
+      "tweet-227508783415443456"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/venntrodev/status/639369998490804224"],"published":["2015-09-03T09:31:01Z"],"content":["RT @barryf: New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor dev.venntro.com/jobs/"],"repost-of":["https://barryfrost.com/2015/09/new-roles-i-m-looking-for"],"author":["http://dev.venntro.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/venntrodev/status/639369998490804224"
+    ],
+    "published": [
+      "2015-09-03T09:31:01Z"
+    ],
+    "content": [
+      "RT @barryf: New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor dev.venntro.com/jobs/"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/09/new-roles-i-m-looking-for"
+    ],
+    "author": [
+      "http://dev.venntro.com"
+    ]
+  }
+}

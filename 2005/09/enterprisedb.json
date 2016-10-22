@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["\"PostgreSQL + Compatibility + Scalability\"\n"],"published":["2005-09-15T08:40:30Z"],"entry-type":["bookmark"],"name":["EnterpriseDB"],"bookmark-of":["http://www.enterprisedb.com/"],"category":["postgresql","database","enterprise","via-pinboard"],"slug":["enterprisedb"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"PostgreSQL + Compatibility + Scalability\"\n"
+    ],
+    "published": [
+      "2005-09-15T08:40:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "EnterpriseDB"
+    ],
+    "bookmark-of": [
+      "http://www.enterprisedb.com/"
+    ],
+    "category": [
+      "postgresql",
+      "database",
+      "enterprise",
+      "via-pinboard"
+    ],
+    "slug": [
+      "enterprisedb"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-11-22T11:37:23Z"],"entry-type":["like"],"like-of":["https://twitter.com/cronkshaw/status/668391706337873920"],"syndication":["https://twitter.com/cronkshaw/status/668391706337873920"],"slug":["22-113723"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-11-22T11:37:23Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/cronkshaw/status/668391706337873920"
+    ],
+    "syndication": [
+      "https://twitter.com/cronkshaw/status/668391706337873920"
+    ],
+    "slug": [
+      "22-113723"
+    ]
+  }
+}

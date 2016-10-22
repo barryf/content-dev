@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["delighted to be a mere 37.32% mainstream"],"published":["2007-06-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/103425702"],"slug":["tweet-103425702"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "delighted to be a mere 37.32% mainstream"
+    ],
+    "published": [
+      "2007-06-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/103425702"
+    ],
+    "slug": [
+      "tweet-103425702"
+    ]
+  }
+}

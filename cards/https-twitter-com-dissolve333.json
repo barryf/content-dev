@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ben Roberts"],"photo":["https://twitter.com/dissolve333/profile_image?size=original"],"url":["https://twitter.com/dissolve333"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ben Roberts"
+    ],
+    "photo": [
+      "https://twitter.com/dissolve333/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/dissolve333"
+    ]
+  }
+}

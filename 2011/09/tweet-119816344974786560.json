@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jongilbraith Merry Christmas! /cc @matsadler @andrewgarner @jimeh @timblair"],"published":["2011-09-30T16:50:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15190927/status/119803168686227456"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/119816344974786560"],"slug":["tweet-119816344974786560"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jongilbraith Merry Christmas! /cc @matsadler @andrewgarner @jimeh @timblair"
+    ],
+    "published": [
+      "2011-09-30T16:50:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15190927/status/119803168686227456"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/119816344974786560"
+    ],
+    "slug": [
+      "tweet-119816344974786560"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Collaborating on a presentation by sending PowerPoint slides back-and-forth. I thought we’d solved this problem in 2006 @timblair."],"published":["2014-10-15T10:13:36Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/522329434343616512"],"slug":["tweet-522329434343616512"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Collaborating on a presentation by sending PowerPoint slides back-and-forth. I thought we’d solved this problem in 2006 @timblair."
+    ],
+    "published": [
+      "2014-10-15T10:13:36Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/522329434343616512"
+    ],
+    "slug": [
+      "tweet-522329434343616512"
+    ]
+  }
+}

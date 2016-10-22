@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-16T12:08:03Z"],"entry-type":["bookmark"],"name":["So what's so cool about del.icio.us? I don't get it."],"bookmark-of":["http://ask.metafilter.com/mefi/13728"],"category":["delicious","via-pinboard"],"slug":["so-what-s-so-cool-about"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-16T12:08:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "So what's so cool about del.icio.us? I don't get it."
+    ],
+    "bookmark-of": [
+      "http://ask.metafilter.com/mefi/13728"
+    ],
+    "category": [
+      "delicious",
+      "via-pinboard"
+    ],
+    "slug": [
+      "so-what-s-so-cool-about"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/15734896/status/527461353955819520"],"published":["2014-10-29T14:06:01Z"],"content":["Info pages: publishing data about user needs and metrics | Inside GOV.UK https://insidegovuk.blog.gov.uk/2014/10/29/info-pages-publishing-data-about-user-needs-and-metrics/"],"author":["https://twitter.com/15734896"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/15734896/status/527461353955819520"
+    ],
+    "published": [
+      "2014-10-29T14:06:01Z"
+    ],
+    "content": [
+      "Info pages: publishing data about user needs and metrics | Inside GOV.UK https://insidegovuk.blog.gov.uk/2014/10/29/info-pages-publishing-data-about-user-needs-and-metrics/"
+    ],
+    "author": [
+      "https://twitter.com/15734896"
+    ]
+  }
+}

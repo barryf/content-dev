@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw GET IN!"],"published":["2012-03-12T22:05:22Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/179326035299545088"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/179327246996209665"],"slug":["tweet-179327246996209665"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw GET IN!"
+    ],
+    "published": [
+      "2012-03-12T22:05:22Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/179326035299545088"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/179327246996209665"
+    ],
+    "slug": [
+      "tweet-179327246996209665"
+    ]
+  }
+}

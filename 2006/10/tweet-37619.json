@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["All about black."],"published":["2006-10-01T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/37619"],"slug":["tweet-37619"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "All about black."
+    ],
+    "published": [
+      "2006-10-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/37619"
+    ],
+    "slug": [
+      "tweet-37619"
+    ]
+  }
+}

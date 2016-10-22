@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Babysitting the rabbit. He likes pizza crusts."],"published":["2008-04-10T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/786708122"],"slug":["tweet-786708122"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Babysitting the rabbit. He likes pizza crusts."
+    ],
+    "published": [
+      "2008-04-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/786708122"
+    ],
+    "slug": [
+      "tweet-786708122"
+    ]
+  }
+}

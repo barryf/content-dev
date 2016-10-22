@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-06-28T08:39:00Z"],"entry-type":["bookmark"],"name":["Model-Glue FAQ"],"bookmark-of":["http://awads.net/wp/2005/06/24/model-glue-faq/"],"category":["coldfusion","framework","modelglue","via-pinboard"],"slug":["model-glue-faq"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-06-28T08:39:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Model-Glue FAQ"
+    ],
+    "bookmark-of": [
+      "http://awads.net/wp/2005/06/24/model-glue-faq/"
+    ],
+    "category": [
+      "coldfusion",
+      "framework",
+      "modelglue",
+      "via-pinboard"
+    ],
+    "slug": [
+      "model-glue-faq"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Deliver protected assets without passing through the application. Uses mod_xsendfile and a Ruby gem\n"],"published":["2009-05-17T08:39:05Z"],"entry-type":["bookmark"],"name":["Fast, authenticated file downloads with rails, apache and xsendfile"],"bookmark-of":["http://teabass.com/fast-authenticated-file-downloads-with-rails-apache-and-xsendfile/"],"category":["rails","apache","xsendfile","security","file","ruby","via-pinboard"],"slug":["fast-authenticated-file-downloads-with-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Deliver protected assets without passing through the application. Uses mod_xsendfile and a Ruby gem\n"
+    ],
+    "published": [
+      "2009-05-17T08:39:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fast, authenticated file downloads with rails, apache and xsendfile"
+    ],
+    "bookmark-of": [
+      "http://teabass.com/fast-authenticated-file-downloads-with-rails-apache-and-xsendfile/"
+    ],
+    "category": [
+      "rails",
+      "apache",
+      "xsendfile",
+      "security",
+      "file",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fast-authenticated-file-downloads-with-rails"
+    ]
+  }
+}

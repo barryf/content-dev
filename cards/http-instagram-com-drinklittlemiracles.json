@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Little Miracles"],"photo":["https://instagramimages-a.akamaihd.net/profiles/profile_280535977_75sq_1363989891.jpg"],"url":["http://instagram.com/drinklittlemiracles"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Little Miracles"
+    ],
+    "photo": [
+      "https://instagramimages-a.akamaihd.net/profiles/profile_280535977_75sq_1363989891.jpg"
+    ],
+    "url": [
+      "http://instagram.com/drinklittlemiracles"
+    ]
+  }
+}

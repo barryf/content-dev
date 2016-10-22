@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@flatpackedworld what do you mean \"inner\" geek? You don't do a very good job of internalising it."],"published":["2008-11-28T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/1026981231"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1027601867"],"slug":["tweet-1027601867"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@flatpackedworld what do you mean \"inner\" geek? You don't do a very good job of internalising it."
+    ],
+    "published": [
+      "2008-11-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/1026981231"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1027601867"
+    ],
+    "slug": [
+      "tweet-1027601867"
+    ]
+  }
+}

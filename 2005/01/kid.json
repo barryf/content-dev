@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Python templating system\n"],"published":["2005-01-27T09:58:25Z"],"entry-type":["bookmark"],"name":["Kid"],"bookmark-of":["http://kid-template.sourceforge.net/"],"category":["python","via-pinboard"],"slug":["kid"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Python templating system\n"
+    ],
+    "published": [
+      "2005-01-27T09:58:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Kid"
+    ],
+    "bookmark-of": [
+      "http://kid-template.sourceforge.net/"
+    ],
+    "category": [
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kid"
+    ]
+  }
+}

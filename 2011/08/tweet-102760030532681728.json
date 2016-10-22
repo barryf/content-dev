@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Readjusting to life after holidays and catching up after my self-imposed internet embargo."],"published":["2011-08-14T15:14:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/102760030532681728"],"slug":["tweet-102760030532681728"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Readjusting to life after holidays and catching up after my self-imposed internet embargo."
+    ],
+    "published": [
+      "2011-08-14T15:14:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/102760030532681728"
+    ],
+    "slug": [
+      "tweet-102760030532681728"
+    ]
+  }
+}

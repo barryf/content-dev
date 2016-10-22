@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying [Ars Technica's OS X 10.9 definitive review](http://arstechnica.com/apple/2013/10/os-x-10-9) over lunch. Might struggle to finish reading it in one sitting."],"published":["2013-10-23T12:12:34Z"],"entry-type":["note"],"category":["apple","via-baker"],"syndication":["https://twitter.com/barryf/status/392986910253400065"],"slug":["baker-58"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying [Ars Technica's OS X 10.9 definitive review](http://arstechnica.com/apple/2013/10/os-x-10-9) over lunch. Might struggle to finish reading it in one sitting."
+    ],
+    "published": [
+      "2013-10-23T12:12:34Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "apple",
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/392986910253400065"
+    ],
+    "slug": [
+      "baker-58"
+    ]
+  }
+}

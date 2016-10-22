@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Add extra markup to your HTML which is transformed using Javascript. \"Beta!\"\n"],"published":["2006-05-15T08:00:30Z"],"entry-type":["bookmark"],"name":["Adobe Labs - Spry framework for Ajax"],"bookmark-of":["http://labs.adobe.com/technologies/spry/"],"category":["ajax","javascript","framework","adobe","spry","web20","web","dev","via-pinboard"],"slug":["adobe-labs-spry-framework-for-ajax"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Add extra markup to your HTML which is transformed using Javascript. \"Beta!\"\n"
+    ],
+    "published": [
+      "2006-05-15T08:00:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Adobe Labs - Spry framework for Ajax"
+    ],
+    "bookmark-of": [
+      "http://labs.adobe.com/technologies/spry/"
+    ],
+    "category": [
+      "ajax",
+      "javascript",
+      "framework",
+      "adobe",
+      "spry",
+      "web20",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "adobe-labs-spry-framework-for-ajax"
+    ]
+  }
+}

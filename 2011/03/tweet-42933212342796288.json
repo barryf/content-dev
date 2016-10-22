@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@rosswilliams I'd describe it as the race between Acorn (Chris Curry) and Sinclair to win the BBC micro contract. First on BBC4 in 2009."],"published":["2011-03-02T13:04:10Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11832/status/42922764935499776"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/42933212342796288"],"slug":["tweet-42933212342796288"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@rosswilliams I'd describe it as the race between Acorn (Chris Curry) and Sinclair to win the BBC micro contract. First on BBC4 in 2009."
+    ],
+    "published": [
+      "2011-03-02T13:04:10Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11832/status/42922764935499776"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/42933212342796288"
+    ],
+    "slug": [
+      "tweet-42933212342796288"
+    ]
+  }
+}

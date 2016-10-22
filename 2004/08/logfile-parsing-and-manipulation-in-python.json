@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-27T12:20:12Z"],"entry-type":["bookmark"],"name":["Logfile parsing and manipulation in Python"],"bookmark-of":["http://www.mnot.net/python/WebLog/"],"category":["python","via-pinboard"],"slug":["logfile-parsing-and-manipulation-in-python"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-27T12:20:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Logfile parsing and manipulation in Python"
+    ],
+    "bookmark-of": [
+      "http://www.mnot.net/python/WebLog/"
+    ],
+    "category": [
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "logfile-parsing-and-manipulation-in-python"
+    ]
+  }
+}

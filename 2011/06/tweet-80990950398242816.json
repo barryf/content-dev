@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Turned on the little heater under my desk to counteract the unstoppable air con from above. Chilly head and scalded ankles. #notverygreen"],"published":["2011-06-15T13:32:01Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/80990950398242816"],"slug":["tweet-80990950398242816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Turned on the little heater under my desk to counteract the unstoppable air con from above. Chilly head and scalded ankles. #notverygreen"
+    ],
+    "published": [
+      "2011-06-15T13:32:01Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/80990950398242816"
+    ],
+    "slug": [
+      "tweet-80990950398242816"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["MIT-licenced ColdFusion 7.01 blog app. Alpha coming soon.\n"],"published":["2006-05-01T11:23:07Z"],"entry-type":["bookmark"],"name":["Mango - a sweet blog engine"],"bookmark-of":["http://www.mangoblog.org/"],"category":["coldfusion","blog","mit","via-pinboard"],"slug":["mango-a-sweet-blog-engine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "MIT-licenced ColdFusion 7.01 blog app. Alpha coming soon.\n"
+    ],
+    "published": [
+      "2006-05-01T11:23:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mango - a sweet blog engine"
+    ],
+    "bookmark-of": [
+      "http://www.mangoblog.org/"
+    ],
+    "category": [
+      "coldfusion",
+      "blog",
+      "mit",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mango-a-sweet-blog-engine"
+    ]
+  }
+}

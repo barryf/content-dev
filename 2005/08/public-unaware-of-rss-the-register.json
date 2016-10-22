@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-26T11:48:12Z"],"entry-type":["bookmark"],"name":["Public unaware of RSS | The Register"],"bookmark-of":["http://www.theregister.co.uk/2005/08/24/rss_survey/"],"category":["rss","social","via-pinboard"],"slug":["public-unaware-of-rss-the-register"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-26T11:48:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Public unaware of RSS | The Register"
+    ],
+    "bookmark-of": [
+      "http://www.theregister.co.uk/2005/08/24/rss_survey/"
+    ],
+    "category": [
+      "rss",
+      "social",
+      "via-pinboard"
+    ],
+    "slug": [
+      "public-unaware-of-rss-the-register"
+    ]
+  }
+}

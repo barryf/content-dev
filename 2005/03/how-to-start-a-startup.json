@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-03-11T16:40:35Z"],"entry-type":["bookmark"],"name":["How to Start a Startup"],"bookmark-of":["http://paulgraham.com/start.html"],"category":["business","jobs","via-pinboard"],"slug":["how-to-start-a-startup"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-03-11T16:40:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Start a Startup"
+    ],
+    "bookmark-of": [
+      "http://paulgraham.com/start.html"
+    ],
+    "category": [
+      "business",
+      "jobs",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-start-a-startup"
+    ]
+  }
+}

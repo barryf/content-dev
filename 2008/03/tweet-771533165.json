@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Beers are on @lilja after her Gold Cup win"],"published":["2008-03-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/771533165"],"slug":["tweet-771533165"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Beers are on @lilja after her Gold Cup win"
+    ],
+    "published": [
+      "2008-03-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/771533165"
+    ],
+    "slug": [
+      "tweet-771533165"
+    ]
+  }
+}

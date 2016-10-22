@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["View from my seat at yesterday's ATP World Tour Finals game between Murray and Djokovic. Nice way to spend an afternoon http://twitter.com/barryf/status/266663542181208064/photo/1"],"published":["2012-11-08T22:08:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/266663542181208064"],"slug":["tweet-266663542181208064"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "View from my seat at yesterday's ATP World Tour Finals game between Murray and Djokovic. Nice way to spend an afternoon http://twitter.com/barryf/status/266663542181208064/photo/1"
+    ],
+    "published": [
+      "2012-11-08T22:08:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/266663542181208064"
+    ],
+    "slug": [
+      "tweet-266663542181208064"
+    ]
+  }
+}

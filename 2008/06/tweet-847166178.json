@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Played Rock Band after work. Drums. All other multiplayer games are now pointless."],"published":["2008-06-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/847166178"],"slug":["tweet-847166178"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Played Rock Band after work. Drums. All other multiplayer games are now pointless."
+    ],
+    "published": [
+      "2008-06-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/847166178"
+    ],
+    "slug": [
+      "tweet-847166178"
+    ]
+  }
+}

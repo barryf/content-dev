@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["UK accounting web app for freelancers and SMEs\n"],"published":["2009-03-22T14:11:09Z"],"entry-type":["bookmark"],"name":["FreeAgent"],"bookmark-of":["http://www.freeagentcentral.com/"],"category":["money","accounting","uk","invoice","tax","freelancer","sme","business","saas","work","forrosswilliams","via-pinboard"],"slug":["freeagent"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "UK accounting web app for freelancers and SMEs\n"
+    ],
+    "published": [
+      "2009-03-22T14:11:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FreeAgent"
+    ],
+    "bookmark-of": [
+      "http://www.freeagentcentral.com/"
+    ],
+    "category": [
+      "money",
+      "accounting",
+      "uk",
+      "invoice",
+      "tax",
+      "freelancer",
+      "sme",
+      "business",
+      "saas",
+      "work",
+      "forrosswilliams",
+      "via-pinboard"
+    ],
+    "slug": [
+      "freeagent"
+    ]
+  }
+}

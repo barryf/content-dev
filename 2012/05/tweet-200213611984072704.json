@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Spot on. I've used the new bullseye logo as a wallpaper. The rest of the site's pretty good too."],"published":["2012-05-09T13:20:19Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/200212724410621952"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/200213611984072704"],"slug":["tweet-200213611984072704"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Spot on. I've used the new bullseye logo as a wallpaper. The rest of the site's pretty good too."
+    ],
+    "published": [
+      "2012-05-09T13:20:19Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/200212724410621952"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/200213611984072704"
+    ],
+    "slug": [
+      "tweet-200213611984072704"
+    ]
+  }
+}

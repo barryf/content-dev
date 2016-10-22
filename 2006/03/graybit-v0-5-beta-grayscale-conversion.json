@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Remove colours from a web page - useful accessibility check\n"],"published":["2006-03-20T20:58:01Z"],"entry-type":["bookmark"],"name":["GrayBit v0.5 Beta: Grayscale Conversion Contrast Accessibility Tool"],"bookmark-of":["http://graybit.com/main.php"],"category":["accessibility","colour","web","design","via-pinboard"],"slug":["graybit-v0-5-beta-grayscale-conversion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Remove colours from a web page - useful accessibility check\n"
+    ],
+    "published": [
+      "2006-03-20T20:58:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GrayBit v0.5 Beta: Grayscale Conversion Contrast Accessibility Tool"
+    ],
+    "bookmark-of": [
+      "http://graybit.com/main.php"
+    ],
+    "category": [
+      "accessibility",
+      "colour",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "graybit-v0-5-beta-grayscale-conversion"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2013-05-05T20:19:29Z"],"entry-type":["bookmark"],"name":["GTD for hackers"],"bookmark-of":["http://gtdfh.branchable.com/"],"category":["gtd","dev","hacker","via-pinboard"],"slug":["gtd-for-hackers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-05-05T20:19:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GTD for hackers"
+    ],
+    "bookmark-of": [
+      "http://gtdfh.branchable.com/"
+    ],
+    "category": [
+      "gtd",
+      "dev",
+      "hacker",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gtd-for-hackers"
+    ]
+  }
+}

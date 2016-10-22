@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Spent the afternoon watching (and presenting) pitches for Thursday's @globaldev hack day. Cracking selection of ideas and itches to scratch."],"published":["2015-06-25T16:00:15Z"],"entry-type":["note"],"summary":["Spent the afternoon watching (and presenting) pitches for Thursday's @globaldev hack day. Cracking selection of ideas and itches to scratch."],"category":["hackday","globaldev"],"syndication":["https://twitter.com/barryf/status/614100810541039616"],"slug":["spent-the-afternoon-watching-and-presenting"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Spent the afternoon watching (and presenting) pitches for Thursday's @globaldev hack day. Cracking selection of ideas and itches to scratch."
+    ],
+    "published": [
+      "2015-06-25T16:00:15Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "Spent the afternoon watching (and presenting) pitches for Thursday's @globaldev hack day. Cracking selection of ideas and itches to scratch."
+    ],
+    "category": [
+      "hackday",
+      "globaldev"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/614100810541039616"
+    ],
+    "slug": [
+      "spent-the-afternoon-watching-and-presenting"
+    ]
+  }
+}

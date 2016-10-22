@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Offshore Ruby on Rails development agency based in Poland"],"published":["2013-02-27T11:22:46Z"],"entry-type":["bookmark"],"name":["Monterail"],"bookmark-of":["http://monterail.com/"],"category":["rails","outsource","poland","agency","via-pinboard"],"slug":["monterail"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Offshore Ruby on Rails development agency based in Poland"
+    ],
+    "published": [
+      "2013-02-27T11:22:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Monterail"
+    ],
+    "bookmark-of": [
+      "http://monterail.com/"
+    ],
+    "category": [
+      "rails",
+      "outsource",
+      "poland",
+      "agency",
+      "via-pinboard"
+    ],
+    "slug": [
+      "monterail"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Watching Laura run the Race for Life (@ Windsor Racecourse w/ 3 others) http://4sq.com/9twSUT"],"published":["2010-07-11T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/18278805358"],"slug":["tweet-18278805358"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watching Laura run the Race for Life (@ Windsor Racecourse w/ 3 others) http://4sq.com/9twSUT"
+    ],
+    "published": [
+      "2010-07-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/18278805358"
+    ],
+    "slug": [
+      "tweet-18278805358"
+    ]
+  }
+}

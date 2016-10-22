@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2006-10-04T09:31:50Z"],"entry-type":["bookmark"],"name":["A Ruby Interface to the YouTube API"],"bookmark-of":["http://shanesbrain.net/articles/2006/09/28/a-ruby-interface-to-the-youtube-api"],"category":["api","gem","web20","video","ruby","youtube","via-pinboard"],"slug":["a-ruby-interface-to-the-youtube"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-10-04T09:31:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Ruby Interface to the YouTube API"
+    ],
+    "bookmark-of": [
+      "http://shanesbrain.net/articles/2006/09/28/a-ruby-interface-to-the-youtube-api"
+    ],
+    "category": [
+      "api",
+      "gem",
+      "web20",
+      "video",
+      "ruby",
+      "youtube",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-ruby-interface-to-the-youtube"
+    ]
+  }
+}

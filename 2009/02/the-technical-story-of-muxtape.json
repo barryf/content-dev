@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Persevered with PHP, but love of Rails and Ruby helped switch away\n"],"published":["2009-02-08T15:30:19Z"],"entry-type":["bookmark"],"name":["The technical story of Muxtape"],"bookmark-of":["http://tlvx.net/post/74143734/the-technical-story-of-muxtape"],"category":["advocacy","rails","muxtape","productivity","via-pinboard"],"slug":["the-technical-story-of-muxtape"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Persevered with PHP, but love of Rails and Ruby helped switch away\n"
+    ],
+    "published": [
+      "2009-02-08T15:30:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The technical story of Muxtape"
+    ],
+    "bookmark-of": [
+      "http://tlvx.net/post/74143734/the-technical-story-of-muxtape"
+    ],
+    "category": [
+      "advocacy",
+      "rails",
+      "muxtape",
+      "productivity",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-technical-story-of-muxtape"
+    ]
+  }
+}

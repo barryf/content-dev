@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Continually reloads HTML/CSS/JS - handy for realtime designing without needing a cmd-tab-cmd-r cycle\n"],"published":["2011-12-13T15:17:46Z"],"entry-type":["bookmark"],"name":["Live.js"],"bookmark-of":["http://livejs.com/"],"category":["css","refresh","dev","live","realtime","via-pinboard"],"slug":["live-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Continually reloads HTML/CSS/JS - handy for realtime designing without needing a cmd-tab-cmd-r cycle\n"
+    ],
+    "published": [
+      "2011-12-13T15:17:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Live.js"
+    ],
+    "bookmark-of": [
+      "http://livejs.com/"
+    ],
+    "category": [
+      "css",
+      "refresh",
+      "dev",
+      "live",
+      "realtime",
+      "via-pinboard"
+    ],
+    "slug": [
+      "live-js"
+    ]
+  }
+}

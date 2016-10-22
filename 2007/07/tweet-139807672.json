@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Settling down for an afternoon of the British Grand Prix and the Wimbledon Men's Final."],"published":["2007-07-08T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/139807672"],"slug":["tweet-139807672"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Settling down for an afternoon of the British Grand Prix and the Wimbledon Men's Final."
+    ],
+    "published": [
+      "2007-07-08T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/139807672"
+    ],
+    "slug": [
+      "tweet-139807672"
+    ]
+  }
+}

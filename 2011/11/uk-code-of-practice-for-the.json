@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2011-11-17T13:43:26Z"],"entry-type":["bookmark"],"name":["UK code of practice for the self-regulation of new forms of content on mobiles (pdf)"],"bookmark-of":["http://www.mobilebroadbandgroup.com/documents/mbg_content_code_v2_100609.pdf"],"category":["mobile","pdf","uk","rules","via-pinboard"],"slug":["uk-code-of-practice-for-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-11-17T13:43:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UK code of practice for the self-regulation of new forms of content on mobiles (pdf)"
+    ],
+    "bookmark-of": [
+      "http://www.mobilebroadbandgroup.com/documents/mbg_content_code_v2_100609.pdf"
+    ],
+    "category": [
+      "mobile",
+      "pdf",
+      "uk",
+      "rules",
+      "via-pinboard"
+    ],
+    "slug": [
+      "uk-code-of-practice-for-the"
+    ]
+  }
+}

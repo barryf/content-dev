@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Paul Hawksbee (@PaulHawksbee)"],"photo":["http://pbs.twimg.com/profile_images/459459896975847424/Fs52mW2A_normal.jpeg"],"url":["https://twitter.com/PaulHawksbee"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Paul Hawksbee (@PaulHawksbee)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/459459896975847424/Fs52mW2A_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/PaulHawksbee"
+    ]
+  }
+}

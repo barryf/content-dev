@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@dlythgoe TTD? The Tyranical Dictator?"],"published":["2008-11-28T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/17708419/status/1027916326"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1027921046"],"slug":["tweet-1027921046"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@dlythgoe TTD? The Tyranical Dictator?"
+    ],
+    "published": [
+      "2008-11-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/17708419/status/1027916326"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1027921046"
+    ],
+    "slug": [
+      "tweet-1027921046"
+    ]
+  }
+}

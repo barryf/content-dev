@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Includes a breakdown of what does/doesn't work in different email clients\n"],"published":["2006-04-03T12:14:35Z"],"entry-type":["bookmark"],"name":["A Guide to CSS Support in Email | Articles/Tips - Campaign Monitor Blog"],"bookmark-of":["http://www.campaignmonitor.com/blog/archives/2006/03/a_guide_to_css_1.html"],"category":["css","email","newsletter","design","standards","via-pinboard"],"slug":["a-guide-to-css-support-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Includes a breakdown of what does/doesn't work in different email clients\n"
+    ],
+    "published": [
+      "2006-04-03T12:14:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Guide to CSS Support in Email | Articles/Tips - Campaign Monitor Blog"
+    ],
+    "bookmark-of": [
+      "http://www.campaignmonitor.com/blog/archives/2006/03/a_guide_to_css_1.html"
+    ],
+    "category": [
+      "css",
+      "email",
+      "newsletter",
+      "design",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-guide-to-css-support-in"
+    ]
+  }
+}

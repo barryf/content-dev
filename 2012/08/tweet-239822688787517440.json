@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes @Loud_one @boffbowsh @AL0sborne Kittencam now playing on our TV. Brilliant."],"published":["2012-08-26T20:32:39Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/239815018185641984"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/239822688787517440"],"slug":["tweet-239822688787517440"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes @Loud_one @boffbowsh @AL0sborne Kittencam now playing on our TV. Brilliant."
+    ],
+    "published": [
+      "2012-08-26T20:32:39Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/239815018185641984"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/239822688787517440"
+    ],
+    "slug": [
+      "tweet-239822688787517440"
+    ]
+  }
+}

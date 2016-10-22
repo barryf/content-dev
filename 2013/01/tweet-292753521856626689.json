@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@T__S__R No, sadly not. Sky changed their listings page so it’s broken. I’ll have to update that blog post."],"published":["2013-01-19T22:00:53Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/106563962/status/292749255163133952"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/292753521856626689"],"slug":["tweet-292753521856626689"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@T__S__R No, sadly not. Sky changed their listings page so it’s broken. I’ll have to update that blog post."
+    ],
+    "published": [
+      "2013-01-19T22:00:53Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/106563962/status/292749255163133952"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/292753521856626689"
+    ],
+    "slug": [
+      "tweet-292753521856626689"
+    ]
+  }
+}

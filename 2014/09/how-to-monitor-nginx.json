@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2014-09-10T14:19:13Z"],"entry-type":["bookmark"],"name":["How to monitor nginx"],"bookmark-of":["https://blog.serverdensity.com/monitor-nginx/"],"category":["nginx","monitoring","sysadmin","via-pinboard"],"slug":["how-to-monitor-nginx"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-09-10T14:19:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to monitor nginx"
+    ],
+    "bookmark-of": [
+      "https://blog.serverdensity.com/monitor-nginx/"
+    ],
+    "category": [
+      "nginx",
+      "monitoring",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-monitor-nginx"
+    ]
+  }
+}

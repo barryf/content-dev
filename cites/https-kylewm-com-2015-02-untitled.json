@@ -1,1 +1,16 @@
-{"type":["h-cite"],"properties":{"url":["https://kylewm.com/2015/02/untitled"],"published":["2015-02-07T22:37:32Z"],"author":["https://kylewm.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://kylewm.com/2015/02/untitled"
+    ],
+    "published": [
+      "2015-02-07T22:37:32Z"
+    ],
+    "author": [
+      "https://kylewm.com"
+    ]
+  }
+}

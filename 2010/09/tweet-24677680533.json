@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@POLITICSEDITOR No seatbelt? Let's hope the paps don't start chasing him through any tunnels PS Hello mate!"],"published":["2010-09-16T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/106238643/status/24676778782"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/24677680533"],"slug":["tweet-24677680533"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@POLITICSEDITOR No seatbelt? Let's hope the paps don't start chasing him through any tunnels PS Hello mate!"
+    ],
+    "published": [
+      "2010-09-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/106238643/status/24676778782"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/24677680533"
+    ],
+    "slug": [
+      "tweet-24677680533"
+    ]
+  }
+}

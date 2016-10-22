@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Just testing Ben Ward's Twitter Widget."],"published":["2006-11-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/423613"],"slug":["tweet-423613"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just testing Ben Ward's Twitter Widget."
+    ],
+    "published": [
+      "2006-11-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/423613"
+    ],
+    "slug": [
+      "tweet-423613"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@robmanuel Basecamp Breeze might suit you http://basecamp.com/breeze"],"published":["2013-06-01T10:32:04Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/2285051/status/340775805913268227"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/340777760475725824"],"slug":["tweet-340777760475725824"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@robmanuel Basecamp Breeze might suit you http://basecamp.com/breeze"
+    ],
+    "published": [
+      "2013-06-01T10:32:04Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/2285051/status/340775805913268227"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/340777760475725824"
+    ],
+    "slug": [
+      "tweet-340777760475725824"
+    ]
+  }
+}

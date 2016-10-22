@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["If your external disk has a Master Boot Record then it'll need to be reformatted and repartitioned\n"],"published":["2009-01-24T16:32:21Z"],"entry-type":["bookmark"],"name":["Mac OS X 10.5: Time Machine stops backing up to external disk"],"bookmark-of":["http://support.apple.com/kb/TS1550"],"category":["mac","timemachine","usb","mbr","format","partition","via-pinboard"],"slug":["mac-os-x-10-5-time"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "If your external disk has a Master Boot Record then it'll need to be reformatted and repartitioned\n"
+    ],
+    "published": [
+      "2009-01-24T16:32:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mac OS X 10.5: Time Machine stops backing up to external disk"
+    ],
+    "bookmark-of": [
+      "http://support.apple.com/kb/TS1550"
+    ],
+    "category": [
+      "mac",
+      "timemachine",
+      "usb",
+      "mbr",
+      "format",
+      "partition",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mac-os-x-10-5-time"
+    ]
+  }
+}

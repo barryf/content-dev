@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Ajax, GMap, search text\n"],"published":["2007-08-15T17:02:01Z"],"entry-type":["bookmark"],"name":["Extate: property search engine"],"bookmark-of":["http://www.extate.co.uk/"],"category":["uk","estate","agent","map","mashup","property","useful","search","via-pinboard"],"slug":["extate-property-search-engine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ajax, GMap, search text\n"
+    ],
+    "published": [
+      "2007-08-15T17:02:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Extate: property search engine"
+    ],
+    "bookmark-of": [
+      "http://www.extate.co.uk/"
+    ],
+    "category": [
+      "uk",
+      "estate",
+      "agent",
+      "map",
+      "mashup",
+      "property",
+      "useful",
+      "search",
+      "via-pinboard"
+    ],
+    "slug": [
+      "extate-property-search-engine"
+    ]
+  }
+}

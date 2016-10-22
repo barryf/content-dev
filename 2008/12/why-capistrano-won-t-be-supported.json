@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["\"Microsoft may be an 800lb gorilla, but it's not _my_ gorilla, and it's not in _my_ room. If you need to appease the gorilla, that is (with all due respect) not my problem.\" Quite right. It's open source: if people want it to work on Windows they can send modify and send patches.\n"],"published":["2008-12-11T20:15:59Z"],"entry-type":["bookmark"],"name":["Why Capistrano won't be supported on Windows"],"bookmark-of":["http://groups.google.com/group/capistrano/msg/f5213577eaeadc47?pli=1"],"category":["opensource","capistrano","philosophy","microsoft","windows","dev","via-pinboard"],"slug":["why-capistrano-won-t-be-supported"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Microsoft may be an 800lb gorilla, but it's not _my_ gorilla, and it's not in _my_ room. If you need to appease the gorilla, that is (with all due respect) not my problem.\" Quite right. It's open source: if people want it to work on Windows they can send modify and send patches.\n"
+    ],
+    "published": [
+      "2008-12-11T20:15:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why Capistrano won't be supported on Windows"
+    ],
+    "bookmark-of": [
+      "http://groups.google.com/group/capistrano/msg/f5213577eaeadc47?pli=1"
+    ],
+    "category": [
+      "opensource",
+      "capistrano",
+      "philosophy",
+      "microsoft",
+      "windows",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-capistrano-won-t-be-supported"
+    ]
+  }
+}

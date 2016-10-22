@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Grigoriy Kogan"],"photo":["http://pbs.twimg.com/profile_images/459492441544880128/ngGMeDlB_normal.jpeg"],"url":["https://twitter.com/grigoriy_kogan"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Grigoriy Kogan"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/459492441544880128/ngGMeDlB_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/grigoriy_kogan"
+    ]
+  }
+}

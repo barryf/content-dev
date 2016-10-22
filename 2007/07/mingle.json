@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Help manage agile software projects. Free for up to five users\n"],"published":["2007-07-10T13:35:09Z"],"entry-type":["bookmark"],"name":["Mingle"],"bookmark-of":["http://studios.thoughtworks.com/mingle-project-intelligence"],"category":["agile","projectmanagement","thoughtworks","dev","project","productivity","via-pinboard"],"slug":["mingle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Help manage agile software projects. Free for up to five users\n"
+    ],
+    "published": [
+      "2007-07-10T13:35:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mingle"
+    ],
+    "bookmark-of": [
+      "http://studios.thoughtworks.com/mingle-project-intelligence"
+    ],
+    "category": [
+      "agile",
+      "projectmanagement",
+      "thoughtworks",
+      "dev",
+      "project",
+      "productivity",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mingle"
+    ]
+  }
+}

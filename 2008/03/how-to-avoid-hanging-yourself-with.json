@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Useful tips on avoiding ActiveRecord magic creating inefficient queries\n"],"published":["2008-03-02T23:54:59Z"],"entry-type":["bookmark"],"name":["How to Avoid Hanging Yourself with Rails"],"bookmark-of":["http://work.rowanhick.com/2008/02/12/how-to-avoid-hanging-yourself-with-rails/"],"category":["activerecord","bestpractice","database","optimise","performance","rails","scaling","via-pinboard"],"slug":["how-to-avoid-hanging-yourself-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful tips on avoiding ActiveRecord magic creating inefficient queries\n"
+    ],
+    "published": [
+      "2008-03-02T23:54:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Avoid Hanging Yourself with Rails"
+    ],
+    "bookmark-of": [
+      "http://work.rowanhick.com/2008/02/12/how-to-avoid-hanging-yourself-with-rails/"
+    ],
+    "category": [
+      "activerecord",
+      "bestpractice",
+      "database",
+      "optimise",
+      "performance",
+      "rails",
+      "scaling",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-avoid-hanging-yourself-with"
+    ]
+  }
+}

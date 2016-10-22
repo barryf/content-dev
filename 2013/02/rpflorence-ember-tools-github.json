@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-02-12T17:56:11Z"],"entry-type":["bookmark"],"name":["rpflorence/ember-tools · GitHub"],"bookmark-of":["https://github.com/rpflorence/ember-tools"],"category":["fromifttt","github","via-pinboard"],"slug":["rpflorence-ember-tools-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-02-12T17:56:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "rpflorence/ember-tools · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/rpflorence/ember-tools"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rpflorence-ember-tools-github"
+    ]
+  }
+}

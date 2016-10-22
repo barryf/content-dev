@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-28T10:11:12Z"],"entry-type":["bookmark"],"name":["pwyky: A Python Wiki"],"bookmark-of":["http://infomesh.net/pwyky/"],"category":["python","wiki","via-pinboard"],"slug":["pwyky-a-python-wiki"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-28T10:11:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "pwyky: A Python Wiki"
+    ],
+    "bookmark-of": [
+      "http://infomesh.net/pwyky/"
+    ],
+    "category": [
+      "python",
+      "wiki",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pwyky-a-python-wiki"
+    ]
+  }
+}

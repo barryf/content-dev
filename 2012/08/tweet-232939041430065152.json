@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Blank faces in the Maida Vale audience for Popscene. Plastic Blur fans."],"published":["2012-08-07T20:39:29Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/232939041430065152"],"slug":["tweet-232939041430065152"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Blank faces in the Maida Vale audience for Popscene. Plastic Blur fans."
+    ],
+    "published": [
+      "2012-08-07T20:39:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/232939041430065152"
+    ],
+    "slug": [
+      "tweet-232939041430065152"
+    ]
+  }
+}

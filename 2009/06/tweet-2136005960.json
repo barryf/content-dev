@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair You're very welcome. Hope @debbie wasn't waiting too long. She's got a great twitter account btw - worth a few bob that."],"published":["2009-06-12T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/2135064791"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2136005960"],"slug":["tweet-2136005960"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair You're very welcome. Hope @debbie wasn't waiting too long. She's got a great twitter account btw - worth a few bob that."
+    ],
+    "published": [
+      "2009-06-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/2135064791"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2136005960"
+    ],
+    "slug": [
+      "tweet-2136005960"
+    ]
+  }
+}

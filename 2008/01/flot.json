@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Dynamic Javascript plotting library using jQuery\n"],"published":["2008-01-13T19:46:52Z"],"entry-type":["bookmark"],"name":["flot"],"bookmark-of":["http://code.google.com/p/flot/"],"category":["canvas","chart","graph","javascript","web","jquery","statistics","via-pinboard"],"slug":["flot"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dynamic Javascript plotting library using jQuery\n"
+    ],
+    "published": [
+      "2008-01-13T19:46:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "flot"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/flot/"
+    ],
+    "category": [
+      "canvas",
+      "chart",
+      "graph",
+      "javascript",
+      "web",
+      "jquery",
+      "statistics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flot"
+    ]
+  }
+}

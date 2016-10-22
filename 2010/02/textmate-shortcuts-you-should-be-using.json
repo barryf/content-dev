@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2010-02-15T20:09:42Z"],"entry-type":["bookmark"],"name":["TextMate shortcuts you should be using"],"bookmark-of":["http://szeryf.wordpress.com/2010/02/15/textmate-shortcuts-you-should-be-using/"],"category":["productivity","textmate","ruby","keyboard","shortcut","via-pinboard"],"slug":["textmate-shortcuts-you-should-be-using"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-02-15T20:09:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TextMate shortcuts you should be using"
+    ],
+    "bookmark-of": [
+      "http://szeryf.wordpress.com/2010/02/15/textmate-shortcuts-you-should-be-using/"
+    ],
+    "category": [
+      "productivity",
+      "textmate",
+      "ruby",
+      "keyboard",
+      "shortcut",
+      "via-pinboard"
+    ],
+    "slug": [
+      "textmate-shortcuts-you-should-be-using"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["\"Dr Wang said that in 1995 he skinned a shot convict's body while the man's heart was still beating\"\n"],"published":["2005-09-13T13:29:07Z"],"entry-type":["bookmark"],"name":["The beauty products from the skin of executed Chinese prisoners"],"bookmark-of":["http://www.guardian.co.uk/uk_news/story/0,,1568467,00.html"],"category":["health","china","cosmetics","sick","horrible","via-pinboard"],"slug":["the-beauty-products-from-the-skin"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Dr Wang said that in 1995 he skinned a shot convict's body while the man's heart was still beating\"\n"
+    ],
+    "published": [
+      "2005-09-13T13:29:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The beauty products from the skin of executed Chinese prisoners"
+    ],
+    "bookmark-of": [
+      "http://www.guardian.co.uk/uk_news/story/0,,1568467,00.html"
+    ],
+    "category": [
+      "health",
+      "china",
+      "cosmetics",
+      "sick",
+      "horrible",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-beauty-products-from-the-skin"
+    ]
+  }
+}

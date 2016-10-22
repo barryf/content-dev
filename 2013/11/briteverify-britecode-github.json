@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-11-21T16:53:47Z"],"entry-type":["bookmark"],"name":["BriteVerify/BriteCode · GitHub"],"bookmark-of":["https://github.com/BriteVerify/BriteCode"],"category":["fromifttt","github","via-pinboard"],"slug":["briteverify-britecode-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-11-21T16:53:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "BriteVerify/BriteCode · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/BriteVerify/BriteCode"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "briteverify-britecode-github"
+    ]
+  }
+}

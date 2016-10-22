@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Out of context that's going to look very strange in your tweet stream! You've inspired me to put on the DVD. Good times."],"published":["2010-03-23T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/10944203638"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10944732999"],"slug":["tweet-10944732999"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Out of context that's going to look very strange in your tweet stream! You've inspired me to put on the DVD. Good times."
+    ],
+    "published": [
+      "2010-03-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/10944203638"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10944732999"
+    ],
+    "slug": [
+      "tweet-10944732999"
+    ]
+  }
+}

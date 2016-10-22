@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Good tips on writing a newspaper column; also applicable to blog writing\n"],"published":["2005-11-06T13:05:32Z"],"entry-type":["bookmark"],"name":["Keith Waterhouse on weblogs? (plasticbag.org)"],"bookmark-of":["http://www.plasticbag.org/archives/2001/08/keith_waterhouse_on_weblogs.shtml"],"category":["writing","blog","language","useful","via-pinboard"],"slug":["keith-waterhouse-on-weblogs-plasticbag-org"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Good tips on writing a newspaper column; also applicable to blog writing\n"
+    ],
+    "published": [
+      "2005-11-06T13:05:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Keith Waterhouse on weblogs? (plasticbag.org)"
+    ],
+    "bookmark-of": [
+      "http://www.plasticbag.org/archives/2001/08/keith_waterhouse_on_weblogs.shtml"
+    ],
+    "category": [
+      "writing",
+      "blog",
+      "language",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "keith-waterhouse-on-weblogs-plasticbag-org"
+    ]
+  }
+}

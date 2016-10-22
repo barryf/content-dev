@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The xx shake off Weller and those tedious folkies to win the #mercury prize. Great album, still playing it regularly."],"published":["2010-09-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/23857267867"],"slug":["tweet-23857267867"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The xx shake off Weller and those tedious folkies to win the #mercury prize. Great album, still playing it regularly."
+    ],
+    "published": [
+      "2010-09-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/23857267867"
+    ],
+    "slug": [
+      "tweet-23857267867"
+    ]
+  }
+}

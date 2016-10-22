@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-16T17:30:37Z"],"entry-type":["bookmark"],"name":["Softies on Rails: TextMate Snippet for RESTful Controller"],"bookmark-of":["http://www.softiesonrails.com/2007/12/14/textmate-snippet-for-restful-controller"],"category":["textmate","rails","snippet","rest","restful","controller","via-pinboard"],"slug":["softies-on-rails-textmate-snippet-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-16T17:30:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Softies on Rails: TextMate Snippet for RESTful Controller"
+    ],
+    "bookmark-of": [
+      "http://www.softiesonrails.com/2007/12/14/textmate-snippet-for-restful-controller"
+    ],
+    "category": [
+      "textmate",
+      "rails",
+      "snippet",
+      "rest",
+      "restful",
+      "controller",
+      "via-pinboard"
+    ],
+    "slug": [
+      "softies-on-rails-textmate-snippet-for"
+    ]
+  }
+}

@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Barry Frost"],"url":["http://twitter.com/barryf"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Barry Frost"
+    ],
+    "url": [
+      "http://twitter.com/barryf"
+    ]
+  }
+}

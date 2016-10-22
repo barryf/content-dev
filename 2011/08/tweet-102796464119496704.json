@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@jasonkneen All set for tomorrow? See you at 9:30. It's my first day back after hols so we'll catch up together."],"published":["2011-08-14T17:39:21Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/102796464119496704"],"slug":["tweet-102796464119496704"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jasonkneen All set for tomorrow? See you at 9:30. It's my first day back after hols so we'll catch up together."
+    ],
+    "published": [
+      "2011-08-14T17:39:21Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/102796464119496704"
+    ],
+    "slug": [
+      "tweet-102796464119496704"
+    ]
+  }
+}

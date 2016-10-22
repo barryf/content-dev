@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Flying to Dublin tomorrow morning for two days at #WebSummit 2013. See you there if you're one of the 10k going."],"published":["2013-10-29T16:47:23Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/395230397002694657"],"slug":["baker-61"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Flying to Dublin tomorrow morning for two days at #WebSummit 2013. See you there if you're one of the 10k going."
+    ],
+    "published": [
+      "2013-10-29T16:47:23Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/395230397002694657"
+    ],
+    "slug": [
+      "baker-61"
+    ]
+  }
+}

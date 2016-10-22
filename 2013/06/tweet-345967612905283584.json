@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Spent an enjoyable afternoon hacking through ObjC and iOS examples. Lots of books out there -- any recommendations?"],"published":["2013-06-15T18:14:41Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/345967612905283584"],"slug":["tweet-345967612905283584"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Spent an enjoyable afternoon hacking through ObjC and iOS examples. Lots of books out there -- any recommendations?"
+    ],
+    "published": [
+      "2013-06-15T18:14:41Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/345967612905283584"
+    ],
+    "slug": [
+      "tweet-345967612905283584"
+    ]
+  }
+}

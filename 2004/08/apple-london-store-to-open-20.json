@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["...the day before my birthday!\n"],"published":["2004-08-20T15:33:11Z"],"entry-type":["bookmark"],"name":["Apple London store \"to open 20 November\""],"bookmark-of":["http://www.theregister.co.uk/2004/08/20/apple_london_store/"],"category":["mac","shopping","via-pinboard"],"slug":["apple-london-store-to-open-20"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "...the day before my birthday!\n"
+    ],
+    "published": [
+      "2004-08-20T15:33:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Apple London store \"to open 20 November\""
+    ],
+    "bookmark-of": [
+      "http://www.theregister.co.uk/2004/08/20/apple_london_store/"
+    ],
+    "category": [
+      "mac",
+      "shopping",
+      "via-pinboard"
+    ],
+    "slug": [
+      "apple-london-store-to-open-20"
+    ]
+  }
+}

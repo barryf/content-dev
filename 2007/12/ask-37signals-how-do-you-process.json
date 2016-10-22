@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Nightly centralised process. Failed charges are retried 3 days later and then 3 days after that and then the account is frozen.\n"],"published":["2007-12-28T23:05:04Z"],"entry-type":["bookmark"],"name":["Ask 37signals: How do you process credit cards?"],"bookmark-of":["http://www.37signals.com/svn/posts/753-ask-37signals-how-do-you-process-credit-cards"],"category":["business","ecommerce","37signals","startup","merchant","creditcard","via-pinboard"],"slug":["ask-37signals-how-do-you-process"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nightly centralised process. Failed charges are retried 3 days later and then 3 days after that and then the account is frozen.\n"
+    ],
+    "published": [
+      "2007-12-28T23:05:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ask 37signals: How do you process credit cards?"
+    ],
+    "bookmark-of": [
+      "http://www.37signals.com/svn/posts/753-ask-37signals-how-do-you-process-credit-cards"
+    ],
+    "category": [
+      "business",
+      "ecommerce",
+      "37signals",
+      "startup",
+      "merchant",
+      "creditcard",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ask-37signals-how-do-you-process"
+    ]
+  }
+}

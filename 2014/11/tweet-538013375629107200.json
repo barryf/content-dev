@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Was it your nose?"],"published":["2014-11-27T16:55:59Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/538011915872911361"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/538013375629107200"],"slug":["tweet-538013375629107200"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Was it your nose?"
+    ],
+    "published": [
+      "2014-11-27T16:55:59Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/538011915872911361"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/538013375629107200"
+    ],
+    "slug": [
+      "tweet-538013375629107200"
+    ]
+  }
+}

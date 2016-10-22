@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Pleased with the XFN rel style lists of the people I follow here."],"published":["2009-11-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5708434972"],"slug":["tweet-5708434972"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pleased with the XFN rel style lists of the people I follow here."
+    ],
+    "published": [
+      "2009-11-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5708434972"
+    ],
+    "slug": [
+      "tweet-5708434972"
+    ]
+  }
+}

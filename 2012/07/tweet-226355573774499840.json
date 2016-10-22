@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["If @sparrow evolves into the Gmail (and Apps) Mac and iOS app then I’m happy."],"published":["2012-07-20T16:39:08Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/226355573774499840"],"slug":["tweet-226355573774499840"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "If @sparrow evolves into the Gmail (and Apps) Mac and iOS app then I’m happy."
+    ],
+    "published": [
+      "2012-07-20T16:39:08Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/226355573774499840"
+    ],
+    "slug": [
+      "tweet-226355573774499840"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-16T20:01:22Z"],"entry-type":["bookmark"],"name":["Get to the Point! Development with Ruby and Rails"],"bookmark-of":["http://johnwlong.com/slides/gettothepoint/"],"category":["web","dev","ruby","rails","via-pinboard"],"slug":["get-to-the-point-development-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-16T20:01:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Get to the Point! Development with Ruby and Rails"
+    ],
+    "bookmark-of": [
+      "http://johnwlong.com/slides/gettothepoint/"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "ruby",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "get-to-the-point-development-with"
+    ]
+  }
+}

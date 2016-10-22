@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Dawn of the “Dating Apocalypse”"],"published":["2016-07-01T13:58:32Z"],"entry-type":["bookmark"],"name":["Tinder and Hookup-Culture"],"bookmark-of":["http://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating"],"category":["tinder","dating","culture"],"slug":["tinder-and-hookup-culture"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Dawn of the “Dating Apocalypse”"
+    ],
+    "published": [
+      "2016-07-01T13:58:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tinder and Hookup-Culture"
+    ],
+    "bookmark-of": [
+      "http://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating"
+    ],
+    "category": [
+      "tinder",
+      "dating",
+      "culture"
+    ],
+    "slug": [
+      "tinder-and-hookup-culture"
+    ]
+  }
+}

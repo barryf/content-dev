@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-06-29T21:02:39Z"],"entry-type":["bookmark"],"name":["Mac Buyer's Guide: Know When to Buy Your Mac"],"bookmark-of":["http://buyersguide.macrumors.com/"],"category":["mac","shopping","useful","guide","via-pinboard"],"slug":["mac-buyer-s-guide-know-when"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-06-29T21:02:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mac Buyer's Guide: Know When to Buy Your Mac"
+    ],
+    "bookmark-of": [
+      "http://buyersguide.macrumors.com/"
+    ],
+    "category": [
+      "mac",
+      "shopping",
+      "useful",
+      "guide",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mac-buyer-s-guide-know-when"
+    ]
+  }
+}

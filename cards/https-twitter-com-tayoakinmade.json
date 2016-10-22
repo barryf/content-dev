@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tayo Akinmade"],"photo":["https://twitter.com/tayoakinmade/profile_image?size=original"],"url":["https://twitter.com/tayoakinmade"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tayo Akinmade"
+    ],
+    "photo": [
+      "https://twitter.com/tayoakinmade/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/tayoakinmade"
+    ]
+  }
+}

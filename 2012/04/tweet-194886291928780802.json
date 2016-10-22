@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@JamesLafferty Of course poor John Terry didn't mean to knee Sanchez!"],"published":["2012-04-24T20:31:27Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22905856/status/194884652924801026"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/194886291928780802"],"slug":["tweet-194886291928780802"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@JamesLafferty Of course poor John Terry didn't mean to knee Sanchez!"
+    ],
+    "published": [
+      "2012-04-24T20:31:27Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22905856/status/194884652924801026"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/194886291928780802"
+    ],
+    "slug": [
+      "tweet-194886291928780802"
+    ]
+  }
+}

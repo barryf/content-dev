@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Raylee Houston"],"photo":["https://pbs.twimg.com/profile_images/740956240398934016/2tF42MdO.jpg"],"url":["https://twitter.com/FhjyfAlena"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Raylee Houston"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/740956240398934016/2tF42MdO.jpg"
+    ],
+    "url": [
+      "https://twitter.com/FhjyfAlena"
+    ]
+  }
+}

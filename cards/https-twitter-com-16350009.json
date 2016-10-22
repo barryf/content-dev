@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tom Burr"],"photo":["http://pbs.twimg.com/profile_images/3220610308/85d03529df671348ad0c6dc773684531_normal.jpeg"],"url":["https://twitter.com/Tomtids"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom Burr"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/3220610308/85d03529df671348ad0c6dc773684531_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/Tomtids"
+    ]
+  }
+}

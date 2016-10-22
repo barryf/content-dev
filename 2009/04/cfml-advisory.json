@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Committee website for the advisory board. Sean Corfield and chums talking about Railo, ColdFusion and BlueDragon\n"],"published":["2009-04-11T17:46:01Z"],"entry-type":["bookmark"],"name":["CFML Advisory"],"bookmark-of":["http://opencfml.org/"],"category":["cfml","coldfusion","railo","bluedragon","standards","adobe","via-pinboard"],"slug":["cfml-advisory"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Committee website for the advisory board. Sean Corfield and chums talking about Railo, ColdFusion and BlueDragon\n"
+    ],
+    "published": [
+      "2009-04-11T17:46:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CFML Advisory"
+    ],
+    "bookmark-of": [
+      "http://opencfml.org/"
+    ],
+    "category": [
+      "cfml",
+      "coldfusion",
+      "railo",
+      "bluedragon",
+      "standards",
+      "adobe",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cfml-advisory"
+    ]
+  }
+}

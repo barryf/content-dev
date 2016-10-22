@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Monitor spanning for iBooks\n"],"published":["2005-08-12T19:22:43Z"],"entry-type":["bookmark"],"name":["iBook Extended Desktop"],"bookmark-of":["http://www.rutemoeller.com/mp/ibook/ibook_e.html"],"category":["mac","useful","via-pinboard"],"slug":["ibook-extended-desktop"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Monitor spanning for iBooks\n"
+    ],
+    "published": [
+      "2005-08-12T19:22:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iBook Extended Desktop"
+    ],
+    "bookmark-of": [
+      "http://www.rutemoeller.com/mp/ibook/ibook_e.html"
+    ],
+    "category": [
+      "mac",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ibook-extended-desktop"
+    ]
+  }
+}

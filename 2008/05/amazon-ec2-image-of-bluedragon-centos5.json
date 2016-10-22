@@ -1,1 +1,43 @@
-{"type":["h-entry"],"properties":{"content":["Free way of hosting a ColdFusion application using the newly open sourced BlueDragon engine\n"],"published":["2008-05-11T14:07:02Z"],"entry-type":["bookmark"],"name":["Amazon EC2 image of BlueDragon/CentOS5/Jetty"],"bookmark-of":["http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1449"],"category":["bluedragon","centos","amazon","ec2","java","coldfusion","cfml","jetty","image","web","server","aws","opensource","free","work","via-pinboard"],"slug":["amazon-ec2-image-of-bluedragon-centos5"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free way of hosting a ColdFusion application using the newly open sourced BlueDragon engine\n"
+    ],
+    "published": [
+      "2008-05-11T14:07:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Amazon EC2 image of BlueDragon/CentOS5/Jetty"
+    ],
+    "bookmark-of": [
+      "http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1449"
+    ],
+    "category": [
+      "bluedragon",
+      "centos",
+      "amazon",
+      "ec2",
+      "java",
+      "coldfusion",
+      "cfml",
+      "jetty",
+      "image",
+      "web",
+      "server",
+      "aws",
+      "opensource",
+      "free",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "amazon-ec2-image-of-bluedragon-centos5"
+    ]
+  }
+}

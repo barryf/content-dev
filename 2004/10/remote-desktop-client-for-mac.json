@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-15T09:08:54Z"],"entry-type":["bookmark"],"name":["Remote Desktop Client for Mac"],"bookmark-of":["http://www.microsoft.com/mac/otherproducts/otherproducts.aspx?pid=remotedesktopclient"],"category":["mac","via-pinboard"],"slug":["remote-desktop-client-for-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-15T09:08:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Remote Desktop Client for Mac"
+    ],
+    "bookmark-of": [
+      "http://www.microsoft.com/mac/otherproducts/otherproducts.aspx?pid=remotedesktopclient"
+    ],
+    "category": [
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "remote-desktop-client-for-mac"
+    ]
+  }
+}

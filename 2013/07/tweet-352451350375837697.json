@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair Me too. My weary brain skipped through the sentence and assumed the worst."],"published":["2013-07-03T15:38:44Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/352450230861574144"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/352451350375837697"],"slug":["tweet-352451350375837697"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair Me too. My weary brain skipped through the sentence and assumed the worst."
+    ],
+    "published": [
+      "2013-07-03T15:38:44Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/352450230861574144"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/352451350375837697"
+    ],
+    "slug": [
+      "tweet-352451350375837697"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Venntro (@venntro)"],"photo":["http://pbs.twimg.com/profile_images/620934203543322624/NQScWwSI_normal.png"],"url":["https://twitter.com/venntro"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Venntro (@venntro)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/620934203543322624/NQScWwSI_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/venntro"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-11-10T23:00:10Z"],"entry-type":["bookmark"],"name":["How to make your own bootable OS X 10.10 Yosemite USB install drive"],"bookmark-of":["http://arstechnica.com/apple/2014/10/how-to-make-your-own-bootable-os-x-10-10-yosemite-usb-install-drive/"],"category":["install","mac","usb","osx","via-pinboard"],"slug":["how-to-make-your-own-bootable"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-11-10T23:00:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to make your own bootable OS X 10.10 Yosemite USB install drive"
+    ],
+    "bookmark-of": [
+      "http://arstechnica.com/apple/2014/10/how-to-make-your-own-bootable-os-x-10-10-yosemite-usb-install-drive/"
+    ],
+    "category": [
+      "install",
+      "mac",
+      "usb",
+      "osx",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-make-your-own-bootable"
+    ]
+  }
+}

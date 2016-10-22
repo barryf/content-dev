@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Includes code examples\n"],"published":["2006-12-13T19:16:27Z"],"entry-type":["bookmark"],"name":["A First Guide to PostScript"],"bookmark-of":["http://www.tailrecursive.org/postscript/postscript.html"],"category":["postscript","reference","print","acrobat","pdf","ps","dev","via-pinboard"],"slug":["a-first-guide-to-postscript"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Includes code examples\n"
+    ],
+    "published": [
+      "2006-12-13T19:16:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A First Guide to PostScript"
+    ],
+    "bookmark-of": [
+      "http://www.tailrecursive.org/postscript/postscript.html"
+    ],
+    "category": [
+      "postscript",
+      "reference",
+      "print",
+      "acrobat",
+      "pdf",
+      "ps",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-first-guide-to-postscript"
+    ]
+  }
+}

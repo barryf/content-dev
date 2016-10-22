@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Barnaby Walters"],"url":["http://twitter.com/BarnabyWalters"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Barnaby Walters"
+    ],
+    "url": [
+      "http://twitter.com/BarnabyWalters"
+    ]
+  }
+}

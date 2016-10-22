@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Could be a handy course for work to get us up to speed\n"],"published":["2008-06-27T08:37:11Z"],"entry-type":["bookmark"],"name":["How to build a PHP5 web app in a day"],"bookmark-of":["http://carsonworkshops.com/dev/whitaker/31july2008.html"],"category":["php","carson","php5","training","course","work","forflatpackedworld","via-pinboard"],"slug":["how-to-build-a-php5-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Could be a handy course for work to get us up to speed\n"
+    ],
+    "published": [
+      "2008-06-27T08:37:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to build a PHP5 web app in a day"
+    ],
+    "bookmark-of": [
+      "http://carsonworkshops.com/dev/whitaker/31july2008.html"
+    ],
+    "category": [
+      "php",
+      "carson",
+      "php5",
+      "training",
+      "course",
+      "work",
+      "forflatpackedworld",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-build-a-php5-web"
+    ]
+  }
+}

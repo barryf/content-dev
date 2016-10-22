@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying Ars Technica's OS X 10.9 definitive review over lunch http://arstechnica.com/apple/2013/10/os-x-10-9"],"published":["2013-10-23T12:12:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/392986910253400065"],"slug":["tweet-392986910253400065"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying Ars Technica's OS X 10.9 definitive review over lunch http://arstechnica.com/apple/2013/10/os-x-10-9"
+    ],
+    "published": [
+      "2013-10-23T12:12:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/392986910253400065"
+    ],
+    "slug": [
+      "tweet-392986910253400065"
+    ]
+  }
+}

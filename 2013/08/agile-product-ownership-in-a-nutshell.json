@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["15 minute video clearly describing the role of a Product Owner."],"published":["2013-08-27T13:32:56Z"],"entry-type":["bookmark"],"name":["Agile Product Ownership in a nutshell"],"bookmark-of":["http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell"],"category":["scrum","product","agile","productowner","tweet","via-pinboard"],"slug":["agile-product-ownership-in-a-nutshell"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "15 minute video clearly describing the role of a Product Owner."
+    ],
+    "published": [
+      "2013-08-27T13:32:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Agile Product Ownership in a nutshell"
+    ],
+    "bookmark-of": [
+      "http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell"
+    ],
+    "category": [
+      "scrum",
+      "product",
+      "agile",
+      "productowner",
+      "tweet",
+      "via-pinboard"
+    ],
+    "slug": [
+      "agile-product-ownership-in-a-nutshell"
+    ]
+  }
+}

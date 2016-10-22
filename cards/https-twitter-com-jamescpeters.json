@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["James Peters"],"photo":["https://twitter.com/JamesCPeters/profile_image?size=original"],"url":["https://twitter.com/JamesCPeters"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "James Peters"
+    ],
+    "photo": [
+      "https://twitter.com/JamesCPeters/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/JamesCPeters"
+    ]
+  }
+}

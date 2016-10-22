@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2011-08-18T16:13:50Z"],"entry-type":["bookmark"],"name":["PHP, Perl, Python, Ruby -- side-by-side reference and cheat sheet"],"bookmark-of":["http://hyperpolyglot.org/scripting"],"category":["php","perl","python","ruby","syntax","reference","via-pinboard"],"slug":["php-perl-python-ruby-side-by"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-08-18T16:13:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PHP, Perl, Python, Ruby -- side-by-side reference and cheat sheet"
+    ],
+    "bookmark-of": [
+      "http://hyperpolyglot.org/scripting"
+    ],
+    "category": [
+      "php",
+      "perl",
+      "python",
+      "ruby",
+      "syntax",
+      "reference",
+      "via-pinboard"
+    ],
+    "slug": [
+      "php-perl-python-ruby-side-by"
+    ]
+  }
+}

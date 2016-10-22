@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["More commentary on the Outlook 2007 HTML debacle\n"],"published":["2007-01-13T14:43:14Z"],"entry-type":["bookmark"],"name":["SitePoint Blogs » Microsoft Breaks HTML Email Rendering in Outlook 2007"],"bookmark-of":["http://www.sitepoint.com/blogs/2007/01/10/microsoft-breaks-html-email-rendering-in-outlook/"],"category":["email","marketing","newsletter","markup","outlook","standards","microsoft","css","design","via-pinboard"],"slug":["sitepoint-blogs-microsoft-breaks-html-email"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "More commentary on the Outlook 2007 HTML debacle\n"
+    ],
+    "published": [
+      "2007-01-13T14:43:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SitePoint Blogs » Microsoft Breaks HTML Email Rendering in Outlook 2007"
+    ],
+    "bookmark-of": [
+      "http://www.sitepoint.com/blogs/2007/01/10/microsoft-breaks-html-email-rendering-in-outlook/"
+    ],
+    "category": [
+      "email",
+      "marketing",
+      "newsletter",
+      "markup",
+      "outlook",
+      "standards",
+      "microsoft",
+      "css",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sitepoint-blogs-microsoft-breaks-html-email"
+    ]
+  }
+}

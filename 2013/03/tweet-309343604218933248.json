@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":[".@airbrake’s downtime today has severely delayed a project release. I now receive an email from them on “How you can build better software”."],"published":["2013-03-06T16:43:57Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/309343604218933248"],"slug":["tweet-309343604218933248"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      ".@airbrake’s downtime today has severely delayed a project release. I now receive an email from them on “How you can build better software”."
+    ],
+    "published": [
+      "2013-03-06T16:43:57Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/309343604218933248"
+    ],
+    "slug": [
+      "tweet-309343604218933248"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Vic & Bob style handbaggery. Notable also as a great example of using HTML5 and webkit animation\n"],"published":["2010-02-25T23:01:48Z"],"entry-type":["bookmark"],"name":["oooooooOOOOOOOooh!"],"bookmark-of":["http://oo00.eu/"],"category":["html5","animation","webkit","typekit","fun","humour","uk","via-pinboard"],"slug":["ooooooooooooooooh"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Vic & Bob style handbaggery. Notable also as a great example of using HTML5 and webkit animation\n"
+    ],
+    "published": [
+      "2010-02-25T23:01:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "oooooooOOOOOOOooh!"
+    ],
+    "bookmark-of": [
+      "http://oo00.eu/"
+    ],
+    "category": [
+      "html5",
+      "animation",
+      "webkit",
+      "typekit",
+      "fun",
+      "humour",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ooooooooooooooooh"
+    ]
+  }
+}

@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-18T20:23:41Z"],"entry-type":["repost"],"repost-of":["https://mobile.twitter.com/almonk/status/567644915207663616"],"category":["ui","ux","password"],"syndication":["https://twitter.com/barryf/status/568143849224212480"],"slug":["18-202341"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-18T20:23:41Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://mobile.twitter.com/almonk/status/567644915207663616"
+    ],
+    "category": [
+      "ui",
+      "ux",
+      "password"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/568143849224212480"
+    ],
+    "slug": [
+      "18-202341"
+    ]
+  }
+}

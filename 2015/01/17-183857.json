@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-17T18:38:57Z"],"entry-type":["like"],"like-of":["https://twitter.com/tomskitomski/status/556490105024950272"],"syndication":["https://twitter.com/tomskitomski/status/556490105024950272"],"slug":["17-183857"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-17T18:38:57Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/tomskitomski/status/556490105024950272"
+    ],
+    "syndication": [
+      "https://twitter.com/tomskitomski/status/556490105024950272"
+    ],
+    "slug": [
+      "17-183857"
+    ]
+  }
+}

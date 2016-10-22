@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-03-21T13:56:59Z"],"entry-type":["bookmark"],"name":["Git Textmate bundle"],"bookmark-of":["http://gitorious.org/projects/git-tmbundle/"],"category":["git","bundle","textmate","plugin","dev","via-pinboard"],"slug":["git-textmate-bundle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-03-21T13:56:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Git Textmate bundle"
+    ],
+    "bookmark-of": [
+      "http://gitorious.org/projects/git-tmbundle/"
+    ],
+    "category": [
+      "git",
+      "bundle",
+      "textmate",
+      "plugin",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "git-textmate-bundle"
+    ]
+  }
+}

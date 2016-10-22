@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Prototype-based tooltips\n"],"published":["2007-01-13T16:07:34Z"],"entry-type":["bookmark"],"name":["tooltip.js - A lightweight prototype based JavaScript tooltip"],"bookmark-of":["http://blog.innerewut.de/pages/tooltip"],"category":["design","effects","library","prototype","tooltip","javascript","via-pinboard"],"slug":["tooltip-js-a-lightweight-prototype-based"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Prototype-based tooltips\n"
+    ],
+    "published": [
+      "2007-01-13T16:07:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "tooltip.js - A lightweight prototype based JavaScript tooltip"
+    ],
+    "bookmark-of": [
+      "http://blog.innerewut.de/pages/tooltip"
+    ],
+    "category": [
+      "design",
+      "effects",
+      "library",
+      "prototype",
+      "tooltip",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tooltip-js-a-lightweight-prototype-based"
+    ]
+  }
+}

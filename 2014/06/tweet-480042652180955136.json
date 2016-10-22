@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@AL0sborne @StevieBuckley This will haunt me. The stuff of nightmares."],"published":["2014-06-20T17:41:01Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23668712/status/480005051659083776"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/480042652180955136"],"slug":["tweet-480042652180955136"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@AL0sborne @StevieBuckley This will haunt me. The stuff of nightmares."
+    ],
+    "published": [
+      "2014-06-20T17:41:01Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23668712/status/480005051659083776"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/480042652180955136"
+    ],
+    "slug": [
+      "tweet-480042652180955136"
+    ]
+  }
+}

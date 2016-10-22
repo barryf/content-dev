@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-04-06T09:43:12Z"],"entry-type":["bookmark"],"name":["Really Simple Git Deployment with Vlad"],"bookmark-of":["http://glu.ttono.us/articles/2008/04/05/really-simple-git-deployment-with-vlad"],"category":["git","vlad","deployment","dev","sysadmin","via-pinboard"],"slug":["really-simple-git-deployment-with-vlad"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-04-06T09:43:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Really Simple Git Deployment with Vlad"
+    ],
+    "bookmark-of": [
+      "http://glu.ttono.us/articles/2008/04/05/really-simple-git-deployment-with-vlad"
+    ],
+    "category": [
+      "git",
+      "vlad",
+      "deployment",
+      "dev",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "really-simple-git-deployment-with-vlad"
+    ]
+  }
+}

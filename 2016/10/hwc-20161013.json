@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["I'm going.\n\n"],"published":["2016-10-13T11:14:00Z"],"entry-type":["rsvp"],"rsvp":[true],"in-reply-to":["https://calumryan.com/event/hwc-20161019/"],"slug":["hwc-20161013"],"category":["indieweb","hwc","hwclondon"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm going.\n\n"
+    ],
+    "published": [
+      "2016-10-13T11:14:00Z"
+    ],
+    "entry-type": [
+      "rsvp"
+    ],
+    "rsvp": [
+      true
+    ],
+    "in-reply-to": [
+      "https://calumryan.com/event/hwc-20161019/"
+    ],
+    "slug": [
+      "hwc-20161013"
+    ],
+    "category": [
+      "indieweb",
+      "hwc",
+      "hwclondon"
+    ]
+  }
+}

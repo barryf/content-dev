@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-16T12:08:26Z"],"entry-type":["bookmark"],"name":["Tagalicious: some thoughts on tagging content"],"bookmark-of":["http://web-graphics.com/mtarchive/001484.php"],"category":["delicious","via-pinboard"],"slug":["tagalicious-some-thoughts-on-tagging-content"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-16T12:08:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tagalicious: some thoughts on tagging content"
+    ],
+    "bookmark-of": [
+      "http://web-graphics.com/mtarchive/001484.php"
+    ],
+    "category": [
+      "delicious",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tagalicious-some-thoughts-on-tagging-content"
+    ]
+  }
+}

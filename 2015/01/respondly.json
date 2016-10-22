@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Twitter/email inbox for teams"],"published":["2015-01-13T14:52:57Z"],"entry-type":["bookmark"],"name":["Respondly"],"bookmark-of":["https://respond.ly/"],"category":["twitter","group","team","inbox"],"slug":["respondly"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Twitter/email inbox for teams"
+    ],
+    "published": [
+      "2015-01-13T14:52:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Respondly"
+    ],
+    "bookmark-of": [
+      "https://respond.ly/"
+    ],
+    "category": [
+      "twitter",
+      "group",
+      "team",
+      "inbox"
+    ],
+    "slug": [
+      "respondly"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-20T14:30:51Z"],"entry-type":["bookmark"],"name":["Moving the web to HTTPS (and other global geo-political crises)"],"bookmark-of":["https://speakerdeck.com/torgo/moving-the-web-to-https-and-other-global-geo-political-crises"],"category":["presentation","https","talk","privacy","security"],"slug":["moving-the-web-to-https-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-20T14:30:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Moving the web to HTTPS (and other global geo-political crises)"
+    ],
+    "bookmark-of": [
+      "https://speakerdeck.com/torgo/moving-the-web-to-https-and-other-global-geo-political-crises"
+    ],
+    "category": [
+      "presentation",
+      "https",
+      "talk",
+      "privacy",
+      "security"
+    ],
+    "slug": [
+      "moving-the-web-to-https-and"
+    ]
+  }
+}

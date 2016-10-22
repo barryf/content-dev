@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-01-28T18:25:23Z"],"entry-type":["bookmark"],"name":["sahat/hackathon-starter · GitHub"],"bookmark-of":["https://github.com/sahat/hackathon-starter"],"category":["fromifttt","github","via-pinboard"],"slug":["sahat-hackathon-starter-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-01-28T18:25:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "sahat/hackathon-starter · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/sahat/hackathon-starter"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sahat-hackathon-starter-github"
+    ]
+  }
+}

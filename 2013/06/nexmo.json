@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Cloud-based SMS API that lets you send and receive high volume of messages at wholesale rates. "],"published":["2013-06-12T16:29:19Z"],"entry-type":["bookmark"],"name":["Nexmo"],"bookmark-of":["https://www.nexmo.com/"],"category":["api","sms","cloud","text","mobile","via-pinboard"],"slug":["nexmo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Cloud-based SMS API that lets you send and receive high volume of messages at wholesale rates. "
+    ],
+    "published": [
+      "2013-06-12T16:29:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Nexmo"
+    ],
+    "bookmark-of": [
+      "https://www.nexmo.com/"
+    ],
+    "category": [
+      "api",
+      "sms",
+      "cloud",
+      "text",
+      "mobile",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nexmo"
+    ]
+  }
+}

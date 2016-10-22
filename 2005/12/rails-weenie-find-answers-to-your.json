@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-21T14:20:48Z"],"entry-type":["bookmark"],"name":["Rails Weenie - find answers to your Ruby on Rails questions"],"bookmark-of":["http://rails.techno-weenie.net/"],"category":["web","dev","rails","via-pinboard"],"slug":["rails-weenie-find-answers-to-your"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-21T14:20:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails Weenie - find answers to your Ruby on Rails questions"
+    ],
+    "bookmark-of": [
+      "http://rails.techno-weenie.net/"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-weenie-find-answers-to-your"
+    ]
+  }
+}

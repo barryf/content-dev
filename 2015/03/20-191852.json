@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-20T19:18:52Z"],"entry-type":["like"],"like-of":["http://www.last.fm/music/Nick+Drake/_/Place+to+Be"],"syndication":["http://www.last.fm/music/Nick+Drake/_/Place+to+Be"],"slug":["20-191852"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-20T19:18:52Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://www.last.fm/music/Nick+Drake/_/Place+to+Be"
+    ],
+    "syndication": [
+      "http://www.last.fm/music/Nick+Drake/_/Place+to+Be"
+    ],
+    "slug": [
+      "20-191852"
+    ]
+  }
+}

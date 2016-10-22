@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Ben Werd: \"how my site gives me an awesome social media archive of everything I've ever written\""],"published":["2014-07-11T13:33:12Z"],"entry-type":["bookmark"],"name":["My #indieweb life"],"bookmark-of":["http://werd.io/2014/my-indieweb-life-how-my-site-gives-me-an-awesome"],"category":["indieweb","via-pinboard"],"slug":["my-indieweb-life"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ben Werd: \"how my site gives me an awesome social media archive of everything I've ever written\""
+    ],
+    "published": [
+      "2014-07-11T13:33:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "My #indieweb life"
+    ],
+    "bookmark-of": [
+      "http://werd.io/2014/my-indieweb-life-how-my-site-gives-me-an-awesome"
+    ],
+    "category": [
+      "indieweb",
+      "via-pinboard"
+    ],
+    "slug": [
+      "my-indieweb-life"
+    ]
+  }
+}

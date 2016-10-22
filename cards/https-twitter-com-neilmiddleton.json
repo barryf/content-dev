@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Neil Middleton (@neilmiddleton)"],"photo":["http://si0.twimg.com/profile_images/378800000235057459/ff5d49d3b862e674bc0a4858818a2cfa_normal.jpeg"],"url":["https://twitter.com/neilmiddleton"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Neil Middleton (@neilmiddleton)"
+    ],
+    "photo": [
+      "http://si0.twimg.com/profile_images/378800000235057459/ff5d49d3b862e674bc0a4858818a2cfa_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/neilmiddleton"
+    ]
+  }
+}

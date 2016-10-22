@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Last sunshine of the bank holiday #pub http://instagram.com/p/Z01ZX3n_uL/"],"published":["2013-05-27T18:39:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/339088518674530304"],"slug":["tweet-339088518674530304"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Last sunshine of the bank holiday #pub http://instagram.com/p/Z01ZX3n_uL/"
+    ],
+    "published": [
+      "2013-05-27T18:39:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/339088518674530304"
+    ],
+    "slug": [
+      "tweet-339088518674530304"
+    ]
+  }
+}

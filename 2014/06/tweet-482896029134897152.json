@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Wedding suit fitting with Andy (@ Gresham Blake) https://www.swarmapp.com/barryf/checkin/53aed38911d2d701c4ab2d84?s=Hdz0gQiaNSPRdveGW8fKc1ywn7A&ref=tw"],"published":["2014-06-28T14:39:19Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/482896029134897152"],"slug":["tweet-482896029134897152"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wedding suit fitting with Andy (@ Gresham Blake) https://www.swarmapp.com/barryf/checkin/53aed38911d2d701c4ab2d84?s=Hdz0gQiaNSPRdveGW8fKc1ywn7A&ref=tw"
+    ],
+    "published": [
+      "2014-06-28T14:39:19Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/482896029134897152"
+    ],
+    "slug": [
+      "tweet-482896029134897152"
+    ]
+  }
+}

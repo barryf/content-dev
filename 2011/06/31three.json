@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Designed for Campaign Monitor's website.\n"],"published":["2011-06-12T10:19:31Z"],"entry-type":["bookmark"],"name":["31Three"],"bookmark-of":["http://www.31three.com/"],"category":["designer","design","web","agency","via-pinboard"],"slug":["31three"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Designed for Campaign Monitor's website.\n"
+    ],
+    "published": [
+      "2011-06-12T10:19:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "31Three"
+    ],
+    "bookmark-of": [
+      "http://www.31three.com/"
+    ],
+    "category": [
+      "designer",
+      "design",
+      "web",
+      "agency",
+      "via-pinboard"
+    ],
+    "slug": [
+      "31three"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-09-03T13:40:40Z"],"entry-type":["bookmark"],"name":["App Store Review Guidelines"],"bookmark-of":["https://developer.apple.com/app-store/review/guidelines/"],"category":["appstore","apple","ios","review","via-pinboard"],"slug":["app-store-review-guidelines"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-09-03T13:40:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "App Store Review Guidelines"
+    ],
+    "bookmark-of": [
+      "https://developer.apple.com/app-store/review/guidelines/"
+    ],
+    "category": [
+      "appstore",
+      "apple",
+      "ios",
+      "review",
+      "via-pinboard"
+    ],
+    "slug": [
+      "app-store-review-guidelines"
+    ]
+  }
+}

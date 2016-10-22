@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-22T16:37:46Z"],"entry-type":["bookmark"],"name":["An Overview of Current CSS Layout Techniques"],"bookmark-of":["http://particletree.com/features/an-overview-of-current-css-layout-techniques"],"category":["css","design","standards","via-pinboard"],"slug":["an-overview-of-current-css-layout"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-22T16:37:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "An Overview of Current CSS Layout Techniques"
+    ],
+    "bookmark-of": [
+      "http://particletree.com/features/an-overview-of-current-css-layout-techniques"
+    ],
+    "category": [
+      "css",
+      "design",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "an-overview-of-current-css-layout"
+    ]
+  }
+}

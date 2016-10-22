@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Thoughts on inline weblog editing\n"],"published":["2004-09-17T09:22:49Z"],"entry-type":["bookmark"],"name":["This Old Blog, Part I | Gadgetopia"],"bookmark-of":["http://www.gadgetopia.com/2004/09/15/ThisOldBlogPartI.html"],"category":["blog","via-pinboard"],"slug":["this-old-blog-part-i-gadgetopia"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thoughts on inline weblog editing\n"
+    ],
+    "published": [
+      "2004-09-17T09:22:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "This Old Blog, Part I | Gadgetopia"
+    ],
+    "bookmark-of": [
+      "http://www.gadgetopia.com/2004/09/15/ThisOldBlogPartI.html"
+    ],
+    "category": [
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "this-old-blog-part-i-gadgetopia"
+    ]
+  }
+}

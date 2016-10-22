@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Stunning icon designs and branding\n"],"published":["2010-07-16T14:54:29Z"],"entry-type":["bookmark"],"name":["SoftFacade — We create digital brands"],"bookmark-of":["http://wow.softfacade.com/"],"category":["icon","design","brand","image","agency","via-pinboard"],"slug":["softfacade-we-create-digital-brands"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Stunning icon designs and branding\n"
+    ],
+    "published": [
+      "2010-07-16T14:54:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SoftFacade — We create digital brands"
+    ],
+    "bookmark-of": [
+      "http://wow.softfacade.com/"
+    ],
+    "category": [
+      "icon",
+      "design",
+      "brand",
+      "image",
+      "agency",
+      "via-pinboard"
+    ],
+    "slug": [
+      "softfacade-we-create-digital-brands"
+    ]
+  }
+}

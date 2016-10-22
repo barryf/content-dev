@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Feeling smug that my Christmas shopping is over half done. On course for a new personal best"],"published":["2006-12-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1074123"],"slug":["tweet-1074123"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Feeling smug that my Christmas shopping is over half done. On course for a new personal best"
+    ],
+    "published": [
+      "2006-12-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1074123"
+    ],
+    "slug": [
+      "tweet-1074123"
+    ]
+  }
+}

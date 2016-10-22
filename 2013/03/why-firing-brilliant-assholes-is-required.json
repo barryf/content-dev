@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Joe Stump's approach to build a team"],"published":["2013-03-17T16:37:36Z"],"entry-type":["bookmark"],"name":["Why firing brilliant assholes is required to build a great engineering culture"],"bookmark-of":["http://firstround.com/article/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture"],"category":["team","business","engineering","dev","startup","via-pinboard"],"slug":["why-firing-brilliant-assholes-is-required"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Joe Stump's approach to build a team"
+    ],
+    "published": [
+      "2013-03-17T16:37:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why firing brilliant assholes is required to build a great engineering culture"
+    ],
+    "bookmark-of": [
+      "http://firstround.com/article/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture"
+    ],
+    "category": [
+      "team",
+      "business",
+      "engineering",
+      "dev",
+      "startup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-firing-brilliant-assholes-is-required"
+    ]
+  }
+}

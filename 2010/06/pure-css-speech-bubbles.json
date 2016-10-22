@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["No JavaScript or HTML cruft\n"],"published":["2010-06-02T14:05:06Z"],"entry-type":["bookmark"],"name":["Pure CSS speech bubbles"],"bookmark-of":["http://nicolasgallagher.com/demo/pure-css-speech-bubbles/bubbles.html"],"category":["bubble","quote","css","speech","blockquote","comment","via-pinboard"],"slug":["pure-css-speech-bubbles"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "No JavaScript or HTML cruft\n"
+    ],
+    "published": [
+      "2010-06-02T14:05:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Pure CSS speech bubbles"
+    ],
+    "bookmark-of": [
+      "http://nicolasgallagher.com/demo/pure-css-speech-bubbles/bubbles.html"
+    ],
+    "category": [
+      "bubble",
+      "quote",
+      "css",
+      "speech",
+      "blockquote",
+      "comment",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pure-css-speech-bubbles"
+    ]
+  }
+}

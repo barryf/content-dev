@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Mac desktop wiki - lets you export to your iPod\n"],"published":["2004-10-14T08:51:46Z"],"entry-type":["bookmark"],"name":["VoodooPad"],"bookmark-of":["http://flyingmeat.com/voodoopad.html"],"category":["mac","wiki","via-pinboard"],"slug":["voodoopad"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mac desktop wiki - lets you export to your iPod\n"
+    ],
+    "published": [
+      "2004-10-14T08:51:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "VoodooPad"
+    ],
+    "bookmark-of": [
+      "http://flyingmeat.com/voodoopad.html"
+    ],
+    "category": [
+      "mac",
+      "wiki",
+      "via-pinboard"
+    ],
+    "slug": [
+      "voodoopad"
+    ]
+  }
+}

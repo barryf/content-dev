@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Useful tips beyond JSON as well. Proxying, header hacks, hiding API keys, JSONP and more.\n"],"published":["2011-07-16T20:34:49Z"],"entry-type":["bookmark"],"name":["nginx JSON hacks"],"bookmark-of":["http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html"],"category":["api","nginx","json","proxy","header","jsonp","fortimblair","via-pinboard"],"slug":["nginx-json-hacks"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful tips beyond JSON as well. Proxying, header hacks, hiding API keys, JSONP and more.\n"
+    ],
+    "published": [
+      "2011-07-16T20:34:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "nginx JSON hacks"
+    ],
+    "bookmark-of": [
+      "http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html"
+    ],
+    "category": [
+      "api",
+      "nginx",
+      "json",
+      "proxy",
+      "header",
+      "jsonp",
+      "fortimblair",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nginx-json-hacks"
+    ]
+  }
+}

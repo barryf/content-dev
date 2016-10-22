@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"content":["💥"],"published":["2016-04-22T11:02:08Z"],"entry-type":["reply"],"in-reply-to":["https://webmention.rocks/test/1"],"category":["reacji","indieweb","webmention"],"slug":["22-120208"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "💥"
+    ],
+    "published": [
+      "2016-04-22T11:02:08Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://webmention.rocks/test/1"
+    ],
+    "category": [
+      "reacji",
+      "indieweb",
+      "webmention"
+    ],
+    "slug": [
+      "22-120208"
+    ]
+  }
+}

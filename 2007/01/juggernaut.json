@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["Enables Rails to push Javascript in real time to clients with a Ruby server, Rails in the middle and Flash/JS on the client. Huge potential for chat/IM\n"],"published":["2007-01-13T16:57:42Z"],"entry-type":["bookmark"],"name":["Juggernaut"],"bookmark-of":["http://juggernaut.rubyforge.org/"],"category":["rails","ruby","ajax","flash","javascript","socket","server","push","chat","dev","plugin","via-pinboard"],"slug":["juggernaut"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enables Rails to push Javascript in real time to clients with a Ruby server, Rails in the middle and Flash/JS on the client. Huge potential for chat/IM\n"
+    ],
+    "published": [
+      "2007-01-13T16:57:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Juggernaut"
+    ],
+    "bookmark-of": [
+      "http://juggernaut.rubyforge.org/"
+    ],
+    "category": [
+      "rails",
+      "ruby",
+      "ajax",
+      "flash",
+      "javascript",
+      "socket",
+      "server",
+      "push",
+      "chat",
+      "dev",
+      "plugin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "juggernaut"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Looks amazing. When does the next flight leave Heathrow…?!"],"published":["2014-10-22T13:43:10Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/524903706131566593"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/524918889160134656"],"slug":["tweet-524918889160134656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Looks amazing. When does the next flight leave Heathrow…?!"
+    ],
+    "published": [
+      "2014-10-22T13:43:10Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/524903706131566593"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/524918889160134656"
+    ],
+    "slug": [
+      "tweet-524918889160134656"
+    ]
+  }
+}

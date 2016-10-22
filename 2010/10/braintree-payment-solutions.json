@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["US payment gateway: offeres recurring billing, offers and add-ons\n"],"published":["2010-10-18T17:07:49Z"],"entry-type":["bookmark"],"name":["Braintree Payment Solutions"],"bookmark-of":["http://www.braintreepaymentsolutions.com/"],"category":["payment","gateway","billing","recurring","pci","via-pinboard"],"slug":["braintree-payment-solutions"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "US payment gateway: offeres recurring billing, offers and add-ons\n"
+    ],
+    "published": [
+      "2010-10-18T17:07:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Braintree Payment Solutions"
+    ],
+    "bookmark-of": [
+      "http://www.braintreepaymentsolutions.com/"
+    ],
+    "category": [
+      "payment",
+      "gateway",
+      "billing",
+      "recurring",
+      "pci",
+      "via-pinboard"
+    ],
+    "slug": [
+      "braintree-payment-solutions"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Useful guide to making Dashboard widgets with Dashcode\n"],"published":["2007-01-15T21:43:42Z"],"entry-type":["bookmark"],"name":["Dashcode overview"],"bookmark-of":["http://developer.apple.com/leopard/overview/dashcode.html"],"category":["dashboard","javascript","web","widget","mac","dashcode","dev","via-pinboard"],"slug":["dashcode-overview"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful guide to making Dashboard widgets with Dashcode\n"
+    ],
+    "published": [
+      "2007-01-15T21:43:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dashcode overview"
+    ],
+    "bookmark-of": [
+      "http://developer.apple.com/leopard/overview/dashcode.html"
+    ],
+    "category": [
+      "dashboard",
+      "javascript",
+      "web",
+      "widget",
+      "mac",
+      "dashcode",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dashcode-overview"
+    ]
+  }
+}

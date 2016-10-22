@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["New York Times review of Joel Spolsky's wonderful new offices\n"],"published":["2009-02-08T20:24:50Z"],"entry-type":["bookmark"],"name":["A Software Designer Knows His Office Space, Too"],"bookmark-of":["http://www.nytimes.com/2009/02/08/realestate/commercial/08sqft.html?_r=1"],"category":["architecture","office","inspiration","nyt","joelspolsky","design","layout","via-pinboard"],"slug":["a-software-designer-knows-his-office"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "New York Times review of Joel Spolsky's wonderful new offices\n"
+    ],
+    "published": [
+      "2009-02-08T20:24:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Software Designer Knows His Office Space, Too"
+    ],
+    "bookmark-of": [
+      "http://www.nytimes.com/2009/02/08/realestate/commercial/08sqft.html?_r=1"
+    ],
+    "category": [
+      "architecture",
+      "office",
+      "inspiration",
+      "nyt",
+      "joelspolsky",
+      "design",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-software-designer-knows-his-office"
+    ]
+  }
+}

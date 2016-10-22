@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/cronkshaw/status/626748243221835776"],"published":["2015-07-30T13:36:40Z"],"content":["#hacked"],"photo":["http://pbs.twimg.com/media/CLKoMwQWsAAxXwB.jpg"],"author":["https://twitter.com/cronkshaw"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/cronkshaw/status/626748243221835776"
+    ],
+    "published": [
+      "2015-07-30T13:36:40Z"
+    ],
+    "content": [
+      "#hacked"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CLKoMwQWsAAxXwB.jpg"
+    ],
+    "author": [
+      "https://twitter.com/cronkshaw"
+    ]
+  }
+}

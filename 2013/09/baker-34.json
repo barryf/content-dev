@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Started using [Flint for iOS](http://giantcomet.com/flint/ios/) to access the [globaldev](http://globaldev.co.uk) [Campfire](http://campfirenow.com/) account. Smart iOS7 design and push notifications for keyword mentions."],"published":["2013-09-25T15:43:12Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/382893056816840705"],"slug":["baker-34"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Started using [Flint for iOS](http://giantcomet.com/flint/ios/) to access the [globaldev](http://globaldev.co.uk) [Campfire](http://campfirenow.com/) account. Smart iOS7 design and push notifications for keyword mentions."
+    ],
+    "published": [
+      "2013-09-25T15:43:12Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/382893056816840705"
+    ],
+    "slug": [
+      "baker-34"
+    ]
+  }
+}

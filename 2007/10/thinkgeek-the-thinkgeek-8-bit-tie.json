@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["You don't have to be a miserable emo kid to wear it though\n"],"published":["2007-10-06T17:45:46Z"],"entry-type":["bookmark"],"name":["ThinkGeek :: The ThinkGeek 8-bit Tie"],"bookmark-of":["http://www.thinkgeek.com/apparel/hats-ties/9352/"],"category":["clothing","cool","culture","fashion","geek","humour","nostalgia","retro","shop","via-pinboard"],"slug":["thinkgeek-the-thinkgeek-8-bit-tie"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "You don't have to be a miserable emo kid to wear it though\n"
+    ],
+    "published": [
+      "2007-10-06T17:45:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ThinkGeek :: The ThinkGeek 8-bit Tie"
+    ],
+    "bookmark-of": [
+      "http://www.thinkgeek.com/apparel/hats-ties/9352/"
+    ],
+    "category": [
+      "clothing",
+      "cool",
+      "culture",
+      "fashion",
+      "geek",
+      "humour",
+      "nostalgia",
+      "retro",
+      "shop",
+      "via-pinboard"
+    ],
+    "slug": [
+      "thinkgeek-the-thinkgeek-8-bit-tie"
+    ]
+  }
+}

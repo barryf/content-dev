@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["In the Royal Enclosure with @WLD partners (@ Ascot Racecourse w/ 6 others) http://4sq.com/6BjLpN"],"published":["2010-06-16T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/16300230370"],"slug":["tweet-16300230370"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "In the Royal Enclosure with @WLD partners (@ Ascot Racecourse w/ 6 others) http://4sq.com/6BjLpN"
+    ],
+    "published": [
+      "2010-06-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/16300230370"
+    ],
+    "slug": [
+      "tweet-16300230370"
+    ]
+  }
+}

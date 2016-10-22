@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-07-28T16:11:49Z"],"entry-type":["bookmark"],"name":["kastner/sin · GitHub"],"bookmark-of":["https://github.com/kastner/sin"],"category":["fromifttt","github","via-pinboard"],"slug":["kastner-sin-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-07-28T16:11:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "kastner/sin · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/kastner/sin"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kastner-sin-github"
+    ]
+  }
+}

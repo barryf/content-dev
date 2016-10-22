@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Different from authentication - it provides granular access and is designed to work with other authentication systems\n"],"published":["2008-03-13T18:36:41Z"],"entry-type":["bookmark"],"name":["rails-authorization-plugin"],"bookmark-of":["http://code.google.com/p/rails-authorization-plugin/"],"category":["authentication","rails","security","authorisation","dev","via-pinboard"],"slug":["rails-authorization-plugin"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Different from authentication - it provides granular access and is designed to work with other authentication systems\n"
+    ],
+    "published": [
+      "2008-03-13T18:36:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "rails-authorization-plugin"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/rails-authorization-plugin/"
+    ],
+    "category": [
+      "authentication",
+      "rails",
+      "security",
+      "authorisation",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-authorization-plugin"
+    ]
+  }
+}

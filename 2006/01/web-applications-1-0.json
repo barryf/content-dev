@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Working draft of proposals for the future of HTML and the DOM\n"],"published":["2006-01-20T13:51:31Z"],"entry-type":["bookmark"],"name":["Web Applications 1.0"],"bookmark-of":["http://whatwg.org/specs/web-apps/current-work/"],"category":["web","html","dom","xhtml","standards","via-pinboard"],"slug":["web-applications-1-0"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Working draft of proposals for the future of HTML and the DOM\n"
+    ],
+    "published": [
+      "2006-01-20T13:51:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Web Applications 1.0"
+    ],
+    "bookmark-of": [
+      "http://whatwg.org/specs/web-apps/current-work/"
+    ],
+    "category": [
+      "web",
+      "html",
+      "dom",
+      "xhtml",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "web-applications-1-0"
+    ]
+  }
+}

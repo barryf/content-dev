@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-01T13:23:39Z"],"entry-type":["bookmark"],"name":["redev.org"],"bookmark-of":["http://www.redev.org/"],"category":["blog","coldfusion","macromedia","via-pinboard"],"slug":["redev-org"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-01T13:23:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "redev.org"
+    ],
+    "bookmark-of": [
+      "http://www.redev.org/"
+    ],
+    "category": [
+      "blog",
+      "coldfusion",
+      "macromedia",
+      "via-pinboard"
+    ],
+    "slug": [
+      "redev-org"
+    ]
+  }
+}

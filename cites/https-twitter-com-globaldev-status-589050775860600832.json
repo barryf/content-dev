@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/globaldev/status/589050775860600832"],"published":["2015-04-17T13:00:23Z"],"content":["RT @barryf: Video of the Tech Talk I presented to my @globaldev team on the #indieweb and why it's important you #ownyourdata vimeo.com/globaldev/tech…"],"repost-of":["https://barryfrost.com/2015/04/here-s-a-video-of-the"],"author":["http://globaldev.co.uk/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/globaldev/status/589050775860600832"
+    ],
+    "published": [
+      "2015-04-17T13:00:23Z"
+    ],
+    "content": [
+      "RT @barryf: Video of the Tech Talk I presented to my @globaldev team on the #indieweb and why it's important you #ownyourdata vimeo.com/globaldev/tech…"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/04/here-s-a-video-of-the"
+    ],
+    "author": [
+      "http://globaldev.co.uk/"
+    ]
+  }
+}

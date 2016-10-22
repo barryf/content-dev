@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@edpercival Very kind of you to say so. I learned lots today - thank you. Looking forward to our next session."],"published":["2009-03-23T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/21111815/status/1376972572"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1377198119"],"slug":["tweet-1377198119"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@edpercival Very kind of you to say so. I learned lots today - thank you. Looking forward to our next session."
+    ],
+    "published": [
+      "2009-03-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/21111815/status/1376972572"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1377198119"
+    ],
+    "slug": [
+      "tweet-1377198119"
+    ]
+  }
+}

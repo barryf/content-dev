@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Seriously addicted to Badland on iOS. Free in the App Store right now https://itunes.apple.com/gb/app/badland/id535176909?mt=8"],"published":["2013-07-08T22:23:15Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/354365086061707264"],"slug":["tweet-354365086061707264"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Seriously addicted to Badland on iOS. Free in the App Store right now https://itunes.apple.com/gb/app/badland/id535176909?mt=8"
+    ],
+    "published": [
+      "2013-07-08T22:23:15Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/354365086061707264"
+    ],
+    "slug": [
+      "tweet-354365086061707264"
+    ]
+  }
+}

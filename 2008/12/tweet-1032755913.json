@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["#oscarwildeday \"We live in an age when unnecessary things are our only necessities.\" Even more so today, Oscar."],"published":["2008-12-01T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1032755913"],"slug":["tweet-1032755913"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "#oscarwildeday \"We live in an age when unnecessary things are our only necessities.\" Even more so today, Oscar."
+    ],
+    "published": [
+      "2008-12-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1032755913"
+    ],
+    "slug": [
+      "tweet-1032755913"
+    ]
+  }
+}

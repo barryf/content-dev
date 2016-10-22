@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Just clocked up 1,000 listens to Death Cab for Cutie according to Last.fm scrobbles. I didn't realise I listen to them so much."],"published":["2010-06-19T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/16573600745"],"slug":["tweet-16573600745"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just clocked up 1,000 listens to Death Cab for Cutie according to Last.fm scrobbles. I didn't realise I listen to them so much."
+    ],
+    "published": [
+      "2010-06-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/16573600745"
+    ],
+    "slug": [
+      "tweet-16573600745"
+    ]
+  }
+}

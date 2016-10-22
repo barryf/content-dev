@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2006-10-28T10:42:50Z"],"entry-type":["bookmark"],"name":["Optimized Firefox 2.0 for G4, G5, and Intel Macs: BeatnikPad Journal"],"bookmark-of":["http://www.beatnikpad.com/archives/2006/10/26/firefox-20"],"category":["firefox","mac","optimised","browser","via-pinboard"],"slug":["optimized-firefox-2-0-for-g4"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-10-28T10:42:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Optimized Firefox 2.0 for G4, G5, and Intel Macs: BeatnikPad Journal"
+    ],
+    "bookmark-of": [
+      "http://www.beatnikpad.com/archives/2006/10/26/firefox-20"
+    ],
+    "category": [
+      "firefox",
+      "mac",
+      "optimised",
+      "browser",
+      "via-pinboard"
+    ],
+    "slug": [
+      "optimized-firefox-2-0-for-g4"
+    ]
+  }
+}

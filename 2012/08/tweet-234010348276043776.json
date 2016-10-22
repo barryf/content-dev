@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Meet Poppy, our new housemate. I wasn't allowed to call her Megatron. http://twitter.com/barryf/status/234010348276043776/photo/1"],"published":["2012-08-10T19:36:30Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/234010348276043776"],"slug":["tweet-234010348276043776"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Meet Poppy, our new housemate. I wasn't allowed to call her Megatron. http://twitter.com/barryf/status/234010348276043776/photo/1"
+    ],
+    "published": [
+      "2012-08-10T19:36:30Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/234010348276043776"
+    ],
+    "slug": [
+      "tweet-234010348276043776"
+    ]
+  }
+}

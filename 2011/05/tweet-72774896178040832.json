@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@neilmiddleton Not much: hash() changed which broke some values for me. Easy otherwise."],"published":["2011-05-23T21:24:21Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4143281/status/72772363426594817"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/72774896178040832"],"slug":["tweet-72774896178040832"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@neilmiddleton Not much: hash() changed which broke some values for me. Easy otherwise."
+    ],
+    "published": [
+      "2011-05-23T21:24:21Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4143281/status/72772363426594817"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/72774896178040832"
+    ],
+    "slug": [
+      "tweet-72774896178040832"
+    ]
+  }
+}

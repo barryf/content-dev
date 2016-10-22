@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Laughing at Mac-dissing PC boy Ian because Apple won't let him have a MacBook. That's karma boys and girls."],"published":["2007-02-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5501056"],"slug":["tweet-5501056"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Laughing at Mac-dissing PC boy Ian because Apple won't let him have a MacBook. That's karma boys and girls."
+    ],
+    "published": [
+      "2007-02-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5501056"
+    ],
+    "slug": [
+      "tweet-5501056"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Send estimates/invoices, receive payments and keep track of follow-ups\n"],"published":["2011-06-05T11:31:00Z"],"entry-type":["bookmark"],"name":["Ballpark"],"bookmark-of":["http://www.getballpark.com/"],"category":["estimate","invoice","payment","sme","business","via-pinboard"],"slug":["ballpark"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Send estimates/invoices, receive payments and keep track of follow-ups\n"
+    ],
+    "published": [
+      "2011-06-05T11:31:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ballpark"
+    ],
+    "bookmark-of": [
+      "http://www.getballpark.com/"
+    ],
+    "category": [
+      "estimate",
+      "invoice",
+      "payment",
+      "sme",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ballpark"
+    ]
+  }
+}

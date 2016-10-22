@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@marckysharky Just checked the table; Arsenal still above Chelsea. You must be dreadful."],"published":["2010-12-17T17:20:19Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16928503/status/15813674996334592"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/15818585477750784"],"slug":["tweet-15818585477750784"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@marckysharky Just checked the table; Arsenal still above Chelsea. You must be dreadful."
+    ],
+    "published": [
+      "2010-12-17T17:20:19Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16928503/status/15813674996334592"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/15818585477750784"
+    ],
+    "slug": [
+      "tweet-15818585477750784"
+    ]
+  }
+}

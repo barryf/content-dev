@@ -1,1 +1,40 @@
-{"type":["h-entry"],"properties":{"content":["Slick fade in/out effects\n"],"published":["2007-10-07T21:31:44Z"],"entry-type":["bookmark"],"name":["InnerFade with jquery"],"bookmark-of":["http://medienfreunde.com/lab/innerfade/"],"category":["animation","css","design","effects","framework","interface","javascript","jquery","web","slideshow","fade","plugin","via-pinboard"],"slug":["innerfade-with-jquery"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slick fade in/out effects\n"
+    ],
+    "published": [
+      "2007-10-07T21:31:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "InnerFade with jquery"
+    ],
+    "bookmark-of": [
+      "http://medienfreunde.com/lab/innerfade/"
+    ],
+    "category": [
+      "animation",
+      "css",
+      "design",
+      "effects",
+      "framework",
+      "interface",
+      "javascript",
+      "jquery",
+      "web",
+      "slideshow",
+      "fade",
+      "plugin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "innerfade-with-jquery"
+    ]
+  }
+}

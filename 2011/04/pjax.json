@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["pushState + ajax = pjax. As used on GitHub.\n"],"published":["2011-04-10T21:22:46Z"],"entry-type":["bookmark"],"name":["PJAX"],"bookmark-of":["https://github.com/defunkt/jquery-pjax"],"category":["pushstate","ajax","pjax","github","dev","via-pinboard"],"slug":["pjax"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "pushState + ajax = pjax. As used on GitHub.\n"
+    ],
+    "published": [
+      "2011-04-10T21:22:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PJAX"
+    ],
+    "bookmark-of": [
+      "https://github.com/defunkt/jquery-pjax"
+    ],
+    "category": [
+      "pushstate",
+      "ajax",
+      "pjax",
+      "github",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pjax"
+    ]
+  }
+}

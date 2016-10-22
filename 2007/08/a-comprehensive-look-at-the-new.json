@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["- also supplied with Office 2007\n"],"published":["2007-08-12T17:54:42Z"],"entry-type":["bookmark"],"name":["A Comprehensive Look at the New Microsoft (Vista) Fonts"],"bookmark-of":["http://neosmart.net/blog/2006/a-comprehensive-look-at-the-new-microsoft-fonts/"],"category":["font","typography","vista","microsoft","office","web","via-pinboard"],"slug":["a-comprehensive-look-at-the-new"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "- also supplied with Office 2007\n"
+    ],
+    "published": [
+      "2007-08-12T17:54:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Comprehensive Look at the New Microsoft (Vista) Fonts"
+    ],
+    "bookmark-of": [
+      "http://neosmart.net/blog/2006/a-comprehensive-look-at-the-new-microsoft-fonts/"
+    ],
+    "category": [
+      "font",
+      "typography",
+      "vista",
+      "microsoft",
+      "office",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-comprehensive-look-at-the-new"
+    ]
+  }
+}

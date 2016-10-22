@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-03-21T09:25:20Z"],"entry-type":["bookmark"],"name":["Unicode Chart - IanAlbert.com"],"bookmark-of":["http://www.ianalbert.com/misc/unichart.php"],"category":["unicode","via-pinboard"],"slug":["unicode-chart-ianalbert-com"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-03-21T09:25:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Unicode Chart - IanAlbert.com"
+    ],
+    "bookmark-of": [
+      "http://www.ianalbert.com/misc/unichart.php"
+    ],
+    "category": [
+      "unicode",
+      "via-pinboard"
+    ],
+    "slug": [
+      "unicode-chart-ianalbert-com"
+    ]
+  }
+}

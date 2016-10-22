@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-05-06T12:42:22Z"],"entry-type":["like"],"like-of":["https://twitter.com/sbadsgood/status/595777536090570752"],"syndication":["https://twitter.com/sbadsgood/status/595777536090570752"],"slug":["06-134222"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-05-06T12:42:22Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/sbadsgood/status/595777536090570752"
+    ],
+    "syndication": [
+      "https://twitter.com/sbadsgood/status/595777536090570752"
+    ],
+    "slug": [
+      "06-134222"
+    ]
+  }
+}

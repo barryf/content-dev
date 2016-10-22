@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Map service with free and commercial licensing. Used by Foursquare. Tile creation tool.\n"],"published":["2012-05-17T10:08:50Z"],"entry-type":["bookmark"],"name":["MapBox"],"bookmark-of":["http://mapbox.com/"],"category":["map","commercial","maps","via-pinboard"],"slug":["mapbox"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Map service with free and commercial licensing. Used by Foursquare. Tile creation tool.\n"
+    ],
+    "published": [
+      "2012-05-17T10:08:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MapBox"
+    ],
+    "bookmark-of": [
+      "http://mapbox.com/"
+    ],
+    "category": [
+      "map",
+      "commercial",
+      "maps",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mapbox"
+    ]
+  }
+}

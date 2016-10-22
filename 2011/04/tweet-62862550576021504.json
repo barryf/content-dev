@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@BradHaverly You should write a blog post comparing them all. I've tried Tweetie/Twitter, Tweetbot and Echofon and prefer the official one."],"published":["2011-04-26T12:56:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/62862550576021504"],"slug":["tweet-62862550576021504"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BradHaverly You should write a blog post comparing them all. I've tried Tweetie/Twitter, Tweetbot and Echofon and prefer the official one."
+    ],
+    "published": [
+      "2011-04-26T12:56:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/62862550576021504"
+    ],
+    "slug": [
+      "tweet-62862550576021504"
+    ]
+  }
+}

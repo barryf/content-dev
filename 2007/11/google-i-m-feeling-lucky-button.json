@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["(because it means the user doesn't see Google's advertising)\n"],"published":["2007-11-26T21:31:41Z"],"entry-type":["bookmark"],"name":["Google: \"I'm feeling lucky\" button costs Google $110 million per year"],"bookmark-of":["http://valleywag.com/tech/google/im-feeling-lucky-button-costs-google-110-million-per-year-324927.php"],"category":["business","google","marketing","advertising","via-pinboard"],"slug":["google-i-m-feeling-lucky-button"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(because it means the user doesn't see Google's advertising)\n"
+    ],
+    "published": [
+      "2007-11-26T21:31:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google: \"I'm feeling lucky\" button costs Google $110 million per year"
+    ],
+    "bookmark-of": [
+      "http://valleywag.com/tech/google/im-feeling-lucky-button-costs-google-110-million-per-year-324927.php"
+    ],
+    "category": [
+      "business",
+      "google",
+      "marketing",
+      "advertising",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-i-m-feeling-lucky-button"
+    ]
+  }
+}

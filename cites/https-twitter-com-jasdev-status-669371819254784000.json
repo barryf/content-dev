@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/jasdev/status/669371819254784000"],"published":["2015-11-25T04:27:32Z"],"content":["@soffes https://twitter.com/dancounsell/status/667011332894535682"],"author":["https://twitter.com/jasdev"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/jasdev/status/669371819254784000"
+    ],
+    "published": [
+      "2015-11-25T04:27:32Z"
+    ],
+    "content": [
+      "@soffes https://twitter.com/dancounsell/status/667011332894535682"
+    ],
+    "author": [
+      "https://twitter.com/jasdev"
+    ]
+  }
+}

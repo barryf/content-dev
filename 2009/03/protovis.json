@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Another clever Canvas/Javascript toolkit for charts and things\n"],"published":["2009-03-22T21:24:00Z"],"entry-type":["bookmark"],"name":["Protovis"],"bookmark-of":["http://vis.stanford.edu/protovis/"],"category":["chart","graph","visualisation","design","canvas","javascript","library","via-pinboard"],"slug":["protovis"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another clever Canvas/Javascript toolkit for charts and things\n"
+    ],
+    "published": [
+      "2009-03-22T21:24:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Protovis"
+    ],
+    "bookmark-of": [
+      "http://vis.stanford.edu/protovis/"
+    ],
+    "category": [
+      "chart",
+      "graph",
+      "visualisation",
+      "design",
+      "canvas",
+      "javascript",
+      "library",
+      "via-pinboard"
+    ],
+    "slug": [
+      "protovis"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/glennjones/status/704992161545265152"],"published":["2016-03-02T11:30:04Z"],"content":["Just released v1.4.0 http://microformatshiv.com/ js microformats parser, with small performance uplift thanks to @MikeKaply #indieweb"],"author":["https://twitter.com/glennjones"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/glennjones/status/704992161545265152"
+    ],
+    "published": [
+      "2016-03-02T11:30:04Z"
+    ],
+    "content": [
+      "Just released v1.4.0 http://microformatshiv.com/ js microformats parser, with small performance uplift thanks to @MikeKaply #indieweb"
+    ],
+    "author": [
+      "https://twitter.com/glennjones"
+    ]
+  }
+}

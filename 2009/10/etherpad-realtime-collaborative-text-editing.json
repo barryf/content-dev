@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["SubEthaEdit on the web\n"],"published":["2009-10-25T17:29:50Z"],"entry-type":["bookmark"],"name":["EtherPad: Realtime Collaborative Text Editing"],"bookmark-of":["http://etherpad.com/"],"category":["collaboration","subethaedit","text","group","work","via-pinboard"],"slug":["etherpad-realtime-collaborative-text-editing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "SubEthaEdit on the web\n"
+    ],
+    "published": [
+      "2009-10-25T17:29:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "EtherPad: Realtime Collaborative Text Editing"
+    ],
+    "bookmark-of": [
+      "http://etherpad.com/"
+    ],
+    "category": [
+      "collaboration",
+      "subethaedit",
+      "text",
+      "group",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "etherpad-realtime-collaborative-text-editing"
+    ]
+  }
+}

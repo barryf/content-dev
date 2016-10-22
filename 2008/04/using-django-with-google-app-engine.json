@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2008-04-26T10:52:59Z"],"entry-type":["bookmark"],"name":["Using Django with Google App Engine"],"bookmark-of":["http://www.42topics.com/dumps/django/docs.html"],"category":["django","python","appengine","tutorial","googleappengine","web","dev","gae","framework","via-pinboard"],"slug":["using-django-with-google-app-engine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-04-26T10:52:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Django with Google App Engine"
+    ],
+    "bookmark-of": [
+      "http://www.42topics.com/dumps/django/docs.html"
+    ],
+    "category": [
+      "django",
+      "python",
+      "appengine",
+      "tutorial",
+      "googleappengine",
+      "web",
+      "dev",
+      "gae",
+      "framework",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-django-with-google-app-engine"
+    ]
+  }
+}

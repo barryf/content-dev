@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2007-02-12T22:05:58Z"],"entry-type":["bookmark"],"name":["Snipshot: Edit pictures online"],"bookmark-of":["http://snipshot.com/"],"category":["photo","web20","useful","image","ajax","web","graphics","crop","forrosswilliams","via-pinboard"],"slug":["snipshot-edit-pictures-online"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-02-12T22:05:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Snipshot: Edit pictures online"
+    ],
+    "bookmark-of": [
+      "http://snipshot.com/"
+    ],
+    "category": [
+      "photo",
+      "web20",
+      "useful",
+      "image",
+      "ajax",
+      "web",
+      "graphics",
+      "crop",
+      "forrosswilliams",
+      "via-pinboard"
+    ],
+    "slug": [
+      "snipshot-edit-pictures-online"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Back from a top night out with our @wld dev team. Time for some sleep."],"published":["2010-03-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10050017659"],"slug":["tweet-10050017659"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Back from a top night out with our @wld dev team. Time for some sleep."
+    ],
+    "published": [
+      "2010-03-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10050017659"
+    ],
+    "slug": [
+      "tweet-10050017659"
+    ]
+  }
+}

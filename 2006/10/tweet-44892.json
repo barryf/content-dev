@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Nah. Just bored waiting for a mate and with a million free texts from Orange to use."],"published":["2006-10-18T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/44892"],"slug":["tweet-44892"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nah. Just bored waiting for a mate and with a million free texts from Orange to use."
+    ],
+    "published": [
+      "2006-10-18T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/44892"
+    ],
+    "slug": [
+      "tweet-44892"
+    ]
+  }
+}

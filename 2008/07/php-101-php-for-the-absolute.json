@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-07-20T17:34:23Z"],"entry-type":["bookmark"],"name":["PHP 101: PHP For the Absolute Beginner"],"bookmark-of":["http://devzone.zend.com/article/627-PHP-101-PHP-For-the-Absolute-Beginner"],"category":["php5","php","tutorial","zend","dev","beginner","via-pinboard"],"slug":["php-101-php-for-the-absolute"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-07-20T17:34:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PHP 101: PHP For the Absolute Beginner"
+    ],
+    "bookmark-of": [
+      "http://devzone.zend.com/article/627-PHP-101-PHP-For-the-Absolute-Beginner"
+    ],
+    "category": [
+      "php5",
+      "php",
+      "tutorial",
+      "zend",
+      "dev",
+      "beginner",
+      "via-pinboard"
+    ],
+    "slug": [
+      "php-101-php-for-the-absolute"
+    ]
+  }
+}

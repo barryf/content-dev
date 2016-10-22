@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Wish I was on Singapore time..."],"published":["2011-11-25T09:52:34Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/140004410146308097"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/140004942508326912"],"slug":["tweet-140004942508326912"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Wish I was on Singapore time..."
+    ],
+    "published": [
+      "2011-11-25T09:52:34Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/140004410146308097"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/140004942508326912"
+    ],
+    "slug": [
+      "tweet-140004942508326912"
+    ]
+  }
+}

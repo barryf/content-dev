@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-07-16T07:39:55Z"],"entry-type":["bookmark"],"name":["I Spent Two Weeks On Soylent, The Magic Food Replacement Milkshake"],"bookmark-of":["http://www.businessinsider.com/soylent-review-2014-7"],"category":["via-pinboard"],"slug":["i-spent-two-weeks-on-soylent"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-07-16T07:39:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "I Spent Two Weeks On Soylent, The Magic Food Replacement Milkshake"
+    ],
+    "bookmark-of": [
+      "http://www.businessinsider.com/soylent-review-2014-7"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "i-spent-two-weeks-on-soylent"
+    ]
+  }
+}

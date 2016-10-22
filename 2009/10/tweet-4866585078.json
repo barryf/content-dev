@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@clubberholic Dude, the parking space is all yours. Get in there quick!"],"published":["2009-10-14T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/80843056/status/4846658858"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4866585078"],"slug":["tweet-4866585078"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@clubberholic Dude, the parking space is all yours. Get in there quick!"
+    ],
+    "published": [
+      "2009-10-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/80843056/status/4846658858"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4866585078"
+    ],
+    "slug": [
+      "tweet-4866585078"
+    ]
+  }
+}

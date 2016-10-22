@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw No chance! It's a redneck handlebar all the way - something stupid enough to not look intentional. I double dare you though..."],"published":["2009-10-08T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/4705919297"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4706227249"],"slug":["tweet-4706227249"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw No chance! It's a redneck handlebar all the way - something stupid enough to not look intentional. I double dare you though..."
+    ],
+    "published": [
+      "2009-10-08T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/4705919297"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4706227249"
+    ],
+    "slug": [
+      "tweet-4706227249"
+    ]
+  }
+}

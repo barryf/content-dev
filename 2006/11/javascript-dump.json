@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Works like "],"published":["2006-11-11T10:56:29Z"],"entry-type":["bookmark"],"name":["Javascript Dump"],"bookmark-of":["http://www.netgrow.com.au/files/javascript_dump.cfm"],"category":["web","dev","javascript","debug","dump","coldfusion","via-pinboard"],"slug":["javascript-dump"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Works like "
+    ],
+    "published": [
+      "2006-11-11T10:56:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Javascript Dump"
+    ],
+    "bookmark-of": [
+      "http://www.netgrow.com.au/files/javascript_dump.cfm"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "javascript",
+      "debug",
+      "dump",
+      "coldfusion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "javascript-dump"
+    ]
+  }
+}

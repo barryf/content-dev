@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Swift source code for an iOS HackerNews reader"],"published":["2015-01-27T09:08:17Z"],"entry-type":["bookmark"],"name":["SwiftHN"],"bookmark-of":["https://github.com/Dimillian/SwiftHN"],"category":["swift","example","ios"],"slug":["swifthn"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Swift source code for an iOS HackerNews reader"
+    ],
+    "published": [
+      "2015-01-27T09:08:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SwiftHN"
+    ],
+    "bookmark-of": [
+      "https://github.com/Dimillian/SwiftHN"
+    ],
+    "category": [
+      "swift",
+      "example",
+      "ios"
+    ],
+    "slug": [
+      "swifthn"
+    ]
+  }
+}

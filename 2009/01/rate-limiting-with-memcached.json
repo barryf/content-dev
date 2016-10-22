@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["Great idea for limiting access attempts using memcached rather than repeated database hits. Suggested use is resisting dictionary password attacks; could also be used for resisting spammers\n"],"published":["2009-01-24T16:08:46Z"],"entry-type":["bookmark"],"name":["Rate limiting with memcached"],"bookmark-of":["http://simonwillison.net/2009/Jan/7/ratelimitcache/"],"category":["spam","ratelimiting","limit","memcached","security","hack","performance","dev","cache","login","password","via-pinboard"],"slug":["rate-limiting-with-memcached"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Great idea for limiting access attempts using memcached rather than repeated database hits. Suggested use is resisting dictionary password attacks; could also be used for resisting spammers\n"
+    ],
+    "published": [
+      "2009-01-24T16:08:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rate limiting with memcached"
+    ],
+    "bookmark-of": [
+      "http://simonwillison.net/2009/Jan/7/ratelimitcache/"
+    ],
+    "category": [
+      "spam",
+      "ratelimiting",
+      "limit",
+      "memcached",
+      "security",
+      "hack",
+      "performance",
+      "dev",
+      "cache",
+      "login",
+      "password",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rate-limiting-with-memcached"
+    ]
+  }
+}

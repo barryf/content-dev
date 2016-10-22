@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@grayhaze Might be tricky: Android's a little on the large side... just like his phones! Boom boom!"],"published":["2012-02-29T12:14:40Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22610785/status/174828632936693760"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/174829938057293825"],"slug":["tweet-174829938057293825"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@grayhaze Might be tricky: Android's a little on the large side... just like his phones! Boom boom!"
+    ],
+    "published": [
+      "2012-02-29T12:14:40Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22610785/status/174828632936693760"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/174829938057293825"
+    ],
+    "slug": [
+      "tweet-174829938057293825"
+    ]
+  }
+}

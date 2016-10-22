@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Using Marked with popular editors and code watchers\n"],"published":["2012-04-26T15:03:35Z"],"entry-type":["bookmark"],"name":["Marked Bonus Pack (scripts, commands and bundles)"],"bookmark-of":["http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles"],"category":["plugin","bundle","mac","marked","markdown","via-pinboard"],"slug":["marked-bonus-pack-scripts-commands-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Using Marked with popular editors and code watchers\n"
+    ],
+    "published": [
+      "2012-04-26T15:03:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Marked Bonus Pack (scripts, commands and bundles)"
+    ],
+    "bookmark-of": [
+      "http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles"
+    ],
+    "category": [
+      "plugin",
+      "bundle",
+      "mac",
+      "marked",
+      "markdown",
+      "via-pinboard"
+    ],
+    "slug": [
+      "marked-bonus-pack-scripts-commands-and"
+    ]
+  }
+}

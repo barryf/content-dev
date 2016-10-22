@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My experiences having laser eye surgery and why you should go for it too: http://barryfrost.com/articles/get-your-eyes-lasered #eyesurgery #lasik"],"published":["2011-05-02T21:32:50Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/65166883921465344"],"slug":["tweet-65166883921465344"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My experiences having laser eye surgery and why you should go for it too: http://barryfrost.com/articles/get-your-eyes-lasered #eyesurgery #lasik"
+    ],
+    "published": [
+      "2011-05-02T21:32:50Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/65166883921465344"
+    ],
+    "slug": [
+      "tweet-65166883921465344"
+    ]
+  }
+}

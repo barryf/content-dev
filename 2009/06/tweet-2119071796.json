@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@baob Well done and \"woo hoo\" to you! I'm taking baby scrum steps now and while it's hard work to change reflexes, I'm seeing the light."],"published":["2009-06-11T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14584772/status/2118746891"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2119071796"],"slug":["tweet-2119071796"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@baob Well done and \"woo hoo\" to you! I'm taking baby scrum steps now and while it's hard work to change reflexes, I'm seeing the light."
+    ],
+    "published": [
+      "2009-06-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14584772/status/2118746891"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2119071796"
+    ],
+    "slug": [
+      "tweet-2119071796"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Documentation for Userplane's Webmessenger\n"],"published":["2008-01-18T12:41:33Z"],"entry-type":["bookmark"],"name":["webmessenger"],"bookmark-of":["http://wiki.userplane.com/docs/doku.php?id=webmessenger"],"category":["userplane","webmessenger","im","work","dev","via-pinboard"],"slug":["webmessenger"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Documentation for Userplane's Webmessenger\n"
+    ],
+    "published": [
+      "2008-01-18T12:41:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "webmessenger"
+    ],
+    "bookmark-of": [
+      "http://wiki.userplane.com/docs/doku.php?id=webmessenger"
+    ],
+    "category": [
+      "userplane",
+      "webmessenger",
+      "im",
+      "work",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "webmessenger"
+    ]
+  }
+}

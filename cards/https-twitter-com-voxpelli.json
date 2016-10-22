@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Pelle Wessman"],"photo":["https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c.png"],"url":["https://twitter.com/voxpelli"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Pelle Wessman"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c.png"
+    ],
+    "url": [
+      "https://twitter.com/voxpelli"
+    ]
+  }
+}

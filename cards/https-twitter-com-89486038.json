@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Lauren Laverne"],"photo":["http://pbs.twimg.com/profile_images/436538390054731777/kU6UCuwy_normal.jpeg"],"url":["https://twitter.com/laurenlaverne"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Lauren Laverne"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/436538390054731777/kU6UCuwy_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/laurenlaverne"
+    ]
+  }
+}

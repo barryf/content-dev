@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["On my way back from GU Towers."],"published":["2008-10-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/982052204"],"slug":["tweet-982052204"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "On my way back from GU Towers."
+    ],
+    "published": [
+      "2008-10-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/982052204"
+    ],
+    "slug": [
+      "tweet-982052204"
+    ]
+  }
+}

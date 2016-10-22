@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Integrates Aptana's Eclipse-based IDE with a cloud hosting environment on Joyent. Supports PHP, Rails. Monitoring tools too.\n"],"published":["2009-03-15T09:10:03Z"],"entry-type":["bookmark"],"name":["Aptana Cloud"],"bookmark-of":["http://www.aptana.com/cloud"],"category":["cloud","aptana","eclipse","hosting","dev","php","rails","sysadmin","work","via-pinboard"],"slug":["aptana-cloud"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Integrates Aptana's Eclipse-based IDE with a cloud hosting environment on Joyent. Supports PHP, Rails. Monitoring tools too.\n"
+    ],
+    "published": [
+      "2009-03-15T09:10:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Aptana Cloud"
+    ],
+    "bookmark-of": [
+      "http://www.aptana.com/cloud"
+    ],
+    "category": [
+      "cloud",
+      "aptana",
+      "eclipse",
+      "hosting",
+      "dev",
+      "php",
+      "rails",
+      "sysadmin",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aptana-cloud"
+    ]
+  }
+}

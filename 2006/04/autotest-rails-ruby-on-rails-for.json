@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Continuous testing for Ruby - every time you update a file the corresponding test is run\n"],"published":["2006-04-26T12:35:13Z"],"entry-type":["bookmark"],"name":["autotest -rails | Ruby on Rails for Newbies"],"bookmark-of":["http://nubyonrails.com/articles/2006/04/19/autotest-rails"],"category":["rails","testing","tdd","ruby","dev","via-pinboard"],"slug":["autotest-rails-ruby-on-rails-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Continuous testing for Ruby - every time you update a file the corresponding test is run\n"
+    ],
+    "published": [
+      "2006-04-26T12:35:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "autotest -rails | Ruby on Rails for Newbies"
+    ],
+    "bookmark-of": [
+      "http://nubyonrails.com/articles/2006/04/19/autotest-rails"
+    ],
+    "category": [
+      "rails",
+      "testing",
+      "tdd",
+      "ruby",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "autotest-rails-ruby-on-rails-for"
+    ]
+  }
+}

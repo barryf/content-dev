@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-05-31T20:32:07Z"],"entry-type":["bookmark"],"name":["HTML/CSS to PDF using Ruby on Rails"],"bookmark-of":["http://sublog.subimage.com/articles/2007/05/29/html-css-to-pdf-using-ruby-on-rails"],"category":["pdf","rails","printing","html","css","ruby","web","via-pinboard"],"slug":["html-css-to-pdf-using-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-05-31T20:32:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTML/CSS to PDF using Ruby on Rails"
+    ],
+    "bookmark-of": [
+      "http://sublog.subimage.com/articles/2007/05/29/html-css-to-pdf-using-ruby-on-rails"
+    ],
+    "category": [
+      "pdf",
+      "rails",
+      "printing",
+      "html",
+      "css",
+      "ruby",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "html-css-to-pdf-using-ruby"
+    ]
+  }
+}

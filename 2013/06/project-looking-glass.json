@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Office-to-office video screens using Raspberry Pis"],"published":["2013-06-09T10:27:18Z"],"entry-type":["bookmark"],"name":["Project Looking Glass"],"bookmark-of":["http://scraplab.net/project-looking-glass/"],"category":["raspberrypi","office","team","video","via-pinboard"],"slug":["project-looking-glass"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Office-to-office video screens using Raspberry Pis"
+    ],
+    "published": [
+      "2013-06-09T10:27:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Project Looking Glass"
+    ],
+    "bookmark-of": [
+      "http://scraplab.net/project-looking-glass/"
+    ],
+    "category": [
+      "raspberrypi",
+      "office",
+      "team",
+      "video",
+      "via-pinboard"
+    ],
+    "slug": [
+      "project-looking-glass"
+    ]
+  }
+}

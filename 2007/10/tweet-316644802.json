@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thinking that children should be seen and not heard. Especially when he's trying to bravely do some shopping."],"published":["2007-10-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/316644802"],"slug":["tweet-316644802"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thinking that children should be seen and not heard. Especially when he's trying to bravely do some shopping."
+    ],
+    "published": [
+      "2007-10-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/316644802"
+    ],
+    "slug": [
+      "tweet-316644802"
+    ]
+  }
+}

@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2012-03-25T19:48:52Z"],"entry-type":["bookmark"],"name":["Yongfook's Tokyo Eating Tips"],"bookmark-of":["http://yongfook.com/post/19882011731"],"category":["tokyofoodjapanrestaurantrecommendations","via-pinboard"],"slug":["yongfook-s-tokyo-eating-tips"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-03-25T19:48:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Yongfook's Tokyo Eating Tips"
+    ],
+    "bookmark-of": [
+      "http://yongfook.com/post/19882011731"
+    ],
+    "category": [
+      "tokyofoodjapanrestaurantrecommendations",
+      "via-pinboard"
+    ],
+    "slug": [
+      "yongfook-s-tokyo-eating-tips"
+    ]
+  }
+}

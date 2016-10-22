@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@kellyedworthy Great photo! Kids playing, Dave asleep, juxtaposed by fat man in street."],"published":["2013-09-29T12:27:04Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/88656137/status/384241146459062272"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/384293244815032320"],"slug":["tweet-384293244815032320"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@kellyedworthy Great photo! Kids playing, Dave asleep, juxtaposed by fat man in street."
+    ],
+    "published": [
+      "2013-09-29T12:27:04Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/88656137/status/384241146459062272"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/384293244815032320"
+    ],
+    "slug": [
+      "tweet-384293244815032320"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Getting data back from (for example) an Ajax request into a JS object. Don't forget the eval('(' + t.responseText + ')')...\n"],"published":["2006-01-03T17:27:55Z"],"entry-type":["bookmark"],"name":["JSON in JavaScript"],"bookmark-of":["http://www.crockford.com/JSON/js.html"],"category":["web","dev","javascript","json","ajax","via-pinboard"],"slug":["json-in-javascript"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Getting data back from (for example) an Ajax request into a JS object. Don't forget the eval('(' + t.responseText + ')')...\n"
+    ],
+    "published": [
+      "2006-01-03T17:27:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JSON in JavaScript"
+    ],
+    "bookmark-of": [
+      "http://www.crockford.com/JSON/js.html"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "javascript",
+      "json",
+      "ajax",
+      "via-pinboard"
+    ],
+    "slug": [
+      "json-in-javascript"
+    ]
+  }
+}

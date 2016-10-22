@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Check this before buying a new phone\n"],"published":["2005-12-28T15:43:12Z"],"entry-type":["bookmark"],"name":["Apple - Mac OS X - iSync - Devices"],"bookmark-of":["http://www.apple.com/macosx/features/isync/devices.html"],"category":["mac","reference","support","phone","calendar","mobile","via-pinboard"],"slug":["apple-mac-os-x-isync-devices"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Check this before buying a new phone\n"
+    ],
+    "published": [
+      "2005-12-28T15:43:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Apple - Mac OS X - iSync - Devices"
+    ],
+    "bookmark-of": [
+      "http://www.apple.com/macosx/features/isync/devices.html"
+    ],
+    "category": [
+      "mac",
+      "reference",
+      "support",
+      "phone",
+      "calendar",
+      "mobile",
+      "via-pinboard"
+    ],
+    "slug": [
+      "apple-mac-os-x-isync-devices"
+    ]
+  }
+}

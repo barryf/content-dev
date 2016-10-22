@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2006-02-28T13:56:51Z"],"entry-type":["bookmark"],"name":["Using Ruby on Rails for Web Development on Mac OS X"],"bookmark-of":["http://developer.apple.com/tools/rubyonrails.html"],"category":["mac","rails","web","dev","via-pinboard"],"slug":["using-ruby-on-rails-for-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-02-28T13:56:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Ruby on Rails for Web Development on Mac OS X"
+    ],
+    "bookmark-of": [
+      "http://developer.apple.com/tools/rubyonrails.html"
+    ],
+    "category": [
+      "mac",
+      "rails",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-ruby-on-rails-for-web"
+    ]
+  }
+}

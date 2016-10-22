@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Wondering if my flawless ex colleagues are trapped in some sort of soft focus lens bubble or perhaps victims of an airbrushing madman."],"published":["2007-11-26T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/445810042"],"slug":["tweet-445810042"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wondering if my flawless ex colleagues are trapped in some sort of soft focus lens bubble or perhaps victims of an airbrushing madman."
+    ],
+    "published": [
+      "2007-11-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/445810042"
+    ],
+    "slug": [
+      "tweet-445810042"
+    ]
+  }
+}

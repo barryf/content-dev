@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["> Reveal brings powerful runtime view debugging to iOS developers. With advanced visualisations, comprehensive inspectors and the ability to modify applications on the fly, you’ll be debugging view layout and rendering problems in seconds."],"published":["2015-02-13T16:54:20Z"],"entry-type":["bookmark"],"name":["Reveal"],"bookmark-of":["http://revealapp.com/"],"category":["ios","debug"],"slug":["reveal"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Reveal brings powerful runtime view debugging to iOS developers. With advanced visualisations, comprehensive inspectors and the ability to modify applications on the fly, you’ll be debugging view layout and rendering problems in seconds."
+    ],
+    "published": [
+      "2015-02-13T16:54:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Reveal"
+    ],
+    "bookmark-of": [
+      "http://revealapp.com/"
+    ],
+    "category": [
+      "ios",
+      "debug"
+    ],
+    "slug": [
+      "reveal"
+    ]
+  }
+}

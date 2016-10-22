@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2008-01-19T17:42:03Z"],"entry-type":["bookmark"],"name":["Scale rails from one box to three, four and five"],"bookmark-of":["http://www.caboo.se/articles/2007/7/29/scale-rails-from-one-box-to-three-four-and-five"],"category":["rails","caching","database","deployment","memcache","performance","scalability","scaling","server","via-pinboard"],"slug":["scale-rails-from-one-box-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-01-19T17:42:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scale rails from one box to three, four and five"
+    ],
+    "bookmark-of": [
+      "http://www.caboo.se/articles/2007/7/29/scale-rails-from-one-box-to-three-four-and-five"
+    ],
+    "category": [
+      "rails",
+      "caching",
+      "database",
+      "deployment",
+      "memcache",
+      "performance",
+      "scalability",
+      "scaling",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scale-rails-from-one-box-to"
+    ]
+  }
+}

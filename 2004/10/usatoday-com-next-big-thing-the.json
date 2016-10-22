@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-02T13:55:14Z"],"entry-type":["bookmark"],"name":["USATODAY.com - Next big thing: The Web as your servant"],"bookmark-of":["http://www.usatoday.com/tech/news/techinnovations/2004-10-01-cover-web_x.htm"],"category":["dev","web","via-pinboard"],"slug":["usatoday-com-next-big-thing-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-02T13:55:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "USATODAY.com - Next big thing: The Web as your servant"
+    ],
+    "bookmark-of": [
+      "http://www.usatoday.com/tech/news/techinnovations/2004-10-01-cover-web_x.htm"
+    ],
+    "category": [
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "usatoday-com-next-big-thing-the"
+    ]
+  }
+}

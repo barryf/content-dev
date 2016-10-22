@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-06T14:02:19Z"],"entry-type":["bookmark"],"name":["PhoneDirector for OS X and Nokia 6230"],"bookmark-of":["http://www.macmedia.sk/pd.htm"],"category":["mac","phone","via-pinboard"],"slug":["phonedirector-for-os-x-and-nokia"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-06T14:02:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PhoneDirector for OS X and Nokia 6230"
+    ],
+    "bookmark-of": [
+      "http://www.macmedia.sk/pd.htm"
+    ],
+    "category": [
+      "mac",
+      "phone",
+      "via-pinboard"
+    ],
+    "slug": [
+      "phonedirector-for-os-x-and-nokia"
+    ]
+  }
+}

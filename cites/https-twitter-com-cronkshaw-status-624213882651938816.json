@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/cronkshaw/status/624213882651938816"],"published":["2015-07-23T13:46:01Z"],"content":["@barryf ....might have done ;-)"],"in-reply-to":["https://barryfrost.com/2015/07/cronkshaw-eh-next-you-ll-be"],"author":["http://cronkshaw.net"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/cronkshaw/status/624213882651938816"
+    ],
+    "published": [
+      "2015-07-23T13:46:01Z"
+    ],
+    "content": [
+      "@barryf ....might have done ;-)"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/07/cronkshaw-eh-next-you-ll-be"
+    ],
+    "author": [
+      "http://cronkshaw.net"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Day 2 #UXLondon highlights were @rorysutherland on psychophysics and a talk/workshop from @MailChimp’s @aarron on emotional design."],"published":["2014-05-30T06:53:39Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/472269592631726080"],"slug":["tweet-472269592631726080"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Day 2 #UXLondon highlights were @rorysutherland on psychophysics and a talk/workshop from @MailChimp’s @aarron on emotional design."
+    ],
+    "published": [
+      "2014-05-30T06:53:39Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/472269592631726080"
+    ],
+    "slug": [
+      "tweet-472269592631726080"
+    ]
+  }
+}

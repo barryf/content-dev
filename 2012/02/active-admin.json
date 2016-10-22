@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Admin framework plugin for Rails applications\n"],"published":["2012-02-04T11:57:31Z"],"entry-type":["bookmark"],"name":["active_admin"],"bookmark-of":["https://github.com/gregbell/active_admin"],"category":["framework","admin","ruby","rails","via-pinboard"],"slug":["active-admin"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Admin framework plugin for Rails applications\n"
+    ],
+    "published": [
+      "2012-02-04T11:57:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "active_admin"
+    ],
+    "bookmark-of": [
+      "https://github.com/gregbell/active_admin"
+    ],
+    "category": [
+      "framework",
+      "admin",
+      "ruby",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "active-admin"
+    ]
+  }
+}

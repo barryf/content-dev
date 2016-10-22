@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Tanita Tikaram’s let herself go."],"published":["2014-02-16T10:50:20Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/434991689959489536"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/435003202220851201"],"slug":["tweet-435003202220851201"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Tanita Tikaram’s let herself go."
+    ],
+    "published": [
+      "2014-02-16T10:50:20Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/434991689959489536"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/435003202220851201"
+    ],
+    "slug": [
+      "tweet-435003202220851201"
+    ]
+  }
+}

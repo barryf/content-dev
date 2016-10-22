@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Breakdown of git workflows including feature branches"],"published":["2013-09-07T09:47:02Z"],"entry-type":["bookmark"],"name":["Git Workflows and Tutorials"],"bookmark-of":["https://www.atlassian.com/git/workflows"],"category":["git","workflow","tutorial","via-pinboard"],"slug":["git-workflows-and-tutorials"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Breakdown of git workflows including feature branches"
+    ],
+    "published": [
+      "2013-09-07T09:47:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Git Workflows and Tutorials"
+    ],
+    "bookmark-of": [
+      "https://www.atlassian.com/git/workflows"
+    ],
+    "category": [
+      "git",
+      "workflow",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "git-workflows-and-tutorials"
+    ]
+  }
+}

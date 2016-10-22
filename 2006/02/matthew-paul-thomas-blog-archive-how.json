@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Mac and Windows key combos\n"],"published":["2006-02-19T12:06:28Z"],"entry-type":["bookmark"],"name":["Matthew Paul Thomas » Blog Archive » How to type French characters"],"bookmark-of":["http://mpt.net.nz/archive/2004/03/05/french"],"category":["language","french","windows","mac","keyboard","via-pinboard"],"slug":["matthew-paul-thomas-blog-archive-how"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mac and Windows key combos\n"
+    ],
+    "published": [
+      "2006-02-19T12:06:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Matthew Paul Thomas » Blog Archive » How to type French characters"
+    ],
+    "bookmark-of": [
+      "http://mpt.net.nz/archive/2004/03/05/french"
+    ],
+    "category": [
+      "language",
+      "french",
+      "windows",
+      "mac",
+      "keyboard",
+      "via-pinboard"
+    ],
+    "slug": [
+      "matthew-paul-thomas-blog-archive-how"
+    ]
+  }
+}

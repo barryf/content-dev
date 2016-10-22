@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Looks like you've grown. Are you standing on something?"],"published":["2015-05-16T17:17:22Z"],"entry-type":["reply"],"summary":["@thesambarnes Looks like you've grown. Are you standing on something?"],"in-reply-to":["https://twitter.com/thesambarnes/status/599617335939436544"],"syndication":["https://twitter.com/barryf/status/599624709483855872"],"slug":["thesambarnes-looks-like-you-ve-grown"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Looks like you've grown. Are you standing on something?"
+    ],
+    "published": [
+      "2015-05-16T17:17:22Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@thesambarnes Looks like you've grown. Are you standing on something?"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/thesambarnes/status/599617335939436544"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/599624709483855872"
+    ],
+    "slug": [
+      "thesambarnes-looks-like-you-ve-grown"
+    ]
+  }
+}

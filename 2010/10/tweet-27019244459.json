@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids Can you blame me? Nothing but karaoke/popularity contests, vacuous dramas and Peter Andre."],"published":["2010-10-11T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/27017084902"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27019244459"],"slug":["tweet-27019244459"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids Can you blame me? Nothing but karaoke/popularity contests, vacuous dramas and Peter Andre."
+    ],
+    "published": [
+      "2010-10-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/27017084902"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27019244459"
+    ],
+    "slug": [
+      "tweet-27019244459"
+    ]
+  }
+}

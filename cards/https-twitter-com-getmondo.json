@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Mondo"],"photo":["https://pbs.twimg.com/profile_images/659396800143454208/hMnU5vkB.png"],"url":["https://twitter.com/getmondo"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Mondo"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/659396800143454208/hMnU5vkB.png"
+    ],
+    "url": [
+      "https://twitter.com/getmondo"
+    ]
+  }
+}

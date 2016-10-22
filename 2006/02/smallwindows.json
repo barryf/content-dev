@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Exposé for Windows. Hit Windows-F12 to see all open windows at once. Doesn't work for the non-primary monitor though\n"],"published":["2006-02-11T11:18:54Z"],"entry-type":["bookmark"],"name":["SmallWindows"],"bookmark-of":["http://smallwindows.sourceforge.net/"],"category":["windows","expose","interface","ui","via-pinboard"],"slug":["smallwindows"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Exposé for Windows. Hit Windows-F12 to see all open windows at once. Doesn't work for the non-primary monitor though\n"
+    ],
+    "published": [
+      "2006-02-11T11:18:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SmallWindows"
+    ],
+    "bookmark-of": [
+      "http://smallwindows.sourceforge.net/"
+    ],
+    "category": [
+      "windows",
+      "expose",
+      "interface",
+      "ui",
+      "via-pinboard"
+    ],
+    "slug": [
+      "smallwindows"
+    ]
+  }
+}

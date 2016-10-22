@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-15T14:51:34Z"],"entry-type":["bookmark"],"name":["100 Photographs that Changed the World by LIFE - The Digital Journalist"],"bookmark-of":["http://digitaljournalist.org/issue0309/lm_index.html"],"category":["image","via-pinboard"],"slug":["100-photographs-that-changed-the-world"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-15T14:51:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "100 Photographs that Changed the World by LIFE - The Digital Journalist"
+    ],
+    "bookmark-of": [
+      "http://digitaljournalist.org/issue0309/lm_index.html"
+    ],
+    "category": [
+      "image",
+      "via-pinboard"
+    ],
+    "slug": [
+      "100-photographs-that-changed-the-world"
+    ]
+  }
+}

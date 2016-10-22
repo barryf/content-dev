@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2012-02-20T20:24:30Z"],"entry-type":["bookmark"],"name":["How to Acquire a Domain Name (That Someone Already Owns)"],"bookmark-of":["http://blog.domai.nr/post/17910329952/buy-a-domain-that-someone-else-owns"],"category":["purchase","buy","domain","via-pinboard"],"slug":["how-to-acquire-a-domain-name"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-02-20T20:24:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Acquire a Domain Name (That Someone Already Owns)"
+    ],
+    "bookmark-of": [
+      "http://blog.domai.nr/post/17910329952/buy-a-domain-that-someone-else-owns"
+    ],
+    "category": [
+      "purchase",
+      "buy",
+      "domain",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-acquire-a-domain-name"
+    ]
+  }
+}

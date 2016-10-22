@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Full of valuable insight for out-of-touch ageing thirty-somethings (like me)."],"published":["2015-01-16T11:50:16Z"],"entry-type":["bookmark"],"name":["A Teenager’s View on Social Media"],"bookmark-of":["https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6"],"category":["socialmedia","opinion","inspiration"],"slug":["a-teenager-s-view-on-social"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Full of valuable insight for out-of-touch ageing thirty-somethings (like me)."
+    ],
+    "published": [
+      "2015-01-16T11:50:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Teenager’s View on Social Media"
+    ],
+    "bookmark-of": [
+      "https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6"
+    ],
+    "category": [
+      "socialmedia",
+      "opinion",
+      "inspiration"
+    ],
+    "slug": [
+      "a-teenager-s-view-on-social"
+    ]
+  }
+}

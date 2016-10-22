@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Interface design software for professionals"],"published":["2015-09-17T13:38:29Z"],"entry-type":["bookmark"],"name":["Atomic"],"bookmark-of":["https://atomic.io/"],"category":["design","interface","mobile"],"slug":["atomic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Interface design software for professionals"
+    ],
+    "published": [
+      "2015-09-17T13:38:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Atomic"
+    ],
+    "bookmark-of": [
+      "https://atomic.io/"
+    ],
+    "category": [
+      "design",
+      "interface",
+      "mobile"
+    ],
+    "slug": [
+      "atomic"
+    ]
+  }
+}

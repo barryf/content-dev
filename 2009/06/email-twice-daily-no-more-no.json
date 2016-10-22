@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["And no cheating, even on your iPhone. 10am and 4pm are his times to check.\n"],"published":["2009-06-14T09:53:11Z"],"entry-type":["bookmark"],"name":["Email. Twice daily. No more, no less."],"bookmark-of":["http://www.robbyonrails.com/articles/2009/06/10/email-twice-daily-no-more-no-less"],"category":["email","todo","gtd","productivity","work","via-pinboard"],"slug":["email-twice-daily-no-more-no"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "And no cheating, even on your iPhone. 10am and 4pm are his times to check.\n"
+    ],
+    "published": [
+      "2009-06-14T09:53:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Email. Twice daily. No more, no less."
+    ],
+    "bookmark-of": [
+      "http://www.robbyonrails.com/articles/2009/06/10/email-twice-daily-no-more-no-less"
+    ],
+    "category": [
+      "email",
+      "todo",
+      "gtd",
+      "productivity",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "email-twice-daily-no-more-no"
+    ]
+  }
+}

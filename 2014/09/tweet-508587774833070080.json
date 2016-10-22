@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@stevesmith2609 And Transmit would be my choice for FTP/SFTP/S3 http://panic.com/transmit/"],"published":["2014-09-07T12:09:09Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/86092790/status/508575775797555200"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/508587774833070080"],"slug":["tweet-508587774833070080"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@stevesmith2609 And Transmit would be my choice for FTP/SFTP/S3 http://panic.com/transmit/"
+    ],
+    "published": [
+      "2014-09-07T12:09:09Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/86092790/status/508575775797555200"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/508587774833070080"
+    ],
+    "slug": [
+      "tweet-508587774833070080"
+    ]
+  }
+}

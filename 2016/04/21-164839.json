@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-04-21T15:48:39Z"],"entry-type":["like"],"like-of":["https://aaronparecki.com/2016/04/20/6/webmention"],"syndication":["https://twitter.com/aaronpk/status/722906180733919232"],"slug":["21-164839"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-04-21T15:48:39Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://aaronparecki.com/2016/04/20/6/webmention"
+    ],
+    "syndication": [
+      "https://twitter.com/aaronpk/status/722906180733919232"
+    ],
+    "slug": [
+      "21-164839"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-07-14T11:23:08Z"],"entry-type":["bookmark"],"name":["Dynamic Drive DHTML Scripts- Jason's Date Input Calendar"],"bookmark-of":["http://www.dynamicdrive.com/dynamicindex7/jasoncalendar.htm"],"category":["javascript","calendar","dhtml","web","via-pinboard"],"slug":["dynamic-drive-dhtml-scripts-jason-s"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-07-14T11:23:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dynamic Drive DHTML Scripts- Jason's Date Input Calendar"
+    ],
+    "bookmark-of": [
+      "http://www.dynamicdrive.com/dynamicindex7/jasoncalendar.htm"
+    ],
+    "category": [
+      "javascript",
+      "calendar",
+      "dhtml",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dynamic-drive-dhtml-scripts-jason-s"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Covers rvm installation and how to switch between Ruby versions. Successfully used on my Mac with 10.6.\n"],"published":["2011-05-22T17:58:52Z"],"entry-type":["bookmark"],"name":["Installing Ruby 1.9 and Rails 3 on Mac OS X"],"bookmark-of":["http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac"],"category":["mac","rvm","ruby","rails","via-pinboard"],"slug":["installing-ruby-1-9-and-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Covers rvm installation and how to switch between Ruby versions. Successfully used on my Mac with 10.6.\n"
+    ],
+    "published": [
+      "2011-05-22T17:58:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Installing Ruby 1.9 and Rails 3 on Mac OS X"
+    ],
+    "bookmark-of": [
+      "http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac"
+    ],
+    "category": [
+      "mac",
+      "rvm",
+      "ruby",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "installing-ruby-1-9-and-rails"
+    ]
+  }
+}

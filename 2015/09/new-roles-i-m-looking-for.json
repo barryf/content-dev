@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor http://dev.venntro.com/jobs/"],"published":["2015-09-03T09:30:02Z"],"entry-type":["note"],"summary":["New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor http://dev.venntro.com/jobs/"],"category":["jobs","venntrodev"],"syndication":["https://twitter.com/barryf/status/639369759218204672"],"slug":["new-roles-i-m-looking-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor http://dev.venntro.com/jobs/"
+    ],
+    "published": [
+      "2015-09-03T09:30:02Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor http://dev.venntro.com/jobs/"
+    ],
+    "category": [
+      "jobs",
+      "venntrodev"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/639369759218204672"
+    ],
+    "slug": [
+      "new-roles-i-m-looking-for"
+    ]
+  }
+}

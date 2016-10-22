@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Videos of the RailsConf presentations, including DHH's keynote\n"],"published":["2012-05-03T11:17:33Z"],"entry-type":["bookmark"],"name":["RailsConf 2012 Schedule"],"bookmark-of":["http://www.confreaks.com/events/railsconf2012"],"category":["ruby","video","railsconf","rails","via-pinboard"],"slug":["railsconf-2012-schedule"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Videos of the RailsConf presentations, including DHH's keynote\n"
+    ],
+    "published": [
+      "2012-05-03T11:17:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RailsConf 2012 Schedule"
+    ],
+    "bookmark-of": [
+      "http://www.confreaks.com/events/railsconf2012"
+    ],
+    "category": [
+      "ruby",
+      "video",
+      "railsconf",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "railsconf-2012-schedule"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["(via @ioptics)\n"],"published":["2009-09-13T17:05:30Z"],"entry-type":["bookmark"],"name":["Using rsync To Backup Files"],"bookmark-of":["http://www.innovatingtomorrow.net/2008/01/10/using-rsync-backup-files-basics"],"category":["rsync","backup","mac","via-pinboard"],"slug":["using-rsync-to-backup-files"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(via @ioptics)\n"
+    ],
+    "published": [
+      "2009-09-13T17:05:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using rsync To Backup Files"
+    ],
+    "bookmark-of": [
+      "http://www.innovatingtomorrow.net/2008/01/10/using-rsync-backup-files-basics"
+    ],
+    "category": [
+      "rsync",
+      "backup",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-rsync-to-backup-files"
+    ]
+  }
+}

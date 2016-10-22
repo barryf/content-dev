@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2008-08-20T14:12:21Z"],"entry-type":["bookmark"],"name":["What Makes for a Good Blog?"],"bookmark-of":["http://www.43folders.com/2008/08/19/good-blogs"],"category":["blog","opinion","writing","web","inspiration","style","advice","bestpractice","via-pinboard"],"slug":["what-makes-for-a-good-blog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-08-20T14:12:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "What Makes for a Good Blog?"
+    ],
+    "bookmark-of": [
+      "http://www.43folders.com/2008/08/19/good-blogs"
+    ],
+    "category": [
+      "blog",
+      "opinion",
+      "writing",
+      "web",
+      "inspiration",
+      "style",
+      "advice",
+      "bestpractice",
+      "via-pinboard"
+    ],
+    "slug": [
+      "what-makes-for-a-good-blog"
+    ]
+  }
+}

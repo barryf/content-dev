@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2009-05-04T15:06:46Z"],"entry-type":["bookmark"],"name":["Ten Critical Questions to Ask When Checking References"],"bookmark-of":["http://www.drgnyc.com/List_Serve/Jan24_2005.htm"],"category":["interview","reference","staff","employment","work","hiring","management","job","business","via-pinboard"],"slug":["ten-critical-questions-to-ask-when"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-05-04T15:06:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ten Critical Questions to Ask When Checking References"
+    ],
+    "bookmark-of": [
+      "http://www.drgnyc.com/List_Serve/Jan24_2005.htm"
+    ],
+    "category": [
+      "interview",
+      "reference",
+      "staff",
+      "employment",
+      "work",
+      "hiring",
+      "management",
+      "job",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ten-critical-questions-to-ask-when"
+    ]
+  }
+}

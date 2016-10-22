@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Slideshows in XHTML from W3C\n"],"published":["2006-04-15T08:22:44Z"],"entry-type":["bookmark"],"name":["HTML Slidy"],"bookmark-of":["http://www.w3.org/Talks/Tools/Slidy/"],"category":["presentation","standards","web","xhtml","javascript","w3c","via-pinboard"],"slug":["html-slidy"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slideshows in XHTML from W3C\n"
+    ],
+    "published": [
+      "2006-04-15T08:22:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTML Slidy"
+    ],
+    "bookmark-of": [
+      "http://www.w3.org/Talks/Tools/Slidy/"
+    ],
+    "category": [
+      "presentation",
+      "standards",
+      "web",
+      "xhtml",
+      "javascript",
+      "w3c",
+      "via-pinboard"
+    ],
+    "slug": [
+      "html-slidy"
+    ]
+  }
+}

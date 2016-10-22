@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-06-15T10:11:38Z"],"entry-type":["bookmark"],"name":["jiminoc/goose · GitHub"],"bookmark-of":["https://github.com/jiminoc/goose"],"category":["fromifttt","github","via-pinboard"],"slug":["jiminoc-goose-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-06-15T10:11:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jiminoc/goose · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/jiminoc/goose"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jiminoc-goose-github"
+    ]
+  }
+}

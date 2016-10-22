@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Simple but clean set of icons - $279\n"],"published":["2009-07-13T20:24:12Z"],"entry-type":["bookmark"],"name":["Helveticons"],"bookmark-of":["http://helveticons.ch/"],"category":["icon","helvetica","font","graphic","image","design","via-pinboard"],"slug":["helveticons"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simple but clean set of icons - $279\n"
+    ],
+    "published": [
+      "2009-07-13T20:24:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Helveticons"
+    ],
+    "bookmark-of": [
+      "http://helveticons.ch/"
+    ],
+    "category": [
+      "icon",
+      "helvetica",
+      "font",
+      "graphic",
+      "image",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "helveticons"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Built for designers to turn static mockups into prototypes with animation & interaction\r\n\r\n"],"published":["2014-06-05T11:40:40Z"],"entry-type":["bookmark"],"name":["Framer – A prototyping toolkit"],"bookmark-of":["http://framerjs.com/"],"category":["prototype","design","mockup","via-pinboard"],"slug":["framer-a-prototyping-toolkit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Built for designers to turn static mockups into prototypes with animation & interaction\r\n\r\n"
+    ],
+    "published": [
+      "2014-06-05T11:40:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Framer – A prototyping toolkit"
+    ],
+    "bookmark-of": [
+      "http://framerjs.com/"
+    ],
+    "category": [
+      "prototype",
+      "design",
+      "mockup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "framer-a-prototyping-toolkit"
+    ]
+  }
+}

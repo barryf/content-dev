@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Mac OS X Lion is out so it's time to read John Siracusa's definitive review http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars"],"published":["2011-07-20T13:31:44Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/93674454370107393"],"slug":["tweet-93674454370107393"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mac OS X Lion is out so it's time to read John Siracusa's definitive review http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars"
+    ],
+    "published": [
+      "2011-07-20T13:31:44Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/93674454370107393"
+    ],
+    "slug": [
+      "tweet-93674454370107393"
+    ]
+  }
+}

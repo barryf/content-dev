@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Having a play with Tent using tent.is’s implementation http://bfr.st/THn4Dt"],"published":["2012-09-27T16:35:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/251359501435944960"],"slug":["tweet-251359501435944960"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Having a play with Tent using tent.is’s implementation http://bfr.st/THn4Dt"
+    ],
+    "published": [
+      "2012-09-27T16:35:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/251359501435944960"
+    ],
+    "slug": [
+      "tweet-251359501435944960"
+    ]
+  }
+}

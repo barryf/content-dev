@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Separate behaviour from your XHTML too\n"],"published":["2005-02-08T13:15:31Z"],"entry-type":["bookmark"],"name":["JavaScript Triggers: A List Apart"],"bookmark-of":["http://www.alistapart.com/articles/scripttriggers/"],"category":["javascript","web","standards","via-pinboard"],"slug":["javascript-triggers-a-list-apart"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Separate behaviour from your XHTML too\n"
+    ],
+    "published": [
+      "2005-02-08T13:15:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JavaScript Triggers: A List Apart"
+    ],
+    "bookmark-of": [
+      "http://www.alistapart.com/articles/scripttriggers/"
+    ],
+    "category": [
+      "javascript",
+      "web",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "javascript-triggers-a-list-apart"
+    ]
+  }
+}

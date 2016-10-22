@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["HTTP proxy to simplify routing images through an SSL host"],"published":["2015-01-14T19:00:58Z"],"entry-type":["bookmark"],"name":["camo"],"bookmark-of":["https://github.com/atmos/camo"],"category":["https","ssl","image","proxy"],"slug":["camo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "HTTP proxy to simplify routing images through an SSL host"
+    ],
+    "published": [
+      "2015-01-14T19:00:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "camo"
+    ],
+    "bookmark-of": [
+      "https://github.com/atmos/camo"
+    ],
+    "category": [
+      "https",
+      "ssl",
+      "image",
+      "proxy"
+    ],
+    "slug": [
+      "camo"
+    ]
+  }
+}

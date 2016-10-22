@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["How Jonathon blogs, networks and spreads himself around others' sites to promote his freelance work\n"],"published":["2007-01-03T10:55:03Z"],"entry-type":["bookmark"],"name":["Finding Business - Snook.ca"],"bookmark-of":["http://snook.ca/archives/business/finding_business/"],"category":["business","design","freelance","inspiration","via-pinboard"],"slug":["finding-business-snook-ca"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How Jonathon blogs, networks and spreads himself around others' sites to promote his freelance work\n"
+    ],
+    "published": [
+      "2007-01-03T10:55:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Finding Business - Snook.ca"
+    ],
+    "bookmark-of": [
+      "http://snook.ca/archives/business/finding_business/"
+    ],
+    "category": [
+      "business",
+      "design",
+      "freelance",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "finding-business-snook-ca"
+    ]
+  }
+}

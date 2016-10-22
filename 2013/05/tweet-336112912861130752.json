@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Kiwis destroyed, the sun’s shining at Lord’s and we’re a few beers down. Perfect day."],"published":["2013-05-19T13:35:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/336112912861130752"],"slug":["tweet-336112912861130752"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Kiwis destroyed, the sun’s shining at Lord’s and we’re a few beers down. Perfect day."
+    ],
+    "published": [
+      "2013-05-19T13:35:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/336112912861130752"
+    ],
+    "slug": [
+      "tweet-336112912861130752"
+    ]
+  }
+}

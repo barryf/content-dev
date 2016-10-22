@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Heading to Queen’s Club to watch the theoretical tennis. Play looks unlikely given the rain today."],"published":["2012-06-11T08:44:36Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/212103025387520000"],"slug":["tweet-212103025387520000"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Heading to Queen’s Club to watch the theoretical tennis. Play looks unlikely given the rain today."
+    ],
+    "published": [
+      "2012-06-11T08:44:36Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/212103025387520000"
+    ],
+    "slug": [
+      "tweet-212103025387520000"
+    ]
+  }
+}

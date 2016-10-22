@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Maths-based madness\n"],"published":["2004-08-18T13:31:24Z"],"entry-type":["bookmark"],"name":["64 equals 65?"],"bookmark-of":["http://www.blessa.com/64-equals-65.gif"],"category":["fun","maths","filetypegif","mediaimage","via-pinboard"],"slug":["64-equals-65"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Maths-based madness\n"
+    ],
+    "published": [
+      "2004-08-18T13:31:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "64 equals 65?"
+    ],
+    "bookmark-of": [
+      "http://www.blessa.com/64-equals-65.gif"
+    ],
+    "category": [
+      "fun",
+      "maths",
+      "filetypegif",
+      "mediaimage",
+      "via-pinboard"
+    ],
+    "slug": [
+      "64-equals-65"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/1548731/status/392377993014030336"],"published":["2013-10-21T19:52:58Z"],"content":["MySQL 5.6 got some sweet geo features! http://t.co/gi3S9PZR2J"],"author":["https://twitter.com/1548731"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/1548731/status/392377993014030336"
+    ],
+    "published": [
+      "2013-10-21T19:52:58Z"
+    ],
+    "content": [
+      "MySQL 5.6 got some sweet geo features! http://t.co/gi3S9PZR2J"
+    ],
+    "author": [
+      "https://twitter.com/1548731"
+    ]
+  }
+}

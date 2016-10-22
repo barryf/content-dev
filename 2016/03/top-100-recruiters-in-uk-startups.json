@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2016-03-06T15:45:53Z"],"entry-type":["bookmark"],"name":["Top 100 Recruiters In UK Startups"],"bookmark-of":["http://list.ly/list/OAx-top-100-recruiters-in-uk-startup"],"category":["uk","startup","recruitment","job","career","london"],"slug":["top-100-recruiters-in-uk-startups"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-03-06T15:45:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Top 100 Recruiters In UK Startups"
+    ],
+    "bookmark-of": [
+      "http://list.ly/list/OAx-top-100-recruiters-in-uk-startup"
+    ],
+    "category": [
+      "uk",
+      "startup",
+      "recruitment",
+      "job",
+      "career",
+      "london"
+    ],
+    "slug": [
+      "top-100-recruiters-in-uk-startups"
+    ]
+  }
+}

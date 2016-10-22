@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["How WordPress.com deploys on average 16 times a day: more agile, better for customers, less gatekeepers\n"],"published":["2010-07-18T14:14:06Z"],"entry-type":["bookmark"],"name":["In praise of continuous deployment"],"bookmark-of":["http://toni.org/2010/05/19/in-praise-of-continuous-deployment-the-wordpress-com-story/"],"category":["business","deployment","continuous","methodology","dev","wordpress","via-pinboard"],"slug":["in-praise-of-continuous-deployment"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How WordPress.com deploys on average 16 times a day: more agile, better for customers, less gatekeepers\n"
+    ],
+    "published": [
+      "2010-07-18T14:14:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "In praise of continuous deployment"
+    ],
+    "bookmark-of": [
+      "http://toni.org/2010/05/19/in-praise-of-continuous-deployment-the-wordpress-com-story/"
+    ],
+    "category": [
+      "business",
+      "deployment",
+      "continuous",
+      "methodology",
+      "dev",
+      "wordpress",
+      "via-pinboard"
+    ],
+    "slug": [
+      "in-praise-of-continuous-deployment"
+    ]
+  }
+}

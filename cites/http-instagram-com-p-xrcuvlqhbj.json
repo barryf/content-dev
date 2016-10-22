@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["http://instagram.com/p/xrcUvlqHbJ/"],"published":["2015-01-10T15:55:54Z"],"content":["Just popped into @stokeybears. Proper lush burgers, good beer. Result.\n"],"photo":["http://photos-a.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/10903489_337070226484208_327467870_n.jpg"],"author":["http://instagram.com/benhobson"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://instagram.com/p/xrcUvlqHbJ/"
+    ],
+    "published": [
+      "2015-01-10T15:55:54Z"
+    ],
+    "content": [
+      "Just popped into @stokeybears. Proper lush burgers, good beer. Result.\n"
+    ],
+    "photo": [
+      "http://photos-a.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/10903489_337070226484208_327467870_n.jpg"
+    ],
+    "author": [
+      "http://instagram.com/benhobson"
+    ]
+  }
+}

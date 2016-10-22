@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["In a pretty Surrey village waiting outside a church for wedding proceedings to kick off. Glorious weather for it."],"published":["2011-05-06T12:20:13Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/66477364858716161"],"slug":["tweet-66477364858716161"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "In a pretty Surrey village waiting outside a church for wedding proceedings to kick off. Glorious weather for it."
+    ],
+    "published": [
+      "2011-05-06T12:20:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/66477364858716161"
+    ],
+    "slug": [
+      "tweet-66477364858716161"
+    ]
+  }
+}

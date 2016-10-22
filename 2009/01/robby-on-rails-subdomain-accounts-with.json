@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2009-01-24T16:15:27Z"],"entry-type":["bookmark"],"name":["Robby on Rails : Subdomain accounts with Ruby on Rails explained"],"bookmark-of":["http://www.robbyonrails.com/articles/2009/01/11/subdomain-accounts-with-ruby-on-rails-explained"],"category":["howto","rails","dev","domain","subdomain","dns","tutorial","via-pinboard"],"slug":["robby-on-rails-subdomain-accounts-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-01-24T16:15:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Robby on Rails : Subdomain accounts with Ruby on Rails explained"
+    ],
+    "bookmark-of": [
+      "http://www.robbyonrails.com/articles/2009/01/11/subdomain-accounts-with-ruby-on-rails-explained"
+    ],
+    "category": [
+      "howto",
+      "rails",
+      "dev",
+      "domain",
+      "subdomain",
+      "dns",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "robby-on-rails-subdomain-accounts-with"
+    ]
+  }
+}

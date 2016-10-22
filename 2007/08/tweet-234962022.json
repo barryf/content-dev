@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Wake up, @timblair"],"published":["2007-08-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/234962022"],"slug":["tweet-234962022"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wake up, @timblair"
+    ],
+    "published": [
+      "2007-08-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/234962022"
+    ],
+    "slug": [
+      "tweet-234962022"
+    ]
+  }
+}

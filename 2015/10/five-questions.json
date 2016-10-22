@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["What to ask a team you lead when you're new/learning and need to make decisions."],"published":["2015-10-12T16:31:52Z"],"entry-type":["bookmark"],"name":["Five Questions"],"bookmark-of":["http://rmurphey.com/blog/2015/10/08/five-questions/"],"category":["team","dev","management"],"slug":["five-questions"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "What to ask a team you lead when you're new/learning and need to make decisions."
+    ],
+    "published": [
+      "2015-10-12T16:31:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Five Questions"
+    ],
+    "bookmark-of": [
+      "http://rmurphey.com/blog/2015/10/08/five-questions/"
+    ],
+    "category": [
+      "team",
+      "dev",
+      "management"
+    ],
+    "slug": [
+      "five-questions"
+    ]
+  }
+}

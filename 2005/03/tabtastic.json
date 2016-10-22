@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Elegant tabs using CSS/JS\n"],"published":["2005-03-22T11:18:35Z"],"entry-type":["bookmark"],"name":["Tabtastic"],"bookmark-of":["http://phrogz.net/JS/Tabtastic/index.html"],"category":["web","design","css","javascript","via-pinboard"],"slug":["tabtastic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Elegant tabs using CSS/JS\n"
+    ],
+    "published": [
+      "2005-03-22T11:18:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tabtastic"
+    ],
+    "bookmark-of": [
+      "http://phrogz.net/JS/Tabtastic/index.html"
+    ],
+    "category": [
+      "web",
+      "design",
+      "css",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tabtastic"
+    ]
+  }
+}

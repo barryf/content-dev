@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mattjukes I've been searching for the rabbit but no luck so far. Maybe I need a magic word?"],"published":["2010-06-15T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15366167/status/16255801843"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/16259462858"],"slug":["tweet-16259462858"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mattjukes I've been searching for the rabbit but no luck so far. Maybe I need a magic word?"
+    ],
+    "published": [
+      "2010-06-15T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15366167/status/16255801843"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/16259462858"
+    ],
+    "slug": [
+      "tweet-16259462858"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["With some useful Rails relevant links\n"],"published":["2007-09-15T10:25:21Z"],"entry-type":["bookmark"],"name":["Bamboo Blog - jQuery, an Introduction"],"bookmark-of":["http://blog.nbwd.co.uk/2007/9/4/chaining-with-jquery"],"category":["jquery","javascript","web","dev","framework","rails","via-pinboard"],"slug":["bamboo-blog-jquery-an-introduction"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "With some useful Rails relevant links\n"
+    ],
+    "published": [
+      "2007-09-15T10:25:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bamboo Blog - jQuery, an Introduction"
+    ],
+    "bookmark-of": [
+      "http://blog.nbwd.co.uk/2007/9/4/chaining-with-jquery"
+    ],
+    "category": [
+      "jquery",
+      "javascript",
+      "web",
+      "dev",
+      "framework",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bamboo-blog-jquery-an-introduction"
+    ]
+  }
+}

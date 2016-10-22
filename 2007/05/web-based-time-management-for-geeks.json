@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Interesting automatic time logging based on the apps/sites you use and how you categorise them. Requires an installed \"doohickey\". It's not a replacement for something like Tickspot - you can't say you were working on project X for example.\n"],"published":["2007-05-05T14:43:25Z"],"entry-type":["bookmark"],"name":["Web-Based Time Management for Geeks - RescueTime.com"],"bookmark-of":["http://www.rescuetime.com/"],"category":["analytics","productivity","time","timetracking","gtd","via-pinboard"],"slug":["web-based-time-management-for-geeks"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Interesting automatic time logging based on the apps/sites you use and how you categorise them. Requires an installed \"doohickey\". It's not a replacement for something like Tickspot - you can't say you were working on project X for example.\n"
+    ],
+    "published": [
+      "2007-05-05T14:43:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Web-Based Time Management for Geeks - RescueTime.com"
+    ],
+    "bookmark-of": [
+      "http://www.rescuetime.com/"
+    ],
+    "category": [
+      "analytics",
+      "productivity",
+      "time",
+      "timetracking",
+      "gtd",
+      "via-pinboard"
+    ],
+    "slug": [
+      "web-based-time-management-for-geeks"
+    ]
+  }
+}

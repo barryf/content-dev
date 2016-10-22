@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair My thoughts exactly! Tried it, shrugged and disabled it."],"published":["2010-09-04T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/22969773081"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/22970068835"],"slug":["tweet-22970068835"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair My thoughts exactly! Tried it, shrugged and disabled it."
+    ],
+    "published": [
+      "2010-09-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/22969773081"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/22970068835"
+    ],
+    "slug": [
+      "tweet-22970068835"
+    ]
+  }
+}

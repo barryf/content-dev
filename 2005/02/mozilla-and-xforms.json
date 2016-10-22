@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-07T15:42:17Z"],"entry-type":["bookmark"],"name":["Mozilla and XForms"],"bookmark-of":["http://www.mozilla.org/projects/xforms/"],"category":["xforms","mozilla","via-pinboard"],"slug":["mozilla-and-xforms"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-07T15:42:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mozilla and XForms"
+    ],
+    "bookmark-of": [
+      "http://www.mozilla.org/projects/xforms/"
+    ],
+    "category": [
+      "xforms",
+      "mozilla",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mozilla-and-xforms"
+    ]
+  }
+}

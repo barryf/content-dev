@@ -1,1 +1,41 @@
-{"type":["h-entry"],"properties":{"content":["\"An open protocol to allow secure API authentication in a simple and standard method from desktop and web applications.\"\n"],"published":["2007-11-05T21:47:07Z"],"entry-type":["bookmark"],"name":["OAuth"],"bookmark-of":["http://oauth.net/"],"category":["authentication","api","oauth","security","openid","identity","social","socialnetworking","web","login","dev","integration","standards","via-pinboard"],"slug":["oauth"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"An open protocol to allow secure API authentication in a simple and standard method from desktop and web applications.\"\n"
+    ],
+    "published": [
+      "2007-11-05T21:47:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "OAuth"
+    ],
+    "bookmark-of": [
+      "http://oauth.net/"
+    ],
+    "category": [
+      "authentication",
+      "api",
+      "oauth",
+      "security",
+      "openid",
+      "identity",
+      "social",
+      "socialnetworking",
+      "web",
+      "login",
+      "dev",
+      "integration",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "oauth"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["A short book getting you started on Rails. Includes use of git and deployment on Heroku.\n"],"published":["2012-02-09T11:23:02Z"],"entry-type":["bookmark"],"name":["Ruby on Rails Tutorial: Learn Rails by Example"],"bookmark-of":["http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2"],"category":["ruby","tutorial","rails","via-pinboard"],"slug":["ruby-on-rails-tutorial-learn-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A short book getting you started on Rails. Includes use of git and deployment on Heroku.\n"
+    ],
+    "published": [
+      "2012-02-09T11:23:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ruby on Rails Tutorial: Learn Rails by Example"
+    ],
+    "bookmark-of": [
+      "http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2"
+    ],
+    "category": [
+      "ruby",
+      "tutorial",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-on-rails-tutorial-learn-rails"
+    ]
+  }
+}

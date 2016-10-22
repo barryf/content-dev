@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-03-06T16:57:07Z"],"entry-type":["bookmark"],"name":["Asana/kraken · GitHub"],"bookmark-of":["https://github.com/Asana/kraken"],"category":["fromifttt","github","via-pinboard"],"slug":["asana-kraken-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-03-06T16:57:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Asana/kraken · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/Asana/kraken"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "asana-kraken-github"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["RepTilia_art_movement"],"photo":["https://instagramimages-a.akamaihd.net/profiles/profile_313234914_75sq_1365540942.jpg"],"url":["http://instagram.com/reptilia_art_movement"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "RepTilia_art_movement"
+    ],
+    "photo": [
+      "https://instagramimages-a.akamaihd.net/profiles/profile_313234914_75sq_1365540942.jpg"
+    ],
+    "url": [
+      "http://instagram.com/reptilia_art_movement"
+    ]
+  }
+}

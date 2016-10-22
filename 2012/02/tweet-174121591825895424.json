@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Hearing about cows painted with QR codes at #mwc12. Finally found a use for them."],"published":["2012-02-27T13:19:57Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/174121591825895424"],"slug":["tweet-174121591825895424"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hearing about cows painted with QR codes at #mwc12. Finally found a use for them."
+    ],
+    "published": [
+      "2012-02-27T13:19:57Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/174121591825895424"
+    ],
+    "slug": [
+      "tweet-174121591825895424"
+    ]
+  }
+}

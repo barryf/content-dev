@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Textmate Javascript bundle that provides validation/syntax checking and minification tools\n"],"published":["2009-01-24T16:59:43Z"],"entry-type":["bookmark"],"name":["johnmuhl's javascript-tools-tmbundle"],"bookmark-of":["http://github.com/johnmuhl/javascript-tools-tmbundle/tree/master"],"category":["javascript","textmate","tmbundle","bundle","plugin","dev","via-pinboard"],"slug":["johnmuhl-s-javascript-tools-tmbundle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Textmate Javascript bundle that provides validation/syntax checking and minification tools\n"
+    ],
+    "published": [
+      "2009-01-24T16:59:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "johnmuhl's javascript-tools-tmbundle"
+    ],
+    "bookmark-of": [
+      "http://github.com/johnmuhl/javascript-tools-tmbundle/tree/master"
+    ],
+    "category": [
+      "javascript",
+      "textmate",
+      "tmbundle",
+      "bundle",
+      "plugin",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "johnmuhl-s-javascript-tools-tmbundle"
+    ]
+  }
+}

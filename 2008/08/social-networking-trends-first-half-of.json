@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-08-03T09:42:49Z"],"entry-type":["bookmark"],"name":["Social Networking Trends (first half of 2008)"],"bookmark-of":["http://www.insidefacebook.com/2008/07/27/intriguing-trends-in-social-networking-growth-during-1h-2008/"],"category":["social","socialnetworking","facebook","trends","statistics","2008","via-pinboard"],"slug":["social-networking-trends-first-half-of"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-08-03T09:42:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Social Networking Trends (first half of 2008)"
+    ],
+    "bookmark-of": [
+      "http://www.insidefacebook.com/2008/07/27/intriguing-trends-in-social-networking-growth-during-1h-2008/"
+    ],
+    "category": [
+      "social",
+      "socialnetworking",
+      "facebook",
+      "trends",
+      "statistics",
+      "2008",
+      "via-pinboard"
+    ],
+    "slug": [
+      "social-networking-trends-first-half-of"
+    ]
+  }
+}

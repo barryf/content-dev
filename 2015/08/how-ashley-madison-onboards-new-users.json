@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2015-08-12T08:34:24Z"],"entry-type":["bookmark"],"name":["How Ashley Madison Onboards New Users"],"bookmark-of":["http://www.useronboard.com/how-ashleymadison-onboards-new-users/"],"category":["ux","onboarding","dating","patterns"],"slug":["how-ashley-madison-onboards-new-users"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-08-12T08:34:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How Ashley Madison Onboards New Users"
+    ],
+    "bookmark-of": [
+      "http://www.useronboard.com/how-ashleymadison-onboards-new-users/"
+    ],
+    "category": [
+      "ux",
+      "onboarding",
+      "dating",
+      "patterns"
+    ],
+    "slug": [
+      "how-ashley-madison-onboards-new-users"
+    ]
+  }
+}

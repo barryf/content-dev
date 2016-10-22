@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Greasemonkey script for removing a MySpace profile page's style.\n"],"published":["2006-09-21T11:07:00Z"],"entry-type":["bookmark"],"name":["Userscripts.org: Myspace custom style remover"],"bookmark-of":["http://userscripts.org/scripts/show/3316"],"category":["firefox","greasemonkey","myspace","via-pinboard"],"slug":["userscripts-org-myspace-custom-style-remover"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Greasemonkey script for removing a MySpace profile page's style.\n"
+    ],
+    "published": [
+      "2006-09-21T11:07:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Userscripts.org: Myspace custom style remover"
+    ],
+    "bookmark-of": [
+      "http://userscripts.org/scripts/show/3316"
+    ],
+    "category": [
+      "firefox",
+      "greasemonkey",
+      "myspace",
+      "via-pinboard"
+    ],
+    "slug": [
+      "userscripts-org-myspace-custom-style-remover"
+    ]
+  }
+}

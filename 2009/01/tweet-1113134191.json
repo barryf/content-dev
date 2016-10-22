@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ryancarson Orchestrate sounds like exactly what I need right now. Work harder on those wireframes!"],"published":["2009-01-12T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14763/status/1113108201"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1113134191"],"slug":["tweet-1113134191"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ryancarson Orchestrate sounds like exactly what I need right now. Work harder on those wireframes!"
+    ],
+    "published": [
+      "2009-01-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14763/status/1113108201"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1113134191"
+    ],
+    "slug": [
+      "tweet-1113134191"
+    ]
+  }
+}

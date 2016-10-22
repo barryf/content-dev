@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://brid-gy.appspot.com/like/twitter/barryf/417676306151911424/139199211"],"published":["2014-02-16T20:48:48Z"],"content":["favorited this."],"like-of":["https://barryfrost.com"],"author":["http://twitter.com/schnarfed"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://brid-gy.appspot.com/like/twitter/barryf/417676306151911424/139199211"
+    ],
+    "published": [
+      "2014-02-16T20:48:48Z"
+    ],
+    "content": [
+      "favorited this."
+    ],
+    "like-of": [
+      "https://barryfrost.com"
+    ],
+    "author": [
+      "http://twitter.com/schnarfed"
+    ]
+  }
+}

@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-27T09:58:50Z"],"entry-type":["bookmark"],"name":["Kid by Example"],"bookmark-of":["http://naeblis.cx/rtomayko/2005/01/26/kid-by-example"],"category":["python","via-pinboard"],"slug":["kid-by-example"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-27T09:58:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Kid by Example"
+    ],
+    "bookmark-of": [
+      "http://naeblis.cx/rtomayko/2005/01/26/kid-by-example"
+    ],
+    "category": [
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kid-by-example"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Startup listing all of their (his) expenses in building Cushion"],"published":["2015-05-15T13:20:31Z"],"entry-type":["bookmark"],"name":["Cushion - Expenses"],"bookmark-of":["http://cushionapp.com/expenses/"],"category":["startup","expenses","business"],"slug":["cushion-expenses"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Startup listing all of their (his) expenses in building Cushion"
+    ],
+    "published": [
+      "2015-05-15T13:20:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Cushion - Expenses"
+    ],
+    "bookmark-of": [
+      "http://cushionapp.com/expenses/"
+    ],
+    "category": [
+      "startup",
+      "expenses",
+      "business"
+    ],
+    "slug": [
+      "cushion-expenses"
+    ]
+  }
+}

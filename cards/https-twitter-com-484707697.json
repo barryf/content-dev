@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Lesley VS"],"photo":["http://pbs.twimg.com/profile_images/523603022241603585/okM3Yrn3_normal.jpeg"],"url":["https://twitter.com/LStutter"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Lesley VS"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/523603022241603585/okM3Yrn3_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/LStutter"
+    ]
+  }
+}

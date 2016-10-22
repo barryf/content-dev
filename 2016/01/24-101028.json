@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2016-01-24T10:10:28Z"],"entry-type":["like"],"like-of":["https://instagram.com/p/BA6EeQHA9Te/"],"category":["indiewebcamp"],"syndication":["https://instagram.com/p/BA6EeQHA9Te/#liked-by-667045"],"slug":["24-101028"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-01-24T10:10:28Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://instagram.com/p/BA6EeQHA9Te/"
+    ],
+    "category": [
+      "indiewebcamp"
+    ],
+    "syndication": [
+      "https://instagram.com/p/BA6EeQHA9Te/#liked-by-667045"
+    ],
+    "slug": [
+      "24-101028"
+    ]
+  }
+}

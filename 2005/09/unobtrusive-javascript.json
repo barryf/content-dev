@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-21T13:42:12Z"],"entry-type":["bookmark"],"name":["Unobtrusive Javascript"],"bookmark-of":["http://www.onlinetools.org/articles/unobtrusivejavascript/"],"category":["javascript","tutorial","web","dev","via-pinboard"],"slug":["unobtrusive-javascript"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-21T13:42:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Unobtrusive Javascript"
+    ],
+    "bookmark-of": [
+      "http://www.onlinetools.org/articles/unobtrusivejavascript/"
+    ],
+    "category": [
+      "javascript",
+      "tutorial",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "unobtrusive-javascript"
+    ]
+  }
+}

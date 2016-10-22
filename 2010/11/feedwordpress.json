@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Simple and flexible Atom/RSS syndication for WordPress. Used by Mark Boulton to insert Delicious links into his blog.\n"],"published":["2010-11-30T15:29:09Z"],"entry-type":["bookmark"],"name":["FeedWordPress"],"bookmark-of":["http://feedwordpress.radgeek.com/"],"category":["wordpress","rss","atom","delicious","blog","feed","via-pinboard"],"slug":["feedwordpress"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simple and flexible Atom/RSS syndication for WordPress. Used by Mark Boulton to insert Delicious links into his blog.\n"
+    ],
+    "published": [
+      "2010-11-30T15:29:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FeedWordPress"
+    ],
+    "bookmark-of": [
+      "http://feedwordpress.radgeek.com/"
+    ],
+    "category": [
+      "wordpress",
+      "rss",
+      "atom",
+      "delicious",
+      "blog",
+      "feed",
+      "via-pinboard"
+    ],
+    "slug": [
+      "feedwordpress"
+    ]
+  }
+}

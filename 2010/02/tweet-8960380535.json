@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@BradHaverly Make sure you keep your girlfriend well away from John Terry in the VIP lounge."],"published":["2010-02-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/8960380535"],"slug":["tweet-8960380535"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BradHaverly Make sure you keep your girlfriend well away from John Terry in the VIP lounge."
+    ],
+    "published": [
+      "2010-02-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/8960380535"
+    ],
+    "slug": [
+      "tweet-8960380535"
+    ]
+  }
+}

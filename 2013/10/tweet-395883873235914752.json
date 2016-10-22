@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@JohnCStaunton Great. Will see you then."],"published":["2013-10-31T12:04:05Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/390086047/status/395882273394163712"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/395883873235914752"],"slug":["tweet-395883873235914752"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@JohnCStaunton Great. Will see you then."
+    ],
+    "published": [
+      "2013-10-31T12:04:05Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/390086047/status/395882273394163712"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/395883873235914752"
+    ],
+    "slug": [
+      "tweet-395883873235914752"
+    ]
+  }
+}

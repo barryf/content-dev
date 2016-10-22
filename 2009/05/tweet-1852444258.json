@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter I'm hoping you went for a nice chunky gold sovereign for yourself."],"published":["2009-05-19T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/1851234788"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1852444258"],"slug":["tweet-1852444258"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter I'm hoping you went for a nice chunky gold sovereign for yourself."
+    ],
+    "published": [
+      "2009-05-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/1851234788"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1852444258"
+    ],
+    "slug": [
+      "tweet-1852444258"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Now that there’s a @tapbots client for ADN I’ve stumped up the cash to join. Find me over there as barryf http://bfr.st/Uhh58u #adn"],"published":["2012-10-04T13:17:36Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/253846332677189632"],"slug":["tweet-253846332677189632"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Now that there’s a @tapbots client for ADN I’ve stumped up the cash to join. Find me over there as barryf http://bfr.st/Uhh58u #adn"
+    ],
+    "published": [
+      "2012-10-04T13:17:36Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/253846332677189632"
+    ],
+    "slug": [
+      "tweet-253846332677189632"
+    ]
+  }
+}

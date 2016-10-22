@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Phone call and SMS alerts for monitoring a live system. Includes rotas and scheduling.\n"],"published":["2011-12-03T19:35:49Z"],"entry-type":["bookmark"],"name":["PagerDuty"],"bookmark-of":["http://www.pagerduty.com/"],"category":["monitoring","sysadmin","sms","alerts","phone","via-pinboard"],"slug":["pagerduty"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Phone call and SMS alerts for monitoring a live system. Includes rotas and scheduling.\n"
+    ],
+    "published": [
+      "2011-12-03T19:35:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PagerDuty"
+    ],
+    "bookmark-of": [
+      "http://www.pagerduty.com/"
+    ],
+    "category": [
+      "monitoring",
+      "sysadmin",
+      "sms",
+      "alerts",
+      "phone",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pagerduty"
+    ]
+  }
+}

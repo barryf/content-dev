@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Long but rewarding day recruiting for @globaldev at Silicon Milkroundabout in London. Big thanks to @jasonkneen @tomgiddings @jimeh #smr"],"published":["2011-10-30T19:21:51Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/130726125113581568"],"slug":["tweet-130726125113581568"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Long but rewarding day recruiting for @globaldev at Silicon Milkroundabout in London. Big thanks to @jasonkneen @tomgiddings @jimeh #smr"
+    ],
+    "published": [
+      "2011-10-30T19:21:51Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/130726125113581568"
+    ],
+    "slug": [
+      "tweet-130726125113581568"
+    ]
+  }
+}

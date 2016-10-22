@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Rails training and workshops from thoughbot"],"published":["2014-05-27T16:49:31Z"],"entry-type":["bookmark"],"name":["thoughtbot Learn"],"bookmark-of":["https://learn.thoughtbot.com/prime"],"category":["rails","training","course","ruby","via-pinboard"],"slug":["thoughtbot-learn"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails training and workshops from thoughbot"
+    ],
+    "published": [
+      "2014-05-27T16:49:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "thoughtbot Learn"
+    ],
+    "bookmark-of": [
+      "https://learn.thoughtbot.com/prime"
+    ],
+    "category": [
+      "rails",
+      "training",
+      "course",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "thoughtbot-learn"
+    ]
+  }
+}

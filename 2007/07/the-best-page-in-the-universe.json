@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["An angry young man who swears beautifully. I approve.\n"],"published":["2007-07-18T12:06:38Z"],"entry-type":["bookmark"],"name":["The Best Page In The Universe."],"bookmark-of":["http://maddox.xmission.com/"],"category":["fun","geek","humour","via-pinboard"],"slug":["the-best-page-in-the-universe"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "An angry young man who swears beautifully. I approve.\n"
+    ],
+    "published": [
+      "2007-07-18T12:06:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Best Page In The Universe."
+    ],
+    "bookmark-of": [
+      "http://maddox.xmission.com/"
+    ],
+    "category": [
+      "fun",
+      "geek",
+      "humour",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-best-page-in-the-universe"
+    ]
+  }
+}

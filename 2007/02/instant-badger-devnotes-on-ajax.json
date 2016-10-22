@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["Hal Helms' old skool FLiP client feedback system updated to use Ajax\n"],"published":["2007-02-12T22:01:51Z"],"entry-type":["bookmark"],"name":["Instant Badger: DevNotes On AJAX"],"bookmark-of":["http://instantbadger.blogspot.com/2007/02/devnotes-on-ajax.html"],"category":["ajax","coldfusion","flip","methodology","web","dev","client","design","useful","business","work","via-pinboard"],"slug":["instant-badger-devnotes-on-ajax"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hal Helms' old skool FLiP client feedback system updated to use Ajax\n"
+    ],
+    "published": [
+      "2007-02-12T22:01:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Instant Badger: DevNotes On AJAX"
+    ],
+    "bookmark-of": [
+      "http://instantbadger.blogspot.com/2007/02/devnotes-on-ajax.html"
+    ],
+    "category": [
+      "ajax",
+      "coldfusion",
+      "flip",
+      "methodology",
+      "web",
+      "dev",
+      "client",
+      "design",
+      "useful",
+      "business",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "instant-badger-devnotes-on-ajax"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@BradHaverly Go into Mission Control, move your pointer to the top and a + icon will slide out."],"published":["2011-07-22T22:31:13Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/94534995363897344"],"slug":["tweet-94534995363897344"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BradHaverly Go into Mission Control, move your pointer to the top and a + icon will slide out."
+    ],
+    "published": [
+      "2011-07-22T22:31:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/94534995363897344"
+    ],
+    "slug": [
+      "tweet-94534995363897344"
+    ]
+  }
+}

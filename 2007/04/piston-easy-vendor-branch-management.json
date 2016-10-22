@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Manage remote parts of your Subversion repository - update them periodically rather than all the time with svn:externals\n"],"published":["2007-04-22T18:25:45Z"],"entry-type":["bookmark"],"name":["Piston ~ Easy Vendor Branch Management"],"bookmark-of":["http://piston.rubyforge.org/usage.html"],"category":["svn","subversion","ruby","plugin","rails","piston","via-pinboard"],"slug":["piston-easy-vendor-branch-management"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Manage remote parts of your Subversion repository - update them periodically rather than all the time with svn:externals\n"
+    ],
+    "published": [
+      "2007-04-22T18:25:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Piston ~ Easy Vendor Branch Management"
+    ],
+    "bookmark-of": [
+      "http://piston.rubyforge.org/usage.html"
+    ],
+    "category": [
+      "svn",
+      "subversion",
+      "ruby",
+      "plugin",
+      "rails",
+      "piston",
+      "via-pinboard"
+    ],
+    "slug": [
+      "piston-easy-vendor-branch-management"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-12-08T21:11:51Z"],"entry-type":["bookmark"],"name":["There is no fold"],"bookmark-of":["http://thereisnofold.tumblr.com"],"category":["fold","layout","advocacy","design","via-pinboard"],"slug":["there-is-no-fold"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-12-08T21:11:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "There is no fold"
+    ],
+    "bookmark-of": [
+      "http://thereisnofold.tumblr.com"
+    ],
+    "category": [
+      "fold",
+      "layout",
+      "advocacy",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "there-is-no-fold"
+    ]
+  }
+}

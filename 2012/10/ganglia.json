@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Scalable distributed monitoring system for high-performance computing systems such as clusters"],"published":["2012-10-11T14:01:40Z"],"entry-type":["bookmark"],"name":["Ganglia"],"bookmark-of":["http://ganglia.sourceforge.net/"],"category":["monitoring","sysadmin","cluster","linux","via-pinboard"],"slug":["ganglia"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Scalable distributed monitoring system for high-performance computing systems such as clusters"
+    ],
+    "published": [
+      "2012-10-11T14:01:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ganglia"
+    ],
+    "bookmark-of": [
+      "http://ganglia.sourceforge.net/"
+    ],
+    "category": [
+      "monitoring",
+      "sysadmin",
+      "cluster",
+      "linux",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ganglia"
+    ]
+  }
+}

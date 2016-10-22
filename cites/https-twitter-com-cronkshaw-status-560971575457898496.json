@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/cronkshaw/status/560971575457898496"],"published":["2015-01-30T01:23:40Z"],"content":["@barryf Stunning app on iOS. Bit buggy on android"],"in-reply-to":["https://barryfrost.com/2015/01/outlook-for-ios-android-http-youtu"],"author":["http://cronkshaw.net"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/cronkshaw/status/560971575457898496"
+    ],
+    "published": [
+      "2015-01-30T01:23:40Z"
+    ],
+    "content": [
+      "@barryf Stunning app on iOS. Bit buggy on android"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/01/outlook-for-ios-android-http-youtu"
+    ],
+    "author": [
+      "http://cronkshaw.net"
+    ]
+  }
+}

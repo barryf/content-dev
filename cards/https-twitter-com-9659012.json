@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Rob Young"],"photo":["http://pbs.twimg.com/profile_images/435561350828265472/WHpEfXP0_normal.jpeg"],"url":["https://twitter.com/robyoung26"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Rob Young"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/435561350828265472/WHpEfXP0_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/robyoung26"
+    ]
+  }
+}

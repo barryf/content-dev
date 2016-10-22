@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Perfect. Next thing I make I intend to use one of these palettes."],"published":["2014-03-19T11:06:41Z"],"entry-type":["bookmark"],"name":["Wes Anderson Palettes"],"bookmark-of":["http://wesandersonpalettes.tumblr.com/"],"category":["colour","color","palette","design","wesanderson","via-pinboard"],"slug":["wes-anderson-palettes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Perfect. Next thing I make I intend to use one of these palettes."
+    ],
+    "published": [
+      "2014-03-19T11:06:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Wes Anderson Palettes"
+    ],
+    "bookmark-of": [
+      "http://wesandersonpalettes.tumblr.com/"
+    ],
+    "category": [
+      "colour",
+      "color",
+      "palette",
+      "design",
+      "wesanderson",
+      "via-pinboard"
+    ],
+    "slug": [
+      "wes-anderson-palettes"
+    ]
+  }
+}

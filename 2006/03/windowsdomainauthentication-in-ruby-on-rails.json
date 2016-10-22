@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Integrating Rails with Windows security on IIS\n"],"published":["2006-03-17T09:03:51Z"],"entry-type":["bookmark"],"name":["WindowsDomainAuthentication in Ruby on Rails"],"bookmark-of":["http://wiki.rubyonrails.com/rails/pages/WindowsDomainAuthentication"],"category":["rails","windows","iis","security","domain","web","via-pinboard"],"slug":["windowsdomainauthentication-in-ruby-on-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Integrating Rails with Windows security on IIS\n"
+    ],
+    "published": [
+      "2006-03-17T09:03:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "WindowsDomainAuthentication in Ruby on Rails"
+    ],
+    "bookmark-of": [
+      "http://wiki.rubyonrails.com/rails/pages/WindowsDomainAuthentication"
+    ],
+    "category": [
+      "rails",
+      "windows",
+      "iis",
+      "security",
+      "domain",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "windowsdomainauthentication-in-ruby-on-rails"
+    ]
+  }
+}

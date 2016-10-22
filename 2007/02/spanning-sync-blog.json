@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Syncs iCal with Google Calendar - bidirectionally. Free while in beta\n"],"published":["2007-02-11T18:01:48Z"],"entry-type":["bookmark"],"name":["Spanning Sync Blog"],"bookmark-of":["http://blog.spanningsync.com/"],"category":["google","ical","calendar","mac","sync","gcal","via-pinboard"],"slug":["spanning-sync-blog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Syncs iCal with Google Calendar - bidirectionally. Free while in beta\n"
+    ],
+    "published": [
+      "2007-02-11T18:01:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Spanning Sync Blog"
+    ],
+    "bookmark-of": [
+      "http://blog.spanningsync.com/"
+    ],
+    "category": [
+      "google",
+      "ical",
+      "calendar",
+      "mac",
+      "sync",
+      "gcal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "spanning-sync-blog"
+    ]
+  }
+}

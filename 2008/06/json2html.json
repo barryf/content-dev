@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Visualise a JSON structure in nested HTML\n"],"published":["2008-06-30T07:09:51Z"],"entry-type":["bookmark"],"name":["JSON2HTML"],"bookmark-of":["http://json.budgetwebdesign.org/"],"category":["json","html","javascript","visualisation","code","data","via-pinboard"],"slug":["json2html"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Visualise a JSON structure in nested HTML\n"
+    ],
+    "published": [
+      "2008-06-30T07:09:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JSON2HTML"
+    ],
+    "bookmark-of": [
+      "http://json.budgetwebdesign.org/"
+    ],
+    "category": [
+      "json",
+      "html",
+      "javascript",
+      "visualisation",
+      "code",
+      "data",
+      "via-pinboard"
+    ],
+    "slug": [
+      "json2html"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@tedel Thanks for the interest, but these are dating sites running on our platform. We don't advertise third parties on the WLD site."],"published":["2012-03-01T11:15:03Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/175177324264833024"],"slug":["tweet-175177324264833024"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@tedel Thanks for the interest, but these are dating sites running on our platform. We don't advertise third parties on the WLD site."
+    ],
+    "published": [
+      "2012-03-01T11:15:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/175177324264833024"
+    ],
+    "slug": [
+      "tweet-175177324264833024"
+    ]
+  }
+}

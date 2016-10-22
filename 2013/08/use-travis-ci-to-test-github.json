@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2013-08-14T12:33:55Z"],"entry-type":["bookmark"],"name":["Use Travis CI to test GitHub pages builds"],"bookmark-of":["https://help.github.com/articles/pages-don-t-build-unable-to-run-jekyll#viewing-build-error-messages"],"category":["travisci","ci","github","pages","build","test","via-pinboard"],"slug":["use-travis-ci-to-test-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-08-14T12:33:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Use Travis CI to test GitHub pages builds"
+    ],
+    "bookmark-of": [
+      "https://help.github.com/articles/pages-don-t-build-unable-to-run-jekyll#viewing-build-error-messages"
+    ],
+    "category": [
+      "travisci",
+      "ci",
+      "github",
+      "pages",
+      "build",
+      "test",
+      "via-pinboard"
+    ],
+    "slug": [
+      "use-travis-ci-to-test-github"
+    ]
+  }
+}

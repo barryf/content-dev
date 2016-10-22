@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Hairy cow http://twitter.com/barryf/status/201643770578599936/photo/1"],"published":["2012-05-13T12:03:16Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/201643770578599936"],"slug":["tweet-201643770578599936"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hairy cow http://twitter.com/barryf/status/201643770578599936/photo/1"
+    ],
+    "published": [
+      "2012-05-13T12:03:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/201643770578599936"
+    ],
+    "slug": [
+      "tweet-201643770578599936"
+    ]
+  }
+}

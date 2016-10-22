@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Hacker Safe: PCI compliancy, vulnerability scans, etc\n"],"published":["2007-05-25T14:58:15Z"],"entry-type":["bookmark"],"name":["https://www.scanalert.com/"],"bookmark-of":["https://www.scanalert.com/"],"category":["security","ecommerce","web","hacker","hacking","hack","business","pci","via-pinboard"],"slug":["https-www-scanalert-com"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hacker Safe: PCI compliancy, vulnerability scans, etc\n"
+    ],
+    "published": [
+      "2007-05-25T14:58:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "https://www.scanalert.com/"
+    ],
+    "bookmark-of": [
+      "https://www.scanalert.com/"
+    ],
+    "category": [
+      "security",
+      "ecommerce",
+      "web",
+      "hacker",
+      "hacking",
+      "hack",
+      "business",
+      "pci",
+      "via-pinboard"
+    ],
+    "slug": [
+      "https-www-scanalert-com"
+    ]
+  }
+}

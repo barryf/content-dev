@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@aaronpk Thanks very much! Please do :) I wanted to pull together the separate #indieweb components I'd read about in one place."],"published":["2013-09-16T11:27:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14447132/status/379382350854881280"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/379567158021607424"],"slug":["tweet-379567158021607424"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@aaronpk Thanks very much! Please do :) I wanted to pull together the separate #indieweb components I'd read about in one place."
+    ],
+    "published": [
+      "2013-09-16T11:27:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14447132/status/379382350854881280"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/379567158021607424"
+    ],
+    "slug": [
+      "tweet-379567158021607424"
+    ]
+  }
+}

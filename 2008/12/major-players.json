@@ -1,1 +1,41 @@
-{"type":["h-entry"],"properties":{"content":["Recruitment Advertising, Marketing, Public Relations PR, Design and Digital Jobs UK\n"],"published":["2008-12-08T22:20:49Z"],"entry-type":["bookmark"],"name":["Major Players"],"bookmark-of":["http://www.majorplayers.co.uk/"],"category":["work","job","employment","uk","london","advertising","pr","marketing","design","media","career","recruitment","forrosswilliams","via-pinboard"],"slug":["major-players"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Recruitment Advertising, Marketing, Public Relations PR, Design and Digital Jobs UK\n"
+    ],
+    "published": [
+      "2008-12-08T22:20:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Major Players"
+    ],
+    "bookmark-of": [
+      "http://www.majorplayers.co.uk/"
+    ],
+    "category": [
+      "work",
+      "job",
+      "employment",
+      "uk",
+      "london",
+      "advertising",
+      "pr",
+      "marketing",
+      "design",
+      "media",
+      "career",
+      "recruitment",
+      "forrosswilliams",
+      "via-pinboard"
+    ],
+    "slug": [
+      "major-players"
+    ]
+  }
+}

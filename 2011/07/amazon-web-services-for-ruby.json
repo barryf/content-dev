@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Includes access to S3, EC2, SimpleDB and more, all through the AWS gem.\n"],"published":["2011-07-17T11:29:54Z"],"entry-type":["bookmark"],"name":["Amazon Web Services for Ruby"],"bookmark-of":["https://github.com/amazonwebservices/aws-sdk-for-ruby"],"category":["ruby","gem","aws","s3","ec2","simpledb","server","cloud","via-pinboard"],"slug":["amazon-web-services-for-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Includes access to S3, EC2, SimpleDB and more, all through the AWS gem.\n"
+    ],
+    "published": [
+      "2011-07-17T11:29:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Amazon Web Services for Ruby"
+    ],
+    "bookmark-of": [
+      "https://github.com/amazonwebservices/aws-sdk-for-ruby"
+    ],
+    "category": [
+      "ruby",
+      "gem",
+      "aws",
+      "s3",
+      "ec2",
+      "simpledb",
+      "server",
+      "cloud",
+      "via-pinboard"
+    ],
+    "slug": [
+      "amazon-web-services-for-ruby"
+    ]
+  }
+}

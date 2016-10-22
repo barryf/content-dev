@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Create bold, italic, small caps and more for cut-and-pasting"],"published":["2013-10-10T12:59:19Z"],"entry-type":["bookmark"],"name":["Unicode Text Converter"],"bookmark-of":["http://www.panix.com/~eli/unicode/convert.cgi?text=unicode+is+fun"],"category":["unicode","text","effects","bold","italic","cutandpaste","via-pinboard"],"slug":["unicode-text-converter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Create bold, italic, small caps and more for cut-and-pasting"
+    ],
+    "published": [
+      "2013-10-10T12:59:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Unicode Text Converter"
+    ],
+    "bookmark-of": [
+      "http://www.panix.com/~eli/unicode/convert.cgi?text=unicode+is+fun"
+    ],
+    "category": [
+      "unicode",
+      "text",
+      "effects",
+      "bold",
+      "italic",
+      "cutandpaste",
+      "via-pinboard"
+    ],
+    "slug": [
+      "unicode-text-converter"
+    ]
+  }
+}

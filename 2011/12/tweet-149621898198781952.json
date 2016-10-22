@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@johannduplessis Thanks Johann. There's some interesting stuff underneath. Looking forward to seeing how you use it."],"published":["2011-12-21T22:46:55Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15177845/status/149598531471159296"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/149621898198781952"],"slug":["tweet-149621898198781952"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@johannduplessis Thanks Johann. There's some interesting stuff underneath. Looking forward to seeing how you use it."
+    ],
+    "published": [
+      "2011-12-21T22:46:55Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15177845/status/149598531471159296"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/149621898198781952"
+    ],
+    "slug": [
+      "tweet-149621898198781952"
+    ]
+  }
+}

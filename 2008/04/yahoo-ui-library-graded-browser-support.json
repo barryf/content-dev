@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Which browsers Yahoo supports. Key point is that your site doesn't need to look the same in all browsers, just the A-graders\n"],"published":["2008-04-19T10:41:28Z"],"entry-type":["bookmark"],"name":["Yahoo! UI Library: Graded Browser Support"],"bookmark-of":["http://developer.yahoo.com/yui/articles/gbs/"],"category":["browser","standards","yahoo","reference","support","testing","web","via-pinboard"],"slug":["yahoo-ui-library-graded-browser-support"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Which browsers Yahoo supports. Key point is that your site doesn't need to look the same in all browsers, just the A-graders\n"
+    ],
+    "published": [
+      "2008-04-19T10:41:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Yahoo! UI Library: Graded Browser Support"
+    ],
+    "bookmark-of": [
+      "http://developer.yahoo.com/yui/articles/gbs/"
+    ],
+    "category": [
+      "browser",
+      "standards",
+      "yahoo",
+      "reference",
+      "support",
+      "testing",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "yahoo-ui-library-graded-browser-support"
+    ]
+  }
+}

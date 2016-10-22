@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-05-29T19:55:42Z"],"entry-type":["bookmark"],"name":["RFacebook (formerly RBook): a Ruby Client for Facebook API 1.0"],"bookmark-of":["http://www.livelearncode.com/archives/14"],"category":["facebook","ruby","rails","api","mashup","via-pinboard"],"slug":["rfacebook-formerly-rbook-a-ruby-client"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-05-29T19:55:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RFacebook (formerly RBook): a Ruby Client for Facebook API 1.0"
+    ],
+    "bookmark-of": [
+      "http://www.livelearncode.com/archives/14"
+    ],
+    "category": [
+      "facebook",
+      "ruby",
+      "rails",
+      "api",
+      "mashup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rfacebook-formerly-rbook-a-ruby-client"
+    ]
+  }
+}

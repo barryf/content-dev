@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Rediscovering Radiohead's awesome Airbag/How Am I Driving? EP from years ago on @spotify - http://bit.ly/JaKhL"],"published":["2009-09-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3989125065"],"slug":["tweet-3989125065"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rediscovering Radiohead's awesome Airbag/How Am I Driving? EP from years ago on @spotify - http://bit.ly/JaKhL"
+    ],
+    "published": [
+      "2009-09-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3989125065"
+    ],
+    "slug": [
+      "tweet-3989125065"
+    ]
+  }
+}

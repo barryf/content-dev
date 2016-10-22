@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["from O'Reilly\n"],"published":["2004-09-20T13:50:34Z"],"entry-type":["bookmark"],"name":["A Python Quick Reference to Useful Commands"],"bookmark-of":["http://www.onlamp.com/pub/a/python/excerpt/PythonPocketRef/index.html"],"category":["python","via-pinboard"],"slug":["a-python-quick-reference-to-useful"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "from O'Reilly\n"
+    ],
+    "published": [
+      "2004-09-20T13:50:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Python Quick Reference to Useful Commands"
+    ],
+    "bookmark-of": [
+      "http://www.onlamp.com/pub/a/python/excerpt/PythonPocketRef/index.html"
+    ],
+    "category": [
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-python-quick-reference-to-useful"
+    ]
+  }
+}

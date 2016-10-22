@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-01T11:46:51Z"],"entry-type":["bookmark"],"name":["Blueprint: Responsive Full Width Tabs"],"bookmark-of":["http://tympanus.net/Blueprints/FullWidthTabs/"],"category":["tabs","tab","responsive","css","via-pinboard"],"slug":["blueprint-responsive-full-width-tabs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-01T11:46:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Blueprint: Responsive Full Width Tabs"
+    ],
+    "bookmark-of": [
+      "http://tympanus.net/Blueprints/FullWidthTabs/"
+    ],
+    "category": [
+      "tabs",
+      "tab",
+      "responsive",
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "blueprint-responsive-full-width-tabs"
+    ]
+  }
+}

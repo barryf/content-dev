@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Tripped me up today: Heroku's GitHub auto-deployer doesn't (currently) include git submodules "],"published":["2015-08-25T20:00:16Z"],"entry-type":["note"],"summary":["Tripped me up today: Heroku's GitHub auto-deployer doesn't (currently) include git submodules "],"category":["github","heroku","git"],"syndication":["https://twitter.com/barryf/status/636266880508948480"],"slug":["tripped-me-up-today-heroku-s"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tripped me up today: Heroku's GitHub auto-deployer doesn't (currently) include git submodules "
+    ],
+    "published": [
+      "2015-08-25T20:00:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "Tripped me up today: Heroku's GitHub auto-deployer doesn't (currently) include git submodules "
+    ],
+    "category": [
+      "github",
+      "heroku",
+      "git"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/636266880508948480"
+    ],
+    "slug": [
+      "tripped-me-up-today-heroku-s"
+    ]
+  }
+}

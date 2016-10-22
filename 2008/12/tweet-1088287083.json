@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd Me too: had my hair cut this morning. New year, new barnet. Best wishes to you and the crew for 2009 btw."],"published":["2008-12-31T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/1088280742"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1088287083"],"slug":["tweet-1088287083"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd Me too: had my hair cut this morning. New year, new barnet. Best wishes to you and the crew for 2009 btw."
+    ],
+    "published": [
+      "2008-12-31T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/1088280742"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1088287083"
+    ],
+    "slug": [
+      "tweet-1088287083"
+    ]
+  }
+}

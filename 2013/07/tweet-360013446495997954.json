@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw They do a cracking rice, black beans, pulled pork and plantain lunch box. Just scoffed it in the park next door with team."],"published":["2013-07-24T12:27:49Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/360005916940173312"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/360013446495997954"],"slug":["tweet-360013446495997954"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw They do a cracking rice, black beans, pulled pork and plantain lunch box. Just scoffed it in the park next door with team."
+    ],
+    "published": [
+      "2013-07-24T12:27:49Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/360005916940173312"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/360013446495997954"
+    ],
+    "slug": [
+      "tweet-360013446495997954"
+    ]
+  }
+}

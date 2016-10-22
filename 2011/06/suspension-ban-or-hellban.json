@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Killer idea to deceive scammers/trolls in a community. Hellbanning = invisible to other members but they believe they're still active; Slowbanning = deliberate pageload delays introduced to frustrate them; Errorbanning = random error/http pages.\n"],"published":["2011-06-05T11:20:41Z"],"entry-type":["bookmark"],"name":["Suspension, Ban or Hellban?"],"bookmark-of":["http://www.codinghorror.com/blog/2011/06/suspension-ban-or-hellban.html"],"category":["community","scammer","troll","ban","block","spam","hellban","via-pinboard"],"slug":["suspension-ban-or-hellban"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Killer idea to deceive scammers/trolls in a community. Hellbanning = invisible to other members but they believe they're still active; Slowbanning = deliberate pageload delays introduced to frustrate them; Errorbanning = random error/http pages.\n"
+    ],
+    "published": [
+      "2011-06-05T11:20:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Suspension, Ban or Hellban?"
+    ],
+    "bookmark-of": [
+      "http://www.codinghorror.com/blog/2011/06/suspension-ban-or-hellban.html"
+    ],
+    "category": [
+      "community",
+      "scammer",
+      "troll",
+      "ban",
+      "block",
+      "spam",
+      "hellban",
+      "via-pinboard"
+    ],
+    "slug": [
+      "suspension-ban-or-hellban"
+    ]
+  }
+}

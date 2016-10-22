@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Use Gmail and only Gmail. All accounts in one.\n"],"published":["2008-08-10T18:10:19Z"],"entry-type":["bookmark"],"name":["Inbox Heaven - The Ultimate Email Setup"],"bookmark-of":["http://putthingsoff.com/inbox-heaven/"],"category":["gmail","gtd","productivity","email","via-pinboard"],"slug":["inbox-heaven-the-ultimate-email-setup"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Use Gmail and only Gmail. All accounts in one.\n"
+    ],
+    "published": [
+      "2008-08-10T18:10:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Inbox Heaven - The Ultimate Email Setup"
+    ],
+    "bookmark-of": [
+      "http://putthingsoff.com/inbox-heaven/"
+    ],
+    "category": [
+      "gmail",
+      "gtd",
+      "productivity",
+      "email",
+      "via-pinboard"
+    ],
+    "slug": [
+      "inbox-heaven-the-ultimate-email-setup"
+    ]
+  }
+}

@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["It's now cool to use pixel font sizing\n"],"published":["2008-10-12T19:25:44Z"],"entry-type":["bookmark"],"name":["mezzoblue § Zoom"],"bookmark-of":["http://mezzoblue.com/archives/2008/10/07/zoom/"],"category":["font","design","layout","css","typography","standards","web","zoom","browser","accessibility","via-pinboard"],"slug":["mezzoblue-zoom"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It's now cool to use pixel font sizing\n"
+    ],
+    "published": [
+      "2008-10-12T19:25:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "mezzoblue § Zoom"
+    ],
+    "bookmark-of": [
+      "http://mezzoblue.com/archives/2008/10/07/zoom/"
+    ],
+    "category": [
+      "font",
+      "design",
+      "layout",
+      "css",
+      "typography",
+      "standards",
+      "web",
+      "zoom",
+      "browser",
+      "accessibility",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mezzoblue-zoom"
+    ]
+  }
+}

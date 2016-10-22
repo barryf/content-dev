@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/aliaspooryorik/status/555449196330094593"],"published":["2015-01-14T19:39:42Z"],"content":["Just tried out Finch https://meetfinch.com/ Awesome for testing localhost sites on other devices - and it works out the box!"],"author":["https://twitter.com/aliaspooryorik"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/aliaspooryorik/status/555449196330094593"
+    ],
+    "published": [
+      "2015-01-14T19:39:42Z"
+    ],
+    "content": [
+      "Just tried out Finch https://meetfinch.com/ Awesome for testing localhost sites on other devices - and it works out the box!"
+    ],
+    "author": [
+      "https://twitter.com/aliaspooryorik"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@belkin When is the Wemo coming to the UK? I'd love to buy one here."],"published":["2012-08-07T21:28:17Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/232951320825442305"],"slug":["tweet-232951320825442305"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@belkin When is the Wemo coming to the UK? I'd love to buy one here."
+    ],
+    "published": [
+      "2012-08-07T21:28:17Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/232951320825442305"
+    ],
+    "slug": [
+      "tweet-232951320825442305"
+    ]
+  }
+}

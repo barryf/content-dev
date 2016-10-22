@@ -1,1 +1,19 @@
-{"type":["h-entry"],"properties":{"published":["2015-04-10T18:08:23Z"],"entry-type":["like"],"like-of":["http://www.last.fm/music/Ultrasound/_/Stay+Young"],"slug":["10-190823"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-04-10T18:08:23Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://www.last.fm/music/Ultrasound/_/Stay+Young"
+    ],
+    "slug": [
+      "10-190823"
+    ]
+  }
+}

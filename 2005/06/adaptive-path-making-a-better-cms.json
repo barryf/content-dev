@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Jeff Veen's guide to what a CMS should be\n"],"published":["2005-06-16T09:10:43Z"],"entry-type":["bookmark"],"name":["adaptive path » making a better cms"],"bookmark-of":["http://www.adaptivepath.com/publications/essays/archives/000365.php"],"category":["cms","design","usability","via-pinboard"],"slug":["adaptive-path-making-a-better-cms"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Jeff Veen's guide to what a CMS should be\n"
+    ],
+    "published": [
+      "2005-06-16T09:10:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "adaptive path » making a better cms"
+    ],
+    "bookmark-of": [
+      "http://www.adaptivepath.com/publications/essays/archives/000365.php"
+    ],
+    "category": [
+      "cms",
+      "design",
+      "usability",
+      "via-pinboard"
+    ],
+    "slug": [
+      "adaptive-path-making-a-better-cms"
+    ]
+  }
+}

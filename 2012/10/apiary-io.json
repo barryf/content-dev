@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Creates docs, tests, validations and more for your API"],"published":["2012-10-16T13:40:06Z"],"entry-type":["bookmark"],"name":["apiary.io"],"bookmark-of":["http://apiary.io/"],"category":["api","test","rest","documentation","via-pinboard"],"slug":["apiary-io"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Creates docs, tests, validations and more for your API"
+    ],
+    "published": [
+      "2012-10-16T13:40:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "apiary.io"
+    ],
+    "bookmark-of": [
+      "http://apiary.io/"
+    ],
+    "category": [
+      "api",
+      "test",
+      "rest",
+      "documentation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "apiary-io"
+    ]
+  }
+}

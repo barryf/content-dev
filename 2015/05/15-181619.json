@@ -1,1 +1,19 @@
-{"type":["h-entry"],"properties":{"published":["2015-05-15T17:16:19Z"],"entry-type":["like"],"like-of":["http://www.last.fm/music/Belle+and+Sebastian/_/Dog+On+Wheels"],"slug":["15-181619"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-05-15T17:16:19Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://www.last.fm/music/Belle+and+Sebastian/_/Dog+On+Wheels"
+    ],
+    "slug": [
+      "15-181619"
+    ]
+  }
+}

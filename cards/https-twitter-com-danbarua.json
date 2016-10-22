@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Dan Barua"],"photo":["https://twitter.com/danbarua/profile_image?size=original"],"url":["https://twitter.com/danbarua"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Dan Barua"
+    ],
+    "photo": [
+      "https://twitter.com/danbarua/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/danbarua"
+    ]
+  }
+}

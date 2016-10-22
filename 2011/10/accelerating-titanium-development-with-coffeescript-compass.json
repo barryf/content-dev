@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Useful slides on the technologies, regardless of whether you're using them with Titanium\n"],"published":["2011-10-10T17:53:59Z"],"entry-type":["bookmark"],"name":["Accelerating Titanium Development with CoffeeScript, Compass, and Sass"],"bookmark-of":["http://speakerdeck.com/u/pengwynn/p/accelerating-titanium-development-with-coffeescript-compass-and-sass"],"category":["coffeescript","compass","sass","dev","titanium","via-pinboard"],"slug":["accelerating-titanium-development-with-coffeescript-compass"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful slides on the technologies, regardless of whether you're using them with Titanium\n"
+    ],
+    "published": [
+      "2011-10-10T17:53:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Accelerating Titanium Development with CoffeeScript, Compass, and Sass"
+    ],
+    "bookmark-of": [
+      "http://speakerdeck.com/u/pengwynn/p/accelerating-titanium-development-with-coffeescript-compass-and-sass"
+    ],
+    "category": [
+      "coffeescript",
+      "compass",
+      "sass",
+      "dev",
+      "titanium",
+      "via-pinboard"
+    ],
+    "slug": [
+      "accelerating-titanium-development-with-coffeescript-compass"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-10-06T10:47:50Z"],"entry-type":["like"],"like-of":["https://twitter.com/Tony_Robinson/status/783965707549679616"],"syndication":["https://twitter.com/Tony_Robinson/status/783965707549679616"],"slug":["06-114750"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-10-06T10:47:50Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/Tony_Robinson/status/783965707549679616"
+    ],
+    "syndication": [
+      "https://twitter.com/Tony_Robinson/status/783965707549679616"
+    ],
+    "slug": [
+      "06-114750"
+    ]
+  }
+}

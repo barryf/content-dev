@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["List of publications with a Twitter profile. Very music heavy it seems\n"],"published":["2009-03-13T22:11:13Z"],"entry-type":["bookmark"],"name":["Magazine titles on Twitter - Media UK"],"bookmark-of":["http://www.mediauk.com/magazines/titles/twitter/"],"category":["music","twitter","magazine","uk","media","newspaper","marketing","via-pinboard"],"slug":["magazine-titles-on-twitter-media-uk"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "List of publications with a Twitter profile. Very music heavy it seems\n"
+    ],
+    "published": [
+      "2009-03-13T22:11:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Magazine titles on Twitter - Media UK"
+    ],
+    "bookmark-of": [
+      "http://www.mediauk.com/magazines/titles/twitter/"
+    ],
+    "category": [
+      "music",
+      "twitter",
+      "magazine",
+      "uk",
+      "media",
+      "newspaper",
+      "marketing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "magazine-titles-on-twitter-media-uk"
+    ]
+  }
+}

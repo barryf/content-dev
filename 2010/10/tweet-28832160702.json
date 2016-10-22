@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Alexi_xx I use notifo with pushly for push Twitter alerts http://push.ly/"],"published":["2010-10-26T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23668712/status/28823200609"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/28832160702"],"slug":["tweet-28832160702"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Alexi_xx I use notifo with pushly for push Twitter alerts http://push.ly/"
+    ],
+    "published": [
+      "2010-10-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23668712/status/28823200609"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/28832160702"
+    ],
+    "slug": [
+      "tweet-28832160702"
+    ]
+  }
+}

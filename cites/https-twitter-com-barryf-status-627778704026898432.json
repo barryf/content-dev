@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/627778704026898432"],"published":["2015-08-02T09:51:21Z"],"content":["@tayoakinmade Thanks T"],"in-reply-to":["https://barryfrost.com/2015/08/happy-first-wedding-anniversary-mrs-larrylou"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/627778704026898432"
+    ],
+    "published": [
+      "2015-08-02T09:51:21Z"
+    ],
+    "content": [
+      "@tayoakinmade Thanks T"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/08/happy-first-wedding-anniversary-mrs-larrylou"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

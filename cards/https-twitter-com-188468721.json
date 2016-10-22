@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Jonathan S."],"photo":["http://pbs.twimg.com/profile_images/479700179713413120/M7kSBihd_normal.png"],"url":["https://twitter.com/DesignUXUI"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jonathan S."
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/479700179713413120/M7kSBihd_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/DesignUXUI"
+    ]
+  }
+}

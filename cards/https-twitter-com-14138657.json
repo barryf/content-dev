@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["White Label Dating®"],"photo":["http://pbs.twimg.com/profile_images/435335407283089408/syc046t__normal.jpeg"],"url":["https://twitter.com/wld"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "White Label Dating®"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/435335407283089408/syc046t__normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/wld"
+    ]
+  }
+}

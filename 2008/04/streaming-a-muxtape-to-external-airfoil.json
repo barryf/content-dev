@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["\"Peter is using Fluid to run Muxtape as a pseudo-standalone application and Airfoil to stream the audio around his house.\"\n"],"published":["2008-04-01T22:08:33Z"],"entry-type":["bookmark"],"name":["Streaming a Muxtape to external Airfoil speakers"],"bookmark-of":["http://muxtape.tumblr.com/post/30128380"],"category":["audio","music","fluid","muxtape","airfoil","mashup","inspiration","geek","fun","via-pinboard"],"slug":["streaming-a-muxtape-to-external-airfoil"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Peter is using Fluid to run Muxtape as a pseudo-standalone application and Airfoil to stream the audio around his house.\"\n"
+    ],
+    "published": [
+      "2008-04-01T22:08:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Streaming a Muxtape to external Airfoil speakers"
+    ],
+    "bookmark-of": [
+      "http://muxtape.tumblr.com/post/30128380"
+    ],
+    "category": [
+      "audio",
+      "music",
+      "fluid",
+      "muxtape",
+      "airfoil",
+      "mashup",
+      "inspiration",
+      "geek",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "streaming-a-muxtape-to-external-airfoil"
+    ]
+  }
+}

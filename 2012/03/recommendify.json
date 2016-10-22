@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Recommendify is a ruby/redis based recommendation engine. The recommendations can be updated/processed incrementally and on multiple hosts.\n"],"published":["2012-03-10T19:15:02Z"],"entry-type":["bookmark"],"name":["recommendify"],"bookmark-of":["https://github.com/paulasmuth/recommendify"],"category":["recommend","recommendations","redis","ruby","via-pinboard"],"slug":["recommendify"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Recommendify is a ruby/redis based recommendation engine. The recommendations can be updated/processed incrementally and on multiple hosts.\n"
+    ],
+    "published": [
+      "2012-03-10T19:15:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "recommendify"
+    ],
+    "bookmark-of": [
+      "https://github.com/paulasmuth/recommendify"
+    ],
+    "category": [
+      "recommend",
+      "recommendations",
+      "redis",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "recommendify"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mattjukes Sure, and that's a point I make in my post. Lowers the barrier to entry but loses its simplicity."],"published":["2014-03-27T18:30:09Z"],"entry-type":["reply"],"in-reply-to":["http://barryfrost.com/posts/93"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/449252052649394176"],"slug":["baker-94"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mattjukes Sure, and that's a point I make in my post. Lowers the barrier to entry but loses its simplicity."
+    ],
+    "published": [
+      "2014-03-27T18:30:09Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "http://barryfrost.com/posts/93"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/449252052649394176"
+    ],
+    "slug": [
+      "baker-94"
+    ]
+  }
+}

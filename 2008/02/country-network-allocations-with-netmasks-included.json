@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Shows IP ranges/netmasks for each country. Updated daily.\n"],"published":["2008-02-11T20:41:34Z"],"entry-type":["bookmark"],"name":["Country Network Allocations with Netmasks Included"],"bookmark-of":["http://www.countryipblocks.net/country_netmask.php"],"category":["ip","netmask","internet","country","global","fraud","security","via-pinboard"],"slug":["country-network-allocations-with-netmasks-included"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Shows IP ranges/netmasks for each country. Updated daily.\n"
+    ],
+    "published": [
+      "2008-02-11T20:41:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Country Network Allocations with Netmasks Included"
+    ],
+    "bookmark-of": [
+      "http://www.countryipblocks.net/country_netmask.php"
+    ],
+    "category": [
+      "ip",
+      "netmask",
+      "internet",
+      "country",
+      "global",
+      "fraud",
+      "security",
+      "via-pinboard"
+    ],
+    "slug": [
+      "country-network-allocations-with-netmasks-included"
+    ]
+  }
+}

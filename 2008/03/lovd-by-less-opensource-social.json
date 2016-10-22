@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-03-22T11:24:35Z"],"entry-type":["bookmark"],"name":["Lovd By Less -- Opensource Social"],"bookmark-of":["http://lovdbyless.com/"],"category":["opensource","rails","socialnetworking","social","work","via-pinboard"],"slug":["lovd-by-less-opensource-social"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-03-22T11:24:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Lovd By Less -- Opensource Social"
+    ],
+    "bookmark-of": [
+      "http://lovdbyless.com/"
+    ],
+    "category": [
+      "opensource",
+      "rails",
+      "socialnetworking",
+      "social",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lovd-by-less-opensource-social"
+    ]
+  }
+}

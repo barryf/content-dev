@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Real-time browser-server communication using WebSockets where available, falling back to Flash sockets where not\n"],"published":["2010-10-11T16:47:51Z"],"entry-type":["bookmark"],"name":["Socky"],"bookmark-of":["http://imanel.org/projects/socky/"],"category":["flash","websocket","ssl","javascript","server","realtime","via-pinboard"],"slug":["socky"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Real-time browser-server communication using WebSockets where available, falling back to Flash sockets where not\n"
+    ],
+    "published": [
+      "2010-10-11T16:47:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Socky"
+    ],
+    "bookmark-of": [
+      "http://imanel.org/projects/socky/"
+    ],
+    "category": [
+      "flash",
+      "websocket",
+      "ssl",
+      "javascript",
+      "server",
+      "realtime",
+      "via-pinboard"
+    ],
+    "slug": [
+      "socky"
+    ]
+  }
+}

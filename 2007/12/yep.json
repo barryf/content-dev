@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["PDF indexer and organiser with features for creating a paperless office\n"],"published":["2007-12-23T15:08:24Z"],"entry-type":["bookmark"],"name":["Yep"],"bookmark-of":["http://www.yepthat.com/yep/index.html"],"category":["pdf","mac","paperless","office","work","document","dms","via-pinboard"],"slug":["yep"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "PDF indexer and organiser with features for creating a paperless office\n"
+    ],
+    "published": [
+      "2007-12-23T15:08:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Yep"
+    ],
+    "bookmark-of": [
+      "http://www.yepthat.com/yep/index.html"
+    ],
+    "category": [
+      "pdf",
+      "mac",
+      "paperless",
+      "office",
+      "work",
+      "document",
+      "dms",
+      "via-pinboard"
+    ],
+    "slug": [
+      "yep"
+    ]
+  }
+}

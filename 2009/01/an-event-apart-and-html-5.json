@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Eric Meyer's approach for adopting HTML5 in the recent An Event Apart redesign\n"],"published":["2009-01-24T16:00:09Z"],"entry-type":["bookmark"],"name":["An Event Apart and HTML 5"],"bookmark-of":["http://meyerweb.com/eric/thoughts/2009/01/02/an-event-apart-and-html-5/"],"category":["html5","web","standards","html","markup","ericmeyer","via-pinboard"],"slug":["an-event-apart-and-html-5"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Eric Meyer's approach for adopting HTML5 in the recent An Event Apart redesign\n"
+    ],
+    "published": [
+      "2009-01-24T16:00:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "An Event Apart and HTML 5"
+    ],
+    "bookmark-of": [
+      "http://meyerweb.com/eric/thoughts/2009/01/02/an-event-apart-and-html-5/"
+    ],
+    "category": [
+      "html5",
+      "web",
+      "standards",
+      "html",
+      "markup",
+      "ericmeyer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "an-event-apart-and-html-5"
+    ]
+  }
+}

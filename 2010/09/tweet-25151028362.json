@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["\"Shall we make a DVD?\" sing the Gooners at WHL. Class. Game over. #nld #arsenal"],"published":["2010-09-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/25151028362"],"slug":["tweet-25151028362"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Shall we make a DVD?\" sing the Gooners at WHL. Class. Game over. #nld #arsenal"
+    ],
+    "published": [
+      "2010-09-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/25151028362"
+    ],
+    "slug": [
+      "tweet-25151028362"
+    ]
+  }
+}

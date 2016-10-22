@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-18T17:02:02Z"],"entry-type":["bookmark"],"name":["Digital Web Magazine"],"bookmark-of":["http://www.digital-web.com/"],"category":["web","blog","via-pinboard"],"slug":["digital-web-magazine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-18T17:02:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Digital Web Magazine"
+    ],
+    "bookmark-of": [
+      "http://www.digital-web.com/"
+    ],
+    "category": [
+      "web",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "digital-web-magazine"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Posters for modern technology from a 1977 perspective\n"],"published":["2010-07-16T14:55:31Z"],"entry-type":["bookmark"],"name":["ALT/1977"],"bookmark-of":["http://www.behance.net/Gallery/ALT1977-WE-ARE-NOT-TIME-TRAVELERS/545221"],"category":["design","inspiration","retro","seventies","poster","print","via-pinboard"],"slug":["alt-1977"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Posters for modern technology from a 1977 perspective\n"
+    ],
+    "published": [
+      "2010-07-16T14:55:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ALT/1977"
+    ],
+    "bookmark-of": [
+      "http://www.behance.net/Gallery/ALT1977-WE-ARE-NOT-TIME-TRAVELERS/545221"
+    ],
+    "category": [
+      "design",
+      "inspiration",
+      "retro",
+      "seventies",
+      "poster",
+      "print",
+      "via-pinboard"
+    ],
+    "slug": [
+      "alt-1977"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["A new start: the first article from my redesigned website: http://barryfrost.com/articles/a-new-start"],"published":["2011-04-19T20:46:09Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/60444092194226176"],"slug":["tweet-60444092194226176"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A new start: the first article from my redesigned website: http://barryfrost.com/articles/a-new-start"
+    ],
+    "published": [
+      "2011-04-19T20:46:09Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/60444092194226176"
+    ],
+    "slug": [
+      "tweet-60444092194226176"
+    ]
+  }
+}

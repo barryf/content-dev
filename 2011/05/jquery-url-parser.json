@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2011-05-04T15:38:08Z"],"entry-type":["bookmark"],"name":["jQuery URL Parser"],"bookmark-of":["https://github.com/allmarkedup/jQuery-URL-Parser"],"category":["jquery","url","parser","plugin","javascript","link","via-pinboard"],"slug":["jquery-url-parser"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-05-04T15:38:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jQuery URL Parser"
+    ],
+    "bookmark-of": [
+      "https://github.com/allmarkedup/jQuery-URL-Parser"
+    ],
+    "category": [
+      "jquery",
+      "url",
+      "parser",
+      "plugin",
+      "javascript",
+      "link",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jquery-url-parser"
+    ]
+  }
+}

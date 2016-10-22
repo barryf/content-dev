@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Keep your windows in the same position when plugging/unplugging monitors\n"],"published":["2007-05-05T12:42:36Z"],"entry-type":["bookmark"],"name":["n8gray.org: Forget-Me-Not"],"bookmark-of":["http://www.n8gray.org/code/forget-me-not/"],"category":["mac","display","work","useful","via-pinboard"],"slug":["n8gray-org-forget-me-not"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Keep your windows in the same position when plugging/unplugging monitors\n"
+    ],
+    "published": [
+      "2007-05-05T12:42:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "n8gray.org: Forget-Me-Not"
+    ],
+    "bookmark-of": [
+      "http://www.n8gray.org/code/forget-me-not/"
+    ],
+    "category": [
+      "mac",
+      "display",
+      "work",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "n8gray-org-forget-me-not"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Shaunna_Woodley Nice. A bit of peer pressure and group encouragement is what I need to keep it going :)"],"published":["2010-02-17T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22366416/status/9253266870"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/9254406495"],"slug":["tweet-9254406495"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Shaunna_Woodley Nice. A bit of peer pressure and group encouragement is what I need to keep it going :)"
+    ],
+    "published": [
+      "2010-02-17T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22366416/status/9253266870"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/9254406495"
+    ],
+    "slug": [
+      "tweet-9254406495"
+    ]
+  }
+}

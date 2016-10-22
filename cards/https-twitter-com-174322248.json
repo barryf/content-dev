@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Lizzie Berry"],"photo":["http://pbs.twimg.com/profile_images/1676088406/n36818655_38581377_9042_normal.jpg"],"url":["https://twitter.com/lizzie234berry"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Lizzie Berry"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/1676088406/n36818655_38581377_9042_normal.jpg"
+    ],
+    "url": [
+      "https://twitter.com/lizzie234berry"
+    ]
+  }
+}

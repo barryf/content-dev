@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@carlbob Yep, those gangster teddy bears from the ads insist on it these days."],"published":["2012-10-18T18:17:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/1929311/status/258983280966258688"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/258995107548762112"],"slug":["tweet-258995107548762112"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@carlbob Yep, those gangster teddy bears from the ads insist on it these days."
+    ],
+    "published": [
+      "2012-10-18T18:17:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/1929311/status/258983280966258688"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/258995107548762112"
+    ],
+    "slug": [
+      "tweet-258995107548762112"
+    ]
+  }
+}

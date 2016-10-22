@@ -1,1 +1,19 @@
-{"type":["h-entry"],"properties":{"published":["2015-07-24T15:29:07Z"],"entry-type":["like"],"like-of":["http://twitter.com/krissygoround/status/616720651471093760"],"slug":["24-162907"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-07-24T15:29:07Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://twitter.com/krissygoround/status/616720651471093760"
+    ],
+    "slug": [
+      "24-162907"
+    ]
+  }
+}

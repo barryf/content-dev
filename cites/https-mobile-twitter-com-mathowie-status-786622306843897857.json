@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://mobile.twitter.com/mathowie/status/786622306843897857"],"published":["2016-10-13T17:39:07Z"],"content":["As a person that still knows/uses ColdFusion, I love Slack's engineering team posting \"Hell yes we still use PHP!\" https://slack.engineering/taking-php-seriously-cf7a60065329#.z95zloy9y"],"author":["https://twitter.com/mathowie"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://mobile.twitter.com/mathowie/status/786622306843897857"
+    ],
+    "published": [
+      "2016-10-13T17:39:07Z"
+    ],
+    "content": [
+      "As a person that still knows/uses ColdFusion, I love Slack's engineering team posting \"Hell yes we still use PHP!\" https://slack.engineering/taking-php-seriously-cf7a60065329#.z95zloy9y"
+    ],
+    "author": [
+      "https://twitter.com/mathowie"
+    ]
+  }
+}

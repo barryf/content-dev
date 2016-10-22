@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["First drink of the evening has gone straight to my head. Need to man up. Onwards to the bright lights of Windsor!"],"published":["2010-03-19T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10736770531"],"slug":["tweet-10736770531"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "First drink of the evening has gone straight to my head. Need to man up. Onwards to the bright lights of Windsor!"
+    ],
+    "published": [
+      "2010-03-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10736770531"
+    ],
+    "slug": [
+      "tweet-10736770531"
+    ]
+  }
+}

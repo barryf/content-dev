@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@grayhaze @tomgiddings The man’s an animal."],"published":["2013-01-23T22:33:13Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22610785/status/294210787189334018"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/294211208817549316"],"slug":["tweet-294211208817549316"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@grayhaze @tomgiddings The man’s an animal."
+    ],
+    "published": [
+      "2013-01-23T22:33:13Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22610785/status/294210787189334018"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/294211208817549316"
+    ],
+    "slug": [
+      "tweet-294211208817549316"
+    ]
+  }
+}

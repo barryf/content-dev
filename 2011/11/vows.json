@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Asynchronous BDD for Node.js\n"],"published":["2011-11-01T12:21:27Z"],"entry-type":["bookmark"],"name":["Vows"],"bookmark-of":["http://vowsjs.org/"],"category":["nodejs","bdd","testing","framework","javascript","via-pinboard"],"slug":["vows"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Asynchronous BDD for Node.js\n"
+    ],
+    "published": [
+      "2011-11-01T12:21:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Vows"
+    ],
+    "bookmark-of": [
+      "http://vowsjs.org/"
+    ],
+    "category": [
+      "nodejs",
+      "bdd",
+      "testing",
+      "framework",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "vows"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@IanVaughan Yep. You then also get push updates to your calendars."],"published":["2012-06-10T11:05:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5905182/status/211773555476664321"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/211776040291409920"],"slug":["tweet-211776040291409920"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@IanVaughan Yep. You then also get push updates to your calendars."
+    ],
+    "published": [
+      "2012-06-10T11:05:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5905182/status/211773555476664321"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/211776040291409920"
+    ],
+    "slug": [
+      "tweet-211776040291409920"
+    ]
+  }
+}

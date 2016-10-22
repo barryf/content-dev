@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@PaulCaudell Certainly not a good way to sell to grumpy Englishmen like me"],"published":["2011-03-14T17:50:12Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16433935/status/47348775076888578"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/47353851258486784"],"slug":["tweet-47353851258486784"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@PaulCaudell Certainly not a good way to sell to grumpy Englishmen like me"
+    ],
+    "published": [
+      "2011-03-14T17:50:12Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16433935/status/47348775076888578"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/47353851258486784"
+    ],
+    "slug": [
+      "tweet-47353851258486784"
+    ]
+  }
+}

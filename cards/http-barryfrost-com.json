@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Barry Frost"],"url":["http://barryfrost.com/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Barry Frost"
+    ],
+    "url": [
+      "http://barryfrost.com/"
+    ]
+  }
+}

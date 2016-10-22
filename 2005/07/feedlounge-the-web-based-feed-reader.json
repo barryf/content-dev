@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2005-07-20T12:09:30Z"],"entry-type":["bookmark"],"name":["FeedLounge - the web-based feed reader redefined"],"bookmark-of":["http://feedlounge.com/"],"category":["aggregator","ajax","blog","javascript","web20","rss","via-pinboard"],"slug":["feedlounge-the-web-based-feed-reader"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-07-20T12:09:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FeedLounge - the web-based feed reader redefined"
+    ],
+    "bookmark-of": [
+      "http://feedlounge.com/"
+    ],
+    "category": [
+      "aggregator",
+      "ajax",
+      "blog",
+      "javascript",
+      "web20",
+      "rss",
+      "via-pinboard"
+    ],
+    "slug": [
+      "feedlounge-the-web-based-feed-reader"
+    ]
+  }
+}

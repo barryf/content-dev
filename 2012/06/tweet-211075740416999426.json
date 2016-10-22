@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@tomgiddings Thanks Tom."],"published":["2012-06-08T12:42:32Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6830602/status/211074963933904897"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/211075740416999426"],"slug":["tweet-211075740416999426"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@tomgiddings Thanks Tom."
+    ],
+    "published": [
+      "2012-06-08T12:42:32Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6830602/status/211074963933904897"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/211075740416999426"
+    ],
+    "slug": [
+      "tweet-211075740416999426"
+    ]
+  }
+}

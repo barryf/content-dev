@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"content":[" @ioptics Living in America"],"published":["2015-03-06T15:44:55Z"],"entry-type":["photo"],"syndication":["https://twitter.com/barryf/status/573873191958941696","https://instagram.com/p/z5ElmJn_iO/"],"photo":["https://media.barryfrost.com/20150306-igh47weL.jpg"],"slug":["ioptics-living-in-america"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      " @ioptics Living in America"
+    ],
+    "published": [
+      "2015-03-06T15:44:55Z"
+    ],
+    "entry-type": [
+      "photo"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/573873191958941696",
+      "https://instagram.com/p/z5ElmJn_iO/"
+    ],
+    "photo": [
+      "https://media.barryfrost.com/20150306-igh47weL.jpg"
+    ],
+    "slug": [
+      "ioptics-living-in-america"
+    ]
+  }
+}

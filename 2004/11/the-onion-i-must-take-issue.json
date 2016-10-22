@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-12T12:10:13Z"],"entry-type":["bookmark"],"name":["The Onion | I Must Take Issue With The Wikipedia Entry For 'Weird Al' Yankovic"],"bookmark-of":["http://www.theonion.com/opinion/index.php?issue=4045&o=2"],"category":["fun","via-pinboard"],"slug":["the-onion-i-must-take-issue"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-12T12:10:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Onion | I Must Take Issue With The Wikipedia Entry For 'Weird Al' Yankovic"
+    ],
+    "bookmark-of": [
+      "http://www.theonion.com/opinion/index.php?issue=4045&o=2"
+    ],
+    "category": [
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-onion-i-must-take-issue"
+    ]
+  }
+}

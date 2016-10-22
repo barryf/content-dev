@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2010-01-08T12:39:11Z"],"entry-type":["bookmark"],"name":["A review of the Mac mini with Snow Leopard Server"],"bookmark-of":["http://arstechnica.com/apple/reviews/2010/01/mac-mini-with-snow-leopard-server-review.ars"],"category":["mac","macmini","snowleopard","server","sysadmin","office","work","sme","via-pinboard"],"slug":["a-review-of-the-mac-mini"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-01-08T12:39:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A review of the Mac mini with Snow Leopard Server"
+    ],
+    "bookmark-of": [
+      "http://arstechnica.com/apple/reviews/2010/01/mac-mini-with-snow-leopard-server-review.ars"
+    ],
+    "category": [
+      "mac",
+      "macmini",
+      "snowleopard",
+      "server",
+      "sysadmin",
+      "office",
+      "work",
+      "sme",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-review-of-the-mac-mini"
+    ]
+  }
+}

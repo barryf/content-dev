@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Search results in ASCII art format!\n"],"published":["2004-08-20T08:40:35Z"],"entry-type":["bookmark"],"name":["Toogle"],"bookmark-of":["http://c6.org/toogle/"],"category":["fun","search","via-pinboard"],"slug":["toogle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Search results in ASCII art format!\n"
+    ],
+    "published": [
+      "2004-08-20T08:40:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Toogle"
+    ],
+    "bookmark-of": [
+      "http://c6.org/toogle/"
+    ],
+    "category": [
+      "fun",
+      "search",
+      "via-pinboard"
+    ],
+    "slug": [
+      "toogle"
+    ]
+  }
+}

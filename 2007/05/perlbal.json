@@ -1,1 +1,40 @@
-{"type":["h-entry"],"properties":{"content":["Event-based server supporting HTTP load balancing and/or web serving\n"],"published":["2007-05-16T11:47:44Z"],"entry-type":["bookmark"],"name":["Perlbal"],"bookmark-of":["http://www.danga.com/perlbal/"],"category":["architecture","balance","deployment","dev","proxy","perl","server","http","web","load","performance","apache","via-pinboard"],"slug":["perlbal"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Event-based server supporting HTTP load balancing and/or web serving\n"
+    ],
+    "published": [
+      "2007-05-16T11:47:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Perlbal"
+    ],
+    "bookmark-of": [
+      "http://www.danga.com/perlbal/"
+    ],
+    "category": [
+      "architecture",
+      "balance",
+      "deployment",
+      "dev",
+      "proxy",
+      "perl",
+      "server",
+      "http",
+      "web",
+      "load",
+      "performance",
+      "apache",
+      "via-pinboard"
+    ],
+    "slug": [
+      "perlbal"
+    ]
+  }
+}

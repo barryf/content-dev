@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Example of filling out a form by importing your hCard from a URL\n"],"published":["2008-03-08T11:41:56Z"],"entry-type":["bookmark"],"name":["hCardMapper - How to use hCards to fill in forms"],"bookmark-of":["http://lib.omnia-computing.de/hcardmapper"],"category":["hcard","microformats","form","url","via-pinboard"],"slug":["hcardmapper-how-to-use-hcards-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Example of filling out a form by importing your hCard from a URL\n"
+    ],
+    "published": [
+      "2008-03-08T11:41:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "hCardMapper - How to use hCards to fill in forms"
+    ],
+    "bookmark-of": [
+      "http://lib.omnia-computing.de/hcardmapper"
+    ],
+    "category": [
+      "hcard",
+      "microformats",
+      "form",
+      "url",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hcardmapper-how-to-use-hcards-to"
+    ]
+  }
+}

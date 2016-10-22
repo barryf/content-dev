@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thinking Mark is a little bit obsessed with Mrs Carson"],"published":["2007-01-17T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3107973"],"slug":["tweet-3107973"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thinking Mark is a little bit obsessed with Mrs Carson"
+    ],
+    "published": [
+      "2007-01-17T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3107973"
+    ],
+    "slug": [
+      "tweet-3107973"
+    ]
+  }
+}

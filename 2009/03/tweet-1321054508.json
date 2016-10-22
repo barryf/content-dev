@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids He'll be like James Brown was for the last few years: shuffling around and a few random squawks while his backing band sing"],"published":["2009-03-13T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/1320872074"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1321054508"],"slug":["tweet-1321054508"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids He'll be like James Brown was for the last few years: shuffling around and a few random squawks while his backing band sing"
+    ],
+    "published": [
+      "2009-03-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/1320872074"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1321054508"
+    ],
+    "slug": [
+      "tweet-1321054508"
+    ]
+  }
+}

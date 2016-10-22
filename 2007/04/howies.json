@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["Skatey clothes site with character\n"],"published":["2007-04-18T20:58:08Z"],"entry-type":["bookmark"],"name":["howies®"],"bookmark-of":["http://www.howies.co.uk/"],"category":["clothing","shopping","ethical","organic","fashion","design","environment","branding","cool","uk","inspiration","via-pinboard"],"slug":["howies"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Skatey clothes site with character\n"
+    ],
+    "published": [
+      "2007-04-18T20:58:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "howies®"
+    ],
+    "bookmark-of": [
+      "http://www.howies.co.uk/"
+    ],
+    "category": [
+      "clothing",
+      "shopping",
+      "ethical",
+      "organic",
+      "fashion",
+      "design",
+      "environment",
+      "branding",
+      "cool",
+      "uk",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "howies"
+    ]
+  }
+}

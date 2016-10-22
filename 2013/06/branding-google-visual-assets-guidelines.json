@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2013-06-06T12:34:19Z"],"entry-type":["bookmark"],"name":["Branding: Google Visual Assets Guidelines"],"bookmark-of":["http://abduzeedo.com/branding-google-visual-assets-guidelines"],"category":["styleguide","branding","marketing","logo","google","design","via-pinboard"],"slug":["branding-google-visual-assets-guidelines"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-06-06T12:34:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Branding: Google Visual Assets Guidelines"
+    ],
+    "bookmark-of": [
+      "http://abduzeedo.com/branding-google-visual-assets-guidelines"
+    ],
+    "category": [
+      "styleguide",
+      "branding",
+      "marketing",
+      "logo",
+      "google",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "branding-google-visual-assets-guidelines"
+    ]
+  }
+}

@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["How to refresh stale data without killing your database\n"],"published":["2008-05-14T16:59:35Z"],"entry-type":["bookmark"],"name":["Strategy: Break Up the Memcache Dog Pile"],"bookmark-of":["http://highscalability.com/strategy-break-memcache-dog-pile"],"category":["memcached","scalability","performance","caching","cache","scaling","memcache","web","dev","via-pinboard"],"slug":["strategy-break-up-the-memcache-dog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to refresh stale data without killing your database\n"
+    ],
+    "published": [
+      "2008-05-14T16:59:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Strategy: Break Up the Memcache Dog Pile"
+    ],
+    "bookmark-of": [
+      "http://highscalability.com/strategy-break-memcache-dog-pile"
+    ],
+    "category": [
+      "memcached",
+      "scalability",
+      "performance",
+      "caching",
+      "cache",
+      "scaling",
+      "memcache",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "strategy-break-up-the-memcache-dog"
+    ]
+  }
+}

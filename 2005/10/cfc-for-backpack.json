@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["A CFC for using BackPack from ColdFusion\n"],"published":["2005-10-04T12:24:22Z"],"entry-type":["bookmark"],"name":["CFC for Backpack"],"bookmark-of":["http://www.ridingtheclutch.com/entry.cfm?id=55"],"category":["coldfusion","backpack","api","web20","via-pinboard"],"slug":["cfc-for-backpack"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A CFC for using BackPack from ColdFusion\n"
+    ],
+    "published": [
+      "2005-10-04T12:24:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CFC for Backpack"
+    ],
+    "bookmark-of": [
+      "http://www.ridingtheclutch.com/entry.cfm?id=55"
+    ],
+    "category": [
+      "coldfusion",
+      "backpack",
+      "api",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cfc-for-backpack"
+    ]
+  }
+}

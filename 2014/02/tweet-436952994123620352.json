@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd I raise you some green jelly!"],"published":["2014-02-21T19:58:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/436952672114343936"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/436952994123620352"],"slug":["tweet-436952994123620352"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd I raise you some green jelly!"
+    ],
+    "published": [
+      "2014-02-21T19:58:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/436952672114343936"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/436952994123620352"
+    ],
+    "slug": [
+      "tweet-436952994123620352"
+    ]
+  }
+}

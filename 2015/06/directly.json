@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> On-demand customer service apps. Intelligently route helpdesk tickets and community questions to your expert users and reward them for quick resolution."],"published":["2015-06-18T12:34:45Z"],"entry-type":["bookmark"],"name":["Directly"],"bookmark-of":["https://www.directly.com/"],"category":["support","customercare","helpdesk"],"slug":["directly"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> On-demand customer service apps. Intelligently route helpdesk tickets and community questions to your expert users and reward them for quick resolution."
+    ],
+    "published": [
+      "2015-06-18T12:34:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Directly"
+    ],
+    "bookmark-of": [
+      "https://www.directly.com/"
+    ],
+    "category": [
+      "support",
+      "customercare",
+      "helpdesk"
+    ],
+    "slug": [
+      "directly"
+    ]
+  }
+}

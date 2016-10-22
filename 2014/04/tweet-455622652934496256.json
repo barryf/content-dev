@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@YammerSupport Is there a way to mark all my unread messages as read? I’ve got 99+ and most are stale."],"published":["2014-04-14T08:24:40Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/455622652934496256"],"slug":["tweet-455622652934496256"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@YammerSupport Is there a way to mark all my unread messages as read? I’ve got 99+ and most are stale."
+    ],
+    "published": [
+      "2014-04-14T08:24:40Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/455622652934496256"
+    ],
+    "slug": [
+      "tweet-455622652934496256"
+    ]
+  }
+}

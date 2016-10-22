@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["(via Simon Willison)\n"],"published":["2004-09-09T08:32:50Z"],"entry-type":["bookmark"],"name":["PostgreSQL startup items for MacOS X"],"bookmark-of":["http://rollerweblogger.org/comments/roller/blog/postgresql_startup_items_for_macos"],"category":["database","mac","postgresql","via-pinboard"],"slug":["postgresql-startup-items-for-macos-x"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(via Simon Willison)\n"
+    ],
+    "published": [
+      "2004-09-09T08:32:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PostgreSQL startup items for MacOS X"
+    ],
+    "bookmark-of": [
+      "http://rollerweblogger.org/comments/roller/blog/postgresql_startup_items_for_macos"
+    ],
+    "category": [
+      "database",
+      "mac",
+      "postgresql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "postgresql-startup-items-for-macos-x"
+    ]
+  }
+}

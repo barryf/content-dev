@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Guides, checklists and quotes for tasks when moving home.\n"],"published":["2012-02-20T22:21:20Z"],"entry-type":["bookmark"],"name":["Move Me"],"bookmark-of":["http://www.moveme.com/"],"category":["planning","moving","house","home","via-pinboard"],"slug":["move-me"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Guides, checklists and quotes for tasks when moving home.\n"
+    ],
+    "published": [
+      "2012-02-20T22:21:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Move Me"
+    ],
+    "bookmark-of": [
+      "http://www.moveme.com/"
+    ],
+    "category": [
+      "planning",
+      "moving",
+      "house",
+      "home",
+      "via-pinboard"
+    ],
+    "slug": [
+      "move-me"
+    ]
+  }
+}

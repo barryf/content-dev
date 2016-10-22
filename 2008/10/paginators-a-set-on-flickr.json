@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Common methods of displaying paginator controls\n"],"published":["2008-10-04T17:31:08Z"],"entry-type":["bookmark"],"name":["Paginators - a set on Flickr"],"bookmark-of":["http://flickr.com/photos/leahculver/sets/72157605438928869/"],"category":["paginator","navigation","web","design","pattern","ui","interface","via-pinboard"],"slug":["paginators-a-set-on-flickr"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Common methods of displaying paginator controls\n"
+    ],
+    "published": [
+      "2008-10-04T17:31:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Paginators - a set on Flickr"
+    ],
+    "bookmark-of": [
+      "http://flickr.com/photos/leahculver/sets/72157605438928869/"
+    ],
+    "category": [
+      "paginator",
+      "navigation",
+      "web",
+      "design",
+      "pattern",
+      "ui",
+      "interface",
+      "via-pinboard"
+    ],
+    "slug": [
+      "paginators-a-set-on-flickr"
+    ]
+  }
+}

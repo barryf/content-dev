@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Slick GitHub Pages comments system that creates files in your repo"],"published":["2016-08-16T15:56:27Z"],"entry-type":["bookmark"],"name":["Staticman"],"bookmark-of":["https://staticman.net/"],"category":["github","jekyll","comments"],"slug":["staticman"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slick GitHub Pages comments system that creates files in your repo"
+    ],
+    "published": [
+      "2016-08-16T15:56:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Staticman"
+    ],
+    "bookmark-of": [
+      "https://staticman.net/"
+    ],
+    "category": [
+      "github",
+      "jekyll",
+      "comments"
+    ],
+    "slug": [
+      "staticman"
+    ]
+  }
+}

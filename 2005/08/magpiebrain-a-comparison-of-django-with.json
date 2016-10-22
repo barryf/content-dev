@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-16T20:05:52Z"],"entry-type":["bookmark"],"name":["magpiebrain - A comparison of Django with Rails"],"bookmark-of":["http://www.magpiebrain.com/archives/2005/08/14/rails_and_django"],"category":["django","rails","python","ruby","framework","via-pinboard"],"slug":["magpiebrain-a-comparison-of-django-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-16T20:05:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "magpiebrain - A comparison of Django with Rails"
+    ],
+    "bookmark-of": [
+      "http://www.magpiebrain.com/archives/2005/08/14/rails_and_django"
+    ],
+    "category": [
+      "django",
+      "rails",
+      "python",
+      "ruby",
+      "framework",
+      "via-pinboard"
+    ],
+    "slug": [
+      "magpiebrain-a-comparison-of-django-with"
+    ]
+  }
+}

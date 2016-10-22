@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Check the date! You're really not paying attention today ;)"],"published":["2009-04-01T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/1430392870"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1430415848"],"slug":["tweet-1430415848"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Check the date! You're really not paying attention today ;)"
+    ],
+    "published": [
+      "2009-04-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/1430392870"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1430415848"
+    ],
+    "slug": [
+      "tweet-1430415848"
+    ]
+  }
+}

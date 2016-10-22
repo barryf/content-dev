@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Another iPhone toolbar icon set, this time free\n"],"published":["2009-04-27T14:38:00Z"],"entry-type":["bookmark"],"name":["Glyphish — Icons and resources for iPhone developers"],"bookmark-of":["http://glyphish.com/"],"category":["free","iphone","toolbar","icon","design","ui","via-pinboard"],"slug":["glyphish-icons-and-resources-for-iphone"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another iPhone toolbar icon set, this time free\n"
+    ],
+    "published": [
+      "2009-04-27T14:38:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Glyphish — Icons and resources for iPhone developers"
+    ],
+    "bookmark-of": [
+      "http://glyphish.com/"
+    ],
+    "category": [
+      "free",
+      "iphone",
+      "toolbar",
+      "icon",
+      "design",
+      "ui",
+      "via-pinboard"
+    ],
+    "slug": [
+      "glyphish-icons-and-resources-for-iphone"
+    ]
+  }
+}

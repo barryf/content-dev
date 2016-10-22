@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-14T12:13:21Z"],"entry-type":["bookmark"],"name":["Bullet Madness ★ free bullets project at Stylegala"],"bookmark-of":["http://www.stylegala.com/features/bulletmadness/"],"category":["web","design","via-pinboard"],"slug":["bullet-madness-free-bullets-project-at"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-14T12:13:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bullet Madness ★ free bullets project at Stylegala"
+    ],
+    "bookmark-of": [
+      "http://www.stylegala.com/features/bulletmadness/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bullet-madness-free-bullets-project-at"
+    ]
+  }
+}

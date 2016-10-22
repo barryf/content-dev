@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Clever uses for :before and :after. The multiple backgrounds on an element is especially useful.\n"],"published":["2011-06-18T15:31:08Z"],"entry-type":["bookmark"],"name":["A Whole Bunch of Amazing Stuff Pseudo Elements Can Do"],"bookmark-of":["http://css-tricks.com/pseudo-element-roundup/"],"category":["css","before","after","pseudo","design","via-pinboard"],"slug":["a-whole-bunch-of-amazing-stuff"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Clever uses for :before and :after. The multiple backgrounds on an element is especially useful.\n"
+    ],
+    "published": [
+      "2011-06-18T15:31:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Whole Bunch of Amazing Stuff Pseudo Elements Can Do"
+    ],
+    "bookmark-of": [
+      "http://css-tricks.com/pseudo-element-roundup/"
+    ],
+    "category": [
+      "css",
+      "before",
+      "after",
+      "pseudo",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-whole-bunch-of-amazing-stuff"
+    ]
+  }
+}

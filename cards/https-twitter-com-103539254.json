@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Brad Haverly"],"photo":["http://pbs.twimg.com/profile_images/548108404829724672/eGqfa6U2_normal.jpeg"],"url":["https://twitter.com/RealBradHaverly"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Brad Haverly"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/548108404829724672/eGqfa6U2_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/RealBradHaverly"
+    ]
+  }
+}

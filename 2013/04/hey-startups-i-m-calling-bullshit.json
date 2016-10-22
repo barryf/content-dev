@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Sales 101: prospecting, pipeline, objection handling and closing"],"published":["2013-04-05T09:40:28Z"],"entry-type":["bookmark"],"name":["Hey Startups, I’m calling bullshit. You don’t understand sales"],"bookmark-of":["http://www.shoestring.com.au/2013/01/hey-startups-im-calling-bullshit-you-dont-understand-sales/"],"category":["sales","startup","business","via-pinboard"],"slug":["hey-startups-i-m-calling-bullshit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sales 101: prospecting, pipeline, objection handling and closing"
+    ],
+    "published": [
+      "2013-04-05T09:40:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hey Startups, I’m calling bullshit. You don’t understand sales"
+    ],
+    "bookmark-of": [
+      "http://www.shoestring.com.au/2013/01/hey-startups-im-calling-bullshit-you-dont-understand-sales/"
+    ],
+    "category": [
+      "sales",
+      "startup",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hey-startups-i-m-calling-bullshit"
+    ]
+  }
+}

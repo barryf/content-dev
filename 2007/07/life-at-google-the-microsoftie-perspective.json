@@ -1,1 +1,41 @@
-{"type":["h-entry"],"properties":{"content":["Interesting ideas regarding food and private space\n"],"published":["2007-07-01T09:43:48Z"],"entry-type":["bookmark"],"name":["Life at Google - The Microsoftie Perspective « Just Say “No” To Google"],"bookmark-of":["http://no2google.wordpress.com/2007/06/24/life-at-google-the-microsoftie-perspective/"],"category":["business","company","dev","geek","google","industry","office","microsoft","life","workplace","workspace","culture","career","via-pinboard"],"slug":["life-at-google-the-microsoftie-perspective"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Interesting ideas regarding food and private space\n"
+    ],
+    "published": [
+      "2007-07-01T09:43:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Life at Google - The Microsoftie Perspective « Just Say “No” To Google"
+    ],
+    "bookmark-of": [
+      "http://no2google.wordpress.com/2007/06/24/life-at-google-the-microsoftie-perspective/"
+    ],
+    "category": [
+      "business",
+      "company",
+      "dev",
+      "geek",
+      "google",
+      "industry",
+      "office",
+      "microsoft",
+      "life",
+      "workplace",
+      "workspace",
+      "culture",
+      "career",
+      "via-pinboard"
+    ],
+    "slug": [
+      "life-at-google-the-microsoftie-perspective"
+    ]
+  }
+}

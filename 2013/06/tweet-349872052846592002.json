@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@BTCare I’ve filled out the form, incident no. 130626-004709. No sign of the router today."],"published":["2013-06-26T12:49:32Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/35737385/status/349805986992762880"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/349872052846592002"],"slug":["tweet-349872052846592002"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BTCare I’ve filled out the form, incident no. 130626-004709. No sign of the router today."
+    ],
+    "published": [
+      "2013-06-26T12:49:32Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/35737385/status/349805986992762880"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/349872052846592002"
+    ],
+    "slug": [
+      "tweet-349872052846592002"
+    ]
+  }
+}

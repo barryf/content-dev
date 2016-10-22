@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-06-15T20:17:05Z"],"entry-type":["like"],"like-of":["https://calumryan.com/blog/homebrew-web-london/"],"category":["indieweb"],"slug":["15-211705"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-06-15T20:17:05Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://calumryan.com/blog/homebrew-web-london/"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "slug": [
+      "15-211705"
+    ]
+  }
+}

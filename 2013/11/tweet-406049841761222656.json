@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":[". @boffbowsh on git tips and tricks in this month’s @globaldev tech talks. http://twitter.com/barryf/status/406049841761222656/photo/1"],"published":["2013-11-28T13:20:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/406049841761222656"],"slug":["tweet-406049841761222656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      ". @boffbowsh on git tips and tricks in this month’s @globaldev tech talks. http://twitter.com/barryf/status/406049841761222656/photo/1"
+    ],
+    "published": [
+      "2013-11-28T13:20:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/406049841761222656"
+    ],
+    "slug": [
+      "tweet-406049841761222656"
+    ]
+  }
+}

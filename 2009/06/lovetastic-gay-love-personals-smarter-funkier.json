@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Great looking gay dating site. Developed in Rails by a Rails agency owner\n"],"published":["2009-06-28T16:04:06Z"],"entry-type":["bookmark"],"name":["Lovetastic // gay love personals: smarter, funkier, and full of romance."],"bookmark-of":["http://lovetastic.com/"],"category":["rails","dating","personals","gay","social","community","via-pinboard"],"slug":["lovetastic-gay-love-personals-smarter-funkier"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Great looking gay dating site. Developed in Rails by a Rails agency owner\n"
+    ],
+    "published": [
+      "2009-06-28T16:04:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Lovetastic // gay love personals: smarter, funkier, and full of romance."
+    ],
+    "bookmark-of": [
+      "http://lovetastic.com/"
+    ],
+    "category": [
+      "rails",
+      "dating",
+      "personals",
+      "gay",
+      "social",
+      "community",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lovetastic-gay-love-personals-smarter-funkier"
+    ]
+  }
+}

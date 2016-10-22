@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@sevenupcan Looks fantastic. Love the simplicity. Articles felt a bit orphaned without a way home (footer link doesn’t work?)"],"published":["2012-11-21T13:41:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/799675/status/271179356041277440"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/271246839657938944"],"slug":["tweet-271246839657938944"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@sevenupcan Looks fantastic. Love the simplicity. Articles felt a bit orphaned without a way home (footer link doesn’t work?)"
+    ],
+    "published": [
+      "2012-11-21T13:41:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/799675/status/271179356041277440"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/271246839657938944"
+    ],
+    "slug": [
+      "tweet-271246839657938944"
+    ]
+  }
+}

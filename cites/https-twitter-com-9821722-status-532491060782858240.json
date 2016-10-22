@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/9821722/status/532491060782858240"],"published":["2014-11-12T11:12:16Z"],"content":["Nice work @rackspaceUK: \"Backspace Test Campaign 1\""],"photo":["http://pbs.twimg.com/media/B2PJzDECEAAtkvz.png"],"author":["https://twitter.com/9821722"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/9821722/status/532491060782858240"
+    ],
+    "published": [
+      "2014-11-12T11:12:16Z"
+    ],
+    "content": [
+      "Nice work @rackspaceUK: \"Backspace Test Campaign 1\""
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/B2PJzDECEAAtkvz.png"
+    ],
+    "author": [
+      "https://twitter.com/9821722"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd Me too. By 2017 I’m hoping we’re all using TouchID or something clever to replace plastic cards though."],"published":["2014-07-29T11:44:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/494084901097181184"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/494086003280584704"],"slug":["tweet-494086003280584704"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd Me too. By 2017 I’m hoping we’re all using TouchID or something clever to replace plastic cards though."
+    ],
+    "published": [
+      "2014-07-29T11:44:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/494084901097181184"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/494086003280584704"
+    ],
+    "slug": [
+      "tweet-494086003280584704"
+    ]
+  }
+}

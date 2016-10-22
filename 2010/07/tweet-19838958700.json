@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@the_G Sounds like some sort of LARP character - Graham, the mystical Munin Graphing King."],"published":["2010-07-29T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7567782/status/19837659326"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/19838958700"],"slug":["tweet-19838958700"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@the_G Sounds like some sort of LARP character - Graham, the mystical Munin Graphing King."
+    ],
+    "published": [
+      "2010-07-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7567782/status/19837659326"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/19838958700"
+    ],
+    "slug": [
+      "tweet-19838958700"
+    ]
+  }
+}

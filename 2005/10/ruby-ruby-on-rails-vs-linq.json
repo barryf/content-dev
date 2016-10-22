@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Sam Ruby's presenation on, um, Ruby and Ruby on Rails\n"],"published":["2005-10-15T09:46:54Z"],"entry-type":["bookmark"],"name":["Ruby + Ruby on Rails vs LINQ"],"bookmark-of":["http://intertwingly.net/slides/2005/imab/education.html"],"category":["ruby","rails","presentation","web","dev","via-pinboard"],"slug":["ruby-ruby-on-rails-vs-linq"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sam Ruby's presenation on, um, Ruby and Ruby on Rails\n"
+    ],
+    "published": [
+      "2005-10-15T09:46:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ruby + Ruby on Rails vs LINQ"
+    ],
+    "bookmark-of": [
+      "http://intertwingly.net/slides/2005/imab/education.html"
+    ],
+    "category": [
+      "ruby",
+      "rails",
+      "presentation",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-ruby-on-rails-vs-linq"
+    ]
+  }
+}

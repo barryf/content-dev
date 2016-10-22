@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Simple SVN editing over SSH in Textmate\n"],"published":["2007-07-31T20:45:36Z"],"entry-type":["bookmark"],"name":["TextMate Blog » Subversion support and ssh key pairs"],"bookmark-of":["http://macromates.com/blog/2005/subversion-support-and-ssh-key-pairs/"],"category":["ssh","textmate","ide","svn","subversion","sourcecontrol","dev","mac","unix","via-pinboard"],"slug":["textmate-blog-subversion-support-and-ssh"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simple SVN editing over SSH in Textmate\n"
+    ],
+    "published": [
+      "2007-07-31T20:45:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TextMate Blog » Subversion support and ssh key pairs"
+    ],
+    "bookmark-of": [
+      "http://macromates.com/blog/2005/subversion-support-and-ssh-key-pairs/"
+    ],
+    "category": [
+      "ssh",
+      "textmate",
+      "ide",
+      "svn",
+      "subversion",
+      "sourcecontrol",
+      "dev",
+      "mac",
+      "unix",
+      "via-pinboard"
+    ],
+    "slug": [
+      "textmate-blog-subversion-support-and-ssh"
+    ]
+  }
+}

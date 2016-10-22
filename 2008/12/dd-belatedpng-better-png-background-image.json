@@ -1,1 +1,40 @@
-{"type":["h-entry"],"properties":{"content":["Supports background-position and background-repeat\n"],"published":["2008-12-11T20:25:23Z"],"entry-type":["bookmark"],"name":["DD_belatedPNG: better PNG background-image support in IE6"],"bookmark-of":["http://www.dillerdesign.com/experiment/DD_belatedPNG/"],"category":["png","hack","ie","ie6","transparency","background","css","alpha","vml","pngfix","design","web","via-pinboard"],"slug":["dd-belatedpng-better-png-background-image"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Supports background-position and background-repeat\n"
+    ],
+    "published": [
+      "2008-12-11T20:25:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DD_belatedPNG: better PNG background-image support in IE6"
+    ],
+    "bookmark-of": [
+      "http://www.dillerdesign.com/experiment/DD_belatedPNG/"
+    ],
+    "category": [
+      "png",
+      "hack",
+      "ie",
+      "ie6",
+      "transparency",
+      "background",
+      "css",
+      "alpha",
+      "vml",
+      "pngfix",
+      "design",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dd-belatedpng-better-png-background-image"
+    ]
+  }
+}

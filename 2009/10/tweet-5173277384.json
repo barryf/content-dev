@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Ruby on Rails developers, come work with me and our lovely team at White Label Dating: http://bit.ly/1UYPHB"],"published":["2009-10-26T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5173277384"],"slug":["tweet-5173277384"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby on Rails developers, come work with me and our lovely team at White Label Dating: http://bit.ly/1UYPHB"
+    ],
+    "published": [
+      "2009-10-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5173277384"
+    ],
+    "slug": [
+      "tweet-5173277384"
+    ]
+  }
+}

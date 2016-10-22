@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-18T11:47:49Z"],"entry-type":["bookmark"],"name":["Using the Ruby Development Tools plug-in for Eclipse"],"bookmark-of":["http://www-128.ibm.com/developerworks/opensource/library/os-rubyeclipse/?ca=dgr-lnxw01Ruby4Eclipse"],"category":["dev","eclipse","ide","ruby","rails","via-pinboard"],"slug":["using-the-ruby-development-tools-plug"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-18T11:47:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using the Ruby Development Tools plug-in for Eclipse"
+    ],
+    "bookmark-of": [
+      "http://www-128.ibm.com/developerworks/opensource/library/os-rubyeclipse/?ca=dgr-lnxw01Ruby4Eclipse"
+    ],
+    "category": [
+      "dev",
+      "eclipse",
+      "ide",
+      "ruby",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-the-ruby-development-tools-plug"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["If it wasn't irritating enough dealing with Ticketmaster's website, its CAPTCHA is now trolling me.\n\nhttps://barryf.s3-eu-west-1.amazonaws.com/ticketmaster_trolololol.png\n"],"published":["2015-01-30T09:30:04Z"],"entry-type":["note"],"syndication":["https://twitter.com/barryf/status/561093995888005120"],"slug":["if-it-wasn-t-irritating-enough"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "If it wasn't irritating enough dealing with Ticketmaster's website, its CAPTCHA is now trolling me.\n\nhttps://barryf.s3-eu-west-1.amazonaws.com/ticketmaster_trolololol.png\n"
+    ],
+    "published": [
+      "2015-01-30T09:30:04Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/561093995888005120"
+    ],
+    "slug": [
+      "if-it-wasn-t-irritating-enough"
+    ]
+  }
+}

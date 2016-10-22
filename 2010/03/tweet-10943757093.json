@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@MelKirk Love it. I hope this is the start of a new series. Next time: Katie is shown 2 Girls 1 Cup..."],"published":["2010-03-23T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14733/status/10919400011"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10943757093"],"slug":["tweet-10943757093"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@MelKirk Love it. I hope this is the start of a new series. Next time: Katie is shown 2 Girls 1 Cup..."
+    ],
+    "published": [
+      "2010-03-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14733/status/10919400011"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10943757093"
+    ],
+    "slug": [
+      "tweet-10943757093"
+    ]
+  }
+}

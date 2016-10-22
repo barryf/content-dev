@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@rosswilliams It would be such a shame to smash a $300 china doll."],"published":["2011-06-02T07:53:51Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11832/status/76024486050271232"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/76194802412163072"],"slug":["tweet-76194802412163072"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@rosswilliams It would be such a shame to smash a $300 china doll."
+    ],
+    "published": [
+      "2011-06-02T07:53:51Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11832/status/76024486050271232"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/76194802412163072"
+    ],
+    "slug": [
+      "tweet-76194802412163072"
+    ]
+  }
+}

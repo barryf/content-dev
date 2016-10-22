@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Where I want to work. For future reference ;)\n"],"published":["2006-10-04T14:55:10Z"],"entry-type":["bookmark"],"name":["Bionic Office - Joel on Software"],"bookmark-of":["http://joelonsoftware.com/articles/BionicOffice.html"],"category":["office","architecture","design","inspiration","work","workspace","dev","via-pinboard"],"slug":["bionic-office-joel-on-software"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Where I want to work. For future reference ;)\n"
+    ],
+    "published": [
+      "2006-10-04T14:55:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bionic Office - Joel on Software"
+    ],
+    "bookmark-of": [
+      "http://joelonsoftware.com/articles/BionicOffice.html"
+    ],
+    "category": [
+      "office",
+      "architecture",
+      "design",
+      "inspiration",
+      "work",
+      "workspace",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bionic-office-joel-on-software"
+    ]
+  }
+}

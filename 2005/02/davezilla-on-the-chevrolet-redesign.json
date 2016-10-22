@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-15T13:54:12Z"],"entry-type":["bookmark"],"name":["Davezilla on the Chevrolet redesign"],"bookmark-of":["http://www.weeklystandards.com/archives/2004/10/13/"],"category":["web","design","standards","via-pinboard"],"slug":["davezilla-on-the-chevrolet-redesign"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-15T13:54:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Davezilla on the Chevrolet redesign"
+    ],
+    "bookmark-of": [
+      "http://www.weeklystandards.com/archives/2004/10/13/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "davezilla-on-the-chevrolet-redesign"
+    ]
+  }
+}

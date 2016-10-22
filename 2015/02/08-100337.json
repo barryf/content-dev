@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-08T10:03:37Z"],"entry-type":["like"],"like-of":["https://twitter.com/samualwhite/status/564088619577901056"],"syndication":["https://twitter.com/samualwhite/status/564088619577901056"],"slug":["08-100337"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-08T10:03:37Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/samualwhite/status/564088619577901056"
+    ],
+    "syndication": [
+      "https://twitter.com/samualwhite/status/564088619577901056"
+    ],
+    "slug": [
+      "08-100337"
+    ]
+  }
+}

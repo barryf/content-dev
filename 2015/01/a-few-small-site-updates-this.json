@@ -1,1 +1,23 @@
-{"type":["h-entry"],"properties":{"content":["A few small site updates this evening. I've updated my Micropub syndication handling to work with PHP-style arrays as per [Aaron](http://aaronparecki.com)'s [new approach](https://github.com/aaronpk/Quill/commit/1c4bf54da4ca2419598a8cb541b3cb3737452aab).\n\nSecondly, after a few garbled webmentions, I've switched away from the [Ruby Microformats 2 parser](https://github.com/G5/microformats2) to use the [PHP library](https://github.com/indieweb/php-mf2/) which seems to be more complete, especially for nested attributes."],"published":["2015-01-26T22:01:11Z"],"entry-type":["note"],"category":["indieweb","moof"],"slug":["a-few-small-site-updates-this"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A few small site updates this evening. I've updated my Micropub syndication handling to work with PHP-style arrays as per [Aaron](http://aaronparecki.com)'s [new approach](https://github.com/aaronpk/Quill/commit/1c4bf54da4ca2419598a8cb541b3cb3737452aab).\n\nSecondly, after a few garbled webmentions, I've switched away from the [Ruby Microformats 2 parser](https://github.com/G5/microformats2) to use the [PHP library](https://github.com/indieweb/php-mf2/) which seems to be more complete, especially for nested attributes."
+    ],
+    "published": [
+      "2015-01-26T22:01:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "indieweb",
+      "moof"
+    ],
+    "slug": [
+      "a-few-small-site-updates-this"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-06-30T16:11:47Z"],"entry-type":["like"],"like-of":["https://twitter.com/timblair/status/748543773932724224"],"syndication":["https://twitter.com/timblair/status/748543773932724224"],"slug":["30-171147"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-06-30T16:11:47Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/timblair/status/748543773932724224"
+    ],
+    "syndication": [
+      "https://twitter.com/timblair/status/748543773932724224"
+    ],
+    "slug": [
+      "30-171147"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair Well done Timbo. What was your talk on? Have you now progressed to High Geek Wizard status?"],"published":["2009-10-25T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/5145297037"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5145331818"],"slug":["tweet-5145331818"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair Well done Timbo. What was your talk on? Have you now progressed to High Geek Wizard status?"
+    ],
+    "published": [
+      "2009-10-25T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/5145297037"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5145331818"
+    ],
+    "slug": [
+      "tweet-5145331818"
+    ]
+  }
+}

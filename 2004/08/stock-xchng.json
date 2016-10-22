@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-01T13:25:26Z"],"entry-type":["bookmark"],"name":["stock.xchng"],"bookmark-of":["http://www.sxc.hu/"],"category":["stock","image","via-pinboard"],"slug":["stock-xchng"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-01T13:25:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "stock.xchng"
+    ],
+    "bookmark-of": [
+      "http://www.sxc.hu/"
+    ],
+    "category": [
+      "stock",
+      "image",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stock-xchng"
+    ]
+  }
+}

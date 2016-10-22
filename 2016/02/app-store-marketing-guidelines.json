@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2016-02-10T17:23:00Z"],"entry-type":["bookmark"],"name":["App Store Marketing Guidelines"],"bookmark-of":["https://developer.apple.com/app-store/marketing/guidelines/"],"category":["apple","ios","appstore","marketing"],"slug":["app-store-marketing-guidelines"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-02-10T17:23:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "App Store Marketing Guidelines"
+    ],
+    "bookmark-of": [
+      "https://developer.apple.com/app-store/marketing/guidelines/"
+    ],
+    "category": [
+      "apple",
+      "ios",
+      "appstore",
+      "marketing"
+    ],
+    "slug": [
+      "app-store-marketing-guidelines"
+    ]
+  }
+}

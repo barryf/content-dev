@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["JSON format geocoding service using MaxMind data. Source available on GitHub\n"],"published":["2011-07-31T17:26:43Z"],"entry-type":["bookmark"],"name":["Building a simple IP geolocation service"],"bookmark-of":["http://contrast.ie/blog/building-a-simple-ip-geolocation-service"],"category":["geo","location","json","ip","maxmind","via-pinboard"],"slug":["building-a-simple-ip-geolocation-service"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "JSON format geocoding service using MaxMind data. Source available on GitHub\n"
+    ],
+    "published": [
+      "2011-07-31T17:26:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Building a simple IP geolocation service"
+    ],
+    "bookmark-of": [
+      "http://contrast.ie/blog/building-a-simple-ip-geolocation-service"
+    ],
+    "category": [
+      "geo",
+      "location",
+      "json",
+      "ip",
+      "maxmind",
+      "via-pinboard"
+    ],
+    "slug": [
+      "building-a-simple-ip-geolocation-service"
+    ]
+  }
+}

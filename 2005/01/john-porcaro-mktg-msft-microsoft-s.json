@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["How to manage email\n"],"published":["2005-01-30T15:47:06Z"],"entry-type":["bookmark"],"name":["John Porcaro: mktg@msft: Microsoft's Email Culture"],"bookmark-of":["http://johnporcaro.typepad.com/blog/2005/01/microsofts_emai.html"],"category":["email","via-pinboard"],"slug":["john-porcaro-mktg-msft-microsoft-s"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to manage email\n"
+    ],
+    "published": [
+      "2005-01-30T15:47:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "John Porcaro: mktg@msft: Microsoft's Email Culture"
+    ],
+    "bookmark-of": [
+      "http://johnporcaro.typepad.com/blog/2005/01/microsofts_emai.html"
+    ],
+    "category": [
+      "email",
+      "via-pinboard"
+    ],
+    "slug": [
+      "john-porcaro-mktg-msft-microsoft-s"
+    ]
+  }
+}

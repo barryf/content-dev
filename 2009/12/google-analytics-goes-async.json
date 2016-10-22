@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Needs a change to the Javascript and then its tracking code is loaded asynchronously\n"],"published":["2009-12-05T18:47:06Z"],"entry-type":["bookmark"],"name":["Google Analytics goes async"],"bookmark-of":["http://www.stevesouders.com/blog/2009/12/01/google-analytics-goes-async/"],"category":["async","google","analytics","javascript","speed","optimisation","via-pinboard"],"slug":["google-analytics-goes-async"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Needs a change to the Javascript and then its tracking code is loaded asynchronously\n"
+    ],
+    "published": [
+      "2009-12-05T18:47:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google Analytics goes async"
+    ],
+    "bookmark-of": [
+      "http://www.stevesouders.com/blog/2009/12/01/google-analytics-goes-async/"
+    ],
+    "category": [
+      "async",
+      "google",
+      "analytics",
+      "javascript",
+      "speed",
+      "optimisation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-analytics-goes-async"
+    ]
+  }
+}

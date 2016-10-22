@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ciaran Lee"],"photo":["http://pbs.twimg.com/profile_images/1570533363/ciaran_normal.jpg"],"url":["https://twitter.com/ciaran_lee"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ciaran Lee"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/1570533363/ciaran_normal.jpg"
+    ],
+    "url": [
+      "https://twitter.com/ciaran_lee"
+    ]
+  }
+}

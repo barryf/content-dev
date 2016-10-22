@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Perl possibly to be supported as GAE language. This is sure to kick off speculation about adding Ruby and PHP.\n"],"published":["2008-07-23T07:17:57Z"],"entry-type":["bookmark"],"name":["Perl on App Engine?"],"bookmark-of":["http://radar.oreilly.com/2008/07/perl-on-app-engine.html"],"category":["appengine","google","gae","perl","via-pinboard"],"slug":["perl-on-app-engine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Perl possibly to be supported as GAE language. This is sure to kick off speculation about adding Ruby and PHP.\n"
+    ],
+    "published": [
+      "2008-07-23T07:17:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Perl on App Engine?"
+    ],
+    "bookmark-of": [
+      "http://radar.oreilly.com/2008/07/perl-on-app-engine.html"
+    ],
+    "category": [
+      "appengine",
+      "google",
+      "gae",
+      "perl",
+      "via-pinboard"
+    ],
+    "slug": [
+      "perl-on-app-engine"
+    ]
+  }
+}

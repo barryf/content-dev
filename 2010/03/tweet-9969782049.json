@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Own up... who's been sandpapering my eyeballs in my sleep? Blink blink blink."],"published":["2010-03-04T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/9969782049"],"slug":["tweet-9969782049"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Own up... who's been sandpapering my eyeballs in my sleep? Blink blink blink."
+    ],
+    "published": [
+      "2010-03-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/9969782049"
+    ],
+    "slug": [
+      "tweet-9969782049"
+    ]
+  }
+}

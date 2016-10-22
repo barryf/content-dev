@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Woo. Despite what the muppet in the Orange shop said, I *can* have an upgrade. New K810i arriving Tuesday."],"published":["2007-07-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/160893312"],"slug":["tweet-160893312"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Woo. Despite what the muppet in the Orange shop said, I *can* have an upgrade. New K810i arriving Tuesday."
+    ],
+    "published": [
+      "2007-07-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/160893312"
+    ],
+    "slug": [
+      "tweet-160893312"
+    ]
+  }
+}

@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-08-30T14:29:15Z"],"entry-type":["bookmark"],"name":["proxylocal/proxylocal-gem · GitHub"],"bookmark-of":["https://github.com/proxylocal/proxylocal-gem"],"category":["fromifttt","github","via-pinboard"],"slug":["proxylocal-proxylocal-gem-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-08-30T14:29:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "proxylocal/proxylocal-gem · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/proxylocal/proxylocal-gem"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "proxylocal-proxylocal-gem-github"
+    ]
+  }
+}

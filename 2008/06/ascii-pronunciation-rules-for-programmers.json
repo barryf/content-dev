@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Almost there. Brackets will always be \"(\" and \")\".\n"],"published":["2008-06-19T21:29:53Z"],"entry-type":["bookmark"],"name":["ASCII Pronunciation Rules for Programmers"],"bookmark-of":["http://www.codinghorror.com/blog/archives/001133.html"],"category":["ascii","language","fun","opinion","dev","symbol","character","font","pronunciation","via-pinboard"],"slug":["ascii-pronunciation-rules-for-programmers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Almost there. Brackets will always be \"(\" and \")\".\n"
+    ],
+    "published": [
+      "2008-06-19T21:29:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ASCII Pronunciation Rules for Programmers"
+    ],
+    "bookmark-of": [
+      "http://www.codinghorror.com/blog/archives/001133.html"
+    ],
+    "category": [
+      "ascii",
+      "language",
+      "fun",
+      "opinion",
+      "dev",
+      "symbol",
+      "character",
+      "font",
+      "pronunciation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ascii-pronunciation-rules-for-programmers"
+    ]
+  }
+}

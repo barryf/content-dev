@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Quickly create football line-ups and formations"],"published":["2013-08-15T20:26:06Z"],"entry-type":["bookmark"],"name":["Lineup Builder"],"bookmark-of":["http://lineupbuilder.com/"],"category":["football","builder","embed","formation","lineup","soccer","via-pinboard"],"slug":["lineup-builder"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Quickly create football line-ups and formations"
+    ],
+    "published": [
+      "2013-08-15T20:26:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Lineup Builder"
+    ],
+    "bookmark-of": [
+      "http://lineupbuilder.com/"
+    ],
+    "category": [
+      "football",
+      "builder",
+      "embed",
+      "formation",
+      "lineup",
+      "soccer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lineup-builder"
+    ]
+  }
+}

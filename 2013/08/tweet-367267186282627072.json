@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter @neilmiddleton I was charging two mobiles off it at the cricket a few weeks ago. Plenty of juice."],"published":["2013-08-13T12:51:35Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/367266915057942528"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/367267186282627072"],"slug":["tweet-367267186282627072"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter @neilmiddleton I was charging two mobiles off it at the cricket a few weeks ago. Plenty of juice."
+    ],
+    "published": [
+      "2013-08-13T12:51:35Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/367266915057942528"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/367267186282627072"
+    ],
+    "slug": [
+      "tweet-367267186282627072"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-16T11:13:27Z"],"entry-type":["bookmark"],"name":["Rails Facebook integration"],"bookmark-of":["http://giantrobots.thoughtbot.com/2007/6/14/fist-in-your-facebook"],"category":["api","facebook","rails","dev","integration","via-pinboard"],"slug":["rails-facebook-integration"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-16T11:13:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails Facebook integration"
+    ],
+    "bookmark-of": [
+      "http://giantrobots.thoughtbot.com/2007/6/14/fist-in-your-facebook"
+    ],
+    "category": [
+      "api",
+      "facebook",
+      "rails",
+      "dev",
+      "integration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-facebook-integration"
+    ]
+  }
+}

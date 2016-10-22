@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Documentation for Swift"],"published":["2014-10-04T15:21:28Z"],"entry-type":["bookmark"],"name":["Swifter"],"bookmark-of":["http://swifter.natecook.com/"],"category":["ios","swift","via-pinboard"],"slug":["swifter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Documentation for Swift"
+    ],
+    "published": [
+      "2014-10-04T15:21:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Swifter"
+    ],
+    "bookmark-of": [
+      "http://swifter.natecook.com/"
+    ],
+    "category": [
+      "ios",
+      "swift",
+      "via-pinboard"
+    ],
+    "slug": [
+      "swifter"
+    ]
+  }
+}

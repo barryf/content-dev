@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Collection of life hacks, advice and articles\n"],"published":["2009-10-11T15:33:32Z"],"entry-type":["bookmark"],"name":["Put Things Off"],"bookmark-of":["http://putthingsoff.com/"],"category":["lifehack","business","inspiration","productivity","gtd","management","blog","via-pinboard"],"slug":["put-things-off"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Collection of life hacks, advice and articles\n"
+    ],
+    "published": [
+      "2009-10-11T15:33:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Put Things Off"
+    ],
+    "bookmark-of": [
+      "http://putthingsoff.com/"
+    ],
+    "category": [
+      "lifehack",
+      "business",
+      "inspiration",
+      "productivity",
+      "gtd",
+      "management",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "put-things-off"
+    ]
+  }
+}

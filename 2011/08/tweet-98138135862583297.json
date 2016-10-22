@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Discovered a decomposed banana at the bottom of my work bag. Wondered why I could often smell bananas in the office. #seniormoment"],"published":["2011-08-01T21:08:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/98138135862583297"],"slug":["tweet-98138135862583297"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Discovered a decomposed banana at the bottom of my work bag. Wondered why I could often smell bananas in the office. #seniormoment"
+    ],
+    "published": [
+      "2011-08-01T21:08:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/98138135862583297"
+    ],
+    "slug": [
+      "tweet-98138135862583297"
+    ]
+  }
+}

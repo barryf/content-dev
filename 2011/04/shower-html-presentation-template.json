@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Attractive, CSS3 enhanced, web font toting presentation template. Love the progress bar.\n"],"published":["2011-04-19T22:31:25Z"],"entry-type":["bookmark"],"name":["Shower: HTML presentation template"],"bookmark-of":["https://github.com/pepelsbey/shower"],"category":["presentation","html","template","via-pinboard"],"slug":["shower-html-presentation-template"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Attractive, CSS3 enhanced, web font toting presentation template. Love the progress bar.\n"
+    ],
+    "published": [
+      "2011-04-19T22:31:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Shower: HTML presentation template"
+    ],
+    "bookmark-of": [
+      "https://github.com/pepelsbey/shower"
+    ],
+    "category": [
+      "presentation",
+      "html",
+      "template",
+      "via-pinboard"
+    ],
+    "slug": [
+      "shower-html-presentation-template"
+    ]
+  }
+}

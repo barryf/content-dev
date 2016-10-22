@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["(with PHP)\n"],"published":["2005-09-09T11:49:48Z"],"entry-type":["bookmark"],"name":["Easy alpha transparent pngs | clagnut/blog"],"bookmark-of":["http://www.clagnut.com/blog/1563/"],"category":["php","png","ie","via-pinboard"],"slug":["easy-alpha-transparent-pngs-clagnut-blog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(with PHP)\n"
+    ],
+    "published": [
+      "2005-09-09T11:49:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Easy alpha transparent pngs | clagnut/blog"
+    ],
+    "bookmark-of": [
+      "http://www.clagnut.com/blog/1563/"
+    ],
+    "category": [
+      "php",
+      "png",
+      "ie",
+      "via-pinboard"
+    ],
+    "slug": [
+      "easy-alpha-transparent-pngs-clagnut-blog"
+    ]
+  }
+}

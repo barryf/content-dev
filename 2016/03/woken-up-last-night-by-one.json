@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Woken up last night by one beep somewhere in house. No idea if it was for smoke, baby, security, etc. #IoT idea: beep monitoring/reporting."],"published":["2016-03-08T08:51:48Z"],"entry-type":["note"],"summary":["Woken up last night by one beep somewhere in house. No idea if it was for smoke, baby, security, etc. #IoT idea: beep monitoring/reporting."],"syndication":["https://twitter.com/barryf/status/707126666691129344"],"slug":["woken-up-last-night-by-one"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Woken up last night by one beep somewhere in house. No idea if it was for smoke, baby, security, etc. #IoT idea: beep monitoring/reporting."
+    ],
+    "published": [
+      "2016-03-08T08:51:48Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "Woken up last night by one beep somewhere in house. No idea if it was for smoke, baby, security, etc. #IoT idea: beep monitoring/reporting."
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/707126666691129344"
+    ],
+    "slug": [
+      "woken-up-last-night-by-one"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Working with @jlcoassin and the clever devs at @codegent on an exciting new project for the @wld platform."],"published":["2009-07-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2549204709"],"slug":["tweet-2549204709"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Working with @jlcoassin and the clever devs at @codegent on an exciting new project for the @wld platform."
+    ],
+    "published": [
+      "2009-07-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2549204709"
+    ],
+    "slug": [
+      "tweet-2549204709"
+    ]
+  }
+}

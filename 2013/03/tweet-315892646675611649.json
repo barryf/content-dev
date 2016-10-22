@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoyed the Teenage Cancer Trust gig last night. Noel and Damon on stage together for the first time, playing Tender http://bfr.st/11zXmEn"],"published":["2013-03-24T18:27:30Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/315892646675611649"],"slug":["tweet-315892646675611649"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoyed the Teenage Cancer Trust gig last night. Noel and Damon on stage together for the first time, playing Tender http://bfr.st/11zXmEn"
+    ],
+    "published": [
+      "2013-03-24T18:27:30Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/315892646675611649"
+    ],
+    "slug": [
+      "tweet-315892646675611649"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["God I need this right now. Save me from svnX hell!\n"],"published":["2007-06-18T12:26:06Z"],"entry-type":["bookmark"],"name":["Versions - Mac Subversion Client"],"bookmark-of":["http://www.versionsapp.com/"],"category":["mac","subversion","svn","dev","sourcecontrol","via-pinboard"],"slug":["versions-mac-subversion-client"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "God I need this right now. Save me from svnX hell!\n"
+    ],
+    "published": [
+      "2007-06-18T12:26:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Versions - Mac Subversion Client"
+    ],
+    "bookmark-of": [
+      "http://www.versionsapp.com/"
+    ],
+    "category": [
+      "mac",
+      "subversion",
+      "svn",
+      "dev",
+      "sourcecontrol",
+      "via-pinboard"
+    ],
+    "slug": [
+      "versions-mac-subversion-client"
+    ]
+  }
+}

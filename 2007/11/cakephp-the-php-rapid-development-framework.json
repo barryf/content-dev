@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-11-11T11:37:51Z"],"entry-type":["bookmark"],"name":["CakePHP : The PHP Rapid Development Framework"],"bookmark-of":["http://cakephp.org/"],"category":["framework","dev","php","web","patterns","via-pinboard"],"slug":["cakephp-the-php-rapid-development-framework"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-11-11T11:37:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CakePHP : The PHP Rapid Development Framework"
+    ],
+    "bookmark-of": [
+      "http://cakephp.org/"
+    ],
+    "category": [
+      "framework",
+      "dev",
+      "php",
+      "web",
+      "patterns",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cakephp-the-php-rapid-development-framework"
+    ]
+  }
+}

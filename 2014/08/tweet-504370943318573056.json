@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh You’re both in for a treat. Such sweet schadenfreude!"],"published":["2014-08-26T20:52:58Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/504370216764440576"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/504370943318573056"],"slug":["tweet-504370943318573056"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh You’re both in for a treat. Such sweet schadenfreude!"
+    ],
+    "published": [
+      "2014-08-26T20:52:58Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/504370216764440576"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/504370943318573056"
+    ],
+    "slug": [
+      "tweet-504370943318573056"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["I wonder what life would be like if I were Mr T? \"You don't hear nothin' but your pea brain rollin' around in your head!\" (via Davezilla and Little Green Footballs)"],"published":["2001-05-02T00:00:00Z"],"slug":["i-wonder-what-life-would-be-like-if-i"],"entry-type":["note"],"category":["travelblog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I wonder what life would be like if I were Mr T? \"You don't hear nothin' but your pea brain rollin' around in your head!\" (via Davezilla and Little Green Footballs)"
+    ],
+    "published": [
+      "2001-05-02T00:00:00Z"
+    ],
+    "slug": [
+      "i-wonder-what-life-would-be-like-if-i"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "travelblog"
+    ]
+  }
+}

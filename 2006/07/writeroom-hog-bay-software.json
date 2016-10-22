@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Pure writing environment. Just text and no distractions. 10.4 only.\n"],"published":["2006-07-27T15:12:27Z"],"entry-type":["bookmark"],"name":["WriteRoom | Hog Bay Software"],"bookmark-of":["http://www.hogbaysoftware.com/product/writeroom"],"category":["mac","writing","editor","text","productivity","inspiration","via-pinboard"],"slug":["writeroom-hog-bay-software"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pure writing environment. Just text and no distractions. 10.4 only.\n"
+    ],
+    "published": [
+      "2006-07-27T15:12:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "WriteRoom | Hog Bay Software"
+    ],
+    "bookmark-of": [
+      "http://www.hogbaysoftware.com/product/writeroom"
+    ],
+    "category": [
+      "mac",
+      "writing",
+      "editor",
+      "text",
+      "productivity",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "writeroom-hog-bay-software"
+    ]
+  }
+}

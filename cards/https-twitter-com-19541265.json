@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Dan Bartlett"],"photo":["http://pbs.twimg.com/profile_images/521760114953297920/Rm64iUBR_normal.jpeg"],"url":["https://twitter.com/danbartlett"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Dan Bartlett"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/521760114953297920/Rm64iUBR_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/danbartlett"
+    ]
+  }
+}

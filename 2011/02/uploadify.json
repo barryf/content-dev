@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Library to support multiple file uploads using jQuery, Flash and PHP (in the examples).\n"],"published":["2011-02-07T13:42:33Z"],"entry-type":["bookmark"],"name":["Uploadify"],"bookmark-of":["http://www.uploadify.com/"],"category":["jquery","javascript","file","upload","flash","via-pinboard"],"slug":["uploadify"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Library to support multiple file uploads using jQuery, Flash and PHP (in the examples).\n"
+    ],
+    "published": [
+      "2011-02-07T13:42:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Uploadify"
+    ],
+    "bookmark-of": [
+      "http://www.uploadify.com/"
+    ],
+    "category": [
+      "jquery",
+      "javascript",
+      "file",
+      "upload",
+      "flash",
+      "via-pinboard"
+    ],
+    "slug": [
+      "uploadify"
+    ]
+  }
+}

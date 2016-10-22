@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["William Gatsinzi"],"photo":["https://twitter.com/Shodai_24/profile_image?size=original"],"url":["https://twitter.com/Shodai_24"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "William Gatsinzi"
+    ],
+    "photo": [
+      "https://twitter.com/Shodai_24/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/Shodai_24"
+    ]
+  }
+}

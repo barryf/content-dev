@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/devindoty/status/552295604505030658"],"published":["2015-01-06T02:48:27Z"],"content":["twitters new fav animation is a static image"],"photo":["http://pbs.twimg.com/media/B6ol7HbCcAA0dGS.png"],"author":["https://twitter.com/devindoty"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/devindoty/status/552295604505030658"
+    ],
+    "published": [
+      "2015-01-06T02:48:27Z"
+    ],
+    "content": [
+      "twitters new fav animation is a static image"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/B6ol7HbCcAA0dGS.png"
+    ],
+    "author": [
+      "https://twitter.com/devindoty"
+    ]
+  }
+}

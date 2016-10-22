@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Freelance London-based designer (as of March 2009). Lovely portfolio and recent work for the Guardian.\n"],"published":["2009-08-08T09:03:01Z"],"entry-type":["bookmark"],"name":["Charlotte Read"],"bookmark-of":["http://www.charlotteread.com/"],"category":["design","designer","london","freelance","portfolio","guardian","via-pinboard"],"slug":["charlotte-read"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Freelance London-based designer (as of March 2009). Lovely portfolio and recent work for the Guardian.\n"
+    ],
+    "published": [
+      "2009-08-08T09:03:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Charlotte Read"
+    ],
+    "bookmark-of": [
+      "http://www.charlotteread.com/"
+    ],
+    "category": [
+      "design",
+      "designer",
+      "london",
+      "freelance",
+      "portfolio",
+      "guardian",
+      "via-pinboard"
+    ],
+    "slug": [
+      "charlotte-read"
+    ]
+  }
+}

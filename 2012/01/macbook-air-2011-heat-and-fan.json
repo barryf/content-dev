@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Includes instructions on resetting the SMC.\n"],"published":["2012-01-23T17:10:42Z"],"entry-type":["bookmark"],"name":["MacBook Air 2011 Heat and Fan Noise Issues"],"bookmark-of":["http://maccrazy.com/macbook-air-heat-fan-noise"],"category":["macbookair","mac","mba","smc","fan","via-pinboard"],"slug":["macbook-air-2011-heat-and-fan"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Includes instructions on resetting the SMC.\n"
+    ],
+    "published": [
+      "2012-01-23T17:10:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MacBook Air 2011 Heat and Fan Noise Issues"
+    ],
+    "bookmark-of": [
+      "http://maccrazy.com/macbook-air-heat-fan-noise"
+    ],
+    "category": [
+      "macbookair",
+      "mac",
+      "mba",
+      "smc",
+      "fan",
+      "via-pinboard"
+    ],
+    "slug": [
+      "macbook-air-2011-heat-and-fan"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["A Rails plugin to simplify some common view tasks for which many have previously used helper functions\n"],"published":["2007-04-14T10:32:08Z"],"entry-type":["bookmark"],"name":["New Rails feature: simply_helpful : Scott's Place"],"bookmark-of":["http://matthewman.net/articles/2006/09/04/new-rails-feature-simply_helpful"],"category":["plugin","rails","web","dev","via-pinboard"],"slug":["new-rails-feature-simply-helpful-scott"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A Rails plugin to simplify some common view tasks for which many have previously used helper functions\n"
+    ],
+    "published": [
+      "2007-04-14T10:32:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "New Rails feature: simply_helpful : Scott's Place"
+    ],
+    "bookmark-of": [
+      "http://matthewman.net/articles/2006/09/04/new-rails-feature-simply_helpful"
+    ],
+    "category": [
+      "plugin",
+      "rails",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "new-rails-feature-simply-helpful-scott"
+    ]
+  }
+}

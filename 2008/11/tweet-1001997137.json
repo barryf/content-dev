@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Waiting at home for my new washing machine. It doesn't get more exciting than this."],"published":["2008-11-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1001997137"],"slug":["tweet-1001997137"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Waiting at home for my new washing machine. It doesn't get more exciting than this."
+    ],
+    "published": [
+      "2008-11-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1001997137"
+    ],
+    "slug": [
+      "tweet-1001997137"
+    ]
+  }
+}

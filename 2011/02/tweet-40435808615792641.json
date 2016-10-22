@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Ordering database servers with a staggering 144Gb of memory each. Yes, that's memory not storage."],"published":["2011-02-23T15:40:22Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/40435808615792641"],"slug":["tweet-40435808615792641"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ordering database servers with a staggering 144Gb of memory each. Yes, that's memory not storage."
+    ],
+    "published": [
+      "2011-02-23T15:40:22Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/40435808615792641"
+    ],
+    "slug": [
+      "tweet-40435808615792641"
+    ]
+  }
+}

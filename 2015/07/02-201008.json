@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2015-07-02T19:10:08Z"],"entry-type":["like"],"like-of":["https://mobile.twitter.com/timblair/status/616682753778675713"],"category":["globaldev","hackday"],"syndication":["https://mobile.twitter.com/timblair/status/616682753778675713"],"slug":["02-201008"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-07-02T19:10:08Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://mobile.twitter.com/timblair/status/616682753778675713"
+    ],
+    "category": [
+      "globaldev",
+      "hackday"
+    ],
+    "syndication": [
+      "https://mobile.twitter.com/timblair/status/616682753778675713"
+    ],
+    "slug": [
+      "02-201008"
+    ]
+  }
+}

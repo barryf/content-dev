@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["A nifty little technique that uses the getPixel() available in Flash 8 to read each individual pixel in the flash player and send the colour values to a PHP script, which reforms the exact view of the flash player as a static JPEG\n"],"published":["2006-02-11T11:10:32Z"],"entry-type":["bookmark"],"name":["Export JPEG with Flash/PHP"],"bookmark-of":["http://www.sephiroth.it/tutorials/flashPHP/print_screen/"],"category":["flash","php","print","jpeg","export","image","web","screenshot","via-pinboard"],"slug":["export-jpeg-with-flash-php"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A nifty little technique that uses the getPixel() available in Flash 8 to read each individual pixel in the flash player and send the colour values to a PHP script, which reforms the exact view of the flash player as a static JPEG\n"
+    ],
+    "published": [
+      "2006-02-11T11:10:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Export JPEG with Flash/PHP"
+    ],
+    "bookmark-of": [
+      "http://www.sephiroth.it/tutorials/flashPHP/print_screen/"
+    ],
+    "category": [
+      "flash",
+      "php",
+      "print",
+      "jpeg",
+      "export",
+      "image",
+      "web",
+      "screenshot",
+      "via-pinboard"
+    ],
+    "slug": [
+      "export-jpeg-with-flash-php"
+    ]
+  }
+}

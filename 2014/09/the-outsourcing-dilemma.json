@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-09-15T12:35:26Z"],"entry-type":["bookmark"],"name":["The Outsourcing Dilemma"],"bookmark-of":["http://www.unboxedconsulting.com/blog/the-outsourcing-dilemma"],"category":["outsourcing","offshore","jobs","dev","via-pinboard"],"slug":["the-outsourcing-dilemma"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-09-15T12:35:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Outsourcing Dilemma"
+    ],
+    "bookmark-of": [
+      "http://www.unboxedconsulting.com/blog/the-outsourcing-dilemma"
+    ],
+    "category": [
+      "outsourcing",
+      "offshore",
+      "jobs",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-outsourcing-dilemma"
+    ]
+  }
+}

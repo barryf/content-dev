@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Excited to be welcoming Rails guru @martinbtt to the @wld dev team tomorrow morning."],"published":["2009-07-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2497298839"],"slug":["tweet-2497298839"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Excited to be welcoming Rails guru @martinbtt to the @wld dev team tomorrow morning."
+    ],
+    "published": [
+      "2009-07-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2497298839"
+    ],
+    "slug": [
+      "tweet-2497298839"
+    ]
+  }
+}

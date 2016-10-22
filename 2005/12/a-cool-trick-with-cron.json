@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["System hooks that are useful for starting lighttpd instances etc.\n"],"published":["2005-12-10T12:22:38Z"],"entry-type":["bookmark"],"name":["A cool trick with cron"],"bookmark-of":["http://david.planetargon.us/articles/2005/12/09/a-cool-trick-with-cron"],"category":["lighttpd","server","cron","useful","sysadmin","via-pinboard"],"slug":["a-cool-trick-with-cron"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "System hooks that are useful for starting lighttpd instances etc.\n"
+    ],
+    "published": [
+      "2005-12-10T12:22:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A cool trick with cron"
+    ],
+    "bookmark-of": [
+      "http://david.planetargon.us/articles/2005/12/09/a-cool-trick-with-cron"
+    ],
+    "category": [
+      "lighttpd",
+      "server",
+      "cron",
+      "useful",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-cool-trick-with-cron"
+    ]
+  }
+}

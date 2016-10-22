@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["IRC service with native mobile apps"],"published":["2016-01-20T17:17:58Z"],"entry-type":["bookmark"],"name":["IRCCloud"],"bookmark-of":["https://www.irccloud.com/"],"category":["irc","cloud","saas"],"slug":["irccloud"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "IRC service with native mobile apps"
+    ],
+    "published": [
+      "2016-01-20T17:17:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "IRCCloud"
+    ],
+    "bookmark-of": [
+      "https://www.irccloud.com/"
+    ],
+    "category": [
+      "irc",
+      "cloud",
+      "saas"
+    ],
+    "slug": [
+      "irccloud"
+    ]
+  }
+}

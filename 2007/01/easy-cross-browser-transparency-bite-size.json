@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Transparency for all!\n"],"published":["2007-01-12T13:49:29Z"],"entry-type":["bookmark"],"name":["Easy cross-browser transparency | Bite Size Standards"],"bookmark-of":["http://bitesizestandards.com/bites/easy-cross-browser-transparency"],"category":["css","transparency","design","png","browser","web","via-pinboard"],"slug":["easy-cross-browser-transparency-bite-size"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Transparency for all!\n"
+    ],
+    "published": [
+      "2007-01-12T13:49:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Easy cross-browser transparency | Bite Size Standards"
+    ],
+    "bookmark-of": [
+      "http://bitesizestandards.com/bites/easy-cross-browser-transparency"
+    ],
+    "category": [
+      "css",
+      "transparency",
+      "design",
+      "png",
+      "browser",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "easy-cross-browser-transparency-bite-size"
+    ]
+  }
+}

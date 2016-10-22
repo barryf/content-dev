@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-08T12:39:44Z"],"entry-type":["bookmark"],"name":["Names of the Year"],"bookmark-of":["http://www.nameoftheyear.com/2007/02/names-of-year.html"],"category":["name","profile","fixture","via-pinboard"],"slug":["names-of-the-year"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-08T12:39:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Names of the Year"
+    ],
+    "bookmark-of": [
+      "http://www.nameoftheyear.com/2007/02/names-of-year.html"
+    ],
+    "category": [
+      "name",
+      "profile",
+      "fixture",
+      "via-pinboard"
+    ],
+    "slug": [
+      "names-of-the-year"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-11-06T17:15:35Z"],"entry-type":["bookmark"],"name":["TalkingTree.com: How to connect ColdFusion MX to MySQL 4.1 database"],"bookmark-of":["http://www.talkingtree.com/blog/index.cfm?mode=entry&entry=25AA9A56-45A6-2844-7A60CF5B3666D010"],"category":["coldfusion","mysql","database","via-pinboard"],"slug":["talkingtree-com-how-to-connect-coldfusion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-11-06T17:15:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TalkingTree.com: How to connect ColdFusion MX to MySQL 4.1 database"
+    ],
+    "bookmark-of": [
+      "http://www.talkingtree.com/blog/index.cfm?mode=entry&entry=25AA9A56-45A6-2844-7A60CF5B3666D010"
+    ],
+    "category": [
+      "coldfusion",
+      "mysql",
+      "database",
+      "via-pinboard"
+    ],
+    "slug": [
+      "talkingtree-com-how-to-connect-coldfusion"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2008-12-13T13:17:21Z"],"entry-type":["bookmark"],"name":["Lighthouse tickets and Git branching"],"bookmark-of":["http://www.robbyonrails.com/articles/2008/12/11/lighthouse-tickets-and-git-branching"],"category":["fortimblair","git","lighthouse","dev","bug","request","useful","via-pinboard"],"slug":["lighthouse-tickets-and-git-branching"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-12-13T13:17:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Lighthouse tickets and Git branching"
+    ],
+    "bookmark-of": [
+      "http://www.robbyonrails.com/articles/2008/12/11/lighthouse-tickets-and-git-branching"
+    ],
+    "category": [
+      "fortimblair",
+      "git",
+      "lighthouse",
+      "dev",
+      "bug",
+      "request",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lighthouse-tickets-and-git-branching"
+    ]
+  }
+}

@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-23T10:17:12Z"],"entry-type":["bookmark"],"name":["PEP 8 -- Style Guide for Python Code"],"bookmark-of":["http://www.python.org/peps/pep-0008.html"],"category":["python","via-pinboard"],"slug":["pep-8-style-guide-for-python"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-23T10:17:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PEP 8 -- Style Guide for Python Code"
+    ],
+    "bookmark-of": [
+      "http://www.python.org/peps/pep-0008.html"
+    ],
+    "category": [
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pep-8-style-guide-for-python"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Advice on minimising Prototype: 71K - 31K. Or wait for Rails to do it for you\n"],"published":["2007-05-20T10:05:41Z"],"entry-type":["bookmark"],"name":["Painfully Obvious » Blog Archive » Packing Prototype"],"bookmark-of":["http://www.andrewdupont.net/2007/02/26/packing-prototype/"],"category":["javascript","prototype","compression","performance","framework","library","dev","web","via-pinboard"],"slug":["painfully-obvious-blog-archive-packing-prototype"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Advice on minimising Prototype: 71K - 31K. Or wait for Rails to do it for you\n"
+    ],
+    "published": [
+      "2007-05-20T10:05:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Painfully Obvious » Blog Archive » Packing Prototype"
+    ],
+    "bookmark-of": [
+      "http://www.andrewdupont.net/2007/02/26/packing-prototype/"
+    ],
+    "category": [
+      "javascript",
+      "prototype",
+      "compression",
+      "performance",
+      "framework",
+      "library",
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "painfully-obvious-blog-archive-packing-prototype"
+    ]
+  }
+}

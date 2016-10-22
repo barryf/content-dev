@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@BenHobson I’ve spent my whole life opening my kitchen bin with my foot like a chump. I NEED A MAGIC BIN."],"published":["2013-04-03T21:02:27Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20511088/status/319551755690061824"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/319555519129985025"],"slug":["tweet-319555519129985025"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BenHobson I’ve spent my whole life opening my kitchen bin with my foot like a chump. I NEED A MAGIC BIN."
+    ],
+    "published": [
+      "2013-04-03T21:02:27Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20511088/status/319551755690061824"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/319555519129985025"
+    ],
+    "slug": [
+      "tweet-319555519129985025"
+    ]
+  }
+}

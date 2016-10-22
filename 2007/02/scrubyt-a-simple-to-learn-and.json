@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["WWW::Mechanize and Hpricot on Steroids\n"],"published":["2007-02-11T17:57:01Z"],"entry-type":["bookmark"],"name":["scRUBYt! - a Simple to Learn and Use, yet Powerful Web Scraping Toolkit Written in Ruby"],"bookmark-of":["http://scrubyt.org/"],"category":["rails","scraping","web","library","html","hpricot","ruby","via-pinboard"],"slug":["scrubyt-a-simple-to-learn-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "WWW::Mechanize and Hpricot on Steroids\n"
+    ],
+    "published": [
+      "2007-02-11T17:57:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "scRUBYt! - a Simple to Learn and Use, yet Powerful Web Scraping Toolkit Written in Ruby"
+    ],
+    "bookmark-of": [
+      "http://scrubyt.org/"
+    ],
+    "category": [
+      "rails",
+      "scraping",
+      "web",
+      "library",
+      "html",
+      "hpricot",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scrubyt-a-simple-to-learn-and"
+    ]
+  }
+}

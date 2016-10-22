@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-11T17:15:43Z"],"entry-type":["bookmark"],"name":["T61x Mac OS X Theme"],"bookmark-of":["http://www.zwahlendesign.ch/16t6xx.html"],"category":["mac","via-pinboard"],"slug":["t61x-mac-os-x-theme"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-11T17:15:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "T61x Mac OS X Theme"
+    ],
+    "bookmark-of": [
+      "http://www.zwahlendesign.ch/16t6xx.html"
+    ],
+    "category": [
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "t61x-mac-os-x-theme"
+    ]
+  }
+}

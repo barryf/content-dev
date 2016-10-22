@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@snarfed_org Superb! It highlighted a bug on my site: I need to refer to the u-url in the hcard not the brid-gy URL"],"published":["2013-12-30T18:52:03Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/snarfed_org/status/417713904886611968"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/417730509318656000"],"slug":["baker-77"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@snarfed_org Superb! It highlighted a bug on my site: I need to refer to the u-url in the hcard not the brid-gy URL"
+    ],
+    "published": [
+      "2013-12-30T18:52:03Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/snarfed_org/status/417713904886611968"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/417730509318656000"
+    ],
+    "slug": [
+      "baker-77"
+    ]
+  }
+}

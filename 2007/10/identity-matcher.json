@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Rails plugin extracted from Dopplr that extends your User model to add contacts from the user's Gmail, Twitter, Flickr, Facebook and any Microformats supporting site\n"],"published":["2007-10-05T09:24:07Z"],"entry-type":["bookmark"],"name":["identity-matcher"],"bookmark-of":["http://code.google.com/p/identity-matcher/"],"category":["rails","plugin","user","microformat","socialnetworking","web","identity","network","via-pinboard"],"slug":["identity-matcher"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails plugin extracted from Dopplr that extends your User model to add contacts from the user's Gmail, Twitter, Flickr, Facebook and any Microformats supporting site\n"
+    ],
+    "published": [
+      "2007-10-05T09:24:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "identity-matcher"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/identity-matcher/"
+    ],
+    "category": [
+      "rails",
+      "plugin",
+      "user",
+      "microformat",
+      "socialnetworking",
+      "web",
+      "identity",
+      "network",
+      "via-pinboard"
+    ],
+    "slug": [
+      "identity-matcher"
+    ]
+  }
+}

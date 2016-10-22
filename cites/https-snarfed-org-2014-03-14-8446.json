@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://snarfed.org/2014-03-14_8446"],"published":["2014-03-14T17:11:32Z"],"content":["likes this."],"like-of":["https://barryfrost.com"],"author":["https://snarfed.org/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://snarfed.org/2014-03-14_8446"
+    ],
+    "published": [
+      "2014-03-14T17:11:32Z"
+    ],
+    "content": [
+      "likes this."
+    ],
+    "like-of": [
+      "https://barryfrost.com"
+    ],
+    "author": [
+      "https://snarfed.org/"
+    ]
+  }
+}

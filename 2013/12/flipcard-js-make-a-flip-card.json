@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2013-12-12T09:37:54Z"],"entry-type":["bookmark"],"name":["FlipCard.js: Make a flip card with CSS3 and HTML5"],"bookmark-of":["http://www.jpinghu.com/flipcardjs"],"category":["card","flip","animation","via-pinboard"],"slug":["flipcard-js-make-a-flip-card"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-12-12T09:37:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FlipCard.js: Make a flip card with CSS3 and HTML5"
+    ],
+    "bookmark-of": [
+      "http://www.jpinghu.com/flipcardjs"
+    ],
+    "category": [
+      "card",
+      "flip",
+      "animation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flipcard-js-make-a-flip-card"
+    ]
+  }
+}

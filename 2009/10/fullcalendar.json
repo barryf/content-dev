@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Large GCal-esque calendar plugin for jQuery\n"],"published":["2009-10-18T12:13:20Z"],"entry-type":["bookmark"],"name":["FullCalendar"],"bookmark-of":["http://arshaw.com/fullcalendar/"],"category":["jquery","calendar","plugin","javascript","gcal","via-pinboard"],"slug":["fullcalendar"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Large GCal-esque calendar plugin for jQuery\n"
+    ],
+    "published": [
+      "2009-10-18T12:13:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FullCalendar"
+    ],
+    "bookmark-of": [
+      "http://arshaw.com/fullcalendar/"
+    ],
+    "category": [
+      "jquery",
+      "calendar",
+      "plugin",
+      "javascript",
+      "gcal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fullcalendar"
+    ]
+  }
+}

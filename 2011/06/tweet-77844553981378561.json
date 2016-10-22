@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@rosswilliams Fairy wings? Seriously?!"],"published":["2011-06-06T21:09:22Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11832/status/77842889501196289"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/77844553981378561"],"slug":["tweet-77844553981378561"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@rosswilliams Fairy wings? Seriously?!"
+    ],
+    "published": [
+      "2011-06-06T21:09:22Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11832/status/77842889501196289"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/77844553981378561"
+    ],
+    "slug": [
+      "tweet-77844553981378561"
+    ]
+  }
+}

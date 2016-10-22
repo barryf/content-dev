@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@bfirsh Massively impressed with the Guardian iPad app. Gorgeous but also responsive. Congratulations #guardianipad"],"published":["2011-10-13T06:43:24Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/124374661336272896"],"slug":["tweet-124374661336272896"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@bfirsh Massively impressed with the Guardian iPad app. Gorgeous but also responsive. Congratulations #guardianipad"
+    ],
+    "published": [
+      "2011-10-13T06:43:24Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/124374661336272896"
+    ],
+    "slug": [
+      "tweet-124374661336272896"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2012-06-24T18:31:43Z"],"entry-type":["bookmark"],"name":["500 Greatest Albums of All Time | Rolling Stone"],"bookmark-of":["http://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531"],"category":["music","history","album","culture","via-pinboard"],"slug":["500-greatest-albums-of-all-time"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-06-24T18:31:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "500 Greatest Albums of All Time | Rolling Stone"
+    ],
+    "bookmark-of": [
+      "http://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531"
+    ],
+    "category": [
+      "music",
+      "history",
+      "album",
+      "culture",
+      "via-pinboard"
+    ],
+    "slug": [
+      "500-greatest-albums-of-all-time"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@tomgiddings Love the Intercity one. Refreshing honesty too from BR: “We’re getting there”."],"published":["2013-08-06T12:14:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6830602/status/364720314204168193"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/364721084613926912"],"slug":["tweet-364721084613926912"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@tomgiddings Love the Intercity one. Refreshing honesty too from BR: “We’re getting there”."
+    ],
+    "published": [
+      "2013-08-06T12:14:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6830602/status/364720314204168193"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/364721084613926912"
+    ],
+    "slug": [
+      "tweet-364721084613926912"
+    ]
+  }
+}

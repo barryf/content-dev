@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["(updated for 1.0)\n"],"published":["2008-09-20T17:09:03Z"],"entry-type":["bookmark"],"name":["Django cheat sheet"],"bookmark-of":["http://www.mercurytide.co.uk/whitepapers/django-cheat-sheet/"],"category":["django","python","framework","web","cheatsheet","guide","via-pinboard"],"slug":["django-cheat-sheet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(updated for 1.0)\n"
+    ],
+    "published": [
+      "2008-09-20T17:09:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Django cheat sheet"
+    ],
+    "bookmark-of": [
+      "http://www.mercurytide.co.uk/whitepapers/django-cheat-sheet/"
+    ],
+    "category": [
+      "django",
+      "python",
+      "framework",
+      "web",
+      "cheatsheet",
+      "guide",
+      "via-pinboard"
+    ],
+    "slug": [
+      "django-cheat-sheet"
+    ]
+  }
+}

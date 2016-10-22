@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Put homemade casserole in oven, re-read recipe to find it needs 2 hours' cooking time so I'll be eating at 10pm. Should've just had a pizza."],"published":["2009-10-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4814996977"],"slug":["tweet-4814996977"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Put homemade casserole in oven, re-read recipe to find it needs 2 hours' cooking time so I'll be eating at 10pm. Should've just had a pizza."
+    ],
+    "published": [
+      "2009-10-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4814996977"
+    ],
+    "slug": [
+      "tweet-4814996977"
+    ]
+  }
+}

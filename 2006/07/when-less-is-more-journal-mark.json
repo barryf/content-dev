@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["\"For me, less is more is about clarity\"\n"],"published":["2006-07-18T14:03:13Z"],"entry-type":["bookmark"],"name":["When less is more : Journal : Mark Boulton"],"bookmark-of":["http://www.markboulton.co.uk/journal/comments/when_less_is_more/"],"category":["web","design","inspiration","via-pinboard"],"slug":["when-less-is-more-journal-mark"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"For me, less is more is about clarity\"\n"
+    ],
+    "published": [
+      "2006-07-18T14:03:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "When less is more : Journal : Mark Boulton"
+    ],
+    "bookmark-of": [
+      "http://www.markboulton.co.uk/journal/comments/when_less_is_more/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "when-less-is-more-journal-mark"
+    ]
+  }
+}

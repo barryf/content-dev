@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Extend HTML with your own attributes\n"],"published":["2005-02-08T13:16:16Z"],"entry-type":["bookmark"],"name":["Validating a Custom DTD: A List Apart"],"bookmark-of":["http://www.alistapart.com/articles/customdtd/"],"category":["web","standards","dtd","via-pinboard"],"slug":["validating-a-custom-dtd-a-list"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Extend HTML with your own attributes\n"
+    ],
+    "published": [
+      "2005-02-08T13:16:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Validating a Custom DTD: A List Apart"
+    ],
+    "bookmark-of": [
+      "http://www.alistapart.com/articles/customdtd/"
+    ],
+    "category": [
+      "web",
+      "standards",
+      "dtd",
+      "via-pinboard"
+    ],
+    "slug": [
+      "validating-a-custom-dtd-a-list"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Sass: plugin to support dynamic CSS in Rails\n"],"published":["2007-10-06T18:34:27Z"],"entry-type":["bookmark"],"name":["Dynamic CSS | Ruby on Rails for Newbies"],"bookmark-of":["http://nubyonrails.com/articles/dynamic-css"],"category":["css","dev","design","generator","plugin","rails","web","via-pinboard"],"slug":["dynamic-css-ruby-on-rails-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sass: plugin to support dynamic CSS in Rails\n"
+    ],
+    "published": [
+      "2007-10-06T18:34:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dynamic CSS | Ruby on Rails for Newbies"
+    ],
+    "bookmark-of": [
+      "http://nubyonrails.com/articles/dynamic-css"
+    ],
+    "category": [
+      "css",
+      "dev",
+      "design",
+      "generator",
+      "plugin",
+      "rails",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dynamic-css-ruby-on-rails-for"
+    ]
+  }
+}

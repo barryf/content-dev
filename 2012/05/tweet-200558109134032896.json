@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@alexparish Works beautifully, well done. I was wondering when @Tastebuds would appear on Spotify."],"published":["2012-05-10T12:09:14Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15612850/status/200545737988243457"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/200558109134032896"],"slug":["tweet-200558109134032896"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@alexparish Works beautifully, well done. I was wondering when @Tastebuds would appear on Spotify."
+    ],
+    "published": [
+      "2012-05-10T12:09:14Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15612850/status/200545737988243457"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/200558109134032896"
+    ],
+    "slug": [
+      "tweet-200558109134032896"
+    ]
+  }
+}

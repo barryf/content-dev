@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Jody Smith"],"photo":["http://pbs.twimg.com/profile_images/1771261685/jodyhat_normal.jpg"],"url":["https://twitter.com/ToastMaster"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jody Smith"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/1771261685/jodyhat_normal.jpg"
+    ],
+    "url": [
+      "https://twitter.com/ToastMaster"
+    ]
+  }
+}

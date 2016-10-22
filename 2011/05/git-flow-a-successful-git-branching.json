@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Both a process and a set of extensions for managing branches when developing with git\n"],"published":["2011-05-25T11:35:33Z"],"entry-type":["bookmark"],"name":["git-flow: a successful Git branching model"],"bookmark-of":["http://nvie.com/posts/a-successful-git-branching-model/"],"category":["git","gitflow","branch","dev","via-pinboard"],"slug":["git-flow-a-successful-git-branching"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Both a process and a set of extensions for managing branches when developing with git\n"
+    ],
+    "published": [
+      "2011-05-25T11:35:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "git-flow: a successful Git branching model"
+    ],
+    "bookmark-of": [
+      "http://nvie.com/posts/a-successful-git-branching-model/"
+    ],
+    "category": [
+      "git",
+      "gitflow",
+      "branch",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "git-flow-a-successful-git-branching"
+    ]
+  }
+}

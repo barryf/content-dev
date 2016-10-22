@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mattjukes Loved that, especially the way he casually described playing both lead and rhythm live. Legend."],"published":["2010-04-19T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15366167/status/12449989480"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/12451426656"],"slug":["tweet-12451426656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mattjukes Loved that, especially the way he casually described playing both lead and rhythm live. Legend."
+    ],
+    "published": [
+      "2010-04-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15366167/status/12449989480"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/12451426656"
+    ],
+    "slug": [
+      "tweet-12451426656"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-05-11T20:39:55Z"],"entry-type":["repost"],"repost-of":["https://mobile.twitter.com/mattround/status/597862835390119937"],"syndication":["https://twitter.com/barryf/status/597863741544222721"],"slug":["11-213955"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-05-11T20:39:55Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://mobile.twitter.com/mattround/status/597862835390119937"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/597863741544222721"
+    ],
+    "slug": [
+      "11-213955"
+    ]
+  }
+}

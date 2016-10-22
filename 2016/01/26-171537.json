@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-01-26T17:15:37Z"],"entry-type":["like"],"like-of":["https://twitter.com/Padday/status/692030934950944768"],"syndication":["https://twitter.com/Padday/status/692030934950944768"],"slug":["26-171537"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-01-26T17:15:37Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/Padday/status/692030934950944768"
+    ],
+    "syndication": [
+      "https://twitter.com/Padday/status/692030934950944768"
+    ],
+    "slug": [
+      "26-171537"
+    ]
+  }
+}

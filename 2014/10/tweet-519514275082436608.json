@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Those are some AWESOME slides, Sam. Sounds like you killed it. Bravo 👏"],"published":["2014-10-07T15:47:09Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/519512179423207425"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/519514275082436608"],"slug":["tweet-519514275082436608"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Those are some AWESOME slides, Sam. Sounds like you killed it. Bravo 👏"
+    ],
+    "published": [
+      "2014-10-07T15:47:09Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/519512179423207425"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/519514275082436608"
+    ],
+    "slug": [
+      "tweet-519514275082436608"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Running late. Been with Alex in A and E. She sprained her foot in Vanilla last night."],"published":["2007-06-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/101066152"],"slug":["tweet-101066152"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Running late. Been with Alex in A and E. She sprained her foot in Vanilla last night."
+    ],
+    "published": [
+      "2007-06-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/101066152"
+    ],
+    "slug": [
+      "tweet-101066152"
+    ]
+  }
+}

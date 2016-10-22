@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["A Facebook Newsfeed-like concept for what's happening in their system\n"],"published":["2007-11-26T21:47:29Z"],"entry-type":["bookmark"],"name":["Wakoopa blog » Blog Archive » Keep updated with our new alert system"],"bookmark-of":["http://blog.wakoopa.com/archives/keep-updated-with-our-new-alert-system"],"category":["wakoopa","social","business","alert","attention","web","dev","via-pinboard"],"slug":["wakoopa-blog-blog-archive-keep-updated"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A Facebook Newsfeed-like concept for what's happening in their system\n"
+    ],
+    "published": [
+      "2007-11-26T21:47:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Wakoopa blog » Blog Archive » Keep updated with our new alert system"
+    ],
+    "bookmark-of": [
+      "http://blog.wakoopa.com/archives/keep-updated-with-our-new-alert-system"
+    ],
+    "category": [
+      "wakoopa",
+      "social",
+      "business",
+      "alert",
+      "attention",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "wakoopa-blog-blog-archive-keep-updated"
+    ]
+  }
+}

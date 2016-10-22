@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ioptics He's great fun, although he disagreed when I suggested they were \"conspiracy theories\"."],"published":["2011-07-27T13:18:09Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/743753/status/96205936569491456"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/96207747380559872"],"slug":["tweet-96207747380559872"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ioptics He's great fun, although he disagreed when I suggested they were \"conspiracy theories\"."
+    ],
+    "published": [
+      "2011-07-27T13:18:09Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/743753/status/96205936569491456"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/96207747380559872"
+    ],
+    "slug": [
+      "tweet-96207747380559872"
+    ]
+  }
+}

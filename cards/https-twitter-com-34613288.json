@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Arsenal FC"],"photo":["http://pbs.twimg.com/profile_images/532478312791040000/VZVhvMh2_normal.png"],"url":["https://twitter.com/Arsenal"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Arsenal FC"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/532478312791040000/VZVhvMh2_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/Arsenal"
+    ]
+  }
+}

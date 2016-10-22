@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-11-25T13:58:28Z"],"entry-type":["like"],"like-of":["https://twitter.com/jasdev/status/669371819254784000"],"syndication":["https://twitter.com/jasdev/status/669371819254784000"],"slug":["25-135828"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-11-25T13:58:28Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/jasdev/status/669371819254784000"
+    ],
+    "syndication": [
+      "https://twitter.com/jasdev/status/669371819254784000"
+    ],
+    "slug": [
+      "25-135828"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/624213736966852608"],"published":["2015-07-23T13:45:26Z"],"content":["@cronkshaw Eh? Next you'll be telling me you've bought an iPhone to use it with"],"in-reply-to":["https://barryfrost.com/2015/07/cronkshaw-maybe-but-i-m-hoping"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/624213736966852608"
+    ],
+    "published": [
+      "2015-07-23T13:45:26Z"
+    ],
+    "content": [
+      "@cronkshaw Eh? Next you'll be telling me you've bought an iPhone to use it with"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/07/cronkshaw-maybe-but-i-m-hoping"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

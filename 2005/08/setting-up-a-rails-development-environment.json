@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["(including Eclipse)\n"],"published":["2005-08-08T13:45:30Z"],"entry-type":["bookmark"],"name":["Setting up a Rails Development Environment on Windows"],"bookmark-of":["http://www.napcs.com/howto/railsonwindows.html"],"category":["rails","windows","eclipse","via-pinboard"],"slug":["setting-up-a-rails-development-environment"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(including Eclipse)\n"
+    ],
+    "published": [
+      "2005-08-08T13:45:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Setting up a Rails Development Environment on Windows"
+    ],
+    "bookmark-of": [
+      "http://www.napcs.com/howto/railsonwindows.html"
+    ],
+    "category": [
+      "rails",
+      "windows",
+      "eclipse",
+      "via-pinboard"
+    ],
+    "slug": [
+      "setting-up-a-rails-development-environment"
+    ]
+  }
+}

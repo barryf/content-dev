@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Rack middleware for blocking and throttling"],"published":["2013-05-05T20:18:29Z"],"entry-type":["bookmark"],"name":["rack-attack"],"bookmark-of":["https://github.com/kickstarter/rack-attack"],"category":["rack","api","ruby","middleware","blocking","throttling","spam","scammer","via-pinboard"],"slug":["rack-attack"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rack middleware for blocking and throttling"
+    ],
+    "published": [
+      "2013-05-05T20:18:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "rack-attack"
+    ],
+    "bookmark-of": [
+      "https://github.com/kickstarter/rack-attack"
+    ],
+    "category": [
+      "rack",
+      "api",
+      "ruby",
+      "middleware",
+      "blocking",
+      "throttling",
+      "spam",
+      "scammer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rack-attack"
+    ]
+  }
+}

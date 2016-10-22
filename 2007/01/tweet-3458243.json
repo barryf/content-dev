@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Very pleased with my mango, kiwifruit and apple smoothie I've just blended myself."],"published":["2007-01-20T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3458243"],"slug":["tweet-3458243"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Very pleased with my mango, kiwifruit and apple smoothie I've just blended myself."
+    ],
+    "published": [
+      "2007-01-20T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3458243"
+    ],
+    "slug": [
+      "tweet-3458243"
+    ]
+  }
+}

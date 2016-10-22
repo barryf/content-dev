@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Epic first day at #UXLondon: inspiring talks from UX heavyweights @lukew @MartinBelam and @iA followed by superb IA workshop by @Abby_the_IA"],"published":["2014-05-28T18:42:53Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/471723301107421184"],"slug":["tweet-471723301107421184"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Epic first day at #UXLondon: inspiring talks from UX heavyweights @lukew @MartinBelam and @iA followed by superb IA workshop by @Abby_the_IA"
+    ],
+    "published": [
+      "2014-05-28T18:42:53Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/471723301107421184"
+    ],
+    "slug": [
+      "tweet-471723301107421184"
+    ]
+  }
+}

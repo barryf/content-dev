@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-05-18T13:36:54Z"],"entry-type":["like"],"like-of":["https://twitter.com/thesambarnes/status/732876690993610752"],"syndication":["https://twitter.com/thesambarnes/status/732876690993610752"],"slug":["18-143654"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-05-18T13:36:54Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/thesambarnes/status/732876690993610752"
+    ],
+    "syndication": [
+      "https://twitter.com/thesambarnes/status/732876690993610752"
+    ],
+    "slug": [
+      "18-143654"
+    ]
+  }
+}

@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Nuria García"],"url":["http://twitter.com/NurinaGarcia"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Nuria García"
+    ],
+    "url": [
+      "http://twitter.com/NurinaGarcia"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Attractive portfolio with nice Ajaxy case study switcher\n"],"published":["2005-12-14T10:25:14Z"],"entry-type":["bookmark"],"name":["Helldesign"],"bookmark-of":["http://en.helldesign.pl/"],"category":["web","design","css","ajax","inspiration","via-pinboard"],"slug":["helldesign"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Attractive portfolio with nice Ajaxy case study switcher\n"
+    ],
+    "published": [
+      "2005-12-14T10:25:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Helldesign"
+    ],
+    "bookmark-of": [
+      "http://en.helldesign.pl/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "css",
+      "ajax",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "helldesign"
+    ]
+  }
+}

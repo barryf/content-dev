@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair I'm afraid not. #barrythebuilder will be returning to the quiet world of online dating next week; manual labour is too hard"],"published":["2009-07-01T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/2423465435"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2423567817"],"slug":["tweet-2423567817"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair I'm afraid not. #barrythebuilder will be returning to the quiet world of online dating next week; manual labour is too hard"
+    ],
+    "published": [
+      "2009-07-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/2423465435"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2423567817"
+    ],
+    "slug": [
+      "tweet-2423567817"
+    ]
+  }
+}

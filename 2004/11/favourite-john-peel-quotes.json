@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-27T14:14:13Z"],"entry-type":["bookmark"],"name":["Favourite John Peel quotes"],"bookmark-of":["http://ilx.p3r.net/thread.php?msgid=5178027"],"category":["fun","via-pinboard"],"slug":["favourite-john-peel-quotes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-27T14:14:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Favourite John Peel quotes"
+    ],
+    "bookmark-of": [
+      "http://ilx.p3r.net/thread.php?msgid=5178027"
+    ],
+    "category": [
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "favourite-john-peel-quotes"
+    ]
+  }
+}

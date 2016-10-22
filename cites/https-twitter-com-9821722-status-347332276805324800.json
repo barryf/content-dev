@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/9821722/status/347332276805324800"],"published":["2013-06-19T12:37:22Z"],"content":["Checking out Snap CI (http://t.co/Bl7DQ7Lztr). If you're on the github/rails/mri/heroku happy path, it's already super useful and very easy."],"author":["https://twitter.com/9821722"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/9821722/status/347332276805324800"
+    ],
+    "published": [
+      "2013-06-19T12:37:22Z"
+    ],
+    "content": [
+      "Checking out Snap CI (http://t.co/Bl7DQ7Lztr). If you're on the github/rails/mri/heroku happy path, it's already super useful and very easy."
+    ],
+    "author": [
+      "https://twitter.com/9821722"
+    ]
+  }
+}

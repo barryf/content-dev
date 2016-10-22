@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sky's Remote Record never fails to impress me: requests on their site/app goes back to my box via an actual satellite in space #thefuture"],"published":["2011-05-10T10:55:45Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/67905659718467584"],"slug":["tweet-67905659718467584"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sky's Remote Record never fails to impress me: requests on their site/app goes back to my box via an actual satellite in space #thefuture"
+    ],
+    "published": [
+      "2011-05-10T10:55:45Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/67905659718467584"
+    ],
+    "slug": [
+      "tweet-67905659718467584"
+    ]
+  }
+}

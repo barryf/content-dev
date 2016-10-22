@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Nice to see our near neighbours in Windsor @1HQbrandagency on tonight's #theapprentice"],"published":["2011-06-29T20:49:13Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/86174402915467264"],"slug":["tweet-86174402915467264"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nice to see our near neighbours in Windsor @1HQbrandagency on tonight's #theapprentice"
+    ],
+    "published": [
+      "2011-06-29T20:49:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/86174402915467264"
+    ],
+    "slug": [
+      "tweet-86174402915467264"
+    ]
+  }
+}

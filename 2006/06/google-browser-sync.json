@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Just what I need, although it's yet another extension to bloat my Firefox setup with\n"],"published":["2006-06-16T11:25:55Z"],"entry-type":["bookmark"],"name":["Google Browser Sync"],"bookmark-of":["http://www.google.com/tools/firefox/browsersync/index.html"],"category":["backup","firefox","google","extension","browser","sync","via-pinboard"],"slug":["google-browser-sync"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just what I need, although it's yet another extension to bloat my Firefox setup with\n"
+    ],
+    "published": [
+      "2006-06-16T11:25:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google Browser Sync"
+    ],
+    "bookmark-of": [
+      "http://www.google.com/tools/firefox/browsersync/index.html"
+    ],
+    "category": [
+      "backup",
+      "firefox",
+      "google",
+      "extension",
+      "browser",
+      "sync",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-browser-sync"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["HTML5 feature compatibility tables for iPhone, Android, BlackBerry, Symbian, iPad and other mobile devices\n"],"published":["2011-12-15T15:45:00Z"],"entry-type":["bookmark"],"name":["Mobile HTML5"],"bookmark-of":["http://mobilehtml5.org/"],"category":["html5","mobile","compatibility","browser","android","ios","blackberry","via-pinboard"],"slug":["mobile-html5"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "HTML5 feature compatibility tables for iPhone, Android, BlackBerry, Symbian, iPad and other mobile devices\n"
+    ],
+    "published": [
+      "2011-12-15T15:45:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mobile HTML5"
+    ],
+    "bookmark-of": [
+      "http://mobilehtml5.org/"
+    ],
+    "category": [
+      "html5",
+      "mobile",
+      "compatibility",
+      "browser",
+      "android",
+      "ios",
+      "blackberry",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mobile-html5"
+    ]
+  }
+}

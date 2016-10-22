@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Oooh. Murder enquiry in nearby sleepy Sunningdale. \"Sledgehammered\" hostage found in a van on the A30 and the road is now shut."],"published":["2010-11-17T19:05:17Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4973367941668865"],"slug":["tweet-4973367941668865"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Oooh. Murder enquiry in nearby sleepy Sunningdale. \"Sledgehammered\" hostage found in a van on the A30 and the road is now shut."
+    ],
+    "published": [
+      "2010-11-17T19:05:17Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4973367941668865"
+    ],
+    "slug": [
+      "tweet-4973367941668865"
+    ]
+  }
+}

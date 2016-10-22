@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Generate terms of use, privacy policy and other legal documents"],"published":["2014-09-02T12:45:37Z"],"entry-type":["bookmark"],"name":["TermsFeed"],"bookmark-of":["https://termsfeed.com/"],"category":["generator","legal","terms","privacy","via-pinboard"],"slug":["termsfeed"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Generate terms of use, privacy policy and other legal documents"
+    ],
+    "published": [
+      "2014-09-02T12:45:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TermsFeed"
+    ],
+    "bookmark-of": [
+      "https://termsfeed.com/"
+    ],
+    "category": [
+      "generator",
+      "legal",
+      "terms",
+      "privacy",
+      "via-pinboard"
+    ],
+    "slug": [
+      "termsfeed"
+    ]
+  }
+}

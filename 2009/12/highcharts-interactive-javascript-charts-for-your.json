@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2009-12-05T16:44:58Z"],"entry-type":["bookmark"],"name":["Highcharts - Interactive JavaScript charts for your webpage"],"bookmark-of":["http://highcharts.com/"],"category":["javascript","chart","graph","animation","library","data","grid","via-pinboard"],"slug":["highcharts-interactive-javascript-charts-for-your"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-12-05T16:44:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Highcharts - Interactive JavaScript charts for your webpage"
+    ],
+    "bookmark-of": [
+      "http://highcharts.com/"
+    ],
+    "category": [
+      "javascript",
+      "chart",
+      "graph",
+      "animation",
+      "library",
+      "data",
+      "grid",
+      "via-pinboard"
+    ],
+    "slug": [
+      "highcharts-interactive-javascript-charts-for-your"
+    ]
+  }
+}

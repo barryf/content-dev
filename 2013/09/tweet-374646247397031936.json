@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Özil — never in doubt. Time for a sneaky bonus signing, Arsène?"],"published":["2013-09-02T21:33:20Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/374646247397031936"],"slug":["tweet-374646247397031936"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Özil — never in doubt. Time for a sneaky bonus signing, Arsène?"
+    ],
+    "published": [
+      "2013-09-02T21:33:20Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/374646247397031936"
+    ],
+    "slug": [
+      "tweet-374646247397031936"
+    ]
+  }
+}

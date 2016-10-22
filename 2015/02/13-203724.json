@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-13T20:37:24Z"],"entry-type":["like"],"like-of":["https://mobile.twitter.com/hmans/status/566130995221757952"],"syndication":["https://mobile.twitter.com/hmans/status/566130995221757952"],"slug":["13-203724"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-13T20:37:24Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://mobile.twitter.com/hmans/status/566130995221757952"
+    ],
+    "syndication": [
+      "https://mobile.twitter.com/hmans/status/566130995221757952"
+    ],
+    "slug": [
+      "13-203724"
+    ]
+  }
+}

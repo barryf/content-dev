@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Payments for Marketplaces: Pay sellers, campaign organizers and service providers"],"published":["2014-05-23T08:42:02Z"],"entry-type":["bookmark"],"name":["Balanced"],"bookmark-of":["https://www.balancedpayments.com/"],"category":["payment","supplier","billing","via-pinboard"],"slug":["balanced"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Payments for Marketplaces: Pay sellers, campaign organizers and service providers"
+    ],
+    "published": [
+      "2014-05-23T08:42:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Balanced"
+    ],
+    "bookmark-of": [
+      "https://www.balancedpayments.com/"
+    ],
+    "category": [
+      "payment",
+      "supplier",
+      "billing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "balanced"
+    ]
+  }
+}

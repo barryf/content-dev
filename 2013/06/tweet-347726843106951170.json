@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["If I click your “unsubscribe” link on your newsletter, please don’t send me *another* email to tell me you’ve unsubscribed me"],"published":["2013-06-20T14:45:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347726843106951170"],"slug":["tweet-347726843106951170"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "If I click your “unsubscribe” link on your newsletter, please don’t send me *another* email to tell me you’ve unsubscribed me"
+    ],
+    "published": [
+      "2013-06-20T14:45:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347726843106951170"
+    ],
+    "slug": [
+      "tweet-347726843106951170"
+    ]
+  }
+}

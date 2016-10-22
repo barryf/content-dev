@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@larrylou100 Benton finally catches a deer http://twitter.com/barryf/status/140057481618530304/photo/1"],"published":["2011-11-25T13:21:21Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/140057481618530304"],"slug":["tweet-140057481618530304"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@larrylou100 Benton finally catches a deer http://twitter.com/barryf/status/140057481618530304/photo/1"
+    ],
+    "published": [
+      "2011-11-25T13:21:21Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/140057481618530304"
+    ],
+    "slug": [
+      "tweet-140057481618530304"
+    ]
+  }
+}

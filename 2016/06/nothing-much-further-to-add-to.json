@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Nothing much further to add to #brexit. I voted for us to stay in, but now that we're (going to be) out, the sooner we can stabilise the economy, society and politics the better. The Thick Of It's \"omnishambles\" feels more appropriate a term than ever."],"published":["2016-06-27T15:35:18Z"],"entry-type":["note"],"category":["brexit","politics","uk","personal"],"slug":["nothing-much-further-to-add-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nothing much further to add to #brexit. I voted for us to stay in, but now that we're (going to be) out, the sooner we can stabilise the economy, society and politics the better. The Thick Of It's \"omnishambles\" feels more appropriate a term than ever."
+    ],
+    "published": [
+      "2016-06-27T15:35:18Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "brexit",
+      "politics",
+      "uk",
+      "personal"
+    ],
+    "slug": [
+      "nothing-much-further-to-add-to"
+    ]
+  }
+}

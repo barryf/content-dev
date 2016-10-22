@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Methods that can be called to register additional data when tracking in GA\n"],"published":["2009-03-31T09:20:40Z"],"entry-type":["bookmark"],"name":["Google Analytics Tracking API"],"bookmark-of":["http://code.google.com/apis/analytics/docs/gaJS/gaJSApi.html"],"category":["ga","googleanalytics","api","tracking","stats","web","useful","via-pinboard"],"slug":["google-analytics-tracking-api"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Methods that can be called to register additional data when tracking in GA\n"
+    ],
+    "published": [
+      "2009-03-31T09:20:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google Analytics Tracking API"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/apis/analytics/docs/gaJS/gaJSApi.html"
+    ],
+    "category": [
+      "ga",
+      "googleanalytics",
+      "api",
+      "tracking",
+      "stats",
+      "web",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-analytics-tracking-api"
+    ]
+  }
+}

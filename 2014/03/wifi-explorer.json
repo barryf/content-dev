@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["\r\n"],"published":["2014-03-08T19:08:22Z"],"entry-type":["bookmark"],"name":["WiFi Explorer"],"bookmark-of":["https://itunes.apple.com/us/app/wifi-explorer/id494803304?mt=12"],"category":["mac","wifi","signal","network","broadband","via-pinboard"],"slug":["wifi-explorer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\r\n"
+    ],
+    "published": [
+      "2014-03-08T19:08:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "WiFi Explorer"
+    ],
+    "bookmark-of": [
+      "https://itunes.apple.com/us/app/wifi-explorer/id494803304?mt=12"
+    ],
+    "category": [
+      "mac",
+      "wifi",
+      "signal",
+      "network",
+      "broadband",
+      "via-pinboard"
+    ],
+    "slug": [
+      "wifi-explorer"
+    ]
+  }
+}

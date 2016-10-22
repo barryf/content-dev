@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-14T14:30:40Z"],"entry-type":["bookmark"],"name":["How to make a todo list program with Ruby on Rails"],"bookmark-of":["http://darkhost.mine.nu/~vince/rails/tutorial.html"],"category":["dev","ruby","via-pinboard"],"slug":["how-to-make-a-todo-list"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-14T14:30:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to make a todo list program with Ruby on Rails"
+    ],
+    "bookmark-of": [
+      "http://darkhost.mine.nu/~vince/rails/tutorial.html"
+    ],
+    "category": [
+      "dev",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-make-a-todo-list"
+    ]
+  }
+}

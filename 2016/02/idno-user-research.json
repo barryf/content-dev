@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> A collection of templates, documents, and results from our user research at Known"],"published":["2016-02-23T12:24:52Z"],"entry-type":["bookmark"],"name":["idno/User-Research"],"bookmark-of":["https://github.com/idno/User-Research"],"category":["ux","research","survey","interview"],"slug":["idno-user-research"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> A collection of templates, documents, and results from our user research at Known"
+    ],
+    "published": [
+      "2016-02-23T12:24:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "idno/User-Research"
+    ],
+    "bookmark-of": [
+      "https://github.com/idno/User-Research"
+    ],
+    "category": [
+      "ux",
+      "research",
+      "survey",
+      "interview"
+    ],
+    "slug": [
+      "idno-user-research"
+    ]
+  }
+}

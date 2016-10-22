@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2009-02-10T19:56:44Z"],"entry-type":["bookmark"],"name":["Remote pair-programming using iChat"],"bookmark-of":["http://lukeredpath.co.uk/blog/remote-pair-programming-with-ichat.html"],"category":["ichat","pair","pairing","dev","mac","collaboration","via-pinboard"],"slug":["remote-pair-programming-using-ichat"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-02-10T19:56:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Remote pair-programming using iChat"
+    ],
+    "bookmark-of": [
+      "http://lukeredpath.co.uk/blog/remote-pair-programming-with-ichat.html"
+    ],
+    "category": [
+      "ichat",
+      "pair",
+      "pairing",
+      "dev",
+      "mac",
+      "collaboration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "remote-pair-programming-using-ichat"
+    ]
+  }
+}

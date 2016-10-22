@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2013-03-17T17:42:53Z"],"entry-type":["bookmark"],"name":["Why We (Still) Believe in Working Remotely"],"bookmark-of":["http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/"],"category":["hiring","work","career","remote","via-pinboard"],"slug":["why-we-still-believe-in-working"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-03-17T17:42:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why We (Still) Believe in Working Remotely"
+    ],
+    "bookmark-of": [
+      "http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/"
+    ],
+    "category": [
+      "hiring",
+      "work",
+      "career",
+      "remote",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-we-still-believe-in-working"
+    ]
+  }
+}

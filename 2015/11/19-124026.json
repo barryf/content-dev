@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-11-19T12:40:26Z"],"entry-type":["like"],"like-of":["https://twitter.com/PaulHawksbee/status/667272265441087489"],"syndication":["https://twitter.com/PaulHawksbee/status/667272265441087489"],"slug":["19-124026"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-11-19T12:40:26Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/PaulHawksbee/status/667272265441087489"
+    ],
+    "syndication": [
+      "https://twitter.com/PaulHawksbee/status/667272265441087489"
+    ],
+    "slug": [
+      "19-124026"
+    ]
+  }
+}

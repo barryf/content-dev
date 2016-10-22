@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Perfect. I'll send this around our management team.\n"],"published":["2009-12-05T18:51:21Z"],"entry-type":["bookmark"],"name":["Kanban Distilled for Managers"],"bookmark-of":["http://www.kanbandistilled.com/"],"category":["kanban","agile","management","work","introduction","dev","via-pinboard"],"slug":["kanban-distilled-for-managers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Perfect. I'll send this around our management team.\n"
+    ],
+    "published": [
+      "2009-12-05T18:51:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Kanban Distilled for Managers"
+    ],
+    "bookmark-of": [
+      "http://www.kanbandistilled.com/"
+    ],
+    "category": [
+      "kanban",
+      "agile",
+      "management",
+      "work",
+      "introduction",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kanban-distilled-for-managers"
+    ]
+  }
+}

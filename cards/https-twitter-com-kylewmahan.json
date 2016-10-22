@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Kyle Mahan"],"photo":["https://twitter.com/kylewmahan/profile_image?size=original"],"url":["https://twitter.com/kylewmahan"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kyle Mahan"
+    ],
+    "photo": [
+      "https://twitter.com/kylewmahan/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/kylewmahan"
+    ]
+  }
+}

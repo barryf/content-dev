@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Examines text and suggests tags suitable for the text\n"],"published":["2008-10-02T18:59:26Z"],"entry-type":["bookmark"],"name":["Term Extraction Web Service"],"bookmark-of":["http://developer.yahoo.com/search/content/V1/termExtraction.html"],"category":["tag","extraction","term","datamining","keyword","content","webservices","dev","api","yahoo","via-pinboard"],"slug":["term-extraction-web-service"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Examines text and suggests tags suitable for the text\n"
+    ],
+    "published": [
+      "2008-10-02T18:59:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Term Extraction Web Service"
+    ],
+    "bookmark-of": [
+      "http://developer.yahoo.com/search/content/V1/termExtraction.html"
+    ],
+    "category": [
+      "tag",
+      "extraction",
+      "term",
+      "datamining",
+      "keyword",
+      "content",
+      "webservices",
+      "dev",
+      "api",
+      "yahoo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "term-extraction-web-service"
+    ]
+  }
+}

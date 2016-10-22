@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@beng Can I ask what the 3-day event in Berkshire is (your tweet just RT'd by @rubymanor), assuming it's Ruby? Bit nearer to me than London."],"published":["2012-01-25T09:23:40Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/10212702/status/162101345065771008"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/162103330494087169"],"slug":["tweet-162103330494087169"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@beng Can I ask what the 3-day event in Berkshire is (your tweet just RT'd by @rubymanor), assuming it's Ruby? Bit nearer to me than London."
+    ],
+    "published": [
+      "2012-01-25T09:23:40Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/10212702/status/162101345065771008"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/162103330494087169"
+    ],
+    "slug": [
+      "tweet-162103330494087169"
+    ]
+  }
+}

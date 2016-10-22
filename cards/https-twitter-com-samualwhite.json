@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Its Sizzle (@samualwhite)"],"photo":["http://pbs.twimg.com/profile_images/378800000653489852/e0455da1808a7d186376606f02e7431d_normal.jpeg"],"url":["https://twitter.com/samualwhite"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Its Sizzle (@samualwhite)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000653489852/e0455da1808a7d186376606f02e7431d_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/samualwhite"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Shorter, friendlier, \"more\" secure, clearer\n"],"published":["2009-08-29T13:52:19Z"],"entry-type":["bookmark"],"name":["Design Decisions: New signup form - (37signals)"],"bookmark-of":["http://37signals.com/svn/posts/1867-design-decisions-new-signup-form"],"category":["signup","form","design","usability","business","via-pinboard"],"slug":["design-decisions-new-signup-form-37signals"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Shorter, friendlier, \"more\" secure, clearer\n"
+    ],
+    "published": [
+      "2009-08-29T13:52:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Design Decisions: New signup form - (37signals)"
+    ],
+    "bookmark-of": [
+      "http://37signals.com/svn/posts/1867-design-decisions-new-signup-form"
+    ],
+    "category": [
+      "signup",
+      "form",
+      "design",
+      "usability",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "design-decisions-new-signup-form-37signals"
+    ]
+  }
+}

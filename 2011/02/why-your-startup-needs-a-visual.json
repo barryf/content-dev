@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2011-02-17T20:15:12Z"],"entry-type":["bookmark"],"name":["Why Your Startup Needs a Visual Dashboard"],"bookmark-of":["http://mygengo.com/talk/blog/why-your-startup-needs-a-visual-dashboard/"],"category":["report","startup","metrics","data","analysis","business","work","forflatpackedworld","fortimblair","via-pinboard"],"slug":["why-your-startup-needs-a-visual"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-02-17T20:15:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why Your Startup Needs a Visual Dashboard"
+    ],
+    "bookmark-of": [
+      "http://mygengo.com/talk/blog/why-your-startup-needs-a-visual-dashboard/"
+    ],
+    "category": [
+      "report",
+      "startup",
+      "metrics",
+      "data",
+      "analysis",
+      "business",
+      "work",
+      "forflatpackedworld",
+      "fortimblair",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-your-startup-needs-a-visual"
+    ]
+  }
+}

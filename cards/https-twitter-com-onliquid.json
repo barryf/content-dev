@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Liquid"],"photo":["https://twitter.com/onliquid/profile_image?size=original"],"url":["https://twitter.com/onliquid"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Liquid"
+    ],
+    "photo": [
+      "https://twitter.com/onliquid/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/onliquid"
+    ]
+  }
+}

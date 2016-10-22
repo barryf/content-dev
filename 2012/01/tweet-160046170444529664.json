@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@skrivr Thanks for the invite but I'd rather not give access to my whole Dropbox. Would you consider using a folder in /Apps like Calepin?"],"published":["2012-01-19T17:09:15Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/160046170444529664"],"slug":["tweet-160046170444529664"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@skrivr Thanks for the invite but I'd rather not give access to my whole Dropbox. Would you consider using a folder in /Apps like Calepin?"
+    ],
+    "published": [
+      "2012-01-19T17:09:15Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/160046170444529664"
+    ],
+    "slug": [
+      "tweet-160046170444529664"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["(Meriblog: Meri Williams' Weblog)\n"],"published":["2005-02-09T15:02:27Z"],"entry-type":["bookmark"],"name":["Excel is to Business People as the Text Editor is to Geeks"],"bookmark-of":["http://blog.meriwilliams.com/index.php?p=211"],"category":["tech","fun","via-pinboard"],"slug":["excel-is-to-business-people-as"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(Meriblog: Meri Williams' Weblog)\n"
+    ],
+    "published": [
+      "2005-02-09T15:02:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Excel is to Business People as the Text Editor is to Geeks"
+    ],
+    "bookmark-of": [
+      "http://blog.meriwilliams.com/index.php?p=211"
+    ],
+    "category": [
+      "tech",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "excel-is-to-business-people-as"
+    ]
+  }
+}

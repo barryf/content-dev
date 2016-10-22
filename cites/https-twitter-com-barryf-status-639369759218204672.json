@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/639369759218204672"],"published":["2015-09-10T10:22:49Z"],"like-of":["https://barryfrost.com/2015/09/new-roles-i-m-looking-for"],"author":["https://twitter.com/growwithEQ"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/639369759218204672"
+    ],
+    "published": [
+      "2015-09-10T10:22:49Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/09/new-roles-i-m-looking-for"
+    ],
+    "author": [
+      "https://twitter.com/growwithEQ"
+    ]
+  }
+}

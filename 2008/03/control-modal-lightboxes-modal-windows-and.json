@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Perfect. Exactly what I need for a project at work\n"],"published":["2008-03-12T19:06:35Z"],"entry-type":["bookmark"],"name":["Control.Modal : Lightboxes, Modal Windows and Tooltips for Prototype"],"bookmark-of":["http://livepipe.net/projects/control_modal/"],"category":["lightbox","modal","prototype","javascript","help","work","web","dev","via-pinboard"],"slug":["control-modal-lightboxes-modal-windows-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Perfect. Exactly what I need for a project at work\n"
+    ],
+    "published": [
+      "2008-03-12T19:06:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Control.Modal : Lightboxes, Modal Windows and Tooltips for Prototype"
+    ],
+    "bookmark-of": [
+      "http://livepipe.net/projects/control_modal/"
+    ],
+    "category": [
+      "lightbox",
+      "modal",
+      "prototype",
+      "javascript",
+      "help",
+      "work",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "control-modal-lightboxes-modal-windows-and"
+    ]
+  }
+}

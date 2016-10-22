@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-02-12T21:58:54Z"],"entry-type":["bookmark"],"name":["danwebb.net - Sumo! A Generic Microformats Parser For JavaScript"],"bookmark-of":["http://www.danwebb.net/2007/2/9/sumo-a-generic-microformats-parser-for-javascript"],"category":["javascript","microformat","hcard","hcalendar","hreview","web","json","via-pinboard"],"slug":["danwebb-net-sumo-a-generic-microformats"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-02-12T21:58:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "danwebb.net - Sumo! A Generic Microformats Parser For JavaScript"
+    ],
+    "bookmark-of": [
+      "http://www.danwebb.net/2007/2/9/sumo-a-generic-microformats-parser-for-javascript"
+    ],
+    "category": [
+      "javascript",
+      "microformat",
+      "hcard",
+      "hcalendar",
+      "hreview",
+      "web",
+      "json",
+      "via-pinboard"
+    ],
+    "slug": [
+      "danwebb-net-sumo-a-generic-microformats"
+    ]
+  }
+}

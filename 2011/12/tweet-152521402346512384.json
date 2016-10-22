@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Mine is 1st gen like Jason's. Still use it for long journeys though."],"published":["2011-12-29T22:48:30Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/152466655568609280"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/152521402346512384"],"slug":["tweet-152521402346512384"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Mine is 1st gen like Jason's. Still use it for long journeys though."
+    ],
+    "published": [
+      "2011-12-29T22:48:30Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/152466655568609280"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/152521402346512384"
+    ],
+    "slug": [
+      "tweet-152521402346512384"
+    ]
+  }
+}

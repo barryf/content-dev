@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mmazour Congratulations on your new arrival."],"published":["2012-11-13T12:14:34Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14484366/status/268324459935567872"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/268325983969480705"],"slug":["tweet-268325983969480705"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mmazour Congratulations on your new arrival."
+    ],
+    "published": [
+      "2012-11-13T12:14:34Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14484366/status/268324459935567872"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/268325983969480705"
+    ],
+    "slug": [
+      "tweet-268325983969480705"
+    ]
+  }
+}

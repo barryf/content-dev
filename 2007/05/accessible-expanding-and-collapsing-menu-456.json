@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2007-05-30T13:10:37Z"],"entry-type":["bookmark"],"name":["Accessible expanding and collapsing menu | 456 Berea Street"],"bookmark-of":["http://www.456bereastreet.com/archive/200705/accessible_expanding_and_collapsing_menu/"],"category":["menu","dropdown","html","accessibility","javascript","css","web","design","dev","via-pinboard"],"slug":["accessible-expanding-and-collapsing-menu-456"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-05-30T13:10:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Accessible expanding and collapsing menu | 456 Berea Street"
+    ],
+    "bookmark-of": [
+      "http://www.456bereastreet.com/archive/200705/accessible_expanding_and_collapsing_menu/"
+    ],
+    "category": [
+      "menu",
+      "dropdown",
+      "html",
+      "accessibility",
+      "javascript",
+      "css",
+      "web",
+      "design",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "accessible-expanding-and-collapsing-menu-456"
+    ]
+  }
+}

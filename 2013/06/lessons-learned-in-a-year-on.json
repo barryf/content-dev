@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2013-06-09T10:40:37Z"],"entry-type":["bookmark"],"name":["Lessons learned in a year on my own"],"bookmark-of":["http://destroytoday.com/blog/lessons-learned-in-a-year-on-my-own/"],"category":["entrepreneur","freelance","business","inspiration","work","via-pinboard"],"slug":["lessons-learned-in-a-year-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-06-09T10:40:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Lessons learned in a year on my own"
+    ],
+    "bookmark-of": [
+      "http://destroytoday.com/blog/lessons-learned-in-a-year-on-my-own/"
+    ],
+    "category": [
+      "entrepreneur",
+      "freelance",
+      "business",
+      "inspiration",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lessons-learned-in-a-year-on"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["This season's festival fashion for young ladies is hotpants and wellies. So I've heard."],"published":["2009-08-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3648355027"],"slug":["tweet-3648355027"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This season's festival fashion for young ladies is hotpants and wellies. So I've heard."
+    ],
+    "published": [
+      "2009-08-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3648355027"
+    ],
+    "slug": [
+      "tweet-3648355027"
+    ]
+  }
+}

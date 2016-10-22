@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Helium is a floating browser window that allows you to watch media while you work. Your content will never fall behind your other windows even as you switch tasks.\r\n"],"published":["2016-03-15T17:26:26Z"],"entry-type":["bookmark"],"name":["Helium"],"bookmark-of":["http://jadengeller.github.io/Helium/"],"category":["mac","video","pip","media"],"slug":["helium"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Helium is a floating browser window that allows you to watch media while you work. Your content will never fall behind your other windows even as you switch tasks.\r\n"
+    ],
+    "published": [
+      "2016-03-15T17:26:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Helium"
+    ],
+    "bookmark-of": [
+      "http://jadengeller.github.io/Helium/"
+    ],
+    "category": [
+      "mac",
+      "video",
+      "pip",
+      "media"
+    ],
+    "slug": [
+      "helium"
+    ]
+  }
+}

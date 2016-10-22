@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["John Lilly (@johnolilly)"],"photo":["http://pbs.twimg.com/profile_images/476931407844216833/pTUoi2nb_normal.jpeg"],"url":["https://twitter.com/johnolilly"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "John Lilly (@johnolilly)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/476931407844216833/pTUoi2nb_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/johnolilly"
+    ]
+  }
+}

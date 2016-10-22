@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I do like the subtle, complementary use of animated GIFs in @guardian's Last Bites series http://www.theguardian.com/lifeandstyle/series/last-bites http://twitter.com/barryf/status/480665143496687616/photo/1"],"published":["2014-06-22T10:54:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/480665143496687616"],"slug":["tweet-480665143496687616"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I do like the subtle, complementary use of animated GIFs in @guardian's Last Bites series http://www.theguardian.com/lifeandstyle/series/last-bites http://twitter.com/barryf/status/480665143496687616/photo/1"
+    ],
+    "published": [
+      "2014-06-22T10:54:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/480665143496687616"
+    ],
+    "slug": [
+      "tweet-480665143496687616"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@BradHaverly Yep. Went off them a bit after recent albums but back to form. @ian_winter and I are seeing them next month."],"published":["2011-06-04T11:42:30Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/76977120370360320"],"slug":["tweet-76977120370360320"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BradHaverly Yep. Went off them a bit after recent albums but back to form. @ian_winter and I are seeing them next month."
+    ],
+    "published": [
+      "2011-06-04T11:42:30Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/76977120370360320"
+    ],
+    "slug": [
+      "tweet-76977120370360320"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Includes links to useful jQuery plug-ins\n"],"published":["2008-01-13T17:03:21Z"],"entry-type":["bookmark"],"name":["The jSkinny on jQuery — err.the_blog"],"bookmark-of":["http://errtheblog.com/posts/73-the-jskinny-on-jquery"],"category":["jquery","javascript","framework","rails","web","via-pinboard"],"slug":["the-jskinny-on-jquery-err-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Includes links to useful jQuery plug-ins\n"
+    ],
+    "published": [
+      "2008-01-13T17:03:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The jSkinny on jQuery — err.the_blog"
+    ],
+    "bookmark-of": [
+      "http://errtheblog.com/posts/73-the-jskinny-on-jquery"
+    ],
+    "category": [
+      "jquery",
+      "javascript",
+      "framework",
+      "rails",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-jskinny-on-jquery-err-the"
+    ]
+  }
+}

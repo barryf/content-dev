@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["A list of everything that goes in the <head> of your HTML document"],"published":["2016-04-22T14:33:04Z"],"entry-type":["bookmark"],"name":["HEAD"],"bookmark-of":["https://github.com/joshbuchea/HEAD"],"category":["head","html"],"slug":["head"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A list of everything that goes in the <head> of your HTML document"
+    ],
+    "published": [
+      "2016-04-22T14:33:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HEAD"
+    ],
+    "bookmark-of": [
+      "https://github.com/joshbuchea/HEAD"
+    ],
+    "category": [
+      "head",
+      "html"
+    ],
+    "slug": [
+      "head"
+    ]
+  }
+}

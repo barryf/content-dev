@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2012-09-26T07:59:44Z"],"entry-type":["bookmark"],"name":["Why Eyeballs No Longer Matter For Startups"],"bookmark-of":["http://www.readwriteweb.com/start/2012/09/why-eyeballs-no-longer-matter-for-startups.php"],"category":["revenue","business","vc","via-pinboard"],"slug":["why-eyeballs-no-longer-matter-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-09-26T07:59:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why Eyeballs No Longer Matter For Startups"
+    ],
+    "bookmark-of": [
+      "http://www.readwriteweb.com/start/2012/09/why-eyeballs-no-longer-matter-for-startups.php"
+    ],
+    "category": [
+      "revenue",
+      "business",
+      "vc",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-eyeballs-no-longer-matter-for"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Guide to building a gem by Steve Klabnik"],"published":["2015-02-10T20:52:10Z"],"entry-type":["bookmark"],"name":["How I Start (Ruby gem)"],"bookmark-of":["http://howistart.org/posts/ruby/1"],"category":["ruby","gem"],"slug":["how-i-start-ruby-gem"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Guide to building a gem by Steve Klabnik"
+    ],
+    "published": [
+      "2015-02-10T20:52:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How I Start (Ruby gem)"
+    ],
+    "bookmark-of": [
+      "http://howistart.org/posts/ruby/1"
+    ],
+    "category": [
+      "ruby",
+      "gem"
+    ],
+    "slug": [
+      "how-i-start-ruby-gem"
+    ]
+  }
+}

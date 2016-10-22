@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["You can now embed a payment form in a Wufoo survey. Handy. "],"published":["2012-10-29T19:05:59Z"],"entry-type":["bookmark"],"name":["Stripe + Wufoo"],"bookmark-of":["https://stripe.com/blog/stripe-wufoo"],"category":["payment","wufoo","stripe","form","via-pinboard"],"slug":["stripe-wufoo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "You can now embed a payment form in a Wufoo survey. Handy. "
+    ],
+    "published": [
+      "2012-10-29T19:05:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Stripe + Wufoo"
+    ],
+    "bookmark-of": [
+      "https://stripe.com/blog/stripe-wufoo"
+    ],
+    "category": [
+      "payment",
+      "wufoo",
+      "stripe",
+      "form",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stripe-wufoo"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Tarted up forms using just Javascript/CSS\n"],"published":["2005-07-25T08:40:20Z"],"entry-type":["bookmark"],"name":["Niceforms"],"bookmark-of":["http://www.badboy.ro/articles/2005-07-23/index.php"],"category":["javascript","standards","css","design","via-pinboard"],"slug":["niceforms"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tarted up forms using just Javascript/CSS\n"
+    ],
+    "published": [
+      "2005-07-25T08:40:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Niceforms"
+    ],
+    "bookmark-of": [
+      "http://www.badboy.ro/articles/2005-07-23/index.php"
+    ],
+    "category": [
+      "javascript",
+      "standards",
+      "css",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "niceforms"
+    ]
+  }
+}

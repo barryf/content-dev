@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Rachel Thompson"],"photo":["https://twitter.com/RachieTp/profile_image?size=original"],"url":["https://twitter.com/RachieTp"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Rachel Thompson"
+    ],
+    "photo": [
+      "https://twitter.com/RachieTp/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/RachieTp"
+    ]
+  }
+}

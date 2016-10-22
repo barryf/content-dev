@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-10-26T09:14:38Z"],"entry-type":["bookmark"],"name":["Using Alfred to setup your dev environment"],"bookmark-of":["http://destroytoday.com/blog/alfred-dev-env"],"category":["automation","dev","environment","alfred","via-pinboard"],"slug":["using-alfred-to-setup-your-dev"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-10-26T09:14:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using Alfred to setup your dev environment"
+    ],
+    "bookmark-of": [
+      "http://destroytoday.com/blog/alfred-dev-env"
+    ],
+    "category": [
+      "automation",
+      "dev",
+      "environment",
+      "alfred",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-alfred-to-setup-your-dev"
+    ]
+  }
+}

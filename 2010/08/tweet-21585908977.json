@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Today I learned a delightful new word... vajayjay."],"published":["2010-08-19T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/21585908977"],"slug":["tweet-21585908977"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Today I learned a delightful new word... vajayjay."
+    ],
+    "published": [
+      "2010-08-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/21585908977"
+    ],
+    "slug": [
+      "tweet-21585908977"
+    ]
+  }
+}

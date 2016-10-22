@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Strategies for scaling RabbitMQ queues\n"],"published":["2011-09-30T12:48:38Z"],"entry-type":["bookmark"],"name":["Sizing your Rabbit[MQ]s"],"bookmark-of":["http://www.rabbitmq.com/blog/2011/09/24/sizing-your-rabbits/"],"category":["scalingrabbitmqqueuedev","via-pinboard"],"slug":["sizing-your-rabbit-mq-s"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Strategies for scaling RabbitMQ queues\n"
+    ],
+    "published": [
+      "2011-09-30T12:48:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sizing your Rabbit[MQ]s"
+    ],
+    "bookmark-of": [
+      "http://www.rabbitmq.com/blog/2011/09/24/sizing-your-rabbits/"
+    ],
+    "category": [
+      "scalingrabbitmqqueuedev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sizing-your-rabbit-mq-s"
+    ]
+  }
+}

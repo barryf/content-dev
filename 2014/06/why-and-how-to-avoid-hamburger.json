@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2014-06-03T16:42:38Z"],"entry-type":["bookmark"],"name":["Why and How to avoid Hamburger Menus"],"bookmark-of":["http://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/"],"category":["hamburger","navigation","ux","nav","mobile","design","via-pinboard"],"slug":["why-and-how-to-avoid-hamburger"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-06-03T16:42:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why and How to avoid Hamburger Menus"
+    ],
+    "bookmark-of": [
+      "http://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/"
+    ],
+    "category": [
+      "hamburger",
+      "navigation",
+      "ux",
+      "nav",
+      "mobile",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-and-how-to-avoid-hamburger"
+    ]
+  }
+}

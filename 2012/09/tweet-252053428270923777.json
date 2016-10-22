@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Gutted."],"published":["2012-09-29T14:33:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/252053428270923777"],"slug":["tweet-252053428270923777"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Gutted."
+    ],
+    "published": [
+      "2012-09-29T14:33:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/252053428270923777"
+    ],
+    "slug": [
+      "tweet-252053428270923777"
+    ]
+  }
+}

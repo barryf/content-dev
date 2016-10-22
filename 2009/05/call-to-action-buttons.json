@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["How to design an effective CTA button - good contrast, logical location, verb-first language, big size, lots of padding\n"],"published":["2009-05-04T15:02:47Z"],"entry-type":["bookmark"],"name":["Call To Action Buttons"],"bookmark-of":["http://www.leemunroe.com/web-design-trends-call-to-action-signup-download-buttons/"],"category":["cta","button","design","interface","action","via-pinboard"],"slug":["call-to-action-buttons"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to design an effective CTA button - good contrast, logical location, verb-first language, big size, lots of padding\n"
+    ],
+    "published": [
+      "2009-05-04T15:02:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Call To Action Buttons"
+    ],
+    "bookmark-of": [
+      "http://www.leemunroe.com/web-design-trends-call-to-action-signup-download-buttons/"
+    ],
+    "category": [
+      "cta",
+      "button",
+      "design",
+      "interface",
+      "action",
+      "via-pinboard"
+    ],
+    "slug": [
+      "call-to-action-buttons"
+    ]
+  }
+}

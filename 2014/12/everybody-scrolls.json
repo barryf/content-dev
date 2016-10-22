@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-12-26T17:52:51Z"],"entry-type":["bookmark"],"name":["Everybody scrolls"],"bookmark-of":["http://hugeinc.com/ideas/perspective/everybody-scrolls"],"category":["scrolling","ux","advocacy","scroll","via-pinboard"],"slug":["everybody-scrolls"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-12-26T17:52:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Everybody scrolls"
+    ],
+    "bookmark-of": [
+      "http://hugeinc.com/ideas/perspective/everybody-scrolls"
+    ],
+    "category": [
+      "scrolling",
+      "ux",
+      "advocacy",
+      "scroll",
+      "via-pinboard"
+    ],
+    "slug": [
+      "everybody-scrolls"
+    ]
+  }
+}

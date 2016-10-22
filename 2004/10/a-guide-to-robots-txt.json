@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-26T15:56:59Z"],"entry-type":["bookmark"],"name":["A guide to robots.txt"],"bookmark-of":["http://www.robotstxt.org/wc/exclusion.html"],"category":["useful","web","via-pinboard"],"slug":["a-guide-to-robots-txt"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-26T15:56:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A guide to robots.txt"
+    ],
+    "bookmark-of": [
+      "http://www.robotstxt.org/wc/exclusion.html"
+    ],
+    "category": [
+      "useful",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-guide-to-robots-txt"
+    ]
+  }
+}

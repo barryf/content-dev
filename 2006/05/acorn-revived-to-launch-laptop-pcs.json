@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["New Acorn boxes! Hurrah! Running Windows XP! Boo!\n"],"published":["2006-05-05T12:44:01Z"],"entry-type":["bookmark"],"name":["Acorn revived to launch laptop PCs"],"bookmark-of":["http://www.reghardware.co.uk/2006/05/05/acorn_computers_reborn/"],"category":["acorn","windows","uk","computer","laptop","nostalgia","via-pinboard"],"slug":["acorn-revived-to-launch-laptop-pcs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "New Acorn boxes! Hurrah! Running Windows XP! Boo!\n"
+    ],
+    "published": [
+      "2006-05-05T12:44:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Acorn revived to launch laptop PCs"
+    ],
+    "bookmark-of": [
+      "http://www.reghardware.co.uk/2006/05/05/acorn_computers_reborn/"
+    ],
+    "category": [
+      "acorn",
+      "windows",
+      "uk",
+      "computer",
+      "laptop",
+      "nostalgia",
+      "via-pinboard"
+    ],
+    "slug": [
+      "acorn-revived-to-launch-laptop-pcs"
+    ]
+  }
+}

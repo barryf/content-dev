@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://snarfed.org/2015-01-26_new-feature-on-this-site-courtesy-of-bridgyhttpswww-brid-gy-i-can-now-like-photos-on-insta-%c2%b7-barry-frost"],"published":["2015-01-26T13:25:16Z"],"content":["likes New feature on this site courtesy of Bridgy: I can now \"like\" photos on Insta… · Barry Frost"],"like-of":["https://barryfrost.com/2015/01/new-feature-on-this-site-courtesy"],"author":["https://snarfed.org/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://snarfed.org/2015-01-26_new-feature-on-this-site-courtesy-of-bridgyhttpswww-brid-gy-i-can-now-like-photos-on-insta-%c2%b7-barry-frost"
+    ],
+    "published": [
+      "2015-01-26T13:25:16Z"
+    ],
+    "content": [
+      "likes New feature on this site courtesy of Bridgy: I can now \"like\" photos on Insta… · Barry Frost"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/01/new-feature-on-this-site-courtesy"
+    ],
+    "author": [
+      "https://snarfed.org/"
+    ]
+  }
+}

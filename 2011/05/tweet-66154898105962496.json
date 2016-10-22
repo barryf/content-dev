@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener @BradHaverly When Snow Leopard launched we bought it for all our Macs. I would expect to do the same for Lion when out."],"published":["2011-05-05T14:58:51Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14234004/status/66059475982893056"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/66154898105962496"],"slug":["tweet-66154898105962496"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener @BradHaverly When Snow Leopard launched we bought it for all our Macs. I would expect to do the same for Lion when out."
+    ],
+    "published": [
+      "2011-05-05T14:58:51Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14234004/status/66059475982893056"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/66154898105962496"
+    ],
+    "slug": [
+      "tweet-66154898105962496"
+    ]
+  }
+}

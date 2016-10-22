@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I think I've got a ghost in my office. Not only is it deathly cold, but I keep finding my blinds open. Could be that pesky @rosswilliams..."],"published":["2009-10-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4812414062"],"slug":["tweet-4812414062"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I think I've got a ghost in my office. Not only is it deathly cold, but I keep finding my blinds open. Could be that pesky @rosswilliams..."
+    ],
+    "published": [
+      "2009-10-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4812414062"
+    ],
+    "slug": [
+      "tweet-4812414062"
+    ]
+  }
+}

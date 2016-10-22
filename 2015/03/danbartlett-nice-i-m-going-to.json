@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@danbartlett Nice. I'm going to get some food in a bit but I might pop in to the Westgate after.\n"],"published":["2015-03-12T18:04:06Z"],"entry-type":["reply"],"summary":["@danbartlett Nice. I'm going to get some food in a bit but I might pop in to the Westgate after."],"in-reply-to":["https://twitter.com/danbartlett/status/576080240696492033"],"syndication":["https://twitter.com/barryf/status/576081520722579456"],"slug":["danbartlett-nice-i-m-going-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@danbartlett Nice. I'm going to get some food in a bit but I might pop in to the Westgate after.\n"
+    ],
+    "published": [
+      "2015-03-12T18:04:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@danbartlett Nice. I'm going to get some food in a bit but I might pop in to the Westgate after."
+    ],
+    "in-reply-to": [
+      "https://twitter.com/danbartlett/status/576080240696492033"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/576081520722579456"
+    ],
+    "slug": [
+      "danbartlett-nice-i-m-going-to"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Mammoth Instapaper queue and Google Reader stars reading/bookmarking session done: http://barryfrost.com/2011/05/01/links"],"published":["2011-05-01T16:58:57Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/64735572329107456"],"slug":["tweet-64735572329107456"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mammoth Instapaper queue and Google Reader stars reading/bookmarking session done: http://barryfrost.com/2011/05/01/links"
+    ],
+    "published": [
+      "2011-05-01T16:58:57Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/64735572329107456"
+    ],
+    "slug": [
+      "tweet-64735572329107456"
+    ]
+  }
+}

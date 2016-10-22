@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Cross-platform presence and notification system (in AIR)\n"],"published":["2008-04-19T10:42:24Z"],"entry-type":["bookmark"],"name":["Userplane Desktop"],"bookmark-of":["http://www.userplane.com/desktop/"],"category":["air","chat","im","desktop","aol","userplane","mac","presence","via-pinboard"],"slug":["userplane-desktop"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Cross-platform presence and notification system (in AIR)\n"
+    ],
+    "published": [
+      "2008-04-19T10:42:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Userplane Desktop"
+    ],
+    "bookmark-of": [
+      "http://www.userplane.com/desktop/"
+    ],
+    "category": [
+      "air",
+      "chat",
+      "im",
+      "desktop",
+      "aol",
+      "userplane",
+      "mac",
+      "presence",
+      "via-pinboard"
+    ],
+    "slug": [
+      "userplane-desktop"
+    ]
+  }
+}

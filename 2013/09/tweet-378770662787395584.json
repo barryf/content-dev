@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair Good luck!"],"published":["2013-09-14T06:42:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/378767213681209344"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/378770662787395584"],"slug":["tweet-378770662787395584"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair Good luck!"
+    ],
+    "published": [
+      "2013-09-14T06:42:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/378767213681209344"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/378770662787395584"
+    ],
+    "slug": [
+      "tweet-378770662787395584"
+    ]
+  }
+}

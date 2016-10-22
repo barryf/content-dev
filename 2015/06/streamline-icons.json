@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["> 4000 vector Icons for IOS, Android and applications. The world's largest icon collection."],"published":["2015-06-11T10:35:01Z"],"entry-type":["bookmark"],"name":["Streamline Icons"],"bookmark-of":["http://streamlineicons.com/"],"category":["icon","vector"],"slug":["streamline-icons"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> 4000 vector Icons for IOS, Android and applications. The world's largest icon collection."
+    ],
+    "published": [
+      "2015-06-11T10:35:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Streamline Icons"
+    ],
+    "bookmark-of": [
+      "http://streamlineicons.com/"
+    ],
+    "category": [
+      "icon",
+      "vector"
+    ],
+    "slug": [
+      "streamline-icons"
+    ]
+  }
+}

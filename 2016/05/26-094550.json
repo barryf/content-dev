@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2016-05-26T08:45:50Z"],"entry-type":["like"],"like-of":["https://twitter.com/Arsenal/status/735749583511261184"],"syndication":["https://twitter.com/Arsenal/status/735749583511261184"],"slug":["26-094550"],"category":["arsenal","football"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-05-26T08:45:50Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/Arsenal/status/735749583511261184"
+    ],
+    "syndication": [
+      "https://twitter.com/Arsenal/status/735749583511261184"
+    ],
+    "slug": [
+      "26-094550"
+    ],
+    "category": [
+      "arsenal",
+      "football"
+    ]
+  }
+}

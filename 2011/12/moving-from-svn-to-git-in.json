@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["The story of Etsy's move from Subversion to git for their 80-strong dev team.\n"],"published":["2011-12-06T16:51:28Z"],"entry-type":["bookmark"],"name":["Moving from SVN to Git in 1,000 easy steps!"],"bookmark-of":["http://codeascraft.etsy.com/2011/12/02/moving-from-svn-to-git-in-1000-easy-steps/"],"category":["git","svn","subversion","versioncontrol","etsy","git-svn","migration","sysadmin","via-pinboard"],"slug":["moving-from-svn-to-git-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The story of Etsy's move from Subversion to git for their 80-strong dev team.\n"
+    ],
+    "published": [
+      "2011-12-06T16:51:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Moving from SVN to Git in 1,000 easy steps!"
+    ],
+    "bookmark-of": [
+      "http://codeascraft.etsy.com/2011/12/02/moving-from-svn-to-git-in-1000-easy-steps/"
+    ],
+    "category": [
+      "git",
+      "svn",
+      "subversion",
+      "versioncontrol",
+      "etsy",
+      "git-svn",
+      "migration",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "moving-from-svn-to-git-in"
+    ]
+  }
+}

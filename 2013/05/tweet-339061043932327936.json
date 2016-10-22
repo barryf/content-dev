@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cbetta It’s in Essex, to the east of London."],"published":["2013-05-27T16:50:26Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5737/status/339058542340366336"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/339061043932327936"],"slug":["tweet-339061043932327936"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cbetta It’s in Essex, to the east of London."
+    ],
+    "published": [
+      "2013-05-27T16:50:26Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5737/status/339058542340366336"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/339061043932327936"
+    ],
+    "slug": [
+      "tweet-339061043932327936"
+    ]
+  }
+}

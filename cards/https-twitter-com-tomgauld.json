@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tom Gauld"],"photo":["http://pbs.twimg.com/profile_images/3375209706/4cbdd811809cac107b72b2007bc4a166_normal.jpeg"],"url":["https://twitter.com/tomgauld"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom Gauld"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/3375209706/4cbdd811809cac107b72b2007bc4a166_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/tomgauld"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Among other things, you can create colour schemes from a photo\n"],"published":["2005-03-25T14:57:56Z"],"entry-type":["bookmark"],"name":["colr.org"],"bookmark-of":["http://www.colr.org/"],"category":["image","photo","design","via-pinboard"],"slug":["colr-org"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Among other things, you can create colour schemes from a photo\n"
+    ],
+    "published": [
+      "2005-03-25T14:57:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "colr.org"
+    ],
+    "bookmark-of": [
+      "http://www.colr.org/"
+    ],
+    "category": [
+      "image",
+      "photo",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "colr-org"
+    ]
+  }
+}

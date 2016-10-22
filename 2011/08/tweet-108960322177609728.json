@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Hopelessly glued to a breathless Sky Sports News and Twitter. Arteta and/or Benayoun could be on their way #afc #tdd"],"published":["2011-08-31T17:52:19Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/108960322177609728"],"slug":["tweet-108960322177609728"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hopelessly glued to a breathless Sky Sports News and Twitter. Arteta and/or Benayoun could be on their way #afc #tdd"
+    ],
+    "published": [
+      "2011-08-31T17:52:19Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/108960322177609728"
+    ],
+    "slug": [
+      "tweet-108960322177609728"
+    ]
+  }
+}

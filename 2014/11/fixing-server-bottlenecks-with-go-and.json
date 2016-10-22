@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Using Go to serve json direct from memcached alongside Rails app"],"published":["2014-11-23T14:27:34Z"],"entry-type":["bookmark"],"name":["Fixing Server bottlenecks with Go and Nginx"],"bookmark-of":["https://www.new-bamboo.co.uk/blog/2014/11/18/fixing-server-bottlenecks-with-go-and-nginx/"],"category":["rails","go","nginx","memcached","performance","via-pinboard"],"slug":["fixing-server-bottlenecks-with-go-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Using Go to serve json direct from memcached alongside Rails app"
+    ],
+    "published": [
+      "2014-11-23T14:27:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fixing Server bottlenecks with Go and Nginx"
+    ],
+    "bookmark-of": [
+      "https://www.new-bamboo.co.uk/blog/2014/11/18/fixing-server-bottlenecks-with-go-and-nginx/"
+    ],
+    "category": [
+      "rails",
+      "go",
+      "nginx",
+      "memcached",
+      "performance",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fixing-server-bottlenecks-with-go-and"
+    ]
+  }
+}

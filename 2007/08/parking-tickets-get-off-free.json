@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["\"If you ever get a parking ticket on a single or double yellow line check that they have bars at the end. If not they are invalid\"\n"],"published":["2007-08-04T16:08:28Z"],"entry-type":["bookmark"],"name":["Parking tickets - get off free!"],"bookmark-of":["http://www.b3ta.com/questions/jobsworths/post31486/"],"category":["parking","permit","council","ticket","law","legal","uk","via-pinboard"],"slug":["parking-tickets-get-off-free"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"If you ever get a parking ticket on a single or double yellow line check that they have bars at the end. If not they are invalid\"\n"
+    ],
+    "published": [
+      "2007-08-04T16:08:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Parking tickets - get off free!"
+    ],
+    "bookmark-of": [
+      "http://www.b3ta.com/questions/jobsworths/post31486/"
+    ],
+    "category": [
+      "parking",
+      "permit",
+      "council",
+      "ticket",
+      "law",
+      "legal",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "parking-tickets-get-off-free"
+    ]
+  }
+}

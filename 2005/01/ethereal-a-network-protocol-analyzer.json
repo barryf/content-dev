@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-01T16:35:21Z"],"entry-type":["bookmark"],"name":["Ethereal: A Network Protocol Analyzer"],"bookmark-of":["http://www.ethereal.com/"],"category":["useful","network","tool","via-pinboard"],"slug":["ethereal-a-network-protocol-analyzer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-01T16:35:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ethereal: A Network Protocol Analyzer"
+    ],
+    "bookmark-of": [
+      "http://www.ethereal.com/"
+    ],
+    "category": [
+      "useful",
+      "network",
+      "tool",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ethereal-a-network-protocol-analyzer"
+    ]
+  }
+}

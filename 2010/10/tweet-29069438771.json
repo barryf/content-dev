@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@clearjanuary http://awkwardstockphotos.com/ /cc @stooty @jontarbuck"],"published":["2010-10-29T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/80843056/status/29068653535"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/29069438771"],"slug":["tweet-29069438771"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@clearjanuary http://awkwardstockphotos.com/ /cc @stooty @jontarbuck"
+    ],
+    "published": [
+      "2010-10-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/80843056/status/29068653535"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/29069438771"
+    ],
+    "slug": [
+      "tweet-29069438771"
+    ]
+  }
+}

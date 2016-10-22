@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["GitHub's process: always deploy from master, branch from master, submit a pull request when ready, merge and push to master and then deploy immediately.\n"],"published":["2011-08-31T16:48:05Z"],"entry-type":["bookmark"],"name":["GitHub Flow"],"bookmark-of":["http://scottchacon.com/2011/08/31/github-flow.html"],"category":["github","flow","gitflow","process","dev","sourcecontrol","team","via-pinboard"],"slug":["github-flow"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "GitHub's process: always deploy from master, branch from master, submit a pull request when ready, merge and push to master and then deploy immediately.\n"
+    ],
+    "published": [
+      "2011-08-31T16:48:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GitHub Flow"
+    ],
+    "bookmark-of": [
+      "http://scottchacon.com/2011/08/31/github-flow.html"
+    ],
+    "category": [
+      "github",
+      "flow",
+      "gitflow",
+      "process",
+      "dev",
+      "sourcecontrol",
+      "team",
+      "via-pinboard"
+    ],
+    "slug": [
+      "github-flow"
+    ]
+  }
+}

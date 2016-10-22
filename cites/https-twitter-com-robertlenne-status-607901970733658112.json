@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/robertlenne/status/607901970733658112"],"published":["2015-06-08T13:28:18Z"],"content":["If you donate blood in Sweden the county council will text you when your blood is used."],"photo":["http://pbs.twimg.com/media/CG-znxYXIAAhOvZ.jpg"],"author":["https://twitter.com/robertlenne"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/robertlenne/status/607901970733658112"
+    ],
+    "published": [
+      "2015-06-08T13:28:18Z"
+    ],
+    "content": [
+      "If you donate blood in Sweden the county council will text you when your blood is used."
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CG-znxYXIAAhOvZ.jpg"
+    ],
+    "author": [
+      "https://twitter.com/robertlenne"
+    ]
+  }
+}

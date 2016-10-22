@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2010-03-01T22:26:24Z"],"entry-type":["bookmark"],"name":["Why I think Mongo is to Databases what Rails was to Frameworks"],"bookmark-of":["http://railstips.org/blog/archives/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks/"],"category":["mongo","nosql","rails","scaling","sql","document","database","via-pinboard"],"slug":["why-i-think-mongo-is-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-03-01T22:26:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why I think Mongo is to Databases what Rails was to Frameworks"
+    ],
+    "bookmark-of": [
+      "http://railstips.org/blog/archives/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks/"
+    ],
+    "category": [
+      "mongo",
+      "nosql",
+      "rails",
+      "scaling",
+      "sql",
+      "document",
+      "database",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-i-think-mongo-is-to"
+    ]
+  }
+}

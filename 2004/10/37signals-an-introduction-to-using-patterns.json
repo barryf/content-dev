@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-08T12:34:56Z"],"entry-type":["bookmark"],"name":["37signals: An Introduction to Using Patterns in Web Design"],"bookmark-of":["http://37signals.com/papers/introtopatterns/"],"category":["dev","pattern","web","via-pinboard"],"slug":["37signals-an-introduction-to-using-patterns"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-08T12:34:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "37signals: An Introduction to Using Patterns in Web Design"
+    ],
+    "bookmark-of": [
+      "http://37signals.com/papers/introtopatterns/"
+    ],
+    "category": [
+      "dev",
+      "pattern",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "37signals-an-introduction-to-using-patterns"
+    ]
+  }
+}

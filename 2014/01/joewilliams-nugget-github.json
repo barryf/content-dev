@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-01-20T13:53:39Z"],"entry-type":["bookmark"],"name":["joewilliams/nugget · GitHub"],"bookmark-of":["https://github.com/joewilliams/nugget"],"category":["fromifttt","github","via-pinboard"],"slug":["joewilliams-nugget-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-01-20T13:53:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "joewilliams/nugget · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/joewilliams/nugget"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "joewilliams-nugget-github"
+    ]
+  }
+}

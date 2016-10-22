@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Perfect task-based job ad for an office assistant - who we're looking for, what you would have done in the last week and then other duties.\n"],"published":["2011-05-01T09:35:06Z"],"entry-type":["bookmark"],"name":["We're looking for an Office Manager / Executive Assistant - (37signals)"],"bookmark-of":["http://37signals.com/svn/posts/2544-were-looking-for-an-office-manager-executive-assistant"],"category":["job","vacancy","37signals","assistant","office","via-pinboard"],"slug":["we-re-looking-for-an-office"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Perfect task-based job ad for an office assistant - who we're looking for, what you would have done in the last week and then other duties.\n"
+    ],
+    "published": [
+      "2011-05-01T09:35:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "We're looking for an Office Manager / Executive Assistant - (37signals)"
+    ],
+    "bookmark-of": [
+      "http://37signals.com/svn/posts/2544-were-looking-for-an-office-manager-executive-assistant"
+    ],
+    "category": [
+      "job",
+      "vacancy",
+      "37signals",
+      "assistant",
+      "office",
+      "via-pinboard"
+    ],
+    "slug": [
+      "we-re-looking-for-an-office"
+    ]
+  }
+}

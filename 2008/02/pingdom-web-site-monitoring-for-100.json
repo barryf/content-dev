@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Includes uptime reports and Email/SMS alerts\n"],"published":["2008-02-25T14:16:59Z"],"entry-type":["bookmark"],"name":["Pingdom Web site monitoring for 100% uptime. Measure your downtime."],"bookmark-of":["http://pingdom.com/"],"category":["ping","uptime","hosting","sysadmin","email","sms","server","via-pinboard"],"slug":["pingdom-web-site-monitoring-for-100"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Includes uptime reports and Email/SMS alerts\n"
+    ],
+    "published": [
+      "2008-02-25T14:16:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Pingdom Web site monitoring for 100% uptime. Measure your downtime."
+    ],
+    "bookmark-of": [
+      "http://pingdom.com/"
+    ],
+    "category": [
+      "ping",
+      "uptime",
+      "hosting",
+      "sysadmin",
+      "email",
+      "sms",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pingdom-web-site-monitoring-for-100"
+    ]
+  }
+}

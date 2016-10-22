@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Resizable/sortable grid component for jQuery\n"],"published":["2008-09-20T17:05:14Z"],"entry-type":["bookmark"],"name":["Flexigrid for jQuery"],"bookmark-of":["http://webplicity.net/flexigrid/"],"category":["table","grid","jquery","plugin","javascript","data","interface","web","via-pinboard"],"slug":["flexigrid-for-jquery"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Resizable/sortable grid component for jQuery\n"
+    ],
+    "published": [
+      "2008-09-20T17:05:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Flexigrid for jQuery"
+    ],
+    "bookmark-of": [
+      "http://webplicity.net/flexigrid/"
+    ],
+    "category": [
+      "table",
+      "grid",
+      "jquery",
+      "plugin",
+      "javascript",
+      "data",
+      "interface",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flexigrid-for-jquery"
+    ]
+  }
+}

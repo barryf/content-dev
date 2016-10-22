@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Dan Cederholm designs a pressable button using Typekit fonts and lots of rich CSS3\n"],"published":["2011-05-01T10:42:13Z"],"entry-type":["bookmark"],"name":["Type study: An all CSS button"],"bookmark-of":["http://blog.typekit.com/2011/02/10/type-study-an-all-css-button/"],"category":["css3","button","typekit","design","via-pinboard"],"slug":["type-study-an-all-css-button"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dan Cederholm designs a pressable button using Typekit fonts and lots of rich CSS3\n"
+    ],
+    "published": [
+      "2011-05-01T10:42:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Type study: An all CSS button"
+    ],
+    "bookmark-of": [
+      "http://blog.typekit.com/2011/02/10/type-study-an-all-css-button/"
+    ],
+    "category": [
+      "css3",
+      "button",
+      "typekit",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "type-study-an-all-css-button"
+    ]
+  }
+}

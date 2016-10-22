@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh I hear a sound but there’s not a message in the Mac app when I switch to it. Pops up on my phone fine."],"published":["2013-01-21T15:35:19Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/293380629242986496"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/293381268673007617"],"slug":["tweet-293381268673007617"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh I hear a sound but there’s not a message in the Mac app when I switch to it. Pops up on my phone fine."
+    ],
+    "published": [
+      "2013-01-21T15:35:19Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/293380629242986496"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/293381268673007617"
+    ],
+    "slug": [
+      "tweet-293381268673007617"
+    ]
+  }
+}

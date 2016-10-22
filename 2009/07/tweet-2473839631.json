@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Still alive after a ride on the back of @lilja's Vespa. Didn't spot @aviatorgal - was too busy holding on for dear life!"],"published":["2009-07-04T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2473839631"],"slug":["tweet-2473839631"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Still alive after a ride on the back of @lilja's Vespa. Didn't spot @aviatorgal - was too busy holding on for dear life!"
+    ],
+    "published": [
+      "2009-07-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2473839631"
+    ],
+    "slug": [
+      "tweet-2473839631"
+    ]
+  }
+}

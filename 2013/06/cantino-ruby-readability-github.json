@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-06-15T15:26:39Z"],"entry-type":["bookmark"],"name":["cantino/ruby-readability · GitHub"],"bookmark-of":["https://github.com/cantino/ruby-readability"],"category":["fromifttt","github","via-pinboard"],"slug":["cantino-ruby-readability-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-06-15T15:26:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "cantino/ruby-readability · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/cantino/ruby-readability"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cantino-ruby-readability-github"
+    ]
+  }
+}

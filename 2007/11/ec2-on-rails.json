@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["\"Deploy a Ruby on Rails app on EC2 in five minutes\"\n"],"published":["2007-11-11T18:43:18Z"],"entry-type":["bookmark"],"name":["EC2 on Rails"],"bookmark-of":["http://ec2onrails.rubyforge.org/"],"category":["amazon","aws","capistrano","deployment","ec2","hosting","rails","scalability","via-pinboard"],"slug":["ec2-on-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Deploy a Ruby on Rails app on EC2 in five minutes\"\n"
+    ],
+    "published": [
+      "2007-11-11T18:43:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "EC2 on Rails"
+    ],
+    "bookmark-of": [
+      "http://ec2onrails.rubyforge.org/"
+    ],
+    "category": [
+      "amazon",
+      "aws",
+      "capistrano",
+      "deployment",
+      "ec2",
+      "hosting",
+      "rails",
+      "scalability",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ec2-on-rails"
+    ]
+  }
+}

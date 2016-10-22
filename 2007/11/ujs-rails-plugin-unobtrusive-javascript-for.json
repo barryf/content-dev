@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"published":["2007-11-11T11:38:49Z"],"entry-type":["bookmark"],"name":["UJS Rails Plugin—Unobtrusive Javascript for Ruby On Rails"],"bookmark-of":["http://www.ujs4rails.com/"],"category":["ajax","behaviour","browser","dev","javascript","library","web","unobtrusive","ujs","scriptaculous","rails","prototype","via-pinboard"],"slug":["ujs-rails-plugin-unobtrusive-javascript-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-11-11T11:38:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UJS Rails Plugin—Unobtrusive Javascript for Ruby On Rails"
+    ],
+    "bookmark-of": [
+      "http://www.ujs4rails.com/"
+    ],
+    "category": [
+      "ajax",
+      "behaviour",
+      "browser",
+      "dev",
+      "javascript",
+      "library",
+      "web",
+      "unobtrusive",
+      "ujs",
+      "scriptaculous",
+      "rails",
+      "prototype",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ujs-rails-plugin-unobtrusive-javascript-for"
+    ]
+  }
+}

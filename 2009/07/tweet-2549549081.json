@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Lovely people: I briefly worked for them in 2007 before joining @wld. WBAC: the four most evil words in the dictionary."],"published":["2009-07-09T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/2549400589"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2549549081"],"slug":["tweet-2549549081"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Lovely people: I briefly worked for them in 2007 before joining @wld. WBAC: the four most evil words in the dictionary."
+    ],
+    "published": [
+      "2009-07-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/2549400589"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2549549081"
+    ],
+    "slug": [
+      "tweet-2549549081"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Basecamp 3 has a \"Do Not Disturb\" function built in to prevent emails/notifications from being sent when you specify"],"published":["2015-09-15T15:13:58Z"],"entry-type":["bookmark"],"name":["Work Can Wait"],"bookmark-of":["https://medium.com/woah-basecamp-3/basecamp-3-work-can-wait-4adfb285c84b"],"category":["dnd","notifications","work"],"slug":["work-can-wait"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Basecamp 3 has a \"Do Not Disturb\" function built in to prevent emails/notifications from being sent when you specify"
+    ],
+    "published": [
+      "2015-09-15T15:13:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Work Can Wait"
+    ],
+    "bookmark-of": [
+      "https://medium.com/woah-basecamp-3/basecamp-3-work-can-wait-4adfb285c84b"
+    ],
+    "category": [
+      "dnd",
+      "notifications",
+      "work"
+    ],
+    "slug": [
+      "work-can-wait"
+    ]
+  }
+}

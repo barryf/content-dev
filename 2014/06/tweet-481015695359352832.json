@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I’m looking for a Product Manager to join us at @globaldev and lead projects as Product Owner using Scrum http://jobs.mindtheproduct.com/jobs/product-manager-job-global-personals-686/"],"published":["2014-06-23T10:07:33Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/481015695359352832"],"slug":["tweet-481015695359352832"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I’m looking for a Product Manager to join us at @globaldev and lead projects as Product Owner using Scrum http://jobs.mindtheproduct.com/jobs/product-manager-job-global-personals-686/"
+    ],
+    "published": [
+      "2014-06-23T10:07:33Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/481015695359352832"
+    ],
+    "slug": [
+      "tweet-481015695359352832"
+    ]
+  }
+}

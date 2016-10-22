@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-16T08:39:22Z"],"entry-type":["bookmark"],"name":["Portable Firefox (USB Drive-Friendly)"],"bookmark-of":["http://johnhaller.com/jh/mozilla/portable_firefox/"],"category":["firefox","useful","via-pinboard"],"slug":["portable-firefox-usb-drive-friendly"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-16T08:39:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Portable Firefox (USB Drive-Friendly)"
+    ],
+    "bookmark-of": [
+      "http://johnhaller.com/jh/mozilla/portable_firefox/"
+    ],
+    "category": [
+      "firefox",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "portable-firefox-usb-drive-friendly"
+    ]
+  }
+}

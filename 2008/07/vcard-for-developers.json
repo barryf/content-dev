@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["How to construct and serve a vCard\n"],"published":["2008-07-26T14:14:12Z"],"entry-type":["bookmark"],"name":["vCard for Developers"],"bookmark-of":["http://softwareas.com/vcard-for-developers"],"category":["markup","microformats","standards","vcard","tutorial","address","via-pinboard"],"slug":["vcard-for-developers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to construct and serve a vCard\n"
+    ],
+    "published": [
+      "2008-07-26T14:14:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "vCard for Developers"
+    ],
+    "bookmark-of": [
+      "http://softwareas.com/vcard-for-developers"
+    ],
+    "category": [
+      "markup",
+      "microformats",
+      "standards",
+      "vcard",
+      "tutorial",
+      "address",
+      "via-pinboard"
+    ],
+    "slug": [
+      "vcard-for-developers"
+    ]
+  }
+}

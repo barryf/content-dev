@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Safely in Miami but rather scared by the heat. Planning to remain air conditioned throughout."],"published":["2008-08-28T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/902122441"],"slug":["tweet-902122441"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Safely in Miami but rather scared by the heat. Planning to remain air conditioned throughout."
+    ],
+    "published": [
+      "2008-08-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/902122441"
+    ],
+    "slug": [
+      "tweet-902122441"
+    ]
+  }
+}

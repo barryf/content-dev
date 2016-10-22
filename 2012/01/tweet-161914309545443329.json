@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jasonkneen Ooh, that's quite handy."],"published":["2012-01-24T20:52:34Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6392872/status/161903599792824321"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/161914309545443329"],"slug":["tweet-161914309545443329"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jasonkneen Ooh, that's quite handy."
+    ],
+    "published": [
+      "2012-01-24T20:52:34Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6392872/status/161903599792824321"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/161914309545443329"
+    ],
+    "slug": [
+      "tweet-161914309545443329"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@MelKirk Very well, thanks. Lots of wedding planning keeping me busy. Hope Hugo turns up soon."],"published":["2013-04-20T18:27:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14733/status/325676201031122944"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/325676990856318976"],"slug":["tweet-325676990856318976"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@MelKirk Very well, thanks. Lots of wedding planning keeping me busy. Hope Hugo turns up soon."
+    ],
+    "published": [
+      "2013-04-20T18:27:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14733/status/325676201031122944"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/325676990856318976"
+    ],
+    "slug": [
+      "tweet-325676990856318976"
+    ]
+  }
+}

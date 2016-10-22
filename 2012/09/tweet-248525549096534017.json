@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener On my 4S that *would* be impressive!"],"published":["2012-09-19T20:54:42Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14234004/status/248524607445929985"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/248525549096534017"],"slug":["tweet-248525549096534017"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener On my 4S that *would* be impressive!"
+    ],
+    "published": [
+      "2012-09-19T20:54:42Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14234004/status/248524607445929985"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/248525549096534017"
+    ],
+    "slug": [
+      "tweet-248525549096534017"
+    ]
+  }
+}

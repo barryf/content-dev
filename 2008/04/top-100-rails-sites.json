@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["According to the Alexa rankings\n"],"published":["2008-04-01T22:03:11Z"],"entry-type":["bookmark"],"name":["Top 100 Rails sites"],"bookmark-of":["http://rails100.pbwiki.com/"],"category":["advocacy","analytics","rails","startup","web","alexa","via-pinboard"],"slug":["top-100-rails-sites"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "According to the Alexa rankings\n"
+    ],
+    "published": [
+      "2008-04-01T22:03:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Top 100 Rails sites"
+    ],
+    "bookmark-of": [
+      "http://rails100.pbwiki.com/"
+    ],
+    "category": [
+      "advocacy",
+      "analytics",
+      "rails",
+      "startup",
+      "web",
+      "alexa",
+      "via-pinboard"
+    ],
+    "slug": [
+      "top-100-rails-sites"
+    ]
+  }
+}

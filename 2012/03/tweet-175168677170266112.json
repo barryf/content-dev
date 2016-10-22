@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["What if iOS 6 came with iVoice: phone app pushed free voice between iPhones over 3G/wifi falling back to carrier, similar to iMessage/SMS."],"published":["2012-03-01T10:40:41Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/175168677170266112"],"slug":["tweet-175168677170266112"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "What if iOS 6 came with iVoice: phone app pushed free voice between iPhones over 3G/wifi falling back to carrier, similar to iMessage/SMS."
+    ],
+    "published": [
+      "2012-03-01T10:40:41Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/175168677170266112"
+    ],
+    "slug": [
+      "tweet-175168677170266112"
+    ]
+  }
+}

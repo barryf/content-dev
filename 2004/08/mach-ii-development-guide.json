@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-01T12:58:23Z"],"entry-type":["bookmark"],"name":["Mach II Development Guide"],"bookmark-of":["http://livedocs.macromedia.com/wtg/public/machiidevguide/"],"category":["coldfusion","framework","mach-ii","macromedia","via-pinboard"],"slug":["mach-ii-development-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-01T12:58:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mach II Development Guide"
+    ],
+    "bookmark-of": [
+      "http://livedocs.macromedia.com/wtg/public/machiidevguide/"
+    ],
+    "category": [
+      "coldfusion",
+      "framework",
+      "mach-ii",
+      "macromedia",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mach-ii-development-guide"
+    ]
+  }
+}

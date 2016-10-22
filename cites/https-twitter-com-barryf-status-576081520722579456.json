@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/576081520722579456"],"published":["2015-03-12T23:59:42Z"],"like-of":["https://barryfrost.com/2015/03/danbartlett-nice-i-m-going-to"],"author":["https://twitter.com/danbartlett"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/576081520722579456"
+    ],
+    "published": [
+      "2015-03-12T23:59:42Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/03/danbartlett-nice-i-m-going-to"
+    ],
+    "author": [
+      "https://twitter.com/danbartlett"
+    ]
+  }
+}

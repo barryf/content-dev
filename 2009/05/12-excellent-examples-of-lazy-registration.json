@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Describes the practice of not obstructing the user with signup forms and gaining trust/loyalty so that they want to add their details\n"],"published":["2009-05-04T15:06:16Z"],"entry-type":["bookmark"],"name":["12 Excellent Examples of “Lazy Registration”"],"bookmark-of":["http://webjackalope.com/lazy-registration/"],"category":["lazy","pattern","signup","register","login","ui","usability","form","via-pinboard"],"slug":["12-excellent-examples-of-lazy-registration"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Describes the practice of not obstructing the user with signup forms and gaining trust/loyalty so that they want to add their details\n"
+    ],
+    "published": [
+      "2009-05-04T15:06:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "12 Excellent Examples of “Lazy Registration”"
+    ],
+    "bookmark-of": [
+      "http://webjackalope.com/lazy-registration/"
+    ],
+    "category": [
+      "lazy",
+      "pattern",
+      "signup",
+      "register",
+      "login",
+      "ui",
+      "usability",
+      "form",
+      "via-pinboard"
+    ],
+    "slug": [
+      "12-excellent-examples-of-lazy-registration"
+    ]
+  }
+}

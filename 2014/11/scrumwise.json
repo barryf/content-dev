@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2014-11-26T10:57:38Z"],"entry-type":["bookmark"],"name":["Scrumwise"],"bookmark-of":["http://www.scrumwise.com/"],"category":["scrum","agile","tool","team","via-pinboard"],"slug":["scrumwise"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-11-26T10:57:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scrumwise"
+    ],
+    "bookmark-of": [
+      "http://www.scrumwise.com/"
+    ],
+    "category": [
+      "scrum",
+      "agile",
+      "tool",
+      "team",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scrumwise"
+    ]
+  }
+}

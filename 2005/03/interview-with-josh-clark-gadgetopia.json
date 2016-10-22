@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-03-04T16:05:08Z"],"entry-type":["bookmark"],"name":["Interview with Josh Clark | Gadgetopia"],"bookmark-of":["http://www.gadgetopia.com/2005/03/02/InterviewWithJoshClark.html"],"category":["web","media","interview","via-pinboard"],"slug":["interview-with-josh-clark-gadgetopia"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-03-04T16:05:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Interview with Josh Clark | Gadgetopia"
+    ],
+    "bookmark-of": [
+      "http://www.gadgetopia.com/2005/03/02/InterviewWithJoshClark.html"
+    ],
+    "category": [
+      "web",
+      "media",
+      "interview",
+      "via-pinboard"
+    ],
+    "slug": [
+      "interview-with-josh-clark-gadgetopia"
+    ]
+  }
+}

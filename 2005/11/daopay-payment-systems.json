@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Micropayment solution - pay using your phone voice bill\n"],"published":["2005-11-15T12:47:37Z"],"entry-type":["bookmark"],"name":["DaoPay Payment Systems"],"bookmark-of":["http://www.daopay.com/"],"category":["micropayment","ecommerce","business","telephony","phone","via-pinboard"],"slug":["daopay-payment-systems"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Micropayment solution - pay using your phone voice bill\n"
+    ],
+    "published": [
+      "2005-11-15T12:47:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DaoPay Payment Systems"
+    ],
+    "bookmark-of": [
+      "http://www.daopay.com/"
+    ],
+    "category": [
+      "micropayment",
+      "ecommerce",
+      "business",
+      "telephony",
+      "phone",
+      "via-pinboard"
+    ],
+    "slug": [
+      "daopay-payment-systems"
+    ]
+  }
+}

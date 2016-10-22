@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Emba Moussa"],"photo":["https://twitter.com/Embairik/profile_image?size=original"],"url":["https://twitter.com/Embairik"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Emba Moussa"
+    ],
+    "photo": [
+      "https://twitter.com/Embairik/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/Embairik"
+    ]
+  }
+}

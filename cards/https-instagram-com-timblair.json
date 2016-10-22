@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["timblair"],"url":["https://instagram.com/timblair"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "timblair"
+    ],
+    "url": [
+      "https://instagram.com/timblair"
+    ]
+  }
+}

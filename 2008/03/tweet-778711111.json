@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Relieved that I could leave the office on time with everything working well. Touching wood."],"published":["2008-03-28T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/778711111"],"slug":["tweet-778711111"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Relieved that I could leave the office on time with everything working well. Touching wood."
+    ],
+    "published": [
+      "2008-03-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/778711111"
+    ],
+    "slug": [
+      "tweet-778711111"
+    ]
+  }
+}

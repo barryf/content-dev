@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Assholes, Morons and Angels\n"],"published":["2004-08-25T11:07:30Z"],"entry-type":["bookmark"],"name":["Why specs matter"],"bookmark-of":["http://diveintomark.org/archives/2004/08/16/specs"],"category":["standards","via-pinboard"],"slug":["why-specs-matter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Assholes, Morons and Angels\n"
+    ],
+    "published": [
+      "2004-08-25T11:07:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why specs matter"
+    ],
+    "bookmark-of": [
+      "http://diveintomark.org/archives/2004/08/16/specs"
+    ],
+    "category": [
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-specs-matter"
+    ]
+  }
+}

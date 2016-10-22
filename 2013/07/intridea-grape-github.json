@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-07-24T10:41:43Z"],"entry-type":["bookmark"],"name":["intridea/grape · GitHub"],"bookmark-of":["https://github.com/intridea/grape"],"category":["fromifttt","github","via-pinboard"],"slug":["intridea-grape-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-07-24T10:41:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "intridea/grape · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/intridea/grape"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "intridea-grape-github"
+    ]
+  }
+}

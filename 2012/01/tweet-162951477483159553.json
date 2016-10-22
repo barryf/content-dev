@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd It's been pointed out that \"your back garden\" makes it 10x filthier. Surrounded by perverts!"],"published":["2012-01-27T17:33:54Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/162951022053044224"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/162951477483159553"],"slug":["tweet-162951477483159553"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd It's been pointed out that \"your back garden\" makes it 10x filthier. Surrounded by perverts!"
+    ],
+    "published": [
+      "2012-01-27T17:33:54Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/162951022053044224"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/162951477483159553"
+    ],
+    "slug": [
+      "tweet-162951477483159553"
+    ]
+  }
+}

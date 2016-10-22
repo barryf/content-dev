@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Michael Mazour"],"photo":["http://pbs.twimg.com/profile_images/3064111901/e31d99ee4cc0ee79996ace2846421e1a_normal.jpeg"],"url":["https://twitter.com/mmazour"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Michael Mazour"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/3064111901/e31d99ee4cc0ee79996ace2846421e1a_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/mmazour"
+    ]
+  }
+}

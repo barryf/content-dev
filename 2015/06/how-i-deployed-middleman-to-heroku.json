@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2015-06-22T12:41:55Z"],"entry-type":["bookmark"],"name":["How I deployed Middleman to Heroku"],"bookmark-of":["http://jordanelver.co.uk/blog/2014/02/17/how-i-deployed-middleman-to-heroku/"],"category":["static","heroku","rack","middleman","hosting"],"slug":["how-i-deployed-middleman-to-heroku"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-06-22T12:41:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How I deployed Middleman to Heroku"
+    ],
+    "bookmark-of": [
+      "http://jordanelver.co.uk/blog/2014/02/17/how-i-deployed-middleman-to-heroku/"
+    ],
+    "category": [
+      "static",
+      "heroku",
+      "rack",
+      "middleman",
+      "hosting"
+    ],
+    "slug": [
+      "how-i-deployed-middleman-to-heroku"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2013-07-15T20:04:37Z"],"entry-type":["bookmark"],"name":["Low Friction Personal Data Collection"],"bookmark-of":["http://aaronparecki.com/presentations/2013/06/19/1/low-friction-personal-data-collection"],"category":["data","personal","iot","via-pinboard"],"slug":["low-friction-personal-data-collection"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-07-15T20:04:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Low Friction Personal Data Collection"
+    ],
+    "bookmark-of": [
+      "http://aaronparecki.com/presentations/2013/06/19/1/low-friction-personal-data-collection"
+    ],
+    "category": [
+      "data",
+      "personal",
+      "iot",
+      "via-pinboard"
+    ],
+    "slug": [
+      "low-friction-personal-data-collection"
+    ]
+  }
+}

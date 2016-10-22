@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm a total client: contradicted my own brief for @thesambarnes' project #badboss"],"published":["2011-10-04T11:41:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/121188208645120001"],"slug":["tweet-121188208645120001"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm a total client: contradicted my own brief for @thesambarnes' project #badboss"
+    ],
+    "published": [
+      "2011-10-04T11:41:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/121188208645120001"
+    ],
+    "slug": [
+      "tweet-121188208645120001"
+    ]
+  }
+}

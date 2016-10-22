@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-03-29T11:35:38Z"],"entry-type":["bookmark"],"name":["Mobile web app or web site?"],"bookmark-of":["http://quoderat.megginson.com/2014/03/17/mobile-web-app-or-web-site/"],"category":["via-pinboard"],"slug":["mobile-web-app-or-web-site"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-03-29T11:35:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mobile web app or web site?"
+    ],
+    "bookmark-of": [
+      "http://quoderat.megginson.com/2014/03/17/mobile-web-app-or-web-site/"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "mobile-web-app-or-web-site"
+    ]
+  }
+}

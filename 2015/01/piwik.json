@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Piwik is the leading open source web analytics platform"],"published":["2015-01-03T17:11:18Z"],"entry-type":["bookmark"],"name":["Piwik"],"bookmark-of":["http://piwik.org"],"category":["analytics","opensource","marketing"],"slug":["piwik"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Piwik is the leading open source web analytics platform"
+    ],
+    "published": [
+      "2015-01-03T17:11:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Piwik"
+    ],
+    "bookmark-of": [
+      "http://piwik.org"
+    ],
+    "category": [
+      "analytics",
+      "opensource",
+      "marketing"
+    ],
+    "slug": [
+      "piwik"
+    ]
+  }
+}

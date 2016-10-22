@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Shoreditch-based Rails team for hire. Pay per iteration.\n"],"published":["2011-11-15T12:09:23Z"],"entry-type":["bookmark"],"name":["Go Free Range"],"bookmark-of":["http://gofreerange.com/"],"category":["agency","rails","london","freelance","agile","via-pinboard"],"slug":["go-free-range"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Shoreditch-based Rails team for hire. Pay per iteration.\n"
+    ],
+    "published": [
+      "2011-11-15T12:09:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Go Free Range"
+    ],
+    "bookmark-of": [
+      "http://gofreerange.com/"
+    ],
+    "category": [
+      "agency",
+      "rails",
+      "london",
+      "freelance",
+      "agile",
+      "via-pinboard"
+    ],
+    "slug": [
+      "go-free-range"
+    ]
+  }
+}

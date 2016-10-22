@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Reading Tim's tweet about being bored of reading other tweets while in a car."],"published":["2008-01-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/591681572"],"slug":["tweet-591681572"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Reading Tim's tweet about being bored of reading other tweets while in a car."
+    ],
+    "published": [
+      "2008-01-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/591681572"
+    ],
+    "slug": [
+      "tweet-591681572"
+    ]
+  }
+}

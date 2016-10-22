@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Based on surrounding evidence, MarcoPolo guesses where you are and switches your location\n"],"published":["2007-04-25T21:55:14Z"],"entry-type":["bookmark"],"name":["MarcoPolo - Automatic location switching for Mac OS X"],"bookmark-of":["http://www.symonds.id.au/marcopolo/"],"category":["mac","network","hardware","free","location","via-pinboard"],"slug":["marcopolo-automatic-location-switching-for-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Based on surrounding evidence, MarcoPolo guesses where you are and switches your location\n"
+    ],
+    "published": [
+      "2007-04-25T21:55:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MarcoPolo - Automatic location switching for Mac OS X"
+    ],
+    "bookmark-of": [
+      "http://www.symonds.id.au/marcopolo/"
+    ],
+    "category": [
+      "mac",
+      "network",
+      "hardware",
+      "free",
+      "location",
+      "via-pinboard"
+    ],
+    "slug": [
+      "marcopolo-automatic-location-switching-for-mac"
+    ]
+  }
+}

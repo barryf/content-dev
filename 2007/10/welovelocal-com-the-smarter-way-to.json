@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Great UK based (London first) community review thing finding directory site\n"],"published":["2007-10-14T18:10:44Z"],"entry-type":["bookmark"],"name":["welovelocal.com – The smarter way to find local businesses"],"bookmark-of":["http://www.welovelocal.com/"],"category":["business","community","design","directory","geo","inspiration","london","map","review","web","via-pinboard"],"slug":["welovelocal-com-the-smarter-way-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Great UK based (London first) community review thing finding directory site\n"
+    ],
+    "published": [
+      "2007-10-14T18:10:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "welovelocal.com – The smarter way to find local businesses"
+    ],
+    "bookmark-of": [
+      "http://www.welovelocal.com/"
+    ],
+    "category": [
+      "business",
+      "community",
+      "design",
+      "directory",
+      "geo",
+      "inspiration",
+      "london",
+      "map",
+      "review",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "welovelocal-com-the-smarter-way-to"
+    ]
+  }
+}

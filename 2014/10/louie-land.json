@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2014-10-31T18:20:45Z"],"entry-type":["bookmark"],"name":["louie.land"],"bookmark-of":["http://louie.land/"],"category":["icon","design","app","via-pinboard"],"slug":["louie-land"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-10-31T18:20:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "louie.land"
+    ],
+    "bookmark-of": [
+      "http://louie.land/"
+    ],
+    "category": [
+      "icon",
+      "design",
+      "app",
+      "via-pinboard"
+    ],
+    "slug": [
+      "louie-land"
+    ]
+  }
+}

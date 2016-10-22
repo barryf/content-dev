@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-05-23T08:58:31Z"],"entry-type":["bookmark"],"name":["thoughtbot/suspenders · GitHub"],"bookmark-of":["https://github.com/thoughtbot/suspenders"],"category":["fromifttt","github","via-pinboard"],"slug":["thoughtbot-suspenders-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-05-23T08:58:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "thoughtbot/suspenders · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/thoughtbot/suspenders"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "thoughtbot-suspenders-github"
+    ]
+  }
+}

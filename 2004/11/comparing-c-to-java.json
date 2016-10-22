@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-07T17:42:12Z"],"entry-type":["bookmark"],"name":["Comparing C# to Java"],"bookmark-of":["http://blog.debreuil.com/archive/2004/05/01/264.aspx"],"category":["csharp","dotnet","via-pinboard"],"slug":["comparing-c-to-java"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-07T17:42:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Comparing C# to Java"
+    ],
+    "bookmark-of": [
+      "http://blog.debreuil.com/archive/2004/05/01/264.aspx"
+    ],
+    "category": [
+      "csharp",
+      "dotnet",
+      "via-pinboard"
+    ],
+    "slug": [
+      "comparing-c-to-java"
+    ]
+  }
+}

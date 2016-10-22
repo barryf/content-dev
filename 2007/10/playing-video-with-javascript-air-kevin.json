@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-10-23T12:03:43Z"],"entry-type":["bookmark"],"name":["Playing Video with JavaScript (AIR) | Kevin Hoyt"],"bookmark-of":["http://blog.kevinhoyt.org/2007/10/16/playing-video-with-javascript-air/"],"category":["air","flash","javascript","video","web","via-pinboard"],"slug":["playing-video-with-javascript-air-kevin"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-10-23T12:03:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Playing Video with JavaScript (AIR) | Kevin Hoyt"
+    ],
+    "bookmark-of": [
+      "http://blog.kevinhoyt.org/2007/10/16/playing-video-with-javascript-air/"
+    ],
+    "category": [
+      "air",
+      "flash",
+      "javascript",
+      "video",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "playing-video-with-javascript-air-kevin"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2008-02-11T20:20:30Z"],"entry-type":["bookmark"],"name":["A strftime for Prototype"],"bookmark-of":["http://alternateidea.com/blog/articles/2008/2/8/a-strftime-for-prototype"],"category":["date","library","snippet","time","prototype","javascript","web","dev","via-pinboard"],"slug":["a-strftime-for-prototype"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-02-11T20:20:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A strftime for Prototype"
+    ],
+    "bookmark-of": [
+      "http://alternateidea.com/blog/articles/2008/2/8/a-strftime-for-prototype"
+    ],
+    "category": [
+      "date",
+      "library",
+      "snippet",
+      "time",
+      "prototype",
+      "javascript",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-strftime-for-prototype"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Ruby on Rails web development company based in Poland\n"],"published":["2011-11-30T09:35:05Z"],"entry-type":["bookmark"],"name":["Applicake"],"bookmark-of":["http://applicake.com/"],"category":["rails","ruby","poland","outsource","dev","via-pinboard"],"slug":["applicake"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby on Rails web development company based in Poland\n"
+    ],
+    "published": [
+      "2011-11-30T09:35:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Applicake"
+    ],
+    "bookmark-of": [
+      "http://applicake.com/"
+    ],
+    "category": [
+      "rails",
+      "ruby",
+      "poland",
+      "outsource",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "applicake"
+    ]
+  }
+}

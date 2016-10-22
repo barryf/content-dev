@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["\"Kaka is world record signing\"... but only in sterling. 65m euros is less than 73m for Zidane in 2001 but the pound is now down a third."],"published":["2009-06-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2088520289"],"slug":["tweet-2088520289"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Kaka is world record signing\"... but only in sterling. 65m euros is less than 73m for Zidane in 2001 but the pound is now down a third."
+    ],
+    "published": [
+      "2009-06-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2088520289"
+    ],
+    "slug": [
+      "tweet-2088520289"
+    ]
+  }
+}

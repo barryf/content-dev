@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Aghast that the ridiculous saga of Arshavin-to-Arsenal won't be resolved until tomorrow. Is it now the FA's fault? Bonkers. #TDD"],"published":["2009-02-02T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1170971305"],"slug":["tweet-1170971305"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Aghast that the ridiculous saga of Arshavin-to-Arsenal won't be resolved until tomorrow. Is it now the FA's fault? Bonkers. #TDD"
+    ],
+    "published": [
+      "2009-02-02T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1170971305"
+    ],
+    "slug": [
+      "tweet-1170971305"
+    ]
+  }
+}

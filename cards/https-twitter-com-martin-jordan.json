@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Martin Jordan (@Martin_Jordan)"],"photo":["http://pbs.twimg.com/profile_images/463698185420959744/SMUjiDip_normal.png"],"url":["https://twitter.com/Martin_Jordan"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Martin Jordan (@Martin_Jordan)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/463698185420959744/SMUjiDip_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/Martin_Jordan"
+    ]
+  }
+}

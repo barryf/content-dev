@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh Huge fan. Tucker's Law?"],"published":["2012-03-31T23:00:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/186226047094767616"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/186226441459990529"],"slug":["tweet-186226441459990529"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh Huge fan. Tucker's Law?"
+    ],
+    "published": [
+      "2012-03-31T23:00:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/186226047094767616"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/186226441459990529"
+    ],
+    "slug": [
+      "tweet-186226441459990529"
+    ]
+  }
+}

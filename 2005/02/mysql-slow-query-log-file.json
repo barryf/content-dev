@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["How to log queries of >1 second\n"],"published":["2005-02-18T09:39:36Z"],"entry-type":["bookmark"],"name":["MySQL Slow Query Log File"],"bookmark-of":["http://www.petefreitag.com/item/233.cfm"],"category":["mysql","database","via-pinboard"],"slug":["mysql-slow-query-log-file"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to log queries of >1 second\n"
+    ],
+    "published": [
+      "2005-02-18T09:39:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MySQL Slow Query Log File"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/233.cfm"
+    ],
+    "category": [
+      "mysql",
+      "database",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mysql-slow-query-log-file"
+    ]
+  }
+}

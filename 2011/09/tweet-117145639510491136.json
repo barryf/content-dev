@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrew_levett That's a pretty decent Spotify playlist for the office."],"published":["2011-09-23T07:57:51Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6175/status/117134482615705600"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/117145639510491136"],"slug":["tweet-117145639510491136"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrew_levett That's a pretty decent Spotify playlist for the office."
+    ],
+    "published": [
+      "2011-09-23T07:57:51Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6175/status/117134482615705600"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/117145639510491136"
+    ],
+    "slug": [
+      "tweet-117145639510491136"
+    ]
+  }
+}

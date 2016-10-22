@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Loved watching Malcolm's gradual loss of influence and control over this Thick of It series. Can't wait to see his revenge in last episode."],"published":["2009-12-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/6384382335"],"slug":["tweet-6384382335"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Loved watching Malcolm's gradual loss of influence and control over this Thick of It series. Can't wait to see his revenge in last episode."
+    ],
+    "published": [
+      "2009-12-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/6384382335"
+    ],
+    "slug": [
+      "tweet-6384382335"
+    ]
+  }
+}

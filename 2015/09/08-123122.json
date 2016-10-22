@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["<a href=\"https://www.brid.gy/publish/twitter\"></a>"],"published":["2015-09-08T11:31:22Z"],"entry-type":["like"],"like-of":["https://twitter.com/TechnicallyRon/status/641188247620710400"],"slug":["08-123122"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "<a href=\"https://www.brid.gy/publish/twitter\"></a>"
+    ],
+    "published": [
+      "2015-09-08T11:31:22Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/TechnicallyRon/status/641188247620710400"
+    ],
+    "slug": [
+      "08-123122"
+    ]
+  }
+}

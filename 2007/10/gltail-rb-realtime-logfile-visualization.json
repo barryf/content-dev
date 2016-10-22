@@ -1,1 +1,40 @@
-{"type":["h-entry"],"properties":{"content":["Watches logfiles (Apache, Rails,  IIS, MySQL, etc.) and displays pretty effects\n"],"published":["2007-10-14T18:18:28Z"],"entry-type":["bookmark"],"name":["glTail.rb - realtime logfile visualization"],"bookmark-of":["http://www.fudgie.org/"],"category":["analysis","animation","apache","database","monitoring","network","internet","http","web","sysadmin","statistics","rails","via-pinboard"],"slug":["gltail-rb-realtime-logfile-visualization"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watches logfiles (Apache, Rails,  IIS, MySQL, etc.) and displays pretty effects\n"
+    ],
+    "published": [
+      "2007-10-14T18:18:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "glTail.rb - realtime logfile visualization"
+    ],
+    "bookmark-of": [
+      "http://www.fudgie.org/"
+    ],
+    "category": [
+      "analysis",
+      "animation",
+      "apache",
+      "database",
+      "monitoring",
+      "network",
+      "internet",
+      "http",
+      "web",
+      "sysadmin",
+      "statistics",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gltail-rb-realtime-logfile-visualization"
+    ]
+  }
+}

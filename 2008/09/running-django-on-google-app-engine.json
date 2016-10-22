@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["(currently supports 0.96)\n"],"published":["2008-09-06T20:37:57Z"],"entry-type":["bookmark"],"name":["Running Django on Google App Engine"],"bookmark-of":["http://code.google.com/appengine/articles/django.html"],"category":["gae","django","appengine","google","dev","framework","web","via-pinboard"],"slug":["running-django-on-google-app-engine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(currently supports 0.96)\n"
+    ],
+    "published": [
+      "2008-09-06T20:37:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Running Django on Google App Engine"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/appengine/articles/django.html"
+    ],
+    "category": [
+      "gae",
+      "django",
+      "appengine",
+      "google",
+      "dev",
+      "framework",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "running-django-on-google-app-engine"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Detailed review of Cufon by Cameron Moll. Thumbs up, although current drawbacks are listed including no :hover state or text selection\n"],"published":["2009-03-22T21:31:27Z"],"entry-type":["bookmark"],"name":["Exploring Cufón, a sIFR alternative for font embedding ~ Authentic Boredom"],"bookmark-of":["http://cameronmoll.com/archives/2009/03/cufon_font_embedding/"],"category":["cufon","design","layout","font","typography","sifr","web","via-pinboard"],"slug":["exploring-cuf-n-a-sifr-alternative"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Detailed review of Cufon by Cameron Moll. Thumbs up, although current drawbacks are listed including no :hover state or text selection\n"
+    ],
+    "published": [
+      "2009-03-22T21:31:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Exploring Cufón, a sIFR alternative for font embedding ~ Authentic Boredom"
+    ],
+    "bookmark-of": [
+      "http://cameronmoll.com/archives/2009/03/cufon_font_embedding/"
+    ],
+    "category": [
+      "cufon",
+      "design",
+      "layout",
+      "font",
+      "typography",
+      "sifr",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "exploring-cuf-n-a-sifr-alternative"
+    ]
+  }
+}

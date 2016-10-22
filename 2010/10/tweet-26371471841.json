@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@barcamplondon Dating service?! Well if someone really wants one then we can help, although the m/f ratio might make it a bit tricky..."],"published":["2010-10-04T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/17430482/status/26370551456"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/26371471841"],"slug":["tweet-26371471841"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@barcamplondon Dating service?! Well if someone really wants one then we can help, although the m/f ratio might make it a bit tricky..."
+    ],
+    "published": [
+      "2010-10-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/17430482/status/26370551456"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/26371471841"
+    ],
+    "slug": [
+      "tweet-26371471841"
+    ]
+  }
+}

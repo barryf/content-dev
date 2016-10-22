@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The #Brits are so bad I'd rather watch Spurs."],"published":["2011-02-15T21:00:40Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/37617310445486080"],"slug":["tweet-37617310445486080"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The #Brits are so bad I'd rather watch Spurs."
+    ],
+    "published": [
+      "2011-02-15T21:00:40Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/37617310445486080"
+    ],
+    "slug": [
+      "tweet-37617310445486080"
+    ]
+  }
+}

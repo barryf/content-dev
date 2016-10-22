@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Show the debug menu and force links that want to open in a new window to instead open in a tab\n"],"published":["2008-04-06T10:32:57Z"],"entry-type":["bookmark"],"name":["Two Safari 3.1 Tips"],"bookmark-of":["http://blog.persistent.info/2008/03/two-safari-31-tips.html"],"category":["mac","safari","via-pinboard"],"slug":["two-safari-3-1-tips"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Show the debug menu and force links that want to open in a new window to instead open in a tab\n"
+    ],
+    "published": [
+      "2008-04-06T10:32:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Two Safari 3.1 Tips"
+    ],
+    "bookmark-of": [
+      "http://blog.persistent.info/2008/03/two-safari-31-tips.html"
+    ],
+    "category": [
+      "mac",
+      "safari",
+      "via-pinboard"
+    ],
+    "slug": [
+      "two-safari-3-1-tips"
+    ]
+  }
+}

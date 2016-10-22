@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Project Strategies"],"photo":["https://twitter.com/PM_ProjectYou/profile_image?size=original"],"url":["https://twitter.com/PM_ProjectYou"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Project Strategies"
+    ],
+    "photo": [
+      "https://twitter.com/PM_ProjectYou/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/PM_ProjectYou"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@tomgiddings @AL0sborne I ate a Ramsey's Grill masterpiece. Doner. Garlic mayo. All the veg. Jealous much?"],"published":["2011-12-03T00:10:09Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6830602/status/142756028411428864"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/142757475920248832"],"slug":["tweet-142757475920248832"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@tomgiddings @AL0sborne I ate a Ramsey's Grill masterpiece. Doner. Garlic mayo. All the veg. Jealous much?"
+    ],
+    "published": [
+      "2011-12-03T00:10:09Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6830602/status/142756028411428864"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/142757475920248832"
+    ],
+    "slug": [
+      "tweet-142757475920248832"
+    ]
+  }
+}

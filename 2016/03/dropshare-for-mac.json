@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Dropshare is a so-called menulet that enables you to easily drag&drop files, folders and anything else to your own server, Amazon S3, Rackspace Cloud Files or Google Drive. Once uploaded, the app copies the link to the file to your Mac's clipboard and you're ready to share with anyone you like!"],"published":["2016-03-03T12:25:49Z"],"entry-type":["bookmark"],"name":["Dropshare for Mac"],"bookmark-of":["https://getdropsha.re/"],"category":["mac","s3","upload","cloud"],"slug":["dropshare-for-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Dropshare is a so-called menulet that enables you to easily drag&drop files, folders and anything else to your own server, Amazon S3, Rackspace Cloud Files or Google Drive. Once uploaded, the app copies the link to the file to your Mac's clipboard and you're ready to share with anyone you like!"
+    ],
+    "published": [
+      "2016-03-03T12:25:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dropshare for Mac"
+    ],
+    "bookmark-of": [
+      "https://getdropsha.re/"
+    ],
+    "category": [
+      "mac",
+      "s3",
+      "upload",
+      "cloud"
+    ],
+    "slug": [
+      "dropshare-for-mac"
+    ]
+  }
+}

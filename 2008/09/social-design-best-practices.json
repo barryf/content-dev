@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["...according to Google's OpenSocial team\n"],"published":["2008-09-06T20:04:46Z"],"entry-type":["bookmark"],"name":["Social Design Best Practices"],"bookmark-of":["http://code.google.com/apis/opensocial/articles/bestprac.html"],"category":["opensocial","bestpractice","socialnetworking","social","community","google","via-pinboard"],"slug":["social-design-best-practices"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "...according to Google's OpenSocial team\n"
+    ],
+    "published": [
+      "2008-09-06T20:04:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Social Design Best Practices"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/apis/opensocial/articles/bestprac.html"
+    ],
+    "category": [
+      "opensocial",
+      "bestpractice",
+      "socialnetworking",
+      "social",
+      "community",
+      "google",
+      "via-pinboard"
+    ],
+    "slug": [
+      "social-design-best-practices"
+    ]
+  }
+}

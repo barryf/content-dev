@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/t/status/778506921720418304"],"published":["2016-09-21T08:11:28Z"],"content":["#TPAC2016 @timberners_lee IndieWeb encourages having a website, domain name, blog, linking to each other. ... http://tantek.com/t4jR3"],"author":["https://twitter.com/t"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/t/status/778506921720418304"
+    ],
+    "published": [
+      "2016-09-21T08:11:28Z"
+    ],
+    "content": [
+      "#TPAC2016 @timberners_lee IndieWeb encourages having a website, domain name, blog, linking to each other. ... http://tantek.com/t4jR3"
+    ],
+    "author": [
+      "https://twitter.com/t"
+    ]
+  }
+}

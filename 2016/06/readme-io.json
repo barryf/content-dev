@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Documentation tool for APIs and other systems"],"published":["2016-06-10T15:58:16Z"],"entry-type":["bookmark"],"name":["ReadMe.io"],"bookmark-of":["http://readme.io/"],"category":["docs","api","readme"],"slug":["readme-io"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Documentation tool for APIs and other systems"
+    ],
+    "published": [
+      "2016-06-10T15:58:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ReadMe.io"
+    ],
+    "bookmark-of": [
+      "http://readme.io/"
+    ],
+    "category": [
+      "docs",
+      "api",
+      "readme"
+    ],
+    "slug": [
+      "readme-io"
+    ]
+  }
+}

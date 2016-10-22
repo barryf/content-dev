@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["TV appliance for Skype calls on a TV without a computer\n"],"published":["2012-05-18T13:51:49Z"],"entry-type":["bookmark"],"name":["telyHD"],"bookmark-of":["http://www.tely.com/"],"category":["videoconference","tv","video","skype","via-pinboard"],"slug":["telyhd"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "TV appliance for Skype calls on a TV without a computer\n"
+    ],
+    "published": [
+      "2012-05-18T13:51:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "telyHD"
+    ],
+    "bookmark-of": [
+      "http://www.tely.com/"
+    ],
+    "category": [
+      "videoconference",
+      "tv",
+      "video",
+      "skype",
+      "via-pinboard"
+    ],
+    "slug": [
+      "telyhd"
+    ]
+  }
+}

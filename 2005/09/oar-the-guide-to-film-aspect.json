@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-18T16:06:29Z"],"entry-type":["bookmark"],"name":["OAR: The Guide to Film Aspect Ratios"],"bookmark-of":["http://www.rexer.com/cine/oar.htm"],"category":["tv","dvd","hdtv","media","film","video","via-pinboard"],"slug":["oar-the-guide-to-film-aspect"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-18T16:06:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "OAR: The Guide to Film Aspect Ratios"
+    ],
+    "bookmark-of": [
+      "http://www.rexer.com/cine/oar.htm"
+    ],
+    "category": [
+      "tv",
+      "dvd",
+      "hdtv",
+      "media",
+      "film",
+      "video",
+      "via-pinboard"
+    ],
+    "slug": [
+      "oar-the-guide-to-film-aspect"
+    ]
+  }
+}

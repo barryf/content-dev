@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-12-10T14:16:07Z"],"entry-type":["bookmark"],"name":["teracyhq/wireframe · GitHub"],"bookmark-of":["https://github.com/teracyhq/wireframe"],"category":["fromifttt","github","via-pinboard"],"slug":["teracyhq-wireframe-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-12-10T14:16:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "teracyhq/wireframe · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/teracyhq/wireframe"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "teracyhq-wireframe-github"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Pretty repeating square background thing\n"],"published":["2007-05-25T14:57:20Z"],"entry-type":["bookmark"],"name":["PARALLEL || Eye to Eye"],"bookmark-of":["http://www.thisisparallel.com/"],"category":["agency","inspiration","portfolio","web","design","via-pinboard"],"slug":["parallel-eye-to-eye"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pretty repeating square background thing\n"
+    ],
+    "published": [
+      "2007-05-25T14:57:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PARALLEL || Eye to Eye"
+    ],
+    "bookmark-of": [
+      "http://www.thisisparallel.com/"
+    ],
+    "category": [
+      "agency",
+      "inspiration",
+      "portfolio",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "parallel-eye-to-eye"
+    ]
+  }
+}

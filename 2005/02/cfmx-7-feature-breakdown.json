@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-07T21:06:19Z"],"entry-type":["bookmark"],"name":["CFMX 7 feature breakdown"],"bookmark-of":["http://www.houseoffusion.com/cf_lists/messages.cfm/threadid:38151/forumid:4#193433"],"category":["coldfusion","via-pinboard"],"slug":["cfmx-7-feature-breakdown"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-07T21:06:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CFMX 7 feature breakdown"
+    ],
+    "bookmark-of": [
+      "http://www.houseoffusion.com/cf_lists/messages.cfm/threadid:38151/forumid:4#193433"
+    ],
+    "category": [
+      "coldfusion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cfmx-7-feature-breakdown"
+    ]
+  }
+}

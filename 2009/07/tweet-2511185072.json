@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@Philip5150 I'd guess at fan vid, but it's extremely slick. Love the way the music is quiet and muffled to start with."],"published":["2009-07-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2511185072"],"slug":["tweet-2511185072"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Philip5150 I'd guess at fan vid, but it's extremely slick. Love the way the music is quiet and muffled to start with."
+    ],
+    "published": [
+      "2009-07-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2511185072"
+    ],
+    "slug": [
+      "tweet-2511185072"
+    ]
+  }
+}

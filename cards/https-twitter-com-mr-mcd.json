@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Mark McDermott (@mr_mcd)"],"photo":["http://pbs.twimg.com/profile_images/564112724200656896/HAzJppPL_normal.jpeg"],"url":["https://twitter.com/mr_mcd"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Mark McDermott (@mr_mcd)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/564112724200656896/HAzJppPL_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/mr_mcd"
+    ]
+  }
+}

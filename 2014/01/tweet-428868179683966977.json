@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@RealBradHaverly Have a look above your right-hand shift key."],"published":["2014-01-30T12:31:56Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/103539254/status/428867484918484992"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/428868179683966977"],"slug":["tweet-428868179683966977"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@RealBradHaverly Have a look above your right-hand shift key."
+    ],
+    "published": [
+      "2014-01-30T12:31:56Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/103539254/status/428867484918484992"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/428868179683966977"
+    ],
+    "slug": [
+      "tweet-428868179683966977"
+    ]
+  }
+}

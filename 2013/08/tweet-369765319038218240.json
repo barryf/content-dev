@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["In a florists for a wedding consultation. No idea what’s going on. I hear that peonies were late this year."],"published":["2013-08-20T10:18:16Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/369765319038218240"],"slug":["tweet-369765319038218240"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "In a florists for a wedding consultation. No idea what’s going on. I hear that peonies were late this year."
+    ],
+    "published": [
+      "2013-08-20T10:18:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/369765319038218240"
+    ],
+    "slug": [
+      "tweet-369765319038218240"
+    ]
+  }
+}

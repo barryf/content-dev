@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-11-13T07:18:32Z"],"entry-type":["bookmark"],"name":["How-to: Proper Gmail IMAP for iPhone & Apple Mail"],"bookmark-of":["http://5thirtyone.com/archives/862"],"category":["gmail","google","imap","mail","mac","via-pinboard"],"slug":["how-to-proper-gmail-imap-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-11-13T07:18:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How-to: Proper Gmail IMAP for iPhone & Apple Mail"
+    ],
+    "bookmark-of": [
+      "http://5thirtyone.com/archives/862"
+    ],
+    "category": [
+      "gmail",
+      "google",
+      "imap",
+      "mail",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-proper-gmail-imap-for"
+    ]
+  }
+}

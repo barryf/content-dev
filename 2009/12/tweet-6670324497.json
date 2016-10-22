@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Done what I've been told - (re)bought RATM's awesome Killing in the Name to help it get to No1 for Xmas: http://bit.ly/4xWuXl #ratm4xmas"],"published":["2009-12-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/6670324497"],"slug":["tweet-6670324497"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Done what I've been told - (re)bought RATM's awesome Killing in the Name to help it get to No1 for Xmas: http://bit.ly/4xWuXl #ratm4xmas"
+    ],
+    "published": [
+      "2009-12-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/6670324497"
+    ],
+    "slug": [
+      "tweet-6670324497"
+    ]
+  }
+}

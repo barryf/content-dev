@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Supply a domain and the convertor returns a png from the site's ico\n"],"published":["2008-09-06T20:21:10Z"],"entry-type":["bookmark"],"name":["Google's undocumented favicon to png convertor"],"bookmark-of":["http://simonwillison.net/2008/Aug/30/favicons/"],"category":["icon","web","dev","favicon","png","ico","convertor","google","via-pinboard"],"slug":["google-s-undocumented-favicon-to-png"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Supply a domain and the convertor returns a png from the site's ico\n"
+    ],
+    "published": [
+      "2008-09-06T20:21:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google's undocumented favicon to png convertor"
+    ],
+    "bookmark-of": [
+      "http://simonwillison.net/2008/Aug/30/favicons/"
+    ],
+    "category": [
+      "icon",
+      "web",
+      "dev",
+      "favicon",
+      "png",
+      "ico",
+      "convertor",
+      "google",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-s-undocumented-favicon-to-png"
+    ]
+  }
+}

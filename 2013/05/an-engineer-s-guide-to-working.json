@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2013-05-24T07:26:04Z"],"entry-type":["bookmark"],"name":["An engineer's guide to working with product managers"],"bookmark-of":["https://speakerdeck.com/adamwiggins/an-engineers-guide-to-working-with-product-managers"],"category":["productmanager","career","job","team","dev","product","via-pinboard"],"slug":["an-engineer-s-guide-to-working"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-05-24T07:26:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "An engineer's guide to working with product managers"
+    ],
+    "bookmark-of": [
+      "https://speakerdeck.com/adamwiggins/an-engineers-guide-to-working-with-product-managers"
+    ],
+    "category": [
+      "productmanager",
+      "career",
+      "job",
+      "team",
+      "dev",
+      "product",
+      "via-pinboard"
+    ],
+    "slug": [
+      "an-engineer-s-guide-to-working"
+    ]
+  }
+}

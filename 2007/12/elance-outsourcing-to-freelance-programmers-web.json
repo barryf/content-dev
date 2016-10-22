@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-26T21:03:21Z"],"entry-type":["bookmark"],"name":["Elance - Outsourcing to freelance programmers, web"],"bookmark-of":["http://www.elance.com/p/landing/buyer.html"],"category":["freelance","outsourcing","resource","hiring","job","project","work","useful","via-pinboard"],"slug":["elance-outsourcing-to-freelance-programmers-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-26T21:03:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Elance - Outsourcing to freelance programmers, web"
+    ],
+    "bookmark-of": [
+      "http://www.elance.com/p/landing/buyer.html"
+    ],
+    "category": [
+      "freelance",
+      "outsourcing",
+      "resource",
+      "hiring",
+      "job",
+      "project",
+      "work",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "elance-outsourcing-to-freelance-programmers-web"
+    ]
+  }
+}

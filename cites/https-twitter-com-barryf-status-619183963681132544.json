@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/619183963681132544"],"published":["2015-07-09T16:38:55Z"],"content":["@losowsky I hadn't considered the potential for malicious public emoji. Wow, that aubergine emoji trolling business is new to me."],"in-reply-to":["https://barryfrost.com/2015/07/slack-https-slack-com-has-introduced"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/619183963681132544"
+    ],
+    "published": [
+      "2015-07-09T16:38:55Z"
+    ],
+    "content": [
+      "@losowsky I hadn't considered the potential for malicious public emoji. Wow, that aubergine emoji trolling business is new to me."
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/07/slack-https-slack-com-has-introduced"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh @jasonkneen Start with The Wire. Best drama series of the last decade. 30 Rock for comedy."],"published":["2012-03-31T22:45:19Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/186222288700579840"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/186222671191752705"],"slug":["tweet-186222671191752705"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh @jasonkneen Start with The Wire. Best drama series of the last decade. 30 Rock for comedy."
+    ],
+    "published": [
+      "2012-03-31T22:45:19Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/186222288700579840"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/186222671191752705"
+    ],
+    "slug": [
+      "tweet-186222671191752705"
+    ]
+  }
+}

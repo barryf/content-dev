@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@neilmiddleton Every time someone leverages a synergy, God kills a kitten."],"published":["2011-01-18T17:25:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4143281/status/27406749292040192"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27416203467161600"],"slug":["tweet-27416203467161600"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@neilmiddleton Every time someone leverages a synergy, God kills a kitten."
+    ],
+    "published": [
+      "2011-01-18T17:25:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4143281/status/27406749292040192"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27416203467161600"
+    ],
+    "slug": [
+      "tweet-27416203467161600"
+    ]
+  }
+}

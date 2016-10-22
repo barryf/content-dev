@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/737316959147020288#favorited-by-119939335"],"published":["2016-05-30T21:19:26Z"],"like-of":["https://barryfrost.com/2016/05/bank-holiday-pub-lunch"],"author":["https://twitter.com/krissygoround"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/737316959147020288#favorited-by-119939335"
+    ],
+    "published": [
+      "2016-05-30T21:19:26Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/05/bank-holiday-pub-lunch"
+    ],
+    "author": [
+      "https://twitter.com/krissygoround"
+    ]
+  }
+}

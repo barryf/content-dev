@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["We're getting more stupidererer\n"],"published":["2007-12-28T22:52:03Z"],"entry-type":["bookmark"],"name":["half price for halfwits"],"bookmark-of":["http://www.malevolent.com/weblog/archive/2007/12/28/half-price-sale-boots/"],"category":["boots","uk","idiots","funny","society","shopping","via-pinboard"],"slug":["half-price-for-halfwits"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "We're getting more stupidererer\n"
+    ],
+    "published": [
+      "2007-12-28T22:52:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "half price for halfwits"
+    ],
+    "bookmark-of": [
+      "http://www.malevolent.com/weblog/archive/2007/12/28/half-price-sale-boots/"
+    ],
+    "category": [
+      "boots",
+      "uk",
+      "idiots",
+      "funny",
+      "society",
+      "shopping",
+      "via-pinboard"
+    ],
+    "slug": [
+      "half-price-for-halfwits"
+    ]
+  }
+}

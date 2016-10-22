@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Example templates, pages, posts, and styles for Jekyll"],"published":["2014-04-03T07:56:13Z"],"entry-type":["bookmark"],"name":["Poole for Jekyll"],"bookmark-of":["http://getpoole.com/"],"category":["jekyll","template","theme","via-pinboard"],"slug":["poole-for-jekyll"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Example templates, pages, posts, and styles for Jekyll"
+    ],
+    "published": [
+      "2014-04-03T07:56:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Poole for Jekyll"
+    ],
+    "bookmark-of": [
+      "http://getpoole.com/"
+    ],
+    "category": [
+      "jekyll",
+      "template",
+      "theme",
+      "via-pinboard"
+    ],
+    "slug": [
+      "poole-for-jekyll"
+    ]
+  }
+}

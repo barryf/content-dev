@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryfdata/status/550659897042296832"],"published":["2015-01-01T14:28:44Z"],"content":["New festive top. Merry Christmas!"],"photo":["http://pbs.twimg.com/media/B6RWQj3CUAAGif2.jpg"],"author":["https://twitter.com/barryfdata"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryfdata/status/550659897042296832"
+    ],
+    "published": [
+      "2015-01-01T14:28:44Z"
+    ],
+    "content": [
+      "New festive top. Merry Christmas!"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/B6RWQj3CUAAGif2.jpg"
+    ],
+    "author": [
+      "https://twitter.com/barryfdata"
+    ]
+  }
+}

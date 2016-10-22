@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-10-10T15:09:54Z"],"entry-type":["bookmark"],"name":["plataformatec/simple_form · GitHub"],"bookmark-of":["https://github.com/plataformatec/simple_form"],"category":["fromifttt","github","via-pinboard"],"slug":["plataformatec-simple-form-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-10-10T15:09:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "plataformatec/simple_form · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/plataformatec/simple_form"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "plataformatec-simple-form-github"
+    ]
+  }
+}

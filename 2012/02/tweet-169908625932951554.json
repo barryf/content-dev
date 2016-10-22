@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@fifthposition Thanks very much for tweeting a link to my article, Ben. Always nice to see someone's read something I've written!"],"published":["2012-02-15T22:19:07Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/169908625932951554"],"slug":["tweet-169908625932951554"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@fifthposition Thanks very much for tweeting a link to my article, Ben. Always nice to see someone's read something I've written!"
+    ],
+    "published": [
+      "2012-02-15T22:19:07Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/169908625932951554"
+    ],
+    "slug": [
+      "tweet-169908625932951554"
+    ]
+  }
+}

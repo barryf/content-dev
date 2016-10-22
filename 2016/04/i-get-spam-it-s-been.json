@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["I get spam: \"It's been a busy few weeks for us here at [marketing spam co]\" Not as busy as it's been for my Report Spam shortcut fingers..."],"published":["2016-04-21T16:09:29Z"],"entry-type":["note"],"summary":["I get spam: \"It's been a busy few weeks for us here at [marketing spam co]\" Not as busy as it's been for my Report Spam shortcut fingers..."],"category":["spam","email","marketing"],"syndication":["https://twitter.com/barryf/status/723181886642638849"],"slug":["i-get-spam-it-s-been"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I get spam: \"It's been a busy few weeks for us here at [marketing spam co]\" Not as busy as it's been for my Report Spam shortcut fingers..."
+    ],
+    "published": [
+      "2016-04-21T16:09:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "I get spam: \"It's been a busy few weeks for us here at [marketing spam co]\" Not as busy as it's been for my Report Spam shortcut fingers..."
+    ],
+    "category": [
+      "spam",
+      "email",
+      "marketing"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/723181886642638849"
+    ],
+    "slug": [
+      "i-get-spam-it-s-been"
+    ]
+  }
+}

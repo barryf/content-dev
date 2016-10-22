@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-02-21T21:20:00Z"],"entry-type":["bookmark"],"name":["Made by Elephant - We craft User Experiences"],"bookmark-of":["http://www.madebyelephant.com/"],"category":["agency","design","inspiration","portfolio","web","via-pinboard"],"slug":["made-by-elephant-we-craft-user"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-02-21T21:20:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Made by Elephant - We craft User Experiences"
+    ],
+    "bookmark-of": [
+      "http://www.madebyelephant.com/"
+    ],
+    "category": [
+      "agency",
+      "design",
+      "inspiration",
+      "portfolio",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "made-by-elephant-we-craft-user"
+    ]
+  }
+}

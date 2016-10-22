@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Moderation, copywriting, data-entry and transcription services"],"published":["2015-01-23T15:38:09Z"],"entry-type":["bookmark"],"name":["CrowdSource.com"],"bookmark-of":["http://www.crowdsource.com/"],"category":["crowdsource","moderation","copywriting","transcription"],"slug":["crowdsource-com"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Moderation, copywriting, data-entry and transcription services"
+    ],
+    "published": [
+      "2015-01-23T15:38:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CrowdSource.com"
+    ],
+    "bookmark-of": [
+      "http://www.crowdsource.com/"
+    ],
+    "category": [
+      "crowdsource",
+      "moderation",
+      "copywriting",
+      "transcription"
+    ],
+    "slug": [
+      "crowdsource-com"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids are you available, Tom? RT @scott_collins: @barryf Hey Barry, do you know any good freelance PHP guys commutable to Woking…?"],"published":["2013-04-24T15:48:27Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/327086643020431362"],"slug":["tweet-327086643020431362"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids are you available, Tom? RT @scott_collins: @barryf Hey Barry, do you know any good freelance PHP guys commutable to Woking…?"
+    ],
+    "published": [
+      "2013-04-24T15:48:27Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/327086643020431362"
+    ],
+    "slug": [
+      "tweet-327086643020431362"
+    ]
+  }
+}

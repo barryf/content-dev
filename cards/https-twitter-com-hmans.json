@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Hendrik Mans (@hmans)"],"photo":["http://pbs.twimg.com/profile_images/378800000506163856/053cff82d8523ebe7e12f8473e4e5e8a_normal.jpeg"],"url":["https://twitter.com/hmans"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Hendrik Mans (@hmans)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000506163856/053cff82d8523ebe7e12f8473e4e5e8a_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/hmans"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/16350009/status/346637733889966083"],"published":["2013-06-17T14:37:30Z"],"content":["@PoppyCatFlap @barryf The mind boggles."],"author":["https://twitter.com/16350009"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/16350009/status/346637733889966083"
+    ],
+    "published": [
+      "2013-06-17T14:37:30Z"
+    ],
+    "content": [
+      "@PoppyCatFlap @barryf The mind boggles."
+    ],
+    "author": [
+      "https://twitter.com/16350009"
+    ]
+  }
+}

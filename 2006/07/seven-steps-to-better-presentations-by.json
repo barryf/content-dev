@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2006-07-18T14:02:03Z"],"entry-type":["bookmark"],"name":["Seven Steps to Better Presentations, by Jeffrey Veen"],"bookmark-of":["http://www.veen.com/jeff/archives/000483.html"],"category":["presentation","speaking","social","via-pinboard"],"slug":["seven-steps-to-better-presentations-by"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-07-18T14:02:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Seven Steps to Better Presentations, by Jeffrey Veen"
+    ],
+    "bookmark-of": [
+      "http://www.veen.com/jeff/archives/000483.html"
+    ],
+    "category": [
+      "presentation",
+      "speaking",
+      "social",
+      "via-pinboard"
+    ],
+    "slug": [
+      "seven-steps-to-better-presentations-by"
+    ]
+  }
+}

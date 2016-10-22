@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-31T16:34:21Z"],"entry-type":["bookmark"],"name":["HTTP API Design Guide"],"bookmark-of":["https://github.com/interagent/http-api-design/blob/master/README.md"],"category":["http","api","guide"],"slug":["http-api-design-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-31T16:34:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTTP API Design Guide"
+    ],
+    "bookmark-of": [
+      "https://github.com/interagent/http-api-design/blob/master/README.md"
+    ],
+    "category": [
+      "http",
+      "api",
+      "guide"
+    ],
+    "slug": [
+      "http-api-design-guide"
+    ]
+  }
+}

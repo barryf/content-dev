@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Post received today: a confused chap who had failed to email via our “contact us” link (emailing the actual URL) and so resorted to a letter"],"published":["2013-05-31T09:50:54Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/340405014210158594"],"slug":["tweet-340405014210158594"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Post received today: a confused chap who had failed to email via our “contact us” link (emailing the actual URL) and so resorted to a letter"
+    ],
+    "published": [
+      "2013-05-31T09:50:54Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/340405014210158594"
+    ],
+    "slug": [
+      "tweet-340405014210158594"
+    ]
+  }
+}

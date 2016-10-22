@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["iPhone 5S ordered. Slate grey, 32Gb. ETA 8-11 October."],"published":["2013-09-20T08:01:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/380964856717139968"],"slug":["tweet-380964856717139968"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "iPhone 5S ordered. Slate grey, 32Gb. ETA 8-11 October."
+    ],
+    "published": [
+      "2013-09-20T08:01:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/380964856717139968"
+    ],
+    "slug": [
+      "tweet-380964856717139968"
+    ]
+  }
+}

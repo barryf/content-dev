@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2015-07-22T12:41:26Z"],"entry-type":["bookmark"],"name":["FatallyFlawed (the myth of safety socket covers)"],"bookmark-of":["http://www.fatallyflawed.org.uk/"],"category":["socket","uk","plug","safety"],"slug":["fatallyflawed-the-myth-of-safety-socket"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-07-22T12:41:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FatallyFlawed (the myth of safety socket covers)"
+    ],
+    "bookmark-of": [
+      "http://www.fatallyflawed.org.uk/"
+    ],
+    "category": [
+      "socket",
+      "uk",
+      "plug",
+      "safety"
+    ],
+    "slug": [
+      "fatallyflawed-the-myth-of-safety-socket"
+    ]
+  }
+}

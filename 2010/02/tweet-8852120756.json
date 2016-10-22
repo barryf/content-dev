@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["RT @AIannucci: There'll be a 2nd series of Stewart Lee's Comedy Vehicle. Huzzah! Huzzah!"],"published":["2010-02-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/8852120756"],"slug":["tweet-8852120756"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "RT @AIannucci: There'll be a 2nd series of Stewart Lee's Comedy Vehicle. Huzzah! Huzzah!"
+    ],
+    "published": [
+      "2010-02-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/8852120756"
+    ],
+    "slug": [
+      "tweet-8852120756"
+    ]
+  }
+}

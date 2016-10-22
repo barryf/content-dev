@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/tomcopy/status/770527038675488768"],"published":["2016-08-30T07:42:16Z"],"content":["The simpler your words, the more people will understand you"],"photo":["http://pbs.twimg.com/media/CrF2QG3XEAAmgTz.jpg"],"author":["https://twitter.com/tomcopy"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/tomcopy/status/770527038675488768"
+    ],
+    "published": [
+      "2016-08-30T07:42:16Z"
+    ],
+    "content": [
+      "The simpler your words, the more people will understand you"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CrF2QG3XEAAmgTz.jpg"
+    ],
+    "author": [
+      "https://twitter.com/tomcopy"
+    ]
+  }
+}

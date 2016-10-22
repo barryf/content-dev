@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrew_levett Keep it foolish."],"published":["2011-06-04T13:45:49Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/6175/status/77005135544459265"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/77008153241333760"],"slug":["tweet-77008153241333760"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrew_levett Keep it foolish."
+    ],
+    "published": [
+      "2011-06-04T13:45:49Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/6175/status/77005135544459265"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/77008153241333760"
+    ],
+    "slug": [
+      "tweet-77008153241333760"
+    ]
+  }
+}

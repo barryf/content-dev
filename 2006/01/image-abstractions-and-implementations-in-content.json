@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["A good approach to asset management - browse by the essence of the image and then retrieve by a specific profile, eg boat + b&w 200px\n"],"published":["2006-01-31T14:05:58Z"],"entry-type":["bookmark"],"name":["Image Abstractions and Implementations in Content Management | Gadgetopia"],"bookmark-of":["http://www.gadgetopia.com/post/4964"],"category":["asset","cms","ams","image","photo","web","dev","fs","thumbnail","via-pinboard"],"slug":["image-abstractions-and-implementations-in-content"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A good approach to asset management - browse by the essence of the image and then retrieve by a specific profile, eg boat + b&w 200px\n"
+    ],
+    "published": [
+      "2006-01-31T14:05:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Image Abstractions and Implementations in Content Management | Gadgetopia"
+    ],
+    "bookmark-of": [
+      "http://www.gadgetopia.com/post/4964"
+    ],
+    "category": [
+      "asset",
+      "cms",
+      "ams",
+      "image",
+      "photo",
+      "web",
+      "dev",
+      "fs",
+      "thumbnail",
+      "via-pinboard"
+    ],
+    "slug": [
+      "image-abstractions-and-implementations-in-content"
+    ]
+  }
+}

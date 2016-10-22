@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Intelligent and useful web page that guesses the fonts installed locally and allows you to try out sample text in each\n"],"published":["2009-01-24T16:04:27Z"],"entry-type":["bookmark"],"name":["flipping typical"],"bookmark-of":["http://flippingtypical.com/"],"category":["visualisation","font","typography","useful","design","css","via-pinboard"],"slug":["flipping-typical"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Intelligent and useful web page that guesses the fonts installed locally and allows you to try out sample text in each\n"
+    ],
+    "published": [
+      "2009-01-24T16:04:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "flipping typical"
+    ],
+    "bookmark-of": [
+      "http://flippingtypical.com/"
+    ],
+    "category": [
+      "visualisation",
+      "font",
+      "typography",
+      "useful",
+      "design",
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flipping-typical"
+    ]
+  }
+}

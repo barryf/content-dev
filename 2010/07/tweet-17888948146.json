@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I never thought I'd say this, but I'm missing ill Jim Beglin's banalities on ITV's #worldcup coverage. Solo Tyldesley is far worse."],"published":["2010-07-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/17888948146"],"slug":["tweet-17888948146"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I never thought I'd say this, but I'm missing ill Jim Beglin's banalities on ITV's #worldcup coverage. Solo Tyldesley is far worse."
+    ],
+    "published": [
+      "2010-07-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/17888948146"
+    ],
+    "slug": [
+      "tweet-17888948146"
+    ]
+  }
+}

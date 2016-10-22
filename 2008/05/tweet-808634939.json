@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Master of the oven on last week; master of the garden today. Bit sunburnt though."],"published":["2008-05-11T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/808634939"],"slug":["tweet-808634939"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Master of the oven on last week; master of the garden today. Bit sunburnt though."
+    ],
+    "published": [
+      "2008-05-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/808634939"
+    ],
+    "slug": [
+      "tweet-808634939"
+    ]
+  }
+}

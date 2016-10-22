@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Video conferencing in HD from Logitech\n"],"published":["2012-01-19T12:20:13Z"],"entry-type":["bookmark"],"name":["LifeSize"],"bookmark-of":["http://www.lifesize.com/"],"category":["videoconferencing","logitech","business","video","via-pinboard"],"slug":["lifesize"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Video conferencing in HD from Logitech\n"
+    ],
+    "published": [
+      "2012-01-19T12:20:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "LifeSize"
+    ],
+    "bookmark-of": [
+      "http://www.lifesize.com/"
+    ],
+    "category": [
+      "videoconferencing",
+      "logitech",
+      "business",
+      "video",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lifesize"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["IanSanders (@IanSanders)"],"photo":["http://pbs.twimg.com/profile_images/618436731927400448/6XZHMK5p_normal.jpg"],"url":["https://twitter.com/IanSanders"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "IanSanders (@IanSanders)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/618436731927400448/6XZHMK5p_normal.jpg"
+    ],
+    "url": [
+      "https://twitter.com/IanSanders"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Itching to go on holiday right now."],"published":["2007-08-22T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/219725462"],"slug":["tweet-219725462"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Itching to go on holiday right now."
+    ],
+    "published": [
+      "2007-08-22T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/219725462"
+    ],
+    "slug": [
+      "tweet-219725462"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Useful for when I visit the US office"],"published":["2015-02-10T17:44:27Z"],"entry-type":["bookmark"],"name":["Boston Gooners"],"bookmark-of":["http://www.bostongooners.com/"],"category":["arsenal","boston","usa"],"slug":["boston-gooners"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful for when I visit the US office"
+    ],
+    "published": [
+      "2015-02-10T17:44:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Boston Gooners"
+    ],
+    "bookmark-of": [
+      "http://www.bostongooners.com/"
+    ],
+    "category": [
+      "arsenal",
+      "boston",
+      "usa"
+    ],
+    "slug": [
+      "boston-gooners"
+    ]
+  }
+}

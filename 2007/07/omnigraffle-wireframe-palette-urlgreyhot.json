@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"published":["2007-07-01T09:53:06Z"],"entry-type":["bookmark"],"name":["OmniGraffle Wireframe Palette | urlgreyhot"],"bookmark-of":["http://urlgreyhot.com/personal/resources/omnigraffle_wireframe_palette"],"category":["architecture","design","dev","diagram","gui","interface","omnigraffle","mac","prototype","sitemap","wireframe","ui","via-pinboard"],"slug":["omnigraffle-wireframe-palette-urlgreyhot"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-07-01T09:53:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "OmniGraffle Wireframe Palette | urlgreyhot"
+    ],
+    "bookmark-of": [
+      "http://urlgreyhot.com/personal/resources/omnigraffle_wireframe_palette"
+    ],
+    "category": [
+      "architecture",
+      "design",
+      "dev",
+      "diagram",
+      "gui",
+      "interface",
+      "omnigraffle",
+      "mac",
+      "prototype",
+      "sitemap",
+      "wireframe",
+      "ui",
+      "via-pinboard"
+    ],
+    "slug": [
+      "omnigraffle-wireframe-palette-urlgreyhot"
+    ]
+  }
+}

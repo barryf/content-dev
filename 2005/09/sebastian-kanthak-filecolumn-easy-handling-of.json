@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-15T12:41:25Z"],"entry-type":["bookmark"],"name":["Sebastian Kanthak - FileColumn - easy handling of file uploads in Rails"],"bookmark-of":["http://www.kanthak.net/opensource/file_column/"],"category":["rails","web","dev","filesystem","via-pinboard"],"slug":["sebastian-kanthak-filecolumn-easy-handling-of"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-15T12:41:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sebastian Kanthak - FileColumn - easy handling of file uploads in Rails"
+    ],
+    "bookmark-of": [
+      "http://www.kanthak.net/opensource/file_column/"
+    ],
+    "category": [
+      "rails",
+      "web",
+      "dev",
+      "filesystem",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sebastian-kanthak-filecolumn-easy-handling-of"
+    ]
+  }
+}

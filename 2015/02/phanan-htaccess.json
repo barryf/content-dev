@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["A collection of useful .htaccess snippets"],"published":["2015-02-10T11:34:56Z"],"entry-type":["bookmark"],"name":["phanan/htaccess"],"bookmark-of":["https://github.com/phanan/htaccess"],"category":["apache","htaccess","server","sysadmin"],"slug":["phanan-htaccess"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A collection of useful .htaccess snippets"
+    ],
+    "published": [
+      "2015-02-10T11:34:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "phanan/htaccess"
+    ],
+    "bookmark-of": [
+      "https://github.com/phanan/htaccess"
+    ],
+    "category": [
+      "apache",
+      "htaccess",
+      "server",
+      "sysadmin"
+    ],
+    "slug": [
+      "phanan-htaccess"
+    ]
+  }
+}

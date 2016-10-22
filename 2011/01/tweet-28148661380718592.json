@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I've booked a haircut at a fashionable salon with a stylist called Misty. Preparing myself for a Geek Pie, yeah? http://youtu.be/WKS6ShrGrog"],"published":["2011-01-20T17:55:38Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/28148661380718592"],"slug":["tweet-28148661380718592"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've booked a haircut at a fashionable salon with a stylist called Misty. Preparing myself for a Geek Pie, yeah? http://youtu.be/WKS6ShrGrog"
+    ],
+    "published": [
+      "2011-01-20T17:55:38Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/28148661380718592"
+    ],
+    "slug": [
+      "tweet-28148661380718592"
+    ]
+  }
+}

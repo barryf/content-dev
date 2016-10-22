@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thinking about getting a new motor. My poor Polo just doesn't cut it any more. I need a car with toys I think."],"published":["2007-05-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/53621372"],"slug":["tweet-53621372"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thinking about getting a new motor. My poor Polo just doesn't cut it any more. I need a car with toys I think."
+    ],
+    "published": [
+      "2007-05-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/53621372"
+    ],
+    "slug": [
+      "tweet-53621372"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Luke Wroblewski (@lukew)"],"photo":["http://pbs.twimg.com/profile_images/477610446917103616/_cjU3_ga_normal.png"],"url":["https://twitter.com/lukew"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Luke Wroblewski (@lukew)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/477610446917103616/_cjU3_ga_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/lukew"
+    ]
+  }
+}

@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2016-07-07T08:27:31Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/venntrodev/status/750969049887244288"],"category":["venntro","job"],"syndication":["https://twitter.com/barryf/status/750969488288296961"],"slug":["07-092731"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-07-07T08:27:31Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/venntrodev/status/750969049887244288"
+    ],
+    "category": [
+      "venntro",
+      "job"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/750969488288296961"
+    ],
+    "slug": [
+      "07-092731"
+    ]
+  }
+}

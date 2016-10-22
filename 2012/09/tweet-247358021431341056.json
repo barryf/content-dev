@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["This weekend I have dug/laid paving slabs, wired up a loft light and part-boarded the loft. With my dad, but it counts. Manual work is hard."],"published":["2012-09-16T15:35:22Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/247358021431341056"],"slug":["tweet-247358021431341056"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This weekend I have dug/laid paving slabs, wired up a loft light and part-boarded the loft. With my dad, but it counts. Manual work is hard."
+    ],
+    "published": [
+      "2012-09-16T15:35:22Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/247358021431341056"
+    ],
+    "slug": [
+      "tweet-247358021431341056"
+    ]
+  }
+}

@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Masochism: split reads and writes to two different databases\n"],"published":["2008-03-15T18:59:53Z"],"entry-type":["bookmark"],"name":["Master/Slave Databases with Ruby on Rails"],"bookmark-of":["http://www.robbyonrails.com/articles/2007/11/15/master-slave-databases-with-ruby-on-rails"],"category":["rails","database","activerecord","mysql","replication","clustering","plugin","scaling","masochism","via-pinboard"],"slug":["master-slave-databases-with-ruby-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Masochism: split reads and writes to two different databases\n"
+    ],
+    "published": [
+      "2008-03-15T18:59:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Master/Slave Databases with Ruby on Rails"
+    ],
+    "bookmark-of": [
+      "http://www.robbyonrails.com/articles/2007/11/15/master-slave-databases-with-ruby-on-rails"
+    ],
+    "category": [
+      "rails",
+      "database",
+      "activerecord",
+      "mysql",
+      "replication",
+      "clustering",
+      "plugin",
+      "scaling",
+      "masochism",
+      "via-pinboard"
+    ],
+    "slug": [
+      "master-slave-databases-with-ruby-on"
+    ]
+  }
+}

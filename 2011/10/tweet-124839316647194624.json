@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes What would your PM friends say if they knew that you'd just become a client? You'll be kicked out of the brotherhood...!"],"published":["2011-10-14T13:29:47Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/124822176179302400"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/124839316647194624"],"slug":["tweet-124839316647194624"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes What would your PM friends say if they knew that you'd just become a client? You'll be kicked out of the brotherhood...!"
+    ],
+    "published": [
+      "2011-10-14T13:29:47Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/124822176179302400"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/124839316647194624"
+    ],
+    "slug": [
+      "tweet-124839316647194624"
+    ]
+  }
+}

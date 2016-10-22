@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["\"25 Emails You Should Send to Your Users\""],"published":["2014-03-08T18:34:51Z"],"entry-type":["bookmark"],"name":["Email Patterns for Web Apps"],"bookmark-of":["https://medium.com/start-up-vision/c6303f3b6e8c"],"category":["email","saas","marketing","crm","via-pinboard"],"slug":["email-patterns-for-web-apps"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"25 Emails You Should Send to Your Users\""
+    ],
+    "published": [
+      "2014-03-08T18:34:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Email Patterns for Web Apps"
+    ],
+    "bookmark-of": [
+      "https://medium.com/start-up-vision/c6303f3b6e8c"
+    ],
+    "category": [
+      "email",
+      "saas",
+      "marketing",
+      "crm",
+      "via-pinboard"
+    ],
+    "slug": [
+      "email-patterns-for-web-apps"
+    ]
+  }
+}

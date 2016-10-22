@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-08-20T20:57:43Z"],"entry-type":["bookmark"],"name":["Apple iPhone 3G Skins | GelaSkins"],"bookmark-of":["http://www.gelaskins.com/catalog.php?Device=8"],"category":["ipod","iphone","skin","cover","case","apple","via-pinboard"],"slug":["apple-iphone-3g-skins-gelaskins"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-08-20T20:57:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Apple iPhone 3G Skins | GelaSkins"
+    ],
+    "bookmark-of": [
+      "http://www.gelaskins.com/catalog.php?Device=8"
+    ],
+    "category": [
+      "ipod",
+      "iphone",
+      "skin",
+      "cover",
+      "case",
+      "apple",
+      "via-pinboard"
+    ],
+    "slug": [
+      "apple-iphone-3g-skins-gelaskins"
+    ]
+  }
+}

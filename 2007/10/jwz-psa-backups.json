@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Buy two backup drives that match your laptop's and external drive housing. Backup every night onto the first and use the third to take away for an offsite backup\n"],"published":["2007-10-26T10:52:41Z"],"entry-type":["bookmark"],"name":["jwz - PSA: backups"],"bookmark-of":["http://jwz.livejournal.com/801607.html"],"category":["backup","mac","rsync","hardware","via-pinboard"],"slug":["jwz-psa-backups"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Buy two backup drives that match your laptop's and external drive housing. Backup every night onto the first and use the third to take away for an offsite backup\n"
+    ],
+    "published": [
+      "2007-10-26T10:52:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jwz - PSA: backups"
+    ],
+    "bookmark-of": [
+      "http://jwz.livejournal.com/801607.html"
+    ],
+    "category": [
+      "backup",
+      "mac",
+      "rsync",
+      "hardware",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jwz-psa-backups"
+    ]
+  }
+}

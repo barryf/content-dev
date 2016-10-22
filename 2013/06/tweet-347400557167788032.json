@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["Hooked up @thoughtworks’ Snap CI to build/deploy a simple Ruby app from @GitHub to @Heroku. Easy and very useful. h/t @samsworldofno"],"published":["2013-06-19T17:08:41Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/9821722/status/347332276805324800"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347400557167788032"],"slug":["tweet-347400557167788032"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hooked up @thoughtworks’ Snap CI to build/deploy a simple Ruby app from @GitHub to @Heroku. Easy and very useful. h/t @samsworldofno"
+    ],
+    "published": [
+      "2013-06-19T17:08:41Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/9821722/status/347332276805324800"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347400557167788032"
+    ],
+    "slug": [
+      "tweet-347400557167788032"
+    ]
+  }
+}

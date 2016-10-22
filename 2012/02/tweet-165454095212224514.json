@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Panic! Where has the day gone? Just over an hour to go of the Hack Day #gdhackday"],"published":["2012-02-03T15:18:24Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/165454095212224514"],"slug":["tweet-165454095212224514"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Panic! Where has the day gone? Just over an hour to go of the Hack Day #gdhackday"
+    ],
+    "published": [
+      "2012-02-03T15:18:24Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/165454095212224514"
+    ],
+    "slug": [
+      "tweet-165454095212224514"
+    ]
+  }
+}

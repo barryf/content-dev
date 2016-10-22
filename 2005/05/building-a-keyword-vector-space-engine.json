@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Stemming and so on\n"],"published":["2005-05-20T15:26:45Z"],"entry-type":["bookmark"],"name":["Building a Keyword Vector Space Engine in ColdFusion"],"bookmark-of":["http://coldfusion.sys-con.com/read/45980_p.htm"],"category":["coldfusion","stemming","via-pinboard"],"slug":["building-a-keyword-vector-space-engine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Stemming and so on\n"
+    ],
+    "published": [
+      "2005-05-20T15:26:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Building a Keyword Vector Space Engine in ColdFusion"
+    ],
+    "bookmark-of": [
+      "http://coldfusion.sys-con.com/read/45980_p.htm"
+    ],
+    "category": [
+      "coldfusion",
+      "stemming",
+      "via-pinboard"
+    ],
+    "slug": [
+      "building-a-keyword-vector-space-engine"
+    ]
+  }
+}

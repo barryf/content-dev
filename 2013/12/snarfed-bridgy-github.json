@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-12-30T16:12:10Z"],"entry-type":["bookmark"],"name":["snarfed/bridgy · GitHub"],"bookmark-of":["https://github.com/snarfed/bridgy"],"category":["fromifttt","github","via-pinboard"],"slug":["snarfed-bridgy-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-12-30T16:12:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "snarfed/bridgy · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/snarfed/bridgy"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "snarfed-bridgy-github"
+    ]
+  }
+}

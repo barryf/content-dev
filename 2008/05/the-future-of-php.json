@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2008-05-24T08:14:14Z"],"entry-type":["bookmark"],"name":["The future of PHP"],"bookmark-of":["http://www.ibm.com/developerworks/opensource/library/os-php-future/"],"category":["php","php6","ibm","dev","via-pinboard"],"slug":["the-future-of-php"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-05-24T08:14:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The future of PHP"
+    ],
+    "bookmark-of": [
+      "http://www.ibm.com/developerworks/opensource/library/os-php-future/"
+    ],
+    "category": [
+      "php",
+      "php6",
+      "ibm",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-future-of-php"
+    ]
+  }
+}

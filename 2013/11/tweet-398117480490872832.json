@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Slick and potentially quite handy: Knock lets you unlock your Mac by knocking twice on your iPhone http://www.knocktounlock.com"],"published":["2013-11-06T15:59:38Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/398117480490872832"],"slug":["tweet-398117480490872832"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slick and potentially quite handy: Knock lets you unlock your Mac by knocking twice on your iPhone http://www.knocktounlock.com"
+    ],
+    "published": [
+      "2013-11-06T15:59:38Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/398117480490872832"
+    ],
+    "slug": [
+      "tweet-398117480490872832"
+    ]
+  }
+}

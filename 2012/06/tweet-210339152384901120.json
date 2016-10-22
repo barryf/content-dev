@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My conversion to the dark side of management is complete: a pre-launch demo to me of a fully-tested new feature broke at first attempt."],"published":["2012-06-06T11:55:36Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/210339152384901120"],"slug":["tweet-210339152384901120"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My conversion to the dark side of management is complete: a pre-launch demo to me of a fully-tested new feature broke at first attempt."
+    ],
+    "published": [
+      "2012-06-06T11:55:36Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/210339152384901120"
+    ],
+    "slug": [
+      "tweet-210339152384901120"
+    ]
+  }
+}

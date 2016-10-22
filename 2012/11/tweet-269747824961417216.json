@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Off to the Emirates for the North London Derby. Hard to call it."],"published":["2012-11-17T10:24:27Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/269747824961417216"],"slug":["tweet-269747824961417216"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Off to the Emirates for the North London Derby. Hard to call it."
+    ],
+    "published": [
+      "2012-11-17T10:24:27Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/269747824961417216"
+    ],
+    "slug": [
+      "tweet-269747824961417216"
+    ]
+  }
+}

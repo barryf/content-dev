@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@easyjo So much easier than via Homebrew/MacPorts. Smart move by Heroku: much cleaner to use PG locally if you’re going to deploy with them"],"published":["2012-07-19T20:44:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/19287727/status/226053687318044673"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/226054830844686336"],"slug":["tweet-226054830844686336"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@easyjo So much easier than via Homebrew/MacPorts. Smart move by Heroku: much cleaner to use PG locally if you’re going to deploy with them"
+    ],
+    "published": [
+      "2012-07-19T20:44:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/19287727/status/226053687318044673"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/226054830844686336"
+    ],
+    "slug": [
+      "tweet-226054830844686336"
+    ]
+  }
+}

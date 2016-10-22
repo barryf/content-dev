@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@PaulCaudell Check out ex Beta Band Steve Mason's solo stuff: http://bit.ly/a30b1y"],"published":["2010-06-09T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16433935/status/15767067345"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/15767502336"],"slug":["tweet-15767502336"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@PaulCaudell Check out ex Beta Band Steve Mason's solo stuff: http://bit.ly/a30b1y"
+    ],
+    "published": [
+      "2010-06-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16433935/status/15767067345"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/15767502336"
+    ],
+    "slug": [
+      "tweet-15767502336"
+    ]
+  }
+}

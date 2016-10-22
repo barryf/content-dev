@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-05T17:37:01Z"],"entry-type":["bookmark"],"name":["iPad Air 2 Review: Why the iPad Became My Main Computer"],"bookmark-of":["http://www.macstories.net/stories/ipad-air-2-review-why-the-ipad-became-my-main-computer/"],"category":["ipad","ios","review"],"slug":["ipad-air-2-review-why-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-05T17:37:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iPad Air 2 Review: Why the iPad Became My Main Computer"
+    ],
+    "bookmark-of": [
+      "http://www.macstories.net/stories/ipad-air-2-review-why-the-ipad-became-my-main-computer/"
+    ],
+    "category": [
+      "ipad",
+      "ios",
+      "review"
+    ],
+    "slug": [
+      "ipad-air-2-review-why-the"
+    ]
+  }
+}

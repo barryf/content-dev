@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["It's just another form of racism http://yfrog.com/nu67595449j"],"published":["2011-09-19T17:20:57Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/115837796891099136"],"slug":["tweet-115837796891099136"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It's just another form of racism http://yfrog.com/nu67595449j"
+    ],
+    "published": [
+      "2011-09-19T17:20:57Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/115837796891099136"
+    ],
+    "slug": [
+      "tweet-115837796891099136"
+    ]
+  }
+}

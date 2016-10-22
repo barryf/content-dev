@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Irishmen watch black stuff drip into jar http://bit.ly/11ZTaPc #jokeintheresomewhere"],"published":["2013-07-18T15:59:01Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/357892272236396545"],"slug":["tweet-357892272236396545"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Irishmen watch black stuff drip into jar http://bit.ly/11ZTaPc #jokeintheresomewhere"
+    ],
+    "published": [
+      "2013-07-18T15:59:01Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/357892272236396545"
+    ],
+    "slug": [
+      "tweet-357892272236396545"
+    ]
+  }
+}

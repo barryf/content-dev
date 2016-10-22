@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Beginner videos, including OO concepts\n"],"published":["2007-11-05T21:42:50Z"],"entry-type":["bookmark"],"name":["Introduction to Ruby"],"bookmark-of":["http://showmedo.com/videos/series?name=fDDlWdbGG"],"category":["ruby","video","tutorial","dev","rails","via-pinboard"],"slug":["introduction-to-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Beginner videos, including OO concepts\n"
+    ],
+    "published": [
+      "2007-11-05T21:42:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Introduction to Ruby"
+    ],
+    "bookmark-of": [
+      "http://showmedo.com/videos/series?name=fDDlWdbGG"
+    ],
+    "category": [
+      "ruby",
+      "video",
+      "tutorial",
+      "dev",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "introduction-to-ruby"
+    ]
+  }
+}

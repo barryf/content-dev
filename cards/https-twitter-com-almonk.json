@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Alasdair Monk (@almonk)"],"photo":["http://pbs.twimg.com/profile_images/436994347075379200/VCIcln0n_normal.jpeg"],"url":["https://twitter.com/almonk"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Alasdair Monk (@almonk)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/436994347075379200/VCIcln0n_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/almonk"
+    ]
+  }
+}

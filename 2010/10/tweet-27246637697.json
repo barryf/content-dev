@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["After years of thinking about it, I've just booked laser eye surgery. 3 weeks of glasses (no contacts) beforehand and then never again!"],"published":["2010-10-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27246637697"],"slug":["tweet-27246637697"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "After years of thinking about it, I've just booked laser eye surgery. 3 weeks of glasses (no contacts) beforehand and then never again!"
+    ],
+    "published": [
+      "2010-10-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27246637697"
+    ],
+    "slug": [
+      "tweet-27246637697"
+    ]
+  }
+}

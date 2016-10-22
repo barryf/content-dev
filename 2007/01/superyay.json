@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Peter Cooper's tumblelog\n"],"published":["2007-01-21T10:56:06Z"],"entry-type":["bookmark"],"name":["SuperYAY"],"bookmark-of":["http://superyay.com/"],"category":["tumblelog","blog","links","fun","via-pinboard"],"slug":["superyay"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Peter Cooper's tumblelog\n"
+    ],
+    "published": [
+      "2007-01-21T10:56:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SuperYAY"
+    ],
+    "bookmark-of": [
+      "http://superyay.com/"
+    ],
+    "category": [
+      "tumblelog",
+      "blog",
+      "links",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "superyay"
+    ]
+  }
+}

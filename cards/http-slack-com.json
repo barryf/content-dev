@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Slack"],"url":["http://slack.com"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Slack"
+    ],
+    "url": [
+      "http://slack.com"
+    ]
+  }
+}

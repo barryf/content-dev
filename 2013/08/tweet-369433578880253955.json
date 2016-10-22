@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Trying and failing to choose a wedding band. Every demo is Kings of Leon or the Killers and sounds like a trying-too-hard X-Factor audition."],"published":["2013-08-19T12:20:03Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/369433578880253955"],"slug":["tweet-369433578880253955"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Trying and failing to choose a wedding band. Every demo is Kings of Leon or the Killers and sounds like a trying-too-hard X-Factor audition."
+    ],
+    "published": [
+      "2013-08-19T12:20:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/369433578880253955"
+    ],
+    "slug": [
+      "tweet-369433578880253955"
+    ]
+  }
+}

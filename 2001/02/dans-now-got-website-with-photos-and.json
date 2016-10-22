@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["Dan's now got a website with photos and an alternative travel blog/diary."],"published":["2001-02-23T00:00:00Z"],"slug":["dans-now-got-website-with-photos-and"],"entry-type":["note"],"category":["travelblog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dan's now got a website with photos and an alternative travel blog/diary."
+    ],
+    "published": [
+      "2001-02-23T00:00:00Z"
+    ],
+    "slug": [
+      "dans-now-got-website-with-photos-and"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "travelblog"
+    ]
+  }
+}

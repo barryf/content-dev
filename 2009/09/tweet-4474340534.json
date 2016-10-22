@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Off to Highbury to see old kiwi faves the #datsuns play. Last saw them in 2002 I think. Nice bit of rock and roll for a sunny evening."],"published":["2009-09-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4474340534"],"slug":["tweet-4474340534"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Off to Highbury to see old kiwi faves the #datsuns play. Last saw them in 2002 I think. Nice bit of rock and roll for a sunny evening."
+    ],
+    "published": [
+      "2009-09-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4474340534"
+    ],
+    "slug": [
+      "tweet-4474340534"
+    ]
+  }
+}

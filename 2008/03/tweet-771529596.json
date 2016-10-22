@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Looking forward to a lovely pint after work"],"published":["2008-03-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/771529596"],"slug":["tweet-771529596"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Looking forward to a lovely pint after work"
+    ],
+    "published": [
+      "2008-03-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/771529596"
+    ],
+    "slug": [
+      "tweet-771529596"
+    ]
+  }
+}

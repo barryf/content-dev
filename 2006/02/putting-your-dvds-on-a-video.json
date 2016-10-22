@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["I wonder how long these links will stay up for. Until then it's a handy round-up.\n"],"published":["2006-02-27T20:43:20Z"],"entry-type":["bookmark"],"name":["Putting your DVDs on a video iPod"],"bookmark-of":["http://www.wired.com/wired/archive/14.03/start.html?pg=15"],"category":["video","ipod","dvd","film","rip","via-pinboard"],"slug":["putting-your-dvds-on-a-video"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I wonder how long these links will stay up for. Until then it's a handy round-up.\n"
+    ],
+    "published": [
+      "2006-02-27T20:43:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Putting your DVDs on a video iPod"
+    ],
+    "bookmark-of": [
+      "http://www.wired.com/wired/archive/14.03/start.html?pg=15"
+    ],
+    "category": [
+      "video",
+      "ipod",
+      "dvd",
+      "film",
+      "rip",
+      "via-pinboard"
+    ],
+    "slug": [
+      "putting-your-dvds-on-a-video"
+    ]
+  }
+}

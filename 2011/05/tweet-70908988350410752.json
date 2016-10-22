@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@BradHaverly Eh? Will use it for testing and researching dating apps. You're not a fan?"],"published":["2011-05-18T17:49:54Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/70908988350410752"],"slug":["tweet-70908988350410752"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BradHaverly Eh? Will use it for testing and researching dating apps. You're not a fan?"
+    ],
+    "published": [
+      "2011-05-18T17:49:54Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/70908988350410752"
+    ],
+    "slug": [
+      "tweet-70908988350410752"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Change icons in Flex lists\n"],"published":["2005-08-10T15:03:14Z"],"entry-type":["bookmark"],"name":["Prismix Blog: selectedItem in a list shows an icon"],"bookmark-of":["http://www.prismix.com/blog/archives/2005/08/selecteditem_in.cfm"],"category":["flex","via-pinboard"],"slug":["prismix-blog-selecteditem-in-a-list"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Change icons in Flex lists\n"
+    ],
+    "published": [
+      "2005-08-10T15:03:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Prismix Blog: selectedItem in a list shows an icon"
+    ],
+    "bookmark-of": [
+      "http://www.prismix.com/blog/archives/2005/08/selecteditem_in.cfm"
+    ],
+    "category": [
+      "flex",
+      "via-pinboard"
+    ],
+    "slug": [
+      "prismix-blog-selecteditem-in-a-list"
+    ]
+  }
+}

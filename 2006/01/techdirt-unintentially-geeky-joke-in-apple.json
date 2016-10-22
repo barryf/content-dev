@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Heh... $80.86 closing price on the day that Apple releases the first Intel Mac\n"],"published":["2006-01-11T07:30:27Z"],"entry-type":["bookmark"],"name":["Techdirt:Unintentially Geeky Joke In Apple's Share Price"],"bookmark-of":["http://techdirt.com/articles/20060110/1818234_F.shtml"],"category":["apple","fun","business","via-pinboard"],"slug":["techdirt-unintentially-geeky-joke-in-apple"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Heh... $80.86 closing price on the day that Apple releases the first Intel Mac\n"
+    ],
+    "published": [
+      "2006-01-11T07:30:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Techdirt:Unintentially Geeky Joke In Apple's Share Price"
+    ],
+    "bookmark-of": [
+      "http://techdirt.com/articles/20060110/1818234_F.shtml"
+    ],
+    "category": [
+      "apple",
+      "fun",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "techdirt-unintentially-geeky-joke-in-apple"
+    ]
+  }
+}

@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-07-14T08:59:45Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/venntro/status/620875548454051840"],"category":["venntro","london","uk"],"syndication":["https://twitter.com/barryf/status/620880355986268160"],"slug":["14-095945"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-07-14T08:59:45Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/venntro/status/620875548454051840"
+    ],
+    "category": [
+      "venntro",
+      "london",
+      "uk"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/620880355986268160"
+    ],
+    "slug": [
+      "14-095945"
+    ]
+  }
+}

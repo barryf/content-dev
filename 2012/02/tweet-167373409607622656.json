@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Neat tip towards the end of this article on combining CSS or JS files through Liquid includes on a Jekyll site http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/"],"published":["2012-02-08T22:25:05Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/167373409607622656"],"slug":["tweet-167373409607622656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Neat tip towards the end of this article on combining CSS or JS files through Liquid includes on a Jekyll site http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/"
+    ],
+    "published": [
+      "2012-02-08T22:25:05Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/167373409607622656"
+    ],
+    "slug": [
+      "tweet-167373409607622656"
+    ]
+  }
+}

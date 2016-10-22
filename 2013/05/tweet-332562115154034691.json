@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Tree on line so train terminates early. Businessman on platform is apoplectic with rage at staff, presumably for their lack of magic powers."],"published":["2013-05-09T18:26:01Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/332562115154034691"],"slug":["tweet-332562115154034691"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tree on line so train terminates early. Businessman on platform is apoplectic with rage at staff, presumably for their lack of magic powers."
+    ],
+    "published": [
+      "2013-05-09T18:26:01Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/332562115154034691"
+    ],
+    "slug": [
+      "tweet-332562115154034691"
+    ]
+  }
+}

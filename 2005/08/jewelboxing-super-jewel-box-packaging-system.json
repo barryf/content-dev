@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-05T13:31:10Z"],"entry-type":["bookmark"],"name":["Jewelboxing - Super Jewel Box Packaging System - CD and DVD Cases"],"bookmark-of":["http://www.jewelboxing.com/"],"category":["marketing","media","cd","dvd","via-pinboard"],"slug":["jewelboxing-super-jewel-box-packaging-system"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-05T13:31:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Jewelboxing - Super Jewel Box Packaging System - CD and DVD Cases"
+    ],
+    "bookmark-of": [
+      "http://www.jewelboxing.com/"
+    ],
+    "category": [
+      "marketing",
+      "media",
+      "cd",
+      "dvd",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jewelboxing-super-jewel-box-packaging-system"
+    ]
+  }
+}

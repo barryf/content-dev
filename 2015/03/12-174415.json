@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-12T17:44:15Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/jamesjoshuahill/status/576076081654022145"],"syndication":["https://twitter.com/barryf/status/576076267792941057"],"slug":["12-174415"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-12T17:44:15Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/jamesjoshuahill/status/576076081654022145"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/576076267792941057"
+    ],
+    "slug": [
+      "12-174415"
+    ]
+  }
+}

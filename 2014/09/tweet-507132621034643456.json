@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw No, not at all. Free plan to try it out so give it a go (referral link) https://slack.com/r/024sjfpj-026smbgu"],"published":["2014-09-03T11:46:53Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/507132303210856449"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/507132621034643456"],"slug":["tweet-507132621034643456"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw No, not at all. Free plan to try it out so give it a go (referral link) https://slack.com/r/024sjfpj-026smbgu"
+    ],
+    "published": [
+      "2014-09-03T11:46:53Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/507132303210856449"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/507132621034643456"
+    ],
+    "slug": [
+      "tweet-507132621034643456"
+    ]
+  }
+}

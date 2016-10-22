@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-11-05T21:41:39Z"],"entry-type":["bookmark"],"name":["Server Backup with Amazon S3 (Howto)"],"bookmark-of":["http://robrohan.com/2007/11/03/server-backup-with-amazon-s3-howto/"],"category":["server","amazon","backup","s3","sysadmin","via-pinboard"],"slug":["server-backup-with-amazon-s3-howto"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-11-05T21:41:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Server Backup with Amazon S3 (Howto)"
+    ],
+    "bookmark-of": [
+      "http://robrohan.com/2007/11/03/server-backup-with-amazon-s3-howto/"
+    ],
+    "category": [
+      "server",
+      "amazon",
+      "backup",
+      "s3",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "server-backup-with-amazon-s3-howto"
+    ]
+  }
+}

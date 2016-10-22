@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Jason Kneen"],"photo":["https://pbs.twimg.com/profile_images/579955845313785856/0Tdk9fF6.jpg"],"url":["http://www.bouncingfish.com"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jason Kneen"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/579955845313785856/0Tdk9fF6.jpg"
+    ],
+    "url": [
+      "http://www.bouncingfish.com"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":[".@contrast's new @intercomapp for tracking/managing relationships with site users looks mightily impressive http://contrast.ie/blog/product-launch-intercom/"],"published":["2011-07-02T11:07:46Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/87115240864628736"],"slug":["tweet-87115240864628736"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      ".@contrast's new @intercomapp for tracking/managing relationships with site users looks mightily impressive http://contrast.ie/blog/product-launch-intercom/"
+    ],
+    "published": [
+      "2011-07-02T11:07:46Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/87115240864628736"
+    ],
+    "slug": [
+      "tweet-87115240864628736"
+    ]
+  }
+}

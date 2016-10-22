@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw That's right. They stick a sucker on your eyeball, slice your cornea to ribbons, zap your eye and then hand you a lovely big bill"],"published":["2010-10-13T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/27248669495"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27249345212"],"slug":["tweet-27249345212"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw That's right. They stick a sucker on your eyeball, slice your cornea to ribbons, zap your eye and then hand you a lovely big bill"
+    ],
+    "published": [
+      "2010-10-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/27248669495"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27249345212"
+    ],
+    "slug": [
+      "tweet-27249345212"
+    ]
+  }
+}

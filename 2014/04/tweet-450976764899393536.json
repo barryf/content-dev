@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Yes! BT has accepted my order for its FTTC broadband, now available in Virginia Water. I'll soon be improving on my 2Mbit/s to ~40Mbit/s."],"published":["2014-04-01T12:43:34Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/450976764899393536"],"slug":["tweet-450976764899393536"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Yes! BT has accepted my order for its FTTC broadband, now available in Virginia Water. I'll soon be improving on my 2Mbit/s to ~40Mbit/s."
+    ],
+    "published": [
+      "2014-04-01T12:43:34Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/450976764899393536"
+    ],
+    "slug": [
+      "tweet-450976764899393536"
+    ]
+  }
+}

@@ -1,1 +1,40 @@
-{"type":["h-entry"],"properties":{"content":["Intermediate between publishers and subscribers. Claims to support HTTP callbacks to remove need for polling. Supports multiple formats/protocols: XMPP, REST, etc.\n"],"published":["2008-09-21T16:17:48Z"],"entry-type":["bookmark"],"name":["Gnip"],"bookmark-of":["http://gnipcentral.com/"],"category":["polling","subscriber","publisher","service","gnip","feed","portability","data","socialnetworking","mashup","rest","xmpp","via-pinboard"],"slug":["gnip"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Intermediate between publishers and subscribers. Claims to support HTTP callbacks to remove need for polling. Supports multiple formats/protocols: XMPP, REST, etc.\n"
+    ],
+    "published": [
+      "2008-09-21T16:17:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Gnip"
+    ],
+    "bookmark-of": [
+      "http://gnipcentral.com/"
+    ],
+    "category": [
+      "polling",
+      "subscriber",
+      "publisher",
+      "service",
+      "gnip",
+      "feed",
+      "portability",
+      "data",
+      "socialnetworking",
+      "mashup",
+      "rest",
+      "xmpp",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gnip"
+    ]
+  }
+}

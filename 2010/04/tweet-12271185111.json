@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Slept beautifully this morning without the usual motorway of planes over Windsor. Inconvenient for those delayed but ah well."],"published":["2010-04-16T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/12271185111"],"slug":["tweet-12271185111"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slept beautifully this morning without the usual motorway of planes over Windsor. Inconvenient for those delayed but ah well."
+    ],
+    "published": [
+      "2010-04-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/12271185111"
+    ],
+    "slug": [
+      "tweet-12271185111"
+    ]
+  }
+}

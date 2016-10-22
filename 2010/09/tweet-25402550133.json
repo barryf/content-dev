@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying the Friday @globaldev team forum. Good discussion with the team on deployment."],"published":["2010-09-24T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/25402550133"],"slug":["tweet-25402550133"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying the Friday @globaldev team forum. Good discussion with the team on deployment."
+    ],
+    "published": [
+      "2010-09-24T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/25402550133"
+    ],
+    "slug": [
+      "tweet-25402550133"
+    ]
+  }
+}

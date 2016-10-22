@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Andrew Craft"],"photo":["https://twitter.com/craftyuk/profile_image?size=original"],"url":["https://twitter.com/craftyuk"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Andrew Craft"
+    ],
+    "photo": [
+      "https://twitter.com/craftyuk/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/craftyuk"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Flexible authentication solution for Rails with Warden\n"],"published":["2011-11-28T16:35:05Z"],"entry-type":["bookmark"],"name":["Devise"],"bookmark-of":["https://github.com/plataformatec/devise"],"category":["rails","warden","plugin","authentication","via-pinboard"],"slug":["devise"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Flexible authentication solution for Rails with Warden\n"
+    ],
+    "published": [
+      "2011-11-28T16:35:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Devise"
+    ],
+    "bookmark-of": [
+      "https://github.com/plataformatec/devise"
+    ],
+    "category": [
+      "rails",
+      "warden",
+      "plugin",
+      "authentication",
+      "via-pinboard"
+    ],
+    "slug": [
+      "devise"
+    ]
+  }
+}

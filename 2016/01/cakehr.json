@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["UK HR software that integrates with Google Apps"],"published":["2016-01-25T16:17:54Z"],"entry-type":["bookmark"],"name":["CakeHR"],"bookmark-of":["https://cake.hr/"],"category":["hr","uk","saas"],"slug":["cakehr"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "UK HR software that integrates with Google Apps"
+    ],
+    "published": [
+      "2016-01-25T16:17:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CakeHR"
+    ],
+    "bookmark-of": [
+      "https://cake.hr/"
+    ],
+    "category": [
+      "hr",
+      "uk",
+      "saas"
+    ],
+    "slug": [
+      "cakehr"
+    ]
+  }
+}

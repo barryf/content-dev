@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["CERN straddles the border and the exact location where Tim Berners-Lee invented it was on the French side.\n"],"published":["2012-01-27T09:10:28Z"],"entry-type":["bookmark"],"name":["The web was born in France, not Switzerland"],"bookmark-of":["http://davidgalbraith.org/uncategorized/the-exact-location-where-the-web-was-invented/2343/"],"category":["timbernerslee","france","web","cern","history","via-pinboard"],"slug":["the-web-was-born-in-france"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "CERN straddles the border and the exact location where Tim Berners-Lee invented it was on the French side.\n"
+    ],
+    "published": [
+      "2012-01-27T09:10:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The web was born in France, not Switzerland"
+    ],
+    "bookmark-of": [
+      "http://davidgalbraith.org/uncategorized/the-exact-location-where-the-web-was-invented/2343/"
+    ],
+    "category": [
+      "timbernerslee",
+      "france",
+      "web",
+      "cern",
+      "history",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-web-was-born-in-france"
+    ]
+  }
+}

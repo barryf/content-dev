@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["For Prototype+Scriptaculous\n"],"published":["2007-07-17T07:08:56Z"],"entry-type":["bookmark"],"name":["Accordion v1.0 Demo"],"bookmark-of":["http://stickmanlabs.com/accordion/"],"category":["accordian","design","javascript","navigation","prototype","scriptaculous","web","via-pinboard"],"slug":["accordion-v1-0-demo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "For Prototype+Scriptaculous\n"
+    ],
+    "published": [
+      "2007-07-17T07:08:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Accordion v1.0 Demo"
+    ],
+    "bookmark-of": [
+      "http://stickmanlabs.com/accordion/"
+    ],
+    "category": [
+      "accordian",
+      "design",
+      "javascript",
+      "navigation",
+      "prototype",
+      "scriptaculous",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "accordion-v1-0-demo"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Simple, powerful event software\r\n\r\nOffers PDF and Apple Wallet ticketing"],"published":["2016-07-08T14:07:43Z"],"entry-type":["bookmark"],"name":["Tito"],"bookmark-of":["https://ti.to/"],"category":["event","ticket","invitation"],"slug":["tito"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Simple, powerful event software\r\n\r\nOffers PDF and Apple Wallet ticketing"
+    ],
+    "published": [
+      "2016-07-08T14:07:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tito"
+    ],
+    "bookmark-of": [
+      "https://ti.to/"
+    ],
+    "category": [
+      "event",
+      "ticket",
+      "invitation"
+    ],
+    "slug": [
+      "tito"
+    ]
+  }
+}

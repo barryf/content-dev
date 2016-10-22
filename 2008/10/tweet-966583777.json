@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The rabbit loves Radio 3. Ears forward and nose twitching."],"published":["2008-10-19T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/966583777"],"slug":["tweet-966583777"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The rabbit loves Radio 3. Ears forward and nose twitching."
+    ],
+    "published": [
+      "2008-10-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/966583777"
+    ],
+    "slug": [
+      "tweet-966583777"
+    ]
+  }
+}

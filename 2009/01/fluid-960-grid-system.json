@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Fluid/fixed 12 and 16 column layouts with example elements that scale magically\n"],"published":["2009-01-31T10:20:27Z"],"entry-type":["bookmark"],"name":["Fluid 960 Grid System"],"bookmark-of":["http://designinfluences.com/fluid960gs/"],"category":["web","design","layout","css","grid","framework","fluid","via-pinboard"],"slug":["fluid-960-grid-system"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Fluid/fixed 12 and 16 column layouts with example elements that scale magically\n"
+    ],
+    "published": [
+      "2009-01-31T10:20:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fluid 960 Grid System"
+    ],
+    "bookmark-of": [
+      "http://designinfluences.com/fluid960gs/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "layout",
+      "css",
+      "grid",
+      "framework",
+      "fluid",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fluid-960-grid-system"
+    ]
+  }
+}

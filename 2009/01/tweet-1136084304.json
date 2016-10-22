@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["\"Ex-KGB spy buys UK paper for £1\" http://bit.ly/QTkz That's nothing: I bought the Guardian this morning for 80p."],"published":["2009-01-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1136084304"],"slug":["tweet-1136084304"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Ex-KGB spy buys UK paper for £1\" http://bit.ly/QTkz That's nothing: I bought the Guardian this morning for 80p."
+    ],
+    "published": [
+      "2009-01-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1136084304"
+    ],
+    "slug": [
+      "tweet-1136084304"
+    ]
+  }
+}

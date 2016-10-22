@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["VirtualPC images for testing IE6/7\n"],"published":["2007-04-20T16:25:24Z"],"entry-type":["bookmark"],"name":["Download details: IE App Compat VHD"],"bookmark-of":["http://www.microsoft.com/downloads/details.aspx?FamilyId=21EABB90-958F-4B64-B5F1-73D0A413C8EF&displaylang=en"],"category":["virtualpc","ie","ie6","testing","browser","windows","microsoft","via-pinboard"],"slug":["download-details-ie-app-compat-vhd"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "VirtualPC images for testing IE6/7\n"
+    ],
+    "published": [
+      "2007-04-20T16:25:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Download details: IE App Compat VHD"
+    ],
+    "bookmark-of": [
+      "http://www.microsoft.com/downloads/details.aspx?FamilyId=21EABB90-958F-4B64-B5F1-73D0A413C8EF&displaylang=en"
+    ],
+    "category": [
+      "virtualpc",
+      "ie",
+      "ie6",
+      "testing",
+      "browser",
+      "windows",
+      "microsoft",
+      "via-pinboard"
+    ],
+    "slug": [
+      "download-details-ie-app-compat-vhd"
+    ]
+  }
+}

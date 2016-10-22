@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Embarking on my first season in newly bought Football Manager 2009. All free time about to be completely absorbed."],"published":["2008-11-26T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1024990786"],"slug":["tweet-1024990786"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Embarking on my first season in newly bought Football Manager 2009. All free time about to be completely absorbed."
+    ],
+    "published": [
+      "2008-11-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1024990786"
+    ],
+    "slug": [
+      "tweet-1024990786"
+    ]
+  }
+}

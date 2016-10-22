@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2013-09-30T16:29:08Z"],"entry-type":["bookmark"],"name":["Writing “As a User” does not make it a user story – Gojko Adzic"],"bookmark-of":["http://gojko.net/2013/09/30/writing-as-a-user-does-not-make-it-a-user-story/"],"category":["agile","via-pinboard"],"slug":["writing-as-a-user-does-not"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-09-30T16:29:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Writing “As a User” does not make it a user story – Gojko Adzic"
+    ],
+    "bookmark-of": [
+      "http://gojko.net/2013/09/30/writing-as-a-user-does-not-make-it-a-user-story/"
+    ],
+    "category": [
+      "agile",
+      "via-pinboard"
+    ],
+    "slug": [
+      "writing-as-a-user-does-not"
+    ]
+  }
+}

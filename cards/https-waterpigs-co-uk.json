@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Barnaby Walters"],"photo":["https://waterpigs.co.uk/photo.jpg"],"url":["https://waterpigs.co.uk/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Barnaby Walters"
+    ],
+    "photo": [
+      "https://waterpigs.co.uk/photo.jpg"
+    ],
+    "url": [
+      "https://waterpigs.co.uk/"
+    ]
+  }
+}

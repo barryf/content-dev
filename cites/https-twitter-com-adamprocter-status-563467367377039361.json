@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/adamprocter/status/563467367377039361"],"published":["2015-02-05T22:41:03Z"],"content":["@barryf no but thats a good idea tho as I’m basically building a new notes for research from scratch with #golang"],"in-reply-to":["https://barryfrost.com/2015/02/i-ve-not-used-webmention-io"],"author":["http://adamprocter.co.uk"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/adamprocter/status/563467367377039361"
+    ],
+    "published": [
+      "2015-02-05T22:41:03Z"
+    ],
+    "content": [
+      "@barryf no but thats a good idea tho as I’m basically building a new notes for research from scratch with #golang"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/02/i-ve-not-used-webmention-io"
+    ],
+    "author": [
+      "http://adamprocter.co.uk"
+    ]
+  }
+}

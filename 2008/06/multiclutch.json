@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Bind key combinations to a MacBook Air/Pro's multitouch trackpad\n"],"published":["2008-06-19T20:24:43Z"],"entry-type":["bookmark"],"name":["MultiClutch"],"bookmark-of":["http://wcrawford.org/2008/02/28/everytime-i-think-about-you-i-touch-my-cell/"],"category":["multitouch","mac","trackpad","mouse","click","keyboard","key","macbook","macbookair","via-pinboard"],"slug":["multiclutch"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Bind key combinations to a MacBook Air/Pro's multitouch trackpad\n"
+    ],
+    "published": [
+      "2008-06-19T20:24:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MultiClutch"
+    ],
+    "bookmark-of": [
+      "http://wcrawford.org/2008/02/28/everytime-i-think-about-you-i-touch-my-cell/"
+    ],
+    "category": [
+      "multitouch",
+      "mac",
+      "trackpad",
+      "mouse",
+      "click",
+      "keyboard",
+      "key",
+      "macbook",
+      "macbookair",
+      "via-pinboard"
+    ],
+    "slug": [
+      "multiclutch"
+    ]
+  }
+}

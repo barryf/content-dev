@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2015-09-17T13:36:31Z"],"entry-type":["bookmark"],"name":["Agile Software Development Process - 90 Months of Evolution"],"bookmark-of":["https://www.targetprocess.com/articles/agile-software-development-process-90-months-of-evolution/?utm_content=buffer4eb00&utm_medium=social&utm_source=buffer-twitter&utm_campaign=buffer-twitter"],"category":["agile","team","dev","culture","kanban"],"slug":["agile-software-development-process-90-months"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-09-17T13:36:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Agile Software Development Process - 90 Months of Evolution"
+    ],
+    "bookmark-of": [
+      "https://www.targetprocess.com/articles/agile-software-development-process-90-months-of-evolution/?utm_content=buffer4eb00&utm_medium=social&utm_source=buffer-twitter&utm_campaign=buffer-twitter"
+    ],
+    "category": [
+      "agile",
+      "team",
+      "dev",
+      "culture",
+      "kanban"
+    ],
+    "slug": [
+      "agile-software-development-process-90-months"
+    ]
+  }
+}

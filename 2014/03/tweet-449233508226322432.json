@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Twitter's new implementation of multiple photos and tags is a further step away from its simple 140-char origins http://bfr.st/93"],"published":["2014-03-27T17:16:29Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/449233508226322432"],"slug":["tweet-449233508226322432"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Twitter's new implementation of multiple photos and tags is a further step away from its simple 140-char origins http://bfr.st/93"
+    ],
+    "published": [
+      "2014-03-27T17:16:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/449233508226322432"
+    ],
+    "slug": [
+      "tweet-449233508226322432"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-18T22:21:06Z"],"entry-type":["bookmark"],"name":["Planet Erlang"],"bookmark-of":["http://www.planeterlang.org/"],"category":["erlang","blog","aggregator","community","dev","via-pinboard"],"slug":["planet-erlang"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-18T22:21:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Planet Erlang"
+    ],
+    "bookmark-of": [
+      "http://www.planeterlang.org/"
+    ],
+    "category": [
+      "erlang",
+      "blog",
+      "aggregator",
+      "community",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "planet-erlang"
+    ]
+  }
+}

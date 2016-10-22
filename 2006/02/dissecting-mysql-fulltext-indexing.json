@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2006-02-12T14:55:39Z"],"entry-type":["bookmark"],"name":["Dissecting MySQL Fulltext Indexing"],"bookmark-of":["http://epsilondelta.wordpress.com/2006/02/08/dissecting-mysql-fulltext-indexing/"],"category":["mysql","analysis","database","performance","index","search","via-pinboard"],"slug":["dissecting-mysql-fulltext-indexing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-02-12T14:55:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dissecting MySQL Fulltext Indexing"
+    ],
+    "bookmark-of": [
+      "http://epsilondelta.wordpress.com/2006/02/08/dissecting-mysql-fulltext-indexing/"
+    ],
+    "category": [
+      "mysql",
+      "analysis",
+      "database",
+      "performance",
+      "index",
+      "search",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dissecting-mysql-fulltext-indexing"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-11-19T12:39:53Z"],"entry-type":["like"],"like-of":["https://twitter.com/susie_dent/status/667274935224659968"],"syndication":["https://twitter.com/susie_dent/status/667274935224659968"],"slug":["19-123953"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-11-19T12:39:53Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/susie_dent/status/667274935224659968"
+    ],
+    "syndication": [
+      "https://twitter.com/susie_dent/status/667274935224659968"
+    ],
+    "slug": [
+      "19-123953"
+    ]
+  }
+}

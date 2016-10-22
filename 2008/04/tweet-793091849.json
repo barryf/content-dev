@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@having spicy pickled shallots"],"published":["2008-04-20T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/10138192/status/433764142"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/793091849"],"slug":["tweet-793091849"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@having spicy pickled shallots"
+    ],
+    "published": [
+      "2008-04-20T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/10138192/status/433764142"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/793091849"
+    ],
+    "slug": [
+      "tweet-793091849"
+    ]
+  }
+}

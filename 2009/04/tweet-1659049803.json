@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thought from last night's football. Jonny Evans is a dead ringer for Seth MacFarlane, Family Guy creator."],"published":["2009-04-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1659049803"],"slug":["tweet-1659049803"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thought from last night's football. Jonny Evans is a dead ringer for Seth MacFarlane, Family Guy creator."
+    ],
+    "published": [
+      "2009-04-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1659049803"
+    ],
+    "slug": [
+      "tweet-1659049803"
+    ]
+  }
+}

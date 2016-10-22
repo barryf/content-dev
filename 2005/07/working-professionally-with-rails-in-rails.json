@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Individuals and companies\n"],"published":["2005-07-16T15:30:25Z"],"entry-type":["bookmark"],"name":["Working Professionally With Rails in Rails"],"bookmark-of":["http://wiki.rubyonrails.com/rails/show/WorkingProfessionallyWithRails"],"category":["jobs","work","rails","via-pinboard"],"slug":["working-professionally-with-rails-in-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Individuals and companies\n"
+    ],
+    "published": [
+      "2005-07-16T15:30:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Working Professionally With Rails in Rails"
+    ],
+    "bookmark-of": [
+      "http://wiki.rubyonrails.com/rails/show/WorkingProfessionallyWithRails"
+    ],
+    "category": [
+      "jobs",
+      "work",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "working-professionally-with-rails-in-rails"
+    ]
+  }
+}

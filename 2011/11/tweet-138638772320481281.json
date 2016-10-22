@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@RealBradHaverly Cheers Brad. Have you changed your Twitter account? Thought I was following you."],"published":["2011-11-21T15:23:53Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/103539254/status/138637582551629825"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/138638772320481281"],"slug":["tweet-138638772320481281"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@RealBradHaverly Cheers Brad. Have you changed your Twitter account? Thought I was following you."
+    ],
+    "published": [
+      "2011-11-21T15:23:53Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/103539254/status/138637582551629825"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/138638772320481281"
+    ],
+    "slug": [
+      "tweet-138638772320481281"
+    ]
+  }
+}

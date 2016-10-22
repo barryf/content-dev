@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Hasn't @flatpackedworld got enough gadgets? Can one have too many?"],"published":["2007-07-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/160896082"],"slug":["tweet-160896082"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hasn't @flatpackedworld got enough gadgets? Can one have too many?"
+    ],
+    "published": [
+      "2007-07-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/160896082"
+    ],
+    "slug": [
+      "tweet-160896082"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw it's a mobile tech journal that's in print and web. Should be out later this month. Quite good fun offering my opinions :)"],"published":["2009-03-03T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/1274128270"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1275216699"],"slug":["tweet-1275216699"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw it's a mobile tech journal that's in print and web. Should be out later this month. Quite good fun offering my opinions :)"
+    ],
+    "published": [
+      "2009-03-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/1274128270"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1275216699"
+    ],
+    "slug": [
+      "tweet-1275216699"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Lovely design and great content\n"],"published":["2006-03-04T21:22:03Z"],"entry-type":["bookmark"],"name":["IndieHQ is the ultimate resource for independent bands and indie record labels."],"bookmark-of":["http://www.indiehq.com/"],"category":["web","design","inspiration","music","indie","via-pinboard"],"slug":["indiehq-is-the-ultimate-resource-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lovely design and great content\n"
+    ],
+    "published": [
+      "2006-03-04T21:22:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "IndieHQ is the ultimate resource for independent bands and indie record labels."
+    ],
+    "bookmark-of": [
+      "http://www.indiehq.com/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "inspiration",
+      "music",
+      "indie",
+      "via-pinboard"
+    ],
+    "slug": [
+      "indiehq-is-the-ultimate-resource-for"
+    ]
+  }
+}

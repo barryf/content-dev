@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Ryan Barrett"],"url":["http://twitter.com/snarfed_org"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ryan Barrett"
+    ],
+    "url": [
+      "http://twitter.com/snarfed_org"
+    ]
+  }
+}

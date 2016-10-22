@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["(via Hammersley)\n"],"published":["2004-09-17T16:48:57Z"],"entry-type":["bookmark"],"name":["Abc... Whatever - The World's Longest Alphabetical Email Address"],"bookmark-of":["http://www.abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com/"],"category":["fun","via-pinboard"],"slug":["abc-whatever-the-world-s-longest"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(via Hammersley)\n"
+    ],
+    "published": [
+      "2004-09-17T16:48:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Abc... Whatever - The World's Longest Alphabetical Email Address"
+    ],
+    "bookmark-of": [
+      "http://www.abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com/"
+    ],
+    "category": [
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "abc-whatever-the-world-s-longest"
+    ]
+  }
+}

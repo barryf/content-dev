@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Describes using a Mac-based site generator app. Clever reloading of browser windows when files are saved."],"published":["2014-02-20T21:18:10Z"],"entry-type":["bookmark"],"name":["Speed Up Your Web Development Workflow with Cactus for Mac"],"bookmark-of":["http://theindustry.cc/2014/02/14/speed-web-development-workflow-cactus-mac/"],"category":["dev","mac","cactus","generator","web","design","via-pinboard"],"slug":["speed-up-your-web-development-workflow"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Describes using a Mac-based site generator app. Clever reloading of browser windows when files are saved."
+    ],
+    "published": [
+      "2014-02-20T21:18:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Speed Up Your Web Development Workflow with Cactus for Mac"
+    ],
+    "bookmark-of": [
+      "http://theindustry.cc/2014/02/14/speed-web-development-workflow-cactus-mac/"
+    ],
+    "category": [
+      "dev",
+      "mac",
+      "cactus",
+      "generator",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "speed-up-your-web-development-workflow"
+    ]
+  }
+}

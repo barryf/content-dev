@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-07-24T15:41:43Z"],"entry-type":["bookmark"],"name":["dejan/rails_panel · GitHub"],"bookmark-of":["https://github.com/dejan/rails_panel"],"category":["fromifttt","github","via-pinboard"],"slug":["dejan-rails-panel-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-07-24T15:41:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "dejan/rails_panel · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/dejan/rails_panel"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dejan-rails-panel-github"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Some useful hints and tips\n"],"published":["2006-08-17T08:22:36Z"],"entry-type":["bookmark"],"name":["chosaq » 14 days of Ubuntu"],"bookmark-of":["http://akira.arts.kuleuven.ac.be/andreas/blog/archives/2006/08/14-days-of-ubuntu.html#n1"],"category":["ubuntu","linux","switch","geek","via-pinboard"],"slug":["chosaq-14-days-of-ubuntu"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Some useful hints and tips\n"
+    ],
+    "published": [
+      "2006-08-17T08:22:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "chosaq » 14 days of Ubuntu"
+    ],
+    "bookmark-of": [
+      "http://akira.arts.kuleuven.ac.be/andreas/blog/archives/2006/08/14-days-of-ubuntu.html#n1"
+    ],
+    "category": [
+      "ubuntu",
+      "linux",
+      "switch",
+      "geek",
+      "via-pinboard"
+    ],
+    "slug": [
+      "chosaq-14-days-of-ubuntu"
+    ]
+  }
+}

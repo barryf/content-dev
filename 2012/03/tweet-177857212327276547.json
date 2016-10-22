@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm at O2 Academy Islington for The Pains of Being Pure At Heart (16 Parkfield St, London) w/ 2 others http://4sq.com/xyI3QE"],"published":["2012-03-08T20:43:58Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/177857212327276547"],"slug":["tweet-177857212327276547"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm at O2 Academy Islington for The Pains of Being Pure At Heart (16 Parkfield St, London) w/ 2 others http://4sq.com/xyI3QE"
+    ],
+    "published": [
+      "2012-03-08T20:43:58Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/177857212327276547"
+    ],
+    "slug": [
+      "tweet-177857212327276547"
+    ]
+  }
+}

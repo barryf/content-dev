@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-07-21T12:21:23Z"],"entry-type":["bookmark"],"name":["Rails and Django Compared"],"bookmark-of":["http://lesscode.org/2005/07/17/rails-django-compared/"],"category":["django","framework","rails","via-pinboard"],"slug":["rails-and-django-compared"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-07-21T12:21:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails and Django Compared"
+    ],
+    "bookmark-of": [
+      "http://lesscode.org/2005/07/17/rails-django-compared/"
+    ],
+    "category": [
+      "django",
+      "framework",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-and-django-compared"
+    ]
+  }
+}

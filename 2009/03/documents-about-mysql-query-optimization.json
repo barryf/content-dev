@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2009-03-13T22:27:51Z"],"entry-type":["bookmark"],"name":["Documents about MySQL query optimization"],"bookmark-of":["http://hackmysql.com/documents"],"category":["mysql","optimisation","performance","database","query","work","dba","via-pinboard"],"slug":["documents-about-mysql-query-optimization"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-03-13T22:27:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Documents about MySQL query optimization"
+    ],
+    "bookmark-of": [
+      "http://hackmysql.com/documents"
+    ],
+    "category": [
+      "mysql",
+      "optimisation",
+      "performance",
+      "database",
+      "query",
+      "work",
+      "dba",
+      "via-pinboard"
+    ],
+    "slug": [
+      "documents-about-mysql-query-optimization"
+    ]
+  }
+}

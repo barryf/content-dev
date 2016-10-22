@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewgarner Just used that with @timblair for some planning. Sorcery."],"published":["2014-09-26T16:09:34Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15734896/status/515460543151624192"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/515533648070995968"],"slug":["tweet-515533648070995968"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewgarner Just used that with @timblair for some planning. Sorcery."
+    ],
+    "published": [
+      "2014-09-26T16:09:34Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15734896/status/515460543151624192"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/515533648070995968"
+    ],
+    "slug": [
+      "tweet-515533648070995968"
+    ]
+  }
+}

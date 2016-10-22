@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tom Brek"],"photo":["https://twitter.com/tombrek/profile_image?size=original"],"url":["https://twitter.com/tombrek"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom Brek"
+    ],
+    "photo": [
+      "https://twitter.com/tombrek/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/tombrek"
+    ]
+  }
+}

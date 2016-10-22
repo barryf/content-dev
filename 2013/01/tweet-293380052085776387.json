@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The iMessage/Messages on Mac “-1” and incorrect date ordering bugs rankle. Unbecoming of a company that prides itself on details."],"published":["2013-01-21T15:30:29Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/293380052085776387"],"slug":["tweet-293380052085776387"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The iMessage/Messages on Mac “-1” and incorrect date ordering bugs rankle. Unbecoming of a company that prides itself on details."
+    ],
+    "published": [
+      "2013-01-21T15:30:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/293380052085776387"
+    ],
+    "slug": [
+      "tweet-293380052085776387"
+    ]
+  }
+}

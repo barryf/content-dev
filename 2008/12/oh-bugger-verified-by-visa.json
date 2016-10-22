@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Or how terrible the 3D Secure/Verified by Visa/Mastercard SecureCode experience is for a consumer.\n"],"published":["2008-12-17T19:55:22Z"],"entry-type":["bookmark"],"name":["\"Oh bugger, Verified by Visa\""],"bookmark-of":["http://diamondgeezer.blogspot.com/2008_12_01_archive.html#2755972784071885243"],"category":["3dsecure","3ds","visa","ecommerce","shop","web","phishing","security","uk","via-pinboard"],"slug":["oh-bugger-verified-by-visa"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Or how terrible the 3D Secure/Verified by Visa/Mastercard SecureCode experience is for a consumer.\n"
+    ],
+    "published": [
+      "2008-12-17T19:55:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "\"Oh bugger, Verified by Visa\""
+    ],
+    "bookmark-of": [
+      "http://diamondgeezer.blogspot.com/2008_12_01_archive.html#2755972784071885243"
+    ],
+    "category": [
+      "3dsecure",
+      "3ds",
+      "visa",
+      "ecommerce",
+      "shop",
+      "web",
+      "phishing",
+      "security",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "oh-bugger-verified-by-visa"
+    ]
+  }
+}

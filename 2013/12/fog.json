@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["The Ruby cloud services library"],"published":["2013-12-21T14:02:24Z"],"entry-type":["bookmark"],"name":["fog"],"bookmark-of":["http://fog.io/"],"category":["ruby","cloud","was","rackspace","s3","via-pinboard"],"slug":["fog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The Ruby cloud services library"
+    ],
+    "published": [
+      "2013-12-21T14:02:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "fog"
+    ],
+    "bookmark-of": [
+      "http://fog.io/"
+    ],
+    "category": [
+      "ruby",
+      "cloud",
+      "was",
+      "rackspace",
+      "s3",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fog"
+    ]
+  }
+}

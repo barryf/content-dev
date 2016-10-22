@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2015-06-19T08:52:13Z"],"entry-type":["like"],"like-of":["https://twitter.com/guardian_sport/status/611814066965843968"],"category":["arsenal","football"],"syndication":["https://twitter.com/guardian_sport/status/611814066965843968"],"slug":["19-095213"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-06-19T08:52:13Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/guardian_sport/status/611814066965843968"
+    ],
+    "category": [
+      "arsenal",
+      "football"
+    ],
+    "syndication": [
+      "https://twitter.com/guardian_sport/status/611814066965843968"
+    ],
+    "slug": [
+      "19-095213"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["The last gig ever. Seems like yesterday\n"],"published":["2006-05-01T21:26:53Z"],"entry-type":["bookmark"],"name":["Gene setlist"],"bookmark-of":["http://www.geocities.jp/thelastshows/GeneFINALsetlist.gif"],"category":["gene","music","setlist","uk","gig","nostalgia","filetypegif","mediaimage","via-pinboard"],"slug":["gene-setlist"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The last gig ever. Seems like yesterday\n"
+    ],
+    "published": [
+      "2006-05-01T21:26:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Gene setlist"
+    ],
+    "bookmark-of": [
+      "http://www.geocities.jp/thelastshows/GeneFINALsetlist.gif"
+    ],
+    "category": [
+      "gene",
+      "music",
+      "setlist",
+      "uk",
+      "gig",
+      "nostalgia",
+      "filetypegif",
+      "mediaimage",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gene-setlist"
+    ]
+  }
+}

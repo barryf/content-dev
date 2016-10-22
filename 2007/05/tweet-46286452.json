@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Well done for finishing your exams Debbie! Don't forget to create your Wii for Sunday :)"],"published":["2007-05-01T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/46286452"],"slug":["tweet-46286452"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Well done for finishing your exams Debbie! Don't forget to create your Wii for Sunday :)"
+    ],
+    "published": [
+      "2007-05-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/46286452"
+    ],
+    "slug": [
+      "tweet-46286452"
+    ]
+  }
+}

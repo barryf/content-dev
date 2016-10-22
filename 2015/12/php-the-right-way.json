@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2015-12-02T14:02:14Z"],"entry-type":["bookmark"],"name":["PHP: The Right Way"],"bookmark-of":["http://www.phptherightway.com/"],"category":["php","dev"],"slug":["php-the-right-way"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-12-02T14:02:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PHP: The Right Way"
+    ],
+    "bookmark-of": [
+      "http://www.phptherightway.com/"
+    ],
+    "category": [
+      "php",
+      "dev"
+    ],
+    "slug": [
+      "php-the-right-way"
+    ]
+  }
+}

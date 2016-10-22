@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/petecheslock/status/595617204273618944"],"published":["2015-05-05T15:53:02Z"],"content":["Everyone seemed to like this representation of DevOps and Security from my talk at #devopsdays Austin"],"photo":["http://pbs.twimg.com/media/CEQOsL9XIAAezy_.png"],"author":["https://twitter.com/petecheslock"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/petecheslock/status/595617204273618944"
+    ],
+    "published": [
+      "2015-05-05T15:53:02Z"
+    ],
+    "content": [
+      "Everyone seemed to like this representation of DevOps and Security from my talk at #devopsdays Austin"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CEQOsL9XIAAezy_.png"
+    ],
+    "author": [
+      "https://twitter.com/petecheslock"
+    ]
+  }
+}

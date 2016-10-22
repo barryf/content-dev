@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@hobbsy Went well initially - lost about 1/2 stone but then I got lazy over Christmas. Scales were definitely worth it. Back on it for 2012."],"published":["2012-01-04T10:39:28Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/754966/status/154450808170233856"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/154512260805566464"],"slug":["tweet-154512260805566464"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hobbsy Went well initially - lost about 1/2 stone but then I got lazy over Christmas. Scales were definitely worth it. Back on it for 2012."
+    ],
+    "published": [
+      "2012-01-04T10:39:28Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/754966/status/154450808170233856"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/154512260805566464"
+    ],
+    "slug": [
+      "tweet-154512260805566464"
+    ]
+  }
+}

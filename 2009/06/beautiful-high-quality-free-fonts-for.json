@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2009-06-28T15:51:39Z"],"entry-type":["bookmark"],"name":["Beautiful High-Quality Free Fonts For Your Designs"],"bookmark-of":["http://www.smashingmagazine.com/2009/06/05/beautiful-high-quality-free-fonts-for-your-designs/"],"category":["font","design","free","typeface","via-pinboard"],"slug":["beautiful-high-quality-free-fonts-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-06-28T15:51:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Beautiful High-Quality Free Fonts For Your Designs"
+    ],
+    "bookmark-of": [
+      "http://www.smashingmagazine.com/2009/06/05/beautiful-high-quality-free-fonts-for-your-designs/"
+    ],
+    "category": [
+      "font",
+      "design",
+      "free",
+      "typeface",
+      "via-pinboard"
+    ],
+    "slug": [
+      "beautiful-high-quality-free-fonts-for"
+    ]
+  }
+}

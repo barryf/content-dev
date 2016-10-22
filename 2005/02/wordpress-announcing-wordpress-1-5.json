@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Getting nicer and nicer, and tidier under the hood too\n"],"published":["2005-02-17T16:40:04Z"],"entry-type":["bookmark"],"name":["WordPress: Announcing WordPress 1.5"],"bookmark-of":["http://wordpress.org/development/2005/02/strayhorn/"],"category":["blog","via-pinboard"],"slug":["wordpress-announcing-wordpress-1-5"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Getting nicer and nicer, and tidier under the hood too\n"
+    ],
+    "published": [
+      "2005-02-17T16:40:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "WordPress: Announcing WordPress 1.5"
+    ],
+    "bookmark-of": [
+      "http://wordpress.org/development/2005/02/strayhorn/"
+    ],
+    "category": [
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "wordpress-announcing-wordpress-1-5"
+    ]
+  }
+}

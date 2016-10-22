@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2006-12-29T12:44:39Z"],"entry-type":["bookmark"],"name":["Mike's Musings: Adding handlers to Operator"],"bookmark-of":["http://www.kaply.com/weblog/2006/12/over-at-labs"],"category":["operator","firefox","microformat","web","via-pinboard"],"slug":["mike-s-musings-adding-handlers-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-12-29T12:44:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mike's Musings: Adding handlers to Operator"
+    ],
+    "bookmark-of": [
+      "http://www.kaply.com/weblog/2006/12/over-at-labs"
+    ],
+    "category": [
+      "operator",
+      "firefox",
+      "microformat",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mike-s-musings-adding-handlers-to"
+    ]
+  }
+}

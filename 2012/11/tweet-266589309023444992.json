@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Tried that too. Just get a “Not Delivered” response."],"published":["2012-11-08T17:13:38Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/266589100876902400"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/266589309023444992"],"slug":["tweet-266589309023444992"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Tried that too. Just get a “Not Delivered” response."
+    ],
+    "published": [
+      "2012-11-08T17:13:38Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/266589100876902400"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/266589309023444992"
+    ],
+    "slug": [
+      "tweet-266589309023444992"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-08-19T21:37:11Z"],"entry-type":["like"],"like-of":["https://mobile.twitter.com/BenedictEvans/status/634103001808924672"],"syndication":["https://mobile.twitter.com/BenedictEvans/status/634103001808924672"],"slug":["19-223711"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-08-19T21:37:11Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://mobile.twitter.com/BenedictEvans/status/634103001808924672"
+    ],
+    "syndication": [
+      "https://mobile.twitter.com/BenedictEvans/status/634103001808924672"
+    ],
+    "slug": [
+      "19-223711"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://mobile.twitter.com/mr_mcd/status/598951675924185088"],"published":["2015-05-14T20:43:02Z"],"content":["My mother just found the emoji button..."],"photo":["http://pbs.twimg.com/media/CE_nXfuW8AEWgf-.jpg"],"author":["https://twitter.com/mr_mcd"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://mobile.twitter.com/mr_mcd/status/598951675924185088"
+    ],
+    "published": [
+      "2015-05-14T20:43:02Z"
+    ],
+    "content": [
+      "My mother just found the emoji button..."
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CE_nXfuW8AEWgf-.jpg"
+    ],
+    "author": [
+      "https://twitter.com/mr_mcd"
+    ]
+  }
+}

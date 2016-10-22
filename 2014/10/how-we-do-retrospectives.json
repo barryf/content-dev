@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["(by SoundCloud)"],"published":["2014-10-26T09:13:24Z"],"entry-type":["bookmark"],"name":["How we do… Retrospectives"],"bookmark-of":["http://backstage.soundcloud.com/2012/03/how-we-do-retrospectives/"],"category":["retrospective","agile","project","team","work","via-pinboard"],"slug":["how-we-do-retrospectives"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "(by SoundCloud)"
+    ],
+    "published": [
+      "2014-10-26T09:13:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How we do… Retrospectives"
+    ],
+    "bookmark-of": [
+      "http://backstage.soundcloud.com/2012/03/how-we-do-retrospectives/"
+    ],
+    "category": [
+      "retrospective",
+      "agile",
+      "project",
+      "team",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-we-do-retrospectives"
+    ]
+  }
+}

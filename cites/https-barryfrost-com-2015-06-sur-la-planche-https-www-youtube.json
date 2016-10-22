@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://barryfrost.com/2015/06/sur-la-planche-https-www-youtube"],"published":["2015-06-16T16:17:56Z"],"content":["Sur La Planche: https://www.youtube.com/watch?v=6MAQxOBiD6A"],"in-reply-to":["https://barryfrost.com/2015/06/my-pick-of-the-isle-of"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryfrost.com/2015/06/sur-la-planche-https-www-youtube"
+    ],
+    "published": [
+      "2015-06-16T16:17:56Z"
+    ],
+    "content": [
+      "Sur La Planche: https://www.youtube.com/watch?v=6MAQxOBiD6A"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/06/my-pick-of-the-isle-of"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

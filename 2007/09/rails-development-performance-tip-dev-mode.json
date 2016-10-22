@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Watches files for changes rather than reload everything each time\n"],"published":["2007-09-15T09:52:25Z"],"entry-type":["bookmark"],"name":["Rails Development Performance Tip - dev_mode_performance_fixes"],"bookmark-of":["http://www.robbyonrails.com/articles/2007/08/28/rails-development-performance-tip-dev_mode_performance_fixes"],"category":["performance","plugin","rails","dev","via-pinboard"],"slug":["rails-development-performance-tip-dev-mode"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watches files for changes rather than reload everything each time\n"
+    ],
+    "published": [
+      "2007-09-15T09:52:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails Development Performance Tip - dev_mode_performance_fixes"
+    ],
+    "bookmark-of": [
+      "http://www.robbyonrails.com/articles/2007/08/28/rails-development-performance-tip-dev_mode_performance_fixes"
+    ],
+    "category": [
+      "performance",
+      "plugin",
+      "rails",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-development-performance-tip-dev-mode"
+    ]
+  }
+}

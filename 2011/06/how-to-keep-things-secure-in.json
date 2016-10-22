@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Instructions on creating a sparse bundle disk image that can be stored in Dropbox with a nice strong password.\n"],"published":["2011-06-22T13:17:05Z"],"entry-type":["bookmark"],"name":["How to keep things secure in your Dropbox"],"bookmark-of":["http://unvexed.blogspot.com/2011/06/how-to-keep-things-secure-in-your.html"],"category":["secure","dropbox","diskimage","mac","storage","cloud","privacy","via-pinboard"],"slug":["how-to-keep-things-secure-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Instructions on creating a sparse bundle disk image that can be stored in Dropbox with a nice strong password.\n"
+    ],
+    "published": [
+      "2011-06-22T13:17:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to keep things secure in your Dropbox"
+    ],
+    "bookmark-of": [
+      "http://unvexed.blogspot.com/2011/06/how-to-keep-things-secure-in-your.html"
+    ],
+    "category": [
+      "secure",
+      "dropbox",
+      "diskimage",
+      "mac",
+      "storage",
+      "cloud",
+      "privacy",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-keep-things-secure-in"
+    ]
+  }
+}

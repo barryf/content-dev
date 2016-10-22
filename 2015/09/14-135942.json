@@ -1,1 +1,19 @@
-{"type":["h-entry"],"properties":{"published":["2015-09-14T12:59:42Z"],"entry-type":["like"],"like-of":["https://twitter.com/DaveGorman/status/643379606498746368"],"slug":["14-135942"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-09-14T12:59:42Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/DaveGorman/status/643379606498746368"
+    ],
+    "slug": [
+      "14-135942"
+    ]
+  }
+}

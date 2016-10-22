@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Off to @optimusalive festival in Lisbon for the weekend. Stone Roses, The Cure and Radiohead await! And some lovely sun http://bfr.st/MlGkxE"],"published":["2012-07-12T13:20:39Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/223406517045563392"],"slug":["tweet-223406517045563392"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Off to @optimusalive festival in Lisbon for the weekend. Stone Roses, The Cure and Radiohead await! And some lovely sun http://bfr.st/MlGkxE"
+    ],
+    "published": [
+      "2012-07-12T13:20:39Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/223406517045563392"
+    ],
+    "slug": [
+      "tweet-223406517045563392"
+    ]
+  }
+}

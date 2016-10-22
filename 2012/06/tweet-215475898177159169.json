@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The most intriguing part about this IFTTT announcement is their support for Belkin's (upcoming) WeMo devices. Want one http://blog.ifttt.com/post/25506427600/thenewifttt"],"published":["2012-06-20T16:07:12Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/215475898177159169"],"slug":["tweet-215475898177159169"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The most intriguing part about this IFTTT announcement is their support for Belkin's (upcoming) WeMo devices. Want one http://blog.ifttt.com/post/25506427600/thenewifttt"
+    ],
+    "published": [
+      "2012-06-20T16:07:12Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/215475898177159169"
+    ],
+    "slug": [
+      "tweet-215475898177159169"
+    ]
+  }
+}

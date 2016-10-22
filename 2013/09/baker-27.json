@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Handy new iOS7 feature: Safari supports Bluetooth keyboard shortcuts like select all (⌘A), new tab (⌘T), close tab (⌘W) and location (⌘L)."],"published":["2013-09-22T17:58:10Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/381839859620794369"],"slug":["baker-27"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Handy new iOS7 feature: Safari supports Bluetooth keyboard shortcuts like select all (⌘A), new tab (⌘T), close tab (⌘W) and location (⌘L)."
+    ],
+    "published": [
+      "2013-09-22T17:58:10Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/381839859620794369"
+    ],
+    "slug": [
+      "baker-27"
+    ]
+  }
+}

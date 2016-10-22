@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["REST API to do Direct Debits\n"],"published":["2011-11-09T14:36:48Z"],"entry-type":["bookmark"],"name":["SmartDebit"],"bookmark-of":["http://www.smartdebit.com/"],"category":["directdebit","payment","api","rest","uk","via-pinboard"],"slug":["smartdebit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "REST API to do Direct Debits\n"
+    ],
+    "published": [
+      "2011-11-09T14:36:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SmartDebit"
+    ],
+    "bookmark-of": [
+      "http://www.smartdebit.com/"
+    ],
+    "category": [
+      "directdebit",
+      "payment",
+      "api",
+      "rest",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "smartdebit"
+    ]
+  }
+}

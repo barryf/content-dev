@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Handy new service by @jasonkneen RT @tweet4me: We're here. http://tweet4.me - scheduled and delayed tweets from ANY twitter client"],"published":["2011-12-21T23:05:28Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/149626570028486656"],"slug":["tweet-149626570028486656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Handy new service by @jasonkneen RT @tweet4me: We're here. http://tweet4.me - scheduled and delayed tweets from ANY twitter client"
+    ],
+    "published": [
+      "2011-12-21T23:05:28Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/149626570028486656"
+    ],
+    "slug": [
+      "tweet-149626570028486656"
+    ]
+  }
+}

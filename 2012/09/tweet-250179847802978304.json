@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@PaulCaudell Yeah, about 8 years for me. I’m loath to change it because of scammers though. Bastards."],"published":["2012-09-24T10:28:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16433935/status/250178654024396800"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/250179847802978304"],"slug":["tweet-250179847802978304"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@PaulCaudell Yeah, about 8 years for me. I’m loath to change it because of scammers though. Bastards."
+    ],
+    "published": [
+      "2012-09-24T10:28:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16433935/status/250178654024396800"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/250179847802978304"
+    ],
+    "slug": [
+      "tweet-250179847802978304"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Some well-developed CSS/HTML templates, borne from the FarCry open-source CMS project\n"],"published":["2006-03-06T20:54:55Z"],"entry-type":["bookmark"],"name":["FarCry - Mollio"],"bookmark-of":["http://www.mollio.org/"],"category":["opensource","cms","coldfusion","css","html","template","web","design","via-pinboard"],"slug":["farcry-mollio"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Some well-developed CSS/HTML templates, borne from the FarCry open-source CMS project\n"
+    ],
+    "published": [
+      "2006-03-06T20:54:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FarCry - Mollio"
+    ],
+    "bookmark-of": [
+      "http://www.mollio.org/"
+    ],
+    "category": [
+      "opensource",
+      "cms",
+      "coldfusion",
+      "css",
+      "html",
+      "template",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "farcry-mollio"
+    ]
+  }
+}

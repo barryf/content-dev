@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@rosswilliams I didn't know you were allowed to watch adult channels in taxis?"],"published":["2011-05-10T13:29:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11832/status/67935890428796928"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/67944295826599936"],"slug":["tweet-67944295826599936"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@rosswilliams I didn't know you were allowed to watch adult channels in taxis?"
+    ],
+    "published": [
+      "2011-05-10T13:29:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11832/status/67935890428796928"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/67944295826599936"
+    ],
+    "slug": [
+      "tweet-67944295826599936"
+    ]
+  }
+}

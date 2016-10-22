@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["For forcing read-only in Rails - when using slave databases\n\n"],"published":["2007-07-30T17:16:50Z"],"entry-type":["bookmark"],"name":["Revolution On Rails: ActsAsReadonlyable"],"bookmark-of":["http://revolutiononrails.blogspot.com/2007/04/plugin-release-actsasreadonlyable.html"],"category":["activerecord","database","replication","plugin","rails","scalability","scaling","via-pinboard"],"slug":["revolution-on-rails-actsasreadonlyable"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "For forcing read-only in Rails - when using slave databases\n\n"
+    ],
+    "published": [
+      "2007-07-30T17:16:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Revolution On Rails: ActsAsReadonlyable"
+    ],
+    "bookmark-of": [
+      "http://revolutiononrails.blogspot.com/2007/04/plugin-release-actsasreadonlyable.html"
+    ],
+    "category": [
+      "activerecord",
+      "database",
+      "replication",
+      "plugin",
+      "rails",
+      "scalability",
+      "scaling",
+      "via-pinboard"
+    ],
+    "slug": [
+      "revolution-on-rails-actsasreadonlyable"
+    ]
+  }
+}

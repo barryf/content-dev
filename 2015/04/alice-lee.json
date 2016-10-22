@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> I’m Alice, an illustrator and designer. I most recently worked at Dropbox, and am now freelancing while working on independent projects."],"published":["2015-04-29T12:10:04Z"],"entry-type":["bookmark"],"name":["Alice Lee"],"bookmark-of":["http://byalicelee.com/"],"category":["illustrator","art","design","brand"],"slug":["alice-lee"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> I’m Alice, an illustrator and designer. I most recently worked at Dropbox, and am now freelancing while working on independent projects."
+    ],
+    "published": [
+      "2015-04-29T12:10:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Alice Lee"
+    ],
+    "bookmark-of": [
+      "http://byalicelee.com/"
+    ],
+    "category": [
+      "illustrator",
+      "art",
+      "design",
+      "brand"
+    ],
+    "slug": [
+      "alice-lee"
+    ]
+  }
+}

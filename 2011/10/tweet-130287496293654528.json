@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw At a conference but have been watching the score. What a bonkers season!"],"published":["2011-10-29T14:18:54Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/130281495591010304"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/130287496293654528"],"slug":["tweet-130287496293654528"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw At a conference but have been watching the score. What a bonkers season!"
+    ],
+    "published": [
+      "2011-10-29T14:18:54Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/130281495591010304"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/130287496293654528"
+    ],
+    "slug": [
+      "tweet-130287496293654528"
+    ]
+  }
+}

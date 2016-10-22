@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Summer's officially over. Turned my heating on. Chilly."],"published":["2008-09-15T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/922339685"],"slug":["tweet-922339685"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Summer's officially over. Turned my heating on. Chilly."
+    ],
+    "published": [
+      "2008-09-15T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/922339685"
+    ],
+    "slug": [
+      "tweet-922339685"
+    ]
+  }
+}

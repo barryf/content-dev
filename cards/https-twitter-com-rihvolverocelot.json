@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["AFC4LIFE"],"photo":["https://twitter.com/RihvolverOcelot/profile_image?size=original"],"url":["https://twitter.com/RihvolverOcelot"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "AFC4LIFE"
+    ],
+    "photo": [
+      "https://twitter.com/RihvolverOcelot/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/RihvolverOcelot"
+    ]
+  }
+}

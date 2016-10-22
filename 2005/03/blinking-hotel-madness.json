@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["My eyes!  The whole body text blinks!  (via Malevolent Design)\n"],"published":["2005-03-16T10:04:54Z"],"entry-type":["bookmark"],"name":["Blinking Hotel Madness"],"bookmark-of":["http://www.strattons-hotel.co.uk/1b-relax.html"],"category":["web","design","fun","via-pinboard"],"slug":["blinking-hotel-madness"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My eyes!  The whole body text blinks!  (via Malevolent Design)\n"
+    ],
+    "published": [
+      "2005-03-16T10:04:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Blinking Hotel Madness"
+    ],
+    "bookmark-of": [
+      "http://www.strattons-hotel.co.uk/1b-relax.html"
+    ],
+    "category": [
+      "web",
+      "design",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "blinking-hotel-madness"
+    ]
+  }
+}

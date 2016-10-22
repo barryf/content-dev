@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoying some Christmas downtime by getting SMS posting working on my site."],"published":["2013-12-23T12:49:17Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/415101806176641026"],"slug":["tweet-415101806176641026"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoying some Christmas downtime by getting SMS posting working on my site."
+    ],
+    "published": [
+      "2013-12-23T12:49:17Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/415101806176641026"
+    ],
+    "slug": [
+      "tweet-415101806176641026"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thinking that Dom doesn't appreciate inane banter enough to tweet."],"published":["2007-05-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/56911932"],"slug":["tweet-56911932"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thinking that Dom doesn't appreciate inane banter enough to tweet."
+    ],
+    "published": [
+      "2007-05-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/56911932"
+    ],
+    "slug": [
+      "tweet-56911932"
+    ]
+  }
+}

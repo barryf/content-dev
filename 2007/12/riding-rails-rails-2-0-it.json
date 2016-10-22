@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["DHH's summary of new features\n"],"published":["2007-12-08T16:11:35Z"],"entry-type":["bookmark"],"name":["Riding Rails: Rails 2.0: It's done!"],"bookmark-of":["http://weblog.rubyonrails.com/2007/12/7/rails-2-0-it-s-done"],"category":["dev","framework","rails","rest","web","ruby","via-pinboard"],"slug":["riding-rails-rails-2-0-it"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "DHH's summary of new features\n"
+    ],
+    "published": [
+      "2007-12-08T16:11:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Riding Rails: Rails 2.0: It's done!"
+    ],
+    "bookmark-of": [
+      "http://weblog.rubyonrails.com/2007/12/7/rails-2-0-it-s-done"
+    ],
+    "category": [
+      "dev",
+      "framework",
+      "rails",
+      "rest",
+      "web",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "riding-rails-rails-2-0-it"
+    ]
+  }
+}

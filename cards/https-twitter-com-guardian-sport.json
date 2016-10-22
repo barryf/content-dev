@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Guardian sport (@guardian_sport)"],"photo":["http://pbs.twimg.com/profile_images/565084075329724416/sY_lRrn8_normal.png"],"url":["https://twitter.com/guardian_sport"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Guardian sport (@guardian_sport)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/565084075329724416/sY_lRrn8_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/guardian_sport"
+    ]
+  }
+}

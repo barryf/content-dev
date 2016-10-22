@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-19T15:27:38Z"],"entry-type":["bookmark"],"name":["Note to self... lists by the great and good"],"bookmark-of":["http://news.independent.co.uk/uk/this_britain/story.jsp?story=552492"],"category":["lists","via-pinboard"],"slug":["note-to-self-lists-by-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-19T15:27:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Note to self... lists by the great and good"
+    ],
+    "bookmark-of": [
+      "http://news.independent.co.uk/uk/this_britain/story.jsp?story=552492"
+    ],
+    "category": [
+      "lists",
+      "via-pinboard"
+    ],
+    "slug": [
+      "note-to-self-lists-by-the"
+    ]
+  }
+}

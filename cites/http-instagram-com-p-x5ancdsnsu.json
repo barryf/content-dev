@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["http://instagram.com/p/x5AncDsnsU/"],"published":["2015-01-19T09:38:06Z"],"content":["Things in progress. \n@homesteadingio #indieweb"],"photo":["http://photos-e.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/10932283_407502772740964_309509909_n.jpg"],"author":["http://instagram.com/veganstraightedge"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://instagram.com/p/x5AncDsnsU/"
+    ],
+    "published": [
+      "2015-01-19T09:38:06Z"
+    ],
+    "content": [
+      "Things in progress. \n@homesteadingio #indieweb"
+    ],
+    "photo": [
+      "http://photos-e.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/10932283_407502772740964_309509909_n.jpg"
+    ],
+    "author": [
+      "http://instagram.com/veganstraightedge"
+    ]
+  }
+}

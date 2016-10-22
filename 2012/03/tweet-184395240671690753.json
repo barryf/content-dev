@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["\"Is it a condom, or is it an Android?\" http://bfr.st/6DfU"],"published":["2012-03-26T21:43:45Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/184395240671690753"],"slug":["tweet-184395240671690753"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Is it a condom, or is it an Android?\" http://bfr.st/6DfU"
+    ],
+    "published": [
+      "2012-03-26T21:43:45Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/184395240671690753"
+    ],
+    "slug": [
+      "tweet-184395240671690753"
+    ]
+  }
+}

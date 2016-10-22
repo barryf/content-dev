@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-09T09:23:00Z"],"entry-type":["bookmark"],"name":["ColdFusion MX 7 release notes"],"bookmark-of":["http://www.macromedia.com/support/documentation/en/coldfusion/mx7/releasenotes.html"],"category":["coldfusion","via-pinboard"],"slug":["coldfusion-mx-7-release-notes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-09T09:23:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ColdFusion MX 7 release notes"
+    ],
+    "bookmark-of": [
+      "http://www.macromedia.com/support/documentation/en/coldfusion/mx7/releasenotes.html"
+    ],
+    "category": [
+      "coldfusion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "coldfusion-mx-7-release-notes"
+    ]
+  }
+}

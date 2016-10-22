@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Type words and it will play sound clips of the words from music\n"],"published":["2007-10-17T21:27:49Z"],"entry-type":["bookmark"],"name":["Let them sing it for you"],"bookmark-of":["http://www.sr.se/p1/src/sing/"],"category":["generator","mashup","music","song","fun","radio","via-pinboard"],"slug":["let-them-sing-it-for-you"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Type words and it will play sound clips of the words from music\n"
+    ],
+    "published": [
+      "2007-10-17T21:27:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Let them sing it for you"
+    ],
+    "bookmark-of": [
+      "http://www.sr.se/p1/src/sing/"
+    ],
+    "category": [
+      "generator",
+      "mashup",
+      "music",
+      "song",
+      "fun",
+      "radio",
+      "via-pinboard"
+    ],
+    "slug": [
+      "let-them-sing-it-for-you"
+    ]
+  }
+}

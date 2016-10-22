@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener EarTime?"],"published":["2013-08-13T13:56:51Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14234004/status/367283103800508416"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/367283610988335104"],"slug":["tweet-367283610988335104"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener EarTime?"
+    ],
+    "published": [
+      "2013-08-13T13:56:51Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14234004/status/367283103800508416"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/367283610988335104"
+    ],
+    "slug": [
+      "tweet-367283610988335104"
+    ]
+  }
+}

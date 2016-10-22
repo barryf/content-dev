@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-10-28T18:24:56Z"],"entry-type":["bookmark"],"name":["a work on process » A Ruby on Rails OpenID Server"],"bookmark-of":["http://jystewart.net/process/2007/10/a-ruby-on-rails-openid-server/"],"category":["openid","authentication","identity","rails","security","server","via-pinboard"],"slug":["a-work-on-process-a-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-10-28T18:24:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "a work on process » A Ruby on Rails OpenID Server"
+    ],
+    "bookmark-of": [
+      "http://jystewart.net/process/2007/10/a-ruby-on-rails-openid-server/"
+    ],
+    "category": [
+      "openid",
+      "authentication",
+      "identity",
+      "rails",
+      "security",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-work-on-process-a-ruby"
+    ]
+  }
+}

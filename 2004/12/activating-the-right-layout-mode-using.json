@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-12-07T16:43:00Z"],"entry-type":["bookmark"],"name":["Activating the Right Layout Mode Using the Doctype Declaration"],"bookmark-of":["http://www.hut.fi/u/hsivonen/doctype.html"],"category":["dev","web","via-pinboard"],"slug":["activating-the-right-layout-mode-using"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-12-07T16:43:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Activating the Right Layout Mode Using the Doctype Declaration"
+    ],
+    "bookmark-of": [
+      "http://www.hut.fi/u/hsivonen/doctype.html"
+    ],
+    "category": [
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "activating-the-right-layout-mode-using"
+    ]
+  }
+}

@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-27T09:53:40Z"],"entry-type":["bookmark"],"name":["Mozilla/Firefox: Javascript Console In Sidebar"],"bookmark-of":["http://avantbard.com/blog/archives/2004/09/07/mozillfirefoxa-javascript-console-in-sidebar/"],"category":["firefox","mozilla","via-pinboard"],"slug":["mozilla-firefox-javascript-console-in-sidebar"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-27T09:53:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mozilla/Firefox: Javascript Console In Sidebar"
+    ],
+    "bookmark-of": [
+      "http://avantbard.com/blog/archives/2004/09/07/mozillfirefoxa-javascript-console-in-sidebar/"
+    ],
+    "category": [
+      "firefox",
+      "mozilla",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mozilla-firefox-javascript-console-in-sidebar"
+    ]
+  }
+}

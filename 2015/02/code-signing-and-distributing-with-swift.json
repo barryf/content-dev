@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-11T14:37:12Z"],"entry-type":["bookmark"],"name":["Code signing and distributing with Swift"],"bookmark-of":["https://techblog.badoo.com/blog/2015/02/09/code-signing-and-distributing-swift/"],"category":["swift","ios","appstore"],"slug":["code-signing-and-distributing-with-swift"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-11T14:37:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Code signing and distributing with Swift"
+    ],
+    "bookmark-of": [
+      "https://techblog.badoo.com/blog/2015/02/09/code-signing-and-distributing-swift/"
+    ],
+    "category": [
+      "swift",
+      "ios",
+      "appstore"
+    ],
+    "slug": [
+      "code-signing-and-distributing-with-swift"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":[".@github Pages has been a bit flaky recently. Our stats show two hours of downtime in total in the last week."],"published":["2012-05-15T13:36:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/202391884088348673"],"slug":["tweet-202391884088348673"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      ".@github Pages has been a bit flaky recently. Our stats show two hours of downtime in total in the last week."
+    ],
+    "published": [
+      "2012-05-15T13:36:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/202391884088348673"
+    ],
+    "slug": [
+      "tweet-202391884088348673"
+    ]
+  }
+}

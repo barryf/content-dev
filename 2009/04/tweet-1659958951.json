@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Nevertheless, some decent chats about sending email on a large scale with some enthusiastic providers. Off to Reading Hexagon to see Doves."],"published":["2009-04-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1659958951"],"slug":["tweet-1659958951"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nevertheless, some decent chats about sending email on a large scale with some enthusiastic providers. Off to Reading Hexagon to see Doves."
+    ],
+    "published": [
+      "2009-04-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1659958951"
+    ],
+    "slug": [
+      "tweet-1659958951"
+    ]
+  }
+}

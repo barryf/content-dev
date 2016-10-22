@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2011-07-14T06:44:36Z"],"entry-type":["bookmark"],"name":["HTML5 vs Native: The Mobile App Debate"],"bookmark-of":["http://www.html5rocks.com/en/mobile/nativedebate.html"],"category":["html5","mobile","app","native","dev","advocacy","opinion","via-pinboard"],"slug":["html5-vs-native-the-mobile-app"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-07-14T06:44:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTML5 vs Native: The Mobile App Debate"
+    ],
+    "bookmark-of": [
+      "http://www.html5rocks.com/en/mobile/nativedebate.html"
+    ],
+    "category": [
+      "html5",
+      "mobile",
+      "app",
+      "native",
+      "dev",
+      "advocacy",
+      "opinion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "html5-vs-native-the-mobile-app"
+    ]
+  }
+}

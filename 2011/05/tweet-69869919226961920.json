@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sore legs and hoarse from recruiting with the @globaldev team at today's @milkroundabout. Met some great developers so thoroughly worth it."],"published":["2011-05-15T21:01:01Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/69869919226961920"],"slug":["tweet-69869919226961920"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sore legs and hoarse from recruiting with the @globaldev team at today's @milkroundabout. Met some great developers so thoroughly worth it."
+    ],
+    "published": [
+      "2011-05-15T21:01:01Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/69869919226961920"
+    ],
+    "slug": [
+      "tweet-69869919226961920"
+    ]
+  }
+}

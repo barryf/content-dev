@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Ian's tweets archived using TweetNest\n"],"published":["2012-03-29T11:07:47Z"],"entry-type":["bookmark"],"name":["Tweets by @ian_winter"],"bookmark-of":["http://tweets.ian.io/"],"category":["tweetnest","archive","twitter","via-pinboard"],"slug":["tweets-by-ian-winter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ian's tweets archived using TweetNest\n"
+    ],
+    "published": [
+      "2012-03-29T11:07:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tweets by @ian_winter"
+    ],
+    "bookmark-of": [
+      "http://tweets.ian.io/"
+    ],
+    "category": [
+      "tweetnest",
+      "archive",
+      "twitter",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tweets-by-ian-winter"
+    ]
+  }
+}

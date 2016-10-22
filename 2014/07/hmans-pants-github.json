@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-07-07T08:16:50Z"],"entry-type":["bookmark"],"name":["hmans/pants · GitHub"],"bookmark-of":["https://github.com/hmans/pants"],"category":["fromifttt","github","via-pinboard"],"slug":["hmans-pants-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-07-07T08:16:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "hmans/pants · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/hmans/pants"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hmans-pants-github"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Big logo + old skool clock\n"],"published":["2007-12-02T11:42:58Z"],"entry-type":["bookmark"],"name":["The new BBC homepage"],"bookmark-of":["http://www.flickr.com/photos/74105777@N00/2061873305"],"category":["bbc","design","homepage","redesign","media","uk","via-pinboard"],"slug":["the-new-bbc-homepage"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Big logo + old skool clock\n"
+    ],
+    "published": [
+      "2007-12-02T11:42:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The new BBC homepage"
+    ],
+    "bookmark-of": [
+      "http://www.flickr.com/photos/74105777@N00/2061873305"
+    ],
+    "category": [
+      "bbc",
+      "design",
+      "homepage",
+      "redesign",
+      "media",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-new-bbc-homepage"
+    ]
+  }
+}

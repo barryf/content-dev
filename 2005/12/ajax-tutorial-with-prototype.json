@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["A nice ColdFusion-centric Prototype example\n"],"published":["2005-12-14T10:22:49Z"],"entry-type":["bookmark"],"name":["AJAX Tutorial with Prototype"],"bookmark-of":["http://www.petefreitag.com/item/515.cfm"],"category":["web","dev","ajax","prototype","coldfusion","via-pinboard"],"slug":["ajax-tutorial-with-prototype"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A nice ColdFusion-centric Prototype example\n"
+    ],
+    "published": [
+      "2005-12-14T10:22:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "AJAX Tutorial with Prototype"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/515.cfm"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "ajax",
+      "prototype",
+      "coldfusion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ajax-tutorial-with-prototype"
+    ]
+  }
+}

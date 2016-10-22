@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Arguments against using hovering info panels and show/reveals\n"],"published":["2010-10-19T12:55:23Z"],"entry-type":["bookmark"],"name":["End hover abuse now"],"bookmark-of":["http://www.cennydd.co.uk/2010/end-hover-abuse-now/"],"category":["hover","ux","ipad","interface","via-pinboard"],"slug":["end-hover-abuse-now"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Arguments against using hovering info panels and show/reveals\n"
+    ],
+    "published": [
+      "2010-10-19T12:55:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "End hover abuse now"
+    ],
+    "bookmark-of": [
+      "http://www.cennydd.co.uk/2010/end-hover-abuse-now/"
+    ],
+    "category": [
+      "hover",
+      "ux",
+      "ipad",
+      "interface",
+      "via-pinboard"
+    ],
+    "slug": [
+      "end-hover-abuse-now"
+    ]
+  }
+}

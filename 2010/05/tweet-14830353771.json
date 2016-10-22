@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Cradling my new work iPad. Deflecting envious glances and accusations of fatcatism. Don't care - I've got a shiny new gadget!"],"published":["2010-05-27T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/14830353771"],"slug":["tweet-14830353771"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Cradling my new work iPad. Deflecting envious glances and accusations of fatcatism. Don't care - I've got a shiny new gadget!"
+    ],
+    "published": [
+      "2010-05-27T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/14830353771"
+    ],
+    "slug": [
+      "tweet-14830353771"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Useful for stopping network access for selected services on your Mac when tethered to a mobile."],"published":["2016-01-02T16:51:25Z"],"entry-type":["bookmark"],"name":["TripMode"],"bookmark-of":["https://www.tripmode.ch/"],"category":["mobile","roaming","mac","internet"],"slug":["tripmode"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful for stopping network access for selected services on your Mac when tethered to a mobile."
+    ],
+    "published": [
+      "2016-01-02T16:51:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TripMode"
+    ],
+    "bookmark-of": [
+      "https://www.tripmode.ch/"
+    ],
+    "category": [
+      "mobile",
+      "roaming",
+      "mac",
+      "internet"
+    ],
+    "slug": [
+      "tripmode"
+    ]
+  }
+}

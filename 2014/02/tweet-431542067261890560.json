@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Tom Tim Ben Bob Rob Ken Roy Ray Eve Lee"],"published":["2014-02-06T21:37:01Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/431537699875336193"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/431542067261890560"],"slug":["tweet-431542067261890560"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Tom Tim Ben Bob Rob Ken Roy Ray Eve Lee"
+    ],
+    "published": [
+      "2014-02-06T21:37:01Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/431537699875336193"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/431542067261890560"
+    ],
+    "slug": [
+      "tweet-431542067261890560"
+    ]
+  }
+}

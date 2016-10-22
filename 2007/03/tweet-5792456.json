@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["excited that i have a free copy of windows vista ultimate to play with"],"published":["2007-03-02T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5792456"],"slug":["tweet-5792456"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "excited that i have a free copy of windows vista ultimate to play with"
+    ],
+    "published": [
+      "2007-03-02T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5792456"
+    ],
+    "slug": [
+      "tweet-5792456"
+    ]
+  }
+}

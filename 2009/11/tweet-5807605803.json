@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Day 17 of my #movember 'tache and to go with my new Mexican look I'm drinking Corona. ¿Que pasa, gringo?  http://twitpic.com/pwss8"],"published":["2009-11-17T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5807605803"],"slug":["tweet-5807605803"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Day 17 of my #movember 'tache and to go with my new Mexican look I'm drinking Corona. ¿Que pasa, gringo?  http://twitpic.com/pwss8"
+    ],
+    "published": [
+      "2009-11-17T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5807605803"
+    ],
+    "slug": [
+      "tweet-5807605803"
+    ]
+  }
+}

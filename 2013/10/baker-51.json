@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["Off to the Isle of Wight for Emma's 30th."],"published":["2013-10-12T10:56:46Z"],"entry-type":["note"],"category":["via-baker"],"slug":["baker-51"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Off to the Isle of Wight for Emma's 30th."
+    ],
+    "published": [
+      "2013-10-12T10:56:46Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "slug": [
+      "baker-51"
+    ]
+  }
+}

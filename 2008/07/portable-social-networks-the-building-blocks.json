@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Good summary of many of the social buzzwords flying around\n"],"published":["2008-07-02T07:46:47Z"],"entry-type":["bookmark"],"name":["Portable Social Networks, The Building Blocks Of A Social Web"],"bookmark-of":["http://www.digital-web.com/articles/portable_social_networks_building_blocks_of_a_social_web"],"category":["social","network","web","microformats","api","via-pinboard"],"slug":["portable-social-networks-the-building-blocks"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Good summary of many of the social buzzwords flying around\n"
+    ],
+    "published": [
+      "2008-07-02T07:46:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Portable Social Networks, The Building Blocks Of A Social Web"
+    ],
+    "bookmark-of": [
+      "http://www.digital-web.com/articles/portable_social_networks_building_blocks_of_a_social_web"
+    ],
+    "category": [
+      "social",
+      "network",
+      "web",
+      "microformats",
+      "api",
+      "via-pinboard"
+    ],
+    "slug": [
+      "portable-social-networks-the-building-blocks"
+    ]
+  }
+}

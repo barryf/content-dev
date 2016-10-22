@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@globalpersonals Not true. The internal research was for Chrome OS, not Chrome. http://antimatter15.com/wp/2011/02/google-probably-wont-kill-chrome-url-bar/"],"published":["2011-02-21T15:12:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/65641893/status/39697585576878080"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/39703966577205248"],"slug":["tweet-39703966577205248"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@globalpersonals Not true. The internal research was for Chrome OS, not Chrome. http://antimatter15.com/wp/2011/02/google-probably-wont-kill-chrome-url-bar/"
+    ],
+    "published": [
+      "2011-02-21T15:12:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/65641893/status/39697585576878080"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/39703966577205248"
+    ],
+    "slug": [
+      "tweet-39703966577205248"
+    ]
+  }
+}

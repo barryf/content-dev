@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-05-01T10:23:57Z"],"entry-type":["bookmark"],"name":["globaldev/regulate · GitHub"],"bookmark-of":["https://github.com/globaldev/regulate"],"category":["fromifttt","github","via-pinboard"],"slug":["globaldev-regulate-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-05-01T10:23:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "globaldev/regulate · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/globaldev/regulate"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "globaldev-regulate-github"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Struggling to find a sun holiday with @larrylou100. Every potential option is ruled out by TripAdvisor horror reviews."],"published":["2011-03-06T11:31:38Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/44359478140870656"],"slug":["tweet-44359478140870656"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Struggling to find a sun holiday with @larrylou100. Every potential option is ruled out by TripAdvisor horror reviews."
+    ],
+    "published": [
+      "2011-03-06T11:31:38Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/44359478140870656"
+    ],
+    "slug": [
+      "tweet-44359478140870656"
+    ]
+  }
+}

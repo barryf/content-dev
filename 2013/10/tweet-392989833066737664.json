@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["10 years ago today I was at Cesc’s debut in the League Cup. Turned out to be a decent player… MT @cesc4official http://twitter.com/cesc4official/status/392988200915849216/photo/1"],"published":["2013-10-23T12:24:12Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/392989833066737664"],"slug":["tweet-392989833066737664"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "10 years ago today I was at Cesc’s debut in the League Cup. Turned out to be a decent player… MT @cesc4official http://twitter.com/cesc4official/status/392988200915849216/photo/1"
+    ],
+    "published": [
+      "2013-10-23T12:24:12Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/392989833066737664"
+    ],
+    "slug": [
+      "tweet-392989833066737664"
+    ]
+  }
+}

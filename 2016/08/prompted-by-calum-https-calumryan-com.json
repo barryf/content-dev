@@ -1,1 +1,24 @@
-{"type":["h-entry"],"properties":{"content":["Prompted by [Calum](https://calumryan.com) publishing an [indie event page](https://calumryan.com/event/hwc-20160824/) for the next Homebrew Website Club meeting in London, I've modified this site to support sending [RSVP](https://indieweb.org/rsvp)s. \r\n\r\nNice way of prioritising features: wait until you have a use-case before building. \n"],"published":["2016-08-10T21:18:52Z"],"entry-type":["note"],"category":["indieweb","event","rsvp"],"slug":["prompted-by-calum-https-calumryan-com"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Prompted by [Calum](https://calumryan.com) publishing an [indie event page](https://calumryan.com/event/hwc-20160824/) for the next Homebrew Website Club meeting in London, I've modified this site to support sending [RSVP](https://indieweb.org/rsvp)s. \r\n\r\nNice way of prioritising features: wait until you have a use-case before building. \n"
+    ],
+    "published": [
+      "2016-08-10T21:18:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "indieweb",
+      "event",
+      "rsvp"
+    ],
+    "slug": [
+      "prompted-by-calum-https-calumryan-com"
+    ]
+  }
+}

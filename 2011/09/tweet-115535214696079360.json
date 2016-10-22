@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Thanks, yeah finally. Will probably put it up on Heroku too."],"published":["2011-09-18T21:18:36Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/115518783690518528"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/115535214696079360"],"slug":["tweet-115535214696079360"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Thanks, yeah finally. Will probably put it up on Heroku too."
+    ],
+    "published": [
+      "2011-09-18T21:18:36Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/115518783690518528"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/115535214696079360"
+    ],
+    "slug": [
+      "tweet-115535214696079360"
+    ]
+  }
+}

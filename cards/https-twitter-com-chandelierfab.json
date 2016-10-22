@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["ChandelierFashion"],"photo":["https://twitter.com/ChandelierFab/profile_image?size=original"],"url":["https://twitter.com/ChandelierFab"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "ChandelierFashion"
+    ],
+    "photo": [
+      "https://twitter.com/ChandelierFab/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/ChandelierFab"
+    ]
+  }
+}

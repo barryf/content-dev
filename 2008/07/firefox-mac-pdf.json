@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Display PDFs within Mac Firefox, just like Safari\n"],"published":["2008-07-06T12:35:57Z"],"entry-type":["bookmark"],"name":["firefox-mac-pdf"],"bookmark-of":["http://code.google.com/p/firefox-mac-pdf/"],"category":["pdf","firefox","mac","browser","extension","via-pinboard"],"slug":["firefox-mac-pdf"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Display PDFs within Mac Firefox, just like Safari\n"
+    ],
+    "published": [
+      "2008-07-06T12:35:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "firefox-mac-pdf"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/firefox-mac-pdf/"
+    ],
+    "category": [
+      "pdf",
+      "firefox",
+      "mac",
+      "browser",
+      "extension",
+      "via-pinboard"
+    ],
+    "slug": [
+      "firefox-mac-pdf"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["...for the Gameboy Advance!  Mmm... Original Elite.\n"],"published":["2004-11-14T14:30:02Z"],"entry-type":["bookmark"],"name":["Pocket BBC..."],"bookmark-of":["http://www.geocities.com/quirky_2k1/emulation/"],"category":["fun","via-pinboard"],"slug":["pocket-bbc"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "...for the Gameboy Advance!  Mmm... Original Elite.\n"
+    ],
+    "published": [
+      "2004-11-14T14:30:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Pocket BBC..."
+    ],
+    "bookmark-of": [
+      "http://www.geocities.com/quirky_2k1/emulation/"
+    ],
+    "category": [
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pocket-bbc"
+    ]
+  }
+}

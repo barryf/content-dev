@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2013-01-05T11:11:27Z"],"entry-type":["bookmark"],"name":["How to Create Retina-Calibre Favicons"],"bookmark-of":["http://daringfireball.net/2013/01/retina_favicons"],"category":["favicon","mac","ico","retina","via-pinboard"],"slug":["how-to-create-retina-calibre-favicons"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-01-05T11:11:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Create Retina-Calibre Favicons"
+    ],
+    "bookmark-of": [
+      "http://daringfireball.net/2013/01/retina_favicons"
+    ],
+    "category": [
+      "favicon",
+      "mac",
+      "ico",
+      "retina",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-create-retina-calibre-favicons"
+    ]
+  }
+}

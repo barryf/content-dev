@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh Soz."],"published":["2014-12-05T15:07:27Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/540884619030458368"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/540885165913161728"],"slug":["tweet-540885165913161728"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh Soz."
+    ],
+    "published": [
+      "2014-12-05T15:07:27Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/540884619030458368"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/540885165913161728"
+    ],
+    "slug": [
+      "tweet-540885165913161728"
+    ]
+  }
+}

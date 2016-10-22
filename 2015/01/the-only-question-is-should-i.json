@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["The only question is, should I shave off my Christmas beard before going back to the office in the morning?"],"published":["2015-01-04T20:12:27Z"],"entry-type":["reply"],"in-reply-to":["https://barryfrost.com/2015/01/it-s-the-last-day-of"],"slug":["the-only-question-is-should-i"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The only question is, should I shave off my Christmas beard before going back to the office in the morning?"
+    ],
+    "published": [
+      "2015-01-04T20:12:27Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/01/it-s-the-last-day-of"
+    ],
+    "slug": [
+      "the-only-question-is-should-i"
+    ]
+  }
+}

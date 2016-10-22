@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["What really matters to developers\n"],"published":["2007-07-17T21:33:02Z"],"entry-type":["bookmark"],"name":["A Field Guide to Developers - Joel on Software"],"bookmark-of":["http://www.joelonsoftware.com/articles/FieldGuidetoDevelopers.html"],"category":["business","career","culture","interview","office","productivity","recruitment","startup","web","work","via-pinboard"],"slug":["a-field-guide-to-developers-joel"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "What really matters to developers\n"
+    ],
+    "published": [
+      "2007-07-17T21:33:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Field Guide to Developers - Joel on Software"
+    ],
+    "bookmark-of": [
+      "http://www.joelonsoftware.com/articles/FieldGuidetoDevelopers.html"
+    ],
+    "category": [
+      "business",
+      "career",
+      "culture",
+      "interview",
+      "office",
+      "productivity",
+      "recruitment",
+      "startup",
+      "web",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-field-guide-to-developers-joel"
+    ]
+  }
+}

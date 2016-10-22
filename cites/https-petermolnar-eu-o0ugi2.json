@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://petermolnar.eu/o0ugi2/"],"published":["2016-01-12T14:34:50Z"],"content":["Hi Barry! \n Thank you for the response; to be honest, I’m struggling to get contacts to the Cambridge University, and right now I have even less chance in London. I’d only try London if Cambridge fails as an option.  \n The main reason for Cambridge &amp; the University is that I’d like to get some of the students involved; they could then localize the idea and spread it in their native language, which, I believe, is a barrier for the indieweb at the moment. \n But if you want to do one in London, I’d be happy to co-organize that :)"],"in-reply-to":["https://barryfrost.com/2016/01/hi-peter-i-d-be-happy"],"author":["https://petermolnar.eu/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://petermolnar.eu/o0ugi2/"
+    ],
+    "published": [
+      "2016-01-12T14:34:50Z"
+    ],
+    "content": [
+      "Hi Barry! \n Thank you for the response; to be honest, I’m struggling to get contacts to the Cambridge University, and right now I have even less chance in London. I’d only try London if Cambridge fails as an option.  \n The main reason for Cambridge &amp; the University is that I’d like to get some of the students involved; they could then localize the idea and spread it in their native language, which, I believe, is a barrier for the indieweb at the moment. \n But if you want to do one in London, I’d be happy to co-organize that :)"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/01/hi-peter-i-d-be-happy"
+    ],
+    "author": [
+      "https://petermolnar.eu/"
+    ]
+  }
+}

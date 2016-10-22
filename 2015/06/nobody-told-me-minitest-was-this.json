@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["with comparisons to RSpec"],"published":["2015-06-11T10:37:57Z"],"entry-type":["bookmark"],"name":["Nobody told me Minitest was this fun"],"bookmark-of":["http://blog.plataformatec.com.br/2015/05/nobody-told-me-minitest-was-this-fun/"],"category":["testing","ruby","rails","rspec"],"slug":["nobody-told-me-minitest-was-this"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "with comparisons to RSpec"
+    ],
+    "published": [
+      "2015-06-11T10:37:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Nobody told me Minitest was this fun"
+    ],
+    "bookmark-of": [
+      "http://blog.plataformatec.com.br/2015/05/nobody-told-me-minitest-was-this-fun/"
+    ],
+    "category": [
+      "testing",
+      "ruby",
+      "rails",
+      "rspec"
+    ],
+    "slug": [
+      "nobody-told-me-minitest-was-this"
+    ]
+  }
+}

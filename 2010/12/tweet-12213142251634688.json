@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mattjukes Nice. Standing? I'll see if I can spot you in the 20k crowd!"],"published":["2010-12-07T18:33:34Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15366167/status/12211152918413314"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/12213142251634688"],"slug":["tweet-12213142251634688"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mattjukes Nice. Standing? I'll see if I can spot you in the 20k crowd!"
+    ],
+    "published": [
+      "2010-12-07T18:33:34Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15366167/status/12211152918413314"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/12213142251634688"
+    ],
+    "slug": [
+      "tweet-12213142251634688"
+    ]
+  }
+}

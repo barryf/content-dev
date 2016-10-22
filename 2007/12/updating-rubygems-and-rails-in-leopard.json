@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-23T15:32:48Z"],"entry-type":["bookmark"],"name":["Updating RubyGems and Rails in Leopard"],"bookmark-of":["http://kosmaczewski.net/2007/12/14/updating-rubygems-and-rails-in-leopard/"],"category":["ruby","rails","leopard","dev","upgrade","gem","via-pinboard"],"slug":["updating-rubygems-and-rails-in-leopard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-23T15:32:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Updating RubyGems and Rails in Leopard"
+    ],
+    "bookmark-of": [
+      "http://kosmaczewski.net/2007/12/14/updating-rubygems-and-rails-in-leopard/"
+    ],
+    "category": [
+      "ruby",
+      "rails",
+      "leopard",
+      "dev",
+      "upgrade",
+      "gem",
+      "via-pinboard"
+    ],
+    "slug": [
+      "updating-rubygems-and-rails-in-leopard"
+    ]
+  }
+}

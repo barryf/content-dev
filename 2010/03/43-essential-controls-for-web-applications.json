@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2010-03-15T22:27:49Z"],"entry-type":["bookmark"],"name":["43 Essential Controls for Web Applications"],"bookmark-of":["http://www.uxbooth.com/blog/essential-controls-for-web-applications/"],"category":["web","webapp","dev","javascript","control","form","via-pinboard"],"slug":["43-essential-controls-for-web-applications"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-03-15T22:27:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "43 Essential Controls for Web Applications"
+    ],
+    "bookmark-of": [
+      "http://www.uxbooth.com/blog/essential-controls-for-web-applications/"
+    ],
+    "category": [
+      "web",
+      "webapp",
+      "dev",
+      "javascript",
+      "control",
+      "form",
+      "via-pinboard"
+    ],
+    "slug": [
+      "43-essential-controls-for-web-applications"
+    ]
+  }
+}

@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Photos displayed by their location on a Google Map\n"],"published":["2005-10-06T15:20:50Z"],"entry-type":["bookmark"],"name":["Panoramio"],"bookmark-of":["http://www.panoramio.com/"],"category":["web20","mashup","google","gmap","ajax","flickr","web","api","map","photo","via-pinboard"],"slug":["panoramio"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Photos displayed by their location on a Google Map\n"
+    ],
+    "published": [
+      "2005-10-06T15:20:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Panoramio"
+    ],
+    "bookmark-of": [
+      "http://www.panoramio.com/"
+    ],
+    "category": [
+      "web20",
+      "mashup",
+      "google",
+      "gmap",
+      "ajax",
+      "flickr",
+      "web",
+      "api",
+      "map",
+      "photo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "panoramio"
+    ]
+  }
+}

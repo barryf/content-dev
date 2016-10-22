@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2015-06-11T10:35:19Z"],"entry-type":["bookmark"],"name":["How to undo (almost) anything with Git"],"bookmark-of":["https://github.com/blog/2019-how-to-undo-almost-anything-with-git"],"category":["git","workflow"],"slug":["how-to-undo-almost-anything-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-06-11T10:35:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to undo (almost) anything with Git"
+    ],
+    "bookmark-of": [
+      "https://github.com/blog/2019-how-to-undo-almost-anything-with-git"
+    ],
+    "category": [
+      "git",
+      "workflow"
+    ],
+    "slug": [
+      "how-to-undo-almost-anything-with"
+    ]
+  }
+}

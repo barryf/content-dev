@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-11-30T09:34:13Z"],"entry-type":["bookmark"],"name":["The BBC Micro turns 30"],"bookmark-of":["http://www.reghardware.com/2011/11/30/bbc_micro_model_b_30th_anniversary/print.html"],"category":["bbc","uk","history","acorn","computer","via-pinboard"],"slug":["the-bbc-micro-turns-30"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-11-30T09:34:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The BBC Micro turns 30"
+    ],
+    "bookmark-of": [
+      "http://www.reghardware.com/2011/11/30/bbc_micro_model_b_30th_anniversary/print.html"
+    ],
+    "category": [
+      "bbc",
+      "uk",
+      "history",
+      "acorn",
+      "computer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-bbc-micro-turns-30"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2011-04-18T07:54:36Z"],"entry-type":["bookmark"],"name":["Ruby interface to the Clickatell SMS Gateway API"],"bookmark-of":["https://github.com/lukeredpath/clickatell"],"category":["clickatell","ruby","api","sms","via-pinboard"],"slug":["ruby-interface-to-the-clickatell-sms"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-04-18T07:54:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ruby interface to the Clickatell SMS Gateway API"
+    ],
+    "bookmark-of": [
+      "https://github.com/lukeredpath/clickatell"
+    ],
+    "category": [
+      "clickatell",
+      "ruby",
+      "api",
+      "sms",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-interface-to-the-clickatell-sms"
+    ]
+  }
+}

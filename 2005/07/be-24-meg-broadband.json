@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["24Mbit broadband coming to London. Would be rather nice.\n"],"published":["2005-07-01T08:24:53Z"],"entry-type":["bookmark"],"name":["Be* 24 meg broadband"],"bookmark-of":["http://www.bethere.co.uk/"],"category":["broadband","uk","london","via-pinboard"],"slug":["be-24-meg-broadband"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "24Mbit broadband coming to London. Would be rather nice.\n"
+    ],
+    "published": [
+      "2005-07-01T08:24:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Be* 24 meg broadband"
+    ],
+    "bookmark-of": [
+      "http://www.bethere.co.uk/"
+    ],
+    "category": [
+      "broadband",
+      "uk",
+      "london",
+      "via-pinboard"
+    ],
+    "slug": [
+      "be-24-meg-broadband"
+    ]
+  }
+}

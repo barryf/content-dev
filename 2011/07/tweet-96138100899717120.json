@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids Congratulations to you and Alex."],"published":["2011-07-27T08:41:24Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/96137513936228352"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/96138100899717120"],"slug":["tweet-96138100899717120"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids Congratulations to you and Alex."
+    ],
+    "published": [
+      "2011-07-27T08:41:24Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/96137513936228352"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/96138100899717120"
+    ],
+    "slug": [
+      "tweet-96138100899717120"
+    ]
+  }
+}

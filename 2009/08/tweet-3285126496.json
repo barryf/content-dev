@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@MissAmyMcMillan The cheeky git. I hope you stomped on it extra hard that day as punishment."],"published":["2009-08-13T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/56359582/status/3284488176"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3285126496"],"slug":["tweet-3285126496"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@MissAmyMcMillan The cheeky git. I hope you stomped on it extra hard that day as punishment."
+    ],
+    "published": [
+      "2009-08-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/56359582/status/3284488176"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3285126496"
+    ],
+    "slug": [
+      "tweet-3285126496"
+    ]
+  }
+}

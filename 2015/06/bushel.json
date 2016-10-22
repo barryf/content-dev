@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Bushel is a cloud-based Mobile Device Management (MDM) solution for the Mac, iPhone, iPad and iPod devices in your workplace. Designed to make the complex tasks simple so you can focus on business.\r\n"],"published":["2015-06-19T13:16:24Z"],"entry-type":["bookmark"],"name":["Bushel"],"bookmark-of":["http://www.bushel.com/"],"category":["apple","mdm","device","work"],"slug":["bushel"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Bushel is a cloud-based Mobile Device Management (MDM) solution for the Mac, iPhone, iPad and iPod devices in your workplace. Designed to make the complex tasks simple so you can focus on business.\r\n"
+    ],
+    "published": [
+      "2015-06-19T13:16:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bushel"
+    ],
+    "bookmark-of": [
+      "http://www.bushel.com/"
+    ],
+    "category": [
+      "apple",
+      "mdm",
+      "device",
+      "work"
+    ],
+    "slug": [
+      "bushel"
+    ]
+  }
+}

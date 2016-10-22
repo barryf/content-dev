@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Only Firefox 3 renders numeric (100, 200, ..., 900) font weight values correctly\n"],"published":["2009-01-24T16:22:41Z"],"entry-type":["bookmark"],"name":["Font-weight is still broken in all but one browser"],"bookmark-of":["http://clagnut.com/blog/2228/"],"category":["firefox","browser","font","fontweight","typeface","weight","typography","safari","design","via-pinboard"],"slug":["font-weight-is-still-broken-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Only Firefox 3 renders numeric (100, 200, ..., 900) font weight values correctly\n"
+    ],
+    "published": [
+      "2009-01-24T16:22:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Font-weight is still broken in all but one browser"
+    ],
+    "bookmark-of": [
+      "http://clagnut.com/blog/2228/"
+    ],
+    "category": [
+      "firefox",
+      "browser",
+      "font",
+      "fontweight",
+      "typeface",
+      "weight",
+      "typography",
+      "safari",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "font-weight-is-still-broken-in"
+    ]
+  }
+}

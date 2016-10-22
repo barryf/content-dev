@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["“Sir… We formally received an application that… KHK Global Limited were applying to register ‘barryfrost’ as their Brand Name” Seems legit."],"published":["2014-02-27T09:11:57Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/438964713368866816"],"slug":["tweet-438964713368866816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "“Sir… We formally received an application that… KHK Global Limited were applying to register ‘barryfrost’ as their Brand Name” Seems legit."
+    ],
+    "published": [
+      "2014-02-27T09:11:57Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/438964713368866816"
+    ],
+    "slug": [
+      "tweet-438964713368866816"
+    ]
+  }
+}

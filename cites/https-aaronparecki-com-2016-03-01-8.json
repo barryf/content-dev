@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://aaronparecki.com/2016/03/01/8/"],"published":["2016-03-01T21:14:51Z"],"content":["Just published new working drafts of Webmention and Micropub!\n\nhttps://www.w3.org/TR/2016/WD-webmention-20160301/\nhttps://www.w3.org/TR/2016/WD-micropub-20160301/\n\nThanks to everyone for their contributions to these updated drafts!"],"author":["https://aaronparecki.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/2016/03/01/8/"
+    ],
+    "published": [
+      "2016-03-01T21:14:51Z"
+    ],
+    "content": [
+      "Just published new working drafts of Webmention and Micropub!\n\nhttps://www.w3.org/TR/2016/WD-webmention-20160301/\nhttps://www.w3.org/TR/2016/WD-micropub-20160301/\n\nThanks to everyone for their contributions to these updated drafts!"
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ]
+  }
+}

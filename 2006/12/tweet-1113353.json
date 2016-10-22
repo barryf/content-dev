@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Sad that I'm now sitting in the naughty room, working on a laptop, bereft of dual monitors"],"published":["2006-12-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1113353"],"slug":["tweet-1113353"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sad that I'm now sitting in the naughty room, working on a laptop, bereft of dual monitors"
+    ],
+    "published": [
+      "2006-12-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1113353"
+    ],
+    "slug": [
+      "tweet-1113353"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-23T15:11:05Z"],"entry-type":["bookmark"],"name":["CSV to vCard"],"bookmark-of":["http://homepage.mac.com/phrogz/CSV2vCard_v2.html"],"category":["vcard","csv","convert","address","via-pinboard"],"slug":["csv-to-vcard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-23T15:11:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CSV to vCard"
+    ],
+    "bookmark-of": [
+      "http://homepage.mac.com/phrogz/CSV2vCard_v2.html"
+    ],
+    "category": [
+      "vcard",
+      "csv",
+      "convert",
+      "address",
+      "via-pinboard"
+    ],
+    "slug": [
+      "csv-to-vcard"
+    ]
+  }
+}

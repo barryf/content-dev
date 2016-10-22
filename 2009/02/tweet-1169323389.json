@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair Did you not bring your skis? This weather should be no challenge for you after last week."],"published":["2009-02-02T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/1169294985"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1169323389"],"slug":["tweet-1169323389"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair Did you not bring your skis? This weather should be no challenge for you after last week."
+    ],
+    "published": [
+      "2009-02-02T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/1169294985"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1169323389"
+    ],
+    "slug": [
+      "tweet-1169323389"
+    ]
+  }
+}

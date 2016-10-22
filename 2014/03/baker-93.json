@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"content":["Twitter have recently announced changes to support [multiple photos per tweet and tagging of people in photos](https://blog.twitter.com/2014/photos-just-got-more-social), changes that bring their service even closer to Facebook/Instagram.\r\n\r\nWhat saddens me is the continued shift away from the original concept of a tweet being entirely encapsulated within 140 characters to fit neatly in a SMS. It's easy to see why, but photos and tagged users will be hidden in a tweet's metadata rather than being part of its body. \r\n\r\nIt's expected that [Twitter will include the new features in the public API](https://twitter.com/TwitterDev/status/448927367369457664) but what else is being planned?\r\n\r\n> Twitter's @vivian calls hashtags & @s \"arcane\": \"We are working on moving the scaffolding of twitter into the background\" @cwarzel \r\n\r\nAs the above [tweet suggests](https://twitter.com/BuzzFeedBen/status/445580097475448832), other non-text cruft may also be on the way out. If so it'll be a shame. It's arguably a welcome move for Twitter's new users to lower the barrier to entry and bring it closer to Facebook, but I'll miss the 1:1 relationship between a tweet's content and its meaning."],"published":["2014-03-27T17:06:28Z"],"entry-type":["note"],"category":["twitter","via-baker"],"syndication":["https://twitter.com/barryf/status/449233508226322432"],"slug":["baker-93"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Twitter have recently announced changes to support [multiple photos per tweet and tagging of people in photos](https://blog.twitter.com/2014/photos-just-got-more-social), changes that bring their service even closer to Facebook/Instagram.\r\n\r\nWhat saddens me is the continued shift away from the original concept of a tweet being entirely encapsulated within 140 characters to fit neatly in a SMS. It's easy to see why, but photos and tagged users will be hidden in a tweet's metadata rather than being part of its body. \r\n\r\nIt's expected that [Twitter will include the new features in the public API](https://twitter.com/TwitterDev/status/448927367369457664) but what else is being planned?\r\n\r\n> Twitter's @vivian calls hashtags & @s \"arcane\": \"We are working on moving the scaffolding of twitter into the background\" @cwarzel \r\n\r\nAs the above [tweet suggests](https://twitter.com/BuzzFeedBen/status/445580097475448832), other non-text cruft may also be on the way out. If so it'll be a shame. It's arguably a welcome move for Twitter's new users to lower the barrier to entry and bring it closer to Facebook, but I'll miss the 1:1 relationship between a tweet's content and its meaning."
+    ],
+    "published": [
+      "2014-03-27T17:06:28Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "twitter",
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/449233508226322432"
+    ],
+    "slug": [
+      "baker-93"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-30T07:52:13Z"],"entry-type":["like"],"like-of":["https://twitter.com/Lesism/status/581770995389825024"],"syndication":["https://twitter.com/Lesism/status/581770995389825024"],"slug":["30-085213"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-30T07:52:13Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/Lesism/status/581770995389825024"
+    ],
+    "syndication": [
+      "https://twitter.com/Lesism/status/581770995389825024"
+    ],
+    "slug": [
+      "30-085213"
+    ]
+  }
+}

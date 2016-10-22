@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["A guide to setting up PGP with CF using Bouncy Castle. Pure Java - doesn't need Windows\n"],"published":["2007-08-30T09:20:53Z"],"entry-type":["bookmark"],"name":["BouncyCastle openPGP and ColdFusion"],"bookmark-of":["http://www.intersuite.com/client/index.cfm/2007/6/3/BouncyCastle-openPGP-and-ColdFusion"],"category":["coldfusion","java","pgp","security","bouncycastle","linux","web","dev","server","via-pinboard"],"slug":["bouncycastle-openpgp-and-coldfusion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A guide to setting up PGP with CF using Bouncy Castle. Pure Java - doesn't need Windows\n"
+    ],
+    "published": [
+      "2007-08-30T09:20:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "BouncyCastle openPGP and ColdFusion"
+    ],
+    "bookmark-of": [
+      "http://www.intersuite.com/client/index.cfm/2007/6/3/BouncyCastle-openPGP-and-ColdFusion"
+    ],
+    "category": [
+      "coldfusion",
+      "java",
+      "pgp",
+      "security",
+      "bouncycastle",
+      "linux",
+      "web",
+      "dev",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bouncycastle-openpgp-and-coldfusion"
+    ]
+  }
+}

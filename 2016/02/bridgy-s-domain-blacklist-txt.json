@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Domains that don't support webmentions. Mainly just the silos."],"published":["2016-02-10T17:22:05Z"],"entry-type":["bookmark"],"name":["Bridgy's domain_blacklist.txt"],"bookmark-of":["https://github.com/snarfed/bridgy/blob/master/domain_blacklist.txt"],"category":["bridgy","webmention","blacklist"],"slug":["bridgy-s-domain-blacklist-txt"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Domains that don't support webmentions. Mainly just the silos."
+    ],
+    "published": [
+      "2016-02-10T17:22:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bridgy's domain_blacklist.txt"
+    ],
+    "bookmark-of": [
+      "https://github.com/snarfed/bridgy/blob/master/domain_blacklist.txt"
+    ],
+    "category": [
+      "bridgy",
+      "webmention",
+      "blacklist"
+    ],
+    "slug": [
+      "bridgy-s-domain-blacklist-txt"
+    ]
+  }
+}

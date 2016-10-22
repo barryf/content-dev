@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I've not used webmention.io so you may want to try IRC for help with setup. Have you tried using it on your notes instead?\n"],"published":["2015-02-05T19:49:13Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/adamprocter/status/563078612715573248"],"slug":["i-ve-not-used-webmention-io"],"syndication":["https://twitter.com/barryf/status/563424625615310848"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've not used webmention.io so you may want to try IRC for help with setup. Have you tried using it on your notes instead?\n"
+    ],
+    "published": [
+      "2015-02-05T19:49:13Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/adamprocter/status/563078612715573248"
+    ],
+    "slug": [
+      "i-ve-not-used-webmention-io"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/563424625615310848"
+    ]
+  }
+}

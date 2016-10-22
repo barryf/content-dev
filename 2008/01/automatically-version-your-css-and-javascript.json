@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Tip for rewriting URLs to CSS/JS to promote client-side caching\n"],"published":["2008-01-13T17:04:25Z"],"entry-type":["bookmark"],"name":["Automatically Version Your CSS and JavaScript Files"],"bookmark-of":["http://particletree.com/notebook/automatically-version-your-css-and-javascript-files/"],"category":["browser","cache","dev","javascript","css","optimisation","performance","via-pinboard"],"slug":["automatically-version-your-css-and-javascript"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tip for rewriting URLs to CSS/JS to promote client-side caching\n"
+    ],
+    "published": [
+      "2008-01-13T17:04:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Automatically Version Your CSS and JavaScript Files"
+    ],
+    "bookmark-of": [
+      "http://particletree.com/notebook/automatically-version-your-css-and-javascript-files/"
+    ],
+    "category": [
+      "browser",
+      "cache",
+      "dev",
+      "javascript",
+      "css",
+      "optimisation",
+      "performance",
+      "via-pinboard"
+    ],
+    "slug": [
+      "automatically-version-your-css-and-javascript"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@BradHaverly Get stuck into @spotify. Lots of old Radiohead singles and rare stuff. Brings back happy 90s memories for us oldies :)"],"published":["2009-09-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3989494461"],"slug":["tweet-3989494461"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BradHaverly Get stuck into @spotify. Lots of old Radiohead singles and rare stuff. Brings back happy 90s memories for us oldies :)"
+    ],
+    "published": [
+      "2009-09-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3989494461"
+    ],
+    "slug": [
+      "tweet-3989494461"
+    ]
+  }
+}

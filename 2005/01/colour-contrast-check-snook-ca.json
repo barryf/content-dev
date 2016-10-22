@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-13T10:34:37Z"],"entry-type":["bookmark"],"name":["Colour Contrast Check - snook.ca"],"bookmark-of":["http://www.snook.ca/technical/colour_contrast/colour.html"],"category":["colour","web","design","via-pinboard"],"slug":["colour-contrast-check-snook-ca"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-13T10:34:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Colour Contrast Check - snook.ca"
+    ],
+    "bookmark-of": [
+      "http://www.snook.ca/technical/colour_contrast/colour.html"
+    ],
+    "category": [
+      "colour",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "colour-contrast-check-snook-ca"
+    ]
+  }
+}

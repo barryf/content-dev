@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/705147100909203456"],"published":["2016-03-02T21:45:44Z"],"content":["@cronkshaw Last chance missed."],"in-reply-to":["https://barryfrost.com/2016/03/cronkshaw-home-win-but-honestly-can"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/705147100909203456"
+    ],
+    "published": [
+      "2016-03-02T21:45:44Z"
+    ],
+    "content": [
+      "@cronkshaw Last chance missed."
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/03/cronkshaw-home-win-but-honestly-can"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

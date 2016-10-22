@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@benlovell Well, the ratio of sensible posts to utter filth has certainly improved."],"published":["2013-09-25T16:05:31Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/10941182/status/382898084147380224"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/382898668522983424"],"slug":["tweet-382898668522983424"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@benlovell Well, the ratio of sensible posts to utter filth has certainly improved."
+    ],
+    "published": [
+      "2013-09-25T16:05:31Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/10941182/status/382898084147380224"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/382898668522983424"
+    ],
+    "slug": [
+      "tweet-382898668522983424"
+    ]
+  }
+}

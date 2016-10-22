@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Manages expenses, scans receipts and creates reports. Mileage, analytics, etc.\n"],"published":["2012-03-08T11:14:14Z"],"entry-type":["bookmark"],"name":["Expensify"],"bookmark-of":["https://www.expensify.com/"],"category":["accounting","finance","business","expenses","via-pinboard"],"slug":["expensify"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Manages expenses, scans receipts and creates reports. Mileage, analytics, etc.\n"
+    ],
+    "published": [
+      "2012-03-08T11:14:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Expensify"
+    ],
+    "bookmark-of": [
+      "https://www.expensify.com/"
+    ],
+    "category": [
+      "accounting",
+      "finance",
+      "business",
+      "expenses",
+      "via-pinboard"
+    ],
+    "slug": [
+      "expensify"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["When printers overlay images from unrelated print jobs beautiful things happen...\n"],"published":["2007-03-11T20:26:48Z"],"entry-type":["bookmark"],"name":["Giornale Nuovo: Greetings from..."],"bookmark-of":["http://www.spamula.net/blog/2007/02/greetings_from.html"],"category":["art","photo","printer","design","forandrewlos","via-pinboard"],"slug":["giornale-nuovo-greetings-from"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "When printers overlay images from unrelated print jobs beautiful things happen...\n"
+    ],
+    "published": [
+      "2007-03-11T20:26:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Giornale Nuovo: Greetings from..."
+    ],
+    "bookmark-of": [
+      "http://www.spamula.net/blog/2007/02/greetings_from.html"
+    ],
+    "category": [
+      "art",
+      "photo",
+      "printer",
+      "design",
+      "forandrewlos",
+      "via-pinboard"
+    ],
+    "slug": [
+      "giornale-nuovo-greetings-from"
+    ]
+  }
+}

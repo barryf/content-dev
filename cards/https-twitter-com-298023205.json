@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Airbrake"],"photo":["http://pbs.twimg.com/profile_images/451107529380999168/c4v8DgiK_normal.png"],"url":["https://twitter.com/airbrake"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Airbrake"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/451107529380999168/c4v8DgiK_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/airbrake"
+    ]
+  }
+}

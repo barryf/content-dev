@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Rugby score!"],"published":["2012-10-30T22:22:58Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/263405663517032449"],"slug":["tweet-263405663517032449"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rugby score!"
+    ],
+    "published": [
+      "2012-10-30T22:22:58Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/263405663517032449"
+    ],
+    "slug": [
+      "tweet-263405663517032449"
+    ]
+  }
+}

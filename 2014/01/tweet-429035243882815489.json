@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Getting a few RTs tonight of an innocent tweet I posted in 2006 about Arsenal. Might be the first one on Twitter? https://twitter.com/barryf/status/27690"],"published":["2014-01-30T23:35:47Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/429035243882815489"],"slug":["tweet-429035243882815489"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Getting a few RTs tonight of an innocent tweet I posted in 2006 about Arsenal. Might be the first one on Twitter? https://twitter.com/barryf/status/27690"
+    ],
+    "published": [
+      "2014-01-30T23:35:47Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/429035243882815489"
+    ],
+    "slug": [
+      "tweet-429035243882815489"
+    ]
+  }
+}

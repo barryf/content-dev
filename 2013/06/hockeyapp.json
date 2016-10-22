@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Distribute iOS/Mac/Android app builds to testers, get feedback, view analytics and review crash logs. Similar to TestFlight"],"published":["2013-06-07T21:11:57Z"],"entry-type":["bookmark"],"name":["HockeyApp"],"bookmark-of":["http://hockeyapp.net/"],"category":["app","testing","android","ios","mac","via-pinboard"],"slug":["hockeyapp"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Distribute iOS/Mac/Android app builds to testers, get feedback, view analytics and review crash logs. Similar to TestFlight"
+    ],
+    "published": [
+      "2013-06-07T21:11:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HockeyApp"
+    ],
+    "bookmark-of": [
+      "http://hockeyapp.net/"
+    ],
+    "category": [
+      "app",
+      "testing",
+      "android",
+      "ios",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hockeyapp"
+    ]
+  }
+}

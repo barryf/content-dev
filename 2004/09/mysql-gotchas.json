@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Ouch. Time to switch to PostgreSQL.\n"],"published":["2004-09-06T20:07:51Z"],"entry-type":["bookmark"],"name":["MySQL Gotchas"],"bookmark-of":["http://sql-info.de/mysql/gotchas.html"],"category":["database","mysql","via-pinboard"],"slug":["mysql-gotchas"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ouch. Time to switch to PostgreSQL.\n"
+    ],
+    "published": [
+      "2004-09-06T20:07:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MySQL Gotchas"
+    ],
+    "bookmark-of": [
+      "http://sql-info.de/mysql/gotchas.html"
+    ],
+    "category": [
+      "database",
+      "mysql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mysql-gotchas"
+    ]
+  }
+}

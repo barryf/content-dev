@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Nice, clean Mac Flash blocker with whitelists\n"],"published":["2009-10-08T18:08:34Z"],"entry-type":["bookmark"],"name":["ClickToFlash"],"bookmark-of":["http://rentzsch.github.com/clicktoflash/"],"category":["mac","flash","block","browser","plugin","via-pinboard"],"slug":["clicktoflash"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nice, clean Mac Flash blocker with whitelists\n"
+    ],
+    "published": [
+      "2009-10-08T18:08:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ClickToFlash"
+    ],
+    "bookmark-of": [
+      "http://rentzsch.github.com/clicktoflash/"
+    ],
+    "category": [
+      "mac",
+      "flash",
+      "block",
+      "browser",
+      "plugin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "clicktoflash"
+    ]
+  }
+}

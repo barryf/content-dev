@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/gdsteam/status/757935993336926208"],"published":["2016-07-26T13:49:57Z"],"content":["And here's a behind the scenes video of how GOV.UK Notify works.\nhttps://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429"],"author":["https://twitter.com/gdsteam"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/gdsteam/status/757935993336926208"
+    ],
+    "published": [
+      "2016-07-26T13:49:57Z"
+    ],
+    "content": [
+      "And here's a behind the scenes video of how GOV.UK Notify works.\nhttps://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429"
+    ],
+    "author": [
+      "https://twitter.com/gdsteam"
+    ]
+  }
+}

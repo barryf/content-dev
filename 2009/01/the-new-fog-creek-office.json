@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Seriously expensive, but it sounds like an amazing place to work\n"],"published":["2009-01-04T09:30:47Z"],"entry-type":["bookmark"],"name":["The new Fog Creek office"],"bookmark-of":["http://www.joelonsoftware.com/items/2008/12/29.html"],"category":["office","joel","bestpractice","work","environment","inspiration","business","workspace","via-pinboard"],"slug":["the-new-fog-creek-office"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Seriously expensive, but it sounds like an amazing place to work\n"
+    ],
+    "published": [
+      "2009-01-04T09:30:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The new Fog Creek office"
+    ],
+    "bookmark-of": [
+      "http://www.joelonsoftware.com/items/2008/12/29.html"
+    ],
+    "category": [
+      "office",
+      "joel",
+      "bestpractice",
+      "work",
+      "environment",
+      "inspiration",
+      "business",
+      "workspace",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-new-fog-creek-office"
+    ]
+  }
+}

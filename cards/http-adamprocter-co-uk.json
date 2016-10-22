@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Adam Procter"],"photo":["https://twitter.com/adamprocter/profile_image?size=original"],"url":["http://adamprocter.co.uk"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Adam Procter"
+    ],
+    "photo": [
+      "https://twitter.com/adamprocter/profile_image?size=original"
+    ],
+    "url": [
+      "http://adamprocter.co.uk"
+    ]
+  }
+}

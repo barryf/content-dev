@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-06T12:06:50Z"],"entry-type":["bookmark"],"name":["Ask Jeeves buy Bloglines"],"bookmark-of":["http://napsterization.org/stories/archives/000397.html"],"category":["blog","via-pinboard"],"slug":["ask-jeeves-buy-bloglines"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-06T12:06:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ask Jeeves buy Bloglines"
+    ],
+    "bookmark-of": [
+      "http://napsterization.org/stories/archives/000397.html"
+    ],
+    "category": [
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ask-jeeves-buy-bloglines"
+    ]
+  }
+}

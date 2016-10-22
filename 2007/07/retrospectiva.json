@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Trac-like Subversion-integrating system using Rails. Used by Joyent\n"],"published":["2007-07-18T12:44:49Z"],"entry-type":["bookmark"],"name":["retrospectiva"],"bookmark-of":["http://retrospectiva.org/blog"],"category":["collaboration","dev","project","rails","ruby","subversion","svn","web","wiki","via-pinboard"],"slug":["retrospectiva"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Trac-like Subversion-integrating system using Rails. Used by Joyent\n"
+    ],
+    "published": [
+      "2007-07-18T12:44:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "retrospectiva"
+    ],
+    "bookmark-of": [
+      "http://retrospectiva.org/blog"
+    ],
+    "category": [
+      "collaboration",
+      "dev",
+      "project",
+      "rails",
+      "ruby",
+      "subversion",
+      "svn",
+      "web",
+      "wiki",
+      "via-pinboard"
+    ],
+    "slug": [
+      "retrospectiva"
+    ]
+  }
+}

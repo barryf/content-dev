@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["text-rendering: optimizeLegibility; -- on by default for Firefox above 20px; required for Webkit\n"],"published":["2010-08-02T14:23:10Z"],"entry-type":["bookmark"],"name":["Cross-browser kerning-pairs & ligatures"],"bookmark-of":["http://www.aestheticallyloyal.com/public/optimize-legibility/"],"category":["font","typography","ligature","kerning","text","webkit","css","via-pinboard"],"slug":["cross-browser-kerning-pairs-ligatures"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "text-rendering: optimizeLegibility; -- on by default for Firefox above 20px; required for Webkit\n"
+    ],
+    "published": [
+      "2010-08-02T14:23:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Cross-browser kerning-pairs & ligatures"
+    ],
+    "bookmark-of": [
+      "http://www.aestheticallyloyal.com/public/optimize-legibility/"
+    ],
+    "category": [
+      "font",
+      "typography",
+      "ligature",
+      "kerning",
+      "text",
+      "webkit",
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cross-browser-kerning-pairs-ligatures"
+    ]
+  }
+}

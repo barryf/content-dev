@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My MacBook Air prefers Safari to Firefox. I know this because its fans don't go bonkers as they do when using the CPU hungry 'Fox."],"published":["2009-05-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1798000505"],"slug":["tweet-1798000505"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My MacBook Air prefers Safari to Firefox. I know this because its fans don't go bonkers as they do when using the CPU hungry 'Fox."
+    ],
+    "published": [
+      "2009-05-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1798000505"
+    ],
+    "slug": [
+      "tweet-1798000505"
+    ]
+  }
+}

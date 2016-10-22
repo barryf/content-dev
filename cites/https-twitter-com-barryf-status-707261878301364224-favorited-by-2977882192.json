@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/707261878301364224#favorited-by-2977882192"],"published":["2016-03-08T18:22:49Z"],"like-of":["https://barryfrost.com/2016/03/the-apps-in-my-panasonic-tv"],"author":["https://twitter.com/velosheduk"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/707261878301364224#favorited-by-2977882192"
+    ],
+    "published": [
+      "2016-03-08T18:22:49Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/03/the-apps-in-my-panasonic-tv"
+    ],
+    "author": [
+      "https://twitter.com/velosheduk"
+    ]
+  }
+}

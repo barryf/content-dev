@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes @boffbowsh @ioptics Is this safe to download or will I regret the time I inevitably lose?"],"published":["2012-09-16T15:35:56Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/247297589777661952"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/247358163660185600"],"slug":["tweet-247358163660185600"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes @boffbowsh @ioptics Is this safe to download or will I regret the time I inevitably lose?"
+    ],
+    "published": [
+      "2012-09-16T15:35:56Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/247297589777661952"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/247358163660185600"
+    ],
+    "slug": [
+      "tweet-247358163660185600"
+    ]
+  }
+}

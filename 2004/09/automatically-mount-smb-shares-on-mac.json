@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-10T14:01:41Z"],"entry-type":["bookmark"],"name":["Automatically mount SMB shares on Mac OS X login"],"bookmark-of":["http://www.macosxhints.com/article.php?story=20040430080642734"],"category":["mac","via-pinboard"],"slug":["automatically-mount-smb-shares-on-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-10T14:01:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Automatically mount SMB shares on Mac OS X login"
+    ],
+    "bookmark-of": [
+      "http://www.macosxhints.com/article.php?story=20040430080642734"
+    ],
+    "category": [
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "automatically-mount-smb-shares-on-mac"
+    ]
+  }
+}

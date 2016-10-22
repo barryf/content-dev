@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-09T13:15:04Z"],"entry-type":["bookmark"],"name":["Spyware Warrior: Rogue/Suspect Anti-Spyware Products & Web Sites"],"bookmark-of":["http://spywarewarrior.com/rogue_anti-spyware.htm"],"category":["spyware","via-pinboard"],"slug":["spyware-warrior-rogue-suspect-anti-spyware"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-09T13:15:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Spyware Warrior: Rogue/Suspect Anti-Spyware Products & Web Sites"
+    ],
+    "bookmark-of": [
+      "http://spywarewarrior.com/rogue_anti-spyware.htm"
+    ],
+    "category": [
+      "spyware",
+      "via-pinboard"
+    ],
+    "slug": [
+      "spyware-warrior-rogue-suspect-anti-spyware"
+    ]
+  }
+}

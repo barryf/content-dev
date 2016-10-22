@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-12-29T16:20:27Z"],"entry-type":["bookmark"],"name":["Safe HTML checker"],"bookmark-of":["http://simon.incutio.com/archive/2003/02/23/safeHtmlChecker"],"category":["dev","xhtml","via-pinboard"],"slug":["safe-html-checker"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-12-29T16:20:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Safe HTML checker"
+    ],
+    "bookmark-of": [
+      "http://simon.incutio.com/archive/2003/02/23/safeHtmlChecker"
+    ],
+    "category": [
+      "dev",
+      "xhtml",
+      "via-pinboard"
+    ],
+    "slug": [
+      "safe-html-checker"
+    ]
+  }
+}

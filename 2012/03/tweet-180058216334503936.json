@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Southwhere?"],"published":["2012-03-14T22:29:58Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/180041487164256256"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/180058216334503936"],"slug":["tweet-180058216334503936"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Southwhere?"
+    ],
+    "published": [
+      "2012-03-14T22:29:58Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/180041487164256256"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/180058216334503936"
+    ],
+    "slug": [
+      "tweet-180058216334503936"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/stevesmith2609/status/588332719983173632"],"published":["2015-04-15T13:27:05Z"],"content":["I did say the house purchase completed with little fanfare; I did get a certificate from (I assume) HM Land Registry"],"photo":["http://pbs.twimg.com/media/CCotfaJXIAAVYCQ.jpg"],"author":["https://twitter.com/stevesmith2609"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/stevesmith2609/status/588332719983173632"
+    ],
+    "published": [
+      "2015-04-15T13:27:05Z"
+    ],
+    "content": [
+      "I did say the house purchase completed with little fanfare; I did get a certificate from (I assume) HM Land Registry"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CCotfaJXIAAVYCQ.jpg"
+    ],
+    "author": [
+      "https://twitter.com/stevesmith2609"
+    ]
+  }
+}

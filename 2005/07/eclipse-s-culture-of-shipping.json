@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-07-12T19:58:26Z"],"entry-type":["bookmark"],"name":["Eclipse's Culture of Shipping"],"bookmark-of":["http://www.artima.com/lejava/articles/eclipse_culture.html"],"category":["methodology","eclipse","dev","via-pinboard"],"slug":["eclipse-s-culture-of-shipping"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-07-12T19:58:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Eclipse's Culture of Shipping"
+    ],
+    "bookmark-of": [
+      "http://www.artima.com/lejava/articles/eclipse_culture.html"
+    ],
+    "category": [
+      "methodology",
+      "eclipse",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "eclipse-s-culture-of-shipping"
+    ]
+  }
+}

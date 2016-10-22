@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["I'm excited to read about [Manton Reece](http://www.manton.org/)'s upcoming microblog platform, especially as he seems keen to [support Micropub and Webmention](http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html). "],"published":["2016-01-31T18:27:48Z"],"entry-type":["note"],"summary":["I'm excited to read about @manton2's upcoming microblog platform, especially if it supports Micropub and Webmention: http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html"],"category":["indieweb","micropub","webmention"],"syndication":["https://twitter.com/barryf/status/693863278599020544"],"slug":["i-m-excited-to-read-about"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm excited to read about [Manton Reece](http://www.manton.org/)'s upcoming microblog platform, especially as he seems keen to [support Micropub and Webmention](http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html). "
+    ],
+    "published": [
+      "2016-01-31T18:27:48Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "I'm excited to read about @manton2's upcoming microblog platform, especially if it supports Micropub and Webmention: http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html"
+    ],
+    "category": [
+      "indieweb",
+      "micropub",
+      "webmention"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/693863278599020544"
+    ],
+    "slug": [
+      "i-m-excited-to-read-about"
+    ]
+  }
+}

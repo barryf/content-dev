@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Drew's personal portfolio. Big, full-screen style design."],"published":["2014-02-20T15:59:44Z"],"entry-type":["bookmark"],"name":["Drew Wilson"],"bookmark-of":["http://drewwilson.com/"],"category":["portfolio","inspiration","design","via-pinboard"],"slug":["drew-wilson"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Drew's personal portfolio. Big, full-screen style design."
+    ],
+    "published": [
+      "2014-02-20T15:59:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Drew Wilson"
+    ],
+    "bookmark-of": [
+      "http://drewwilson.com/"
+    ],
+    "category": [
+      "portfolio",
+      "inspiration",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "drew-wilson"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Kris Leech"],"photo":["http://pbs.twimg.com/profile_images/453172787759181825/_vQ8-psT_normal.png"],"url":["https://twitter.com/krisleech"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kris Leech"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/453172787759181825/_vQ8-psT_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/krisleech"
+    ]
+  }
+}

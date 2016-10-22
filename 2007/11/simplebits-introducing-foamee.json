@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["\"I owe you a beer\" app built on top of Twitter\n"],"published":["2007-11-11T11:39:36Z"],"entry-type":["bookmark"],"name":["SimpleBits ~ Introducing Foamee"],"bookmark-of":["http://www.simplebits.com/notebook/2007/11/09/foamee.html"],"category":["api","rails","social","twitter","web","inspiration","via-pinboard"],"slug":["simplebits-introducing-foamee"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"I owe you a beer\" app built on top of Twitter\n"
+    ],
+    "published": [
+      "2007-11-11T11:39:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SimpleBits ~ Introducing Foamee"
+    ],
+    "bookmark-of": [
+      "http://www.simplebits.com/notebook/2007/11/09/foamee.html"
+    ],
+    "category": [
+      "api",
+      "rails",
+      "social",
+      "twitter",
+      "web",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "simplebits-introducing-foamee"
+    ]
+  }
+}

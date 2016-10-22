@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Black day for SagePay, our payment provider, who has been up and down all day. PR disaster too: http://www.facebook.com/SupportedForSagepay http://twitter.com/search/sagepay"],"published":["2011-03-03T17:22:25Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/43360593301876736"],"slug":["tweet-43360593301876736"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Black day for SagePay, our payment provider, who has been up and down all day. PR disaster too: http://www.facebook.com/SupportedForSagepay http://twitter.com/search/sagepay"
+    ],
+    "published": [
+      "2011-03-03T17:22:25Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/43360593301876736"
+    ],
+    "slug": [
+      "tweet-43360593301876736"
+    ]
+  }
+}

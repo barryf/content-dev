@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Introspected tunnels to localhost\r\n"],"published":["2014-11-06T09:52:21Z"],"entry-type":["bookmark"],"name":["ngrok"],"bookmark-of":["https://ngrok.com/"],"category":["tunnel","proxy","dev","localhost","via-pinboard"],"slug":["ngrok"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Introspected tunnels to localhost\r\n"
+    ],
+    "published": [
+      "2014-11-06T09:52:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ngrok"
+    ],
+    "bookmark-of": [
+      "https://ngrok.com/"
+    ],
+    "category": [
+      "tunnel",
+      "proxy",
+      "dev",
+      "localhost",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ngrok"
+    ]
+  }
+}

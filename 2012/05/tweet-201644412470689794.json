@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Yarrr #hastings http://twitter.com/barryf/status/201644412470689794/photo/1"],"published":["2012-05-13T12:05:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/201644412470689794"],"slug":["tweet-201644412470689794"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Yarrr #hastings http://twitter.com/barryf/status/201644412470689794/photo/1"
+    ],
+    "published": [
+      "2012-05-13T12:05:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/201644412470689794"
+    ],
+    "slug": [
+      "tweet-201644412470689794"
+    ]
+  }
+}

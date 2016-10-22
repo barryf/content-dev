@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm hoping that Santa reads @hicksdesign's hands-on Apple TV 2 review and decides I've been a good boy this year - http://bit.ly/eb4acz"],"published":["2010-12-21T16:52:33Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/17261151553327104"],"slug":["tweet-17261151553327104"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm hoping that Santa reads @hicksdesign's hands-on Apple TV 2 review and decides I've been a good boy this year - http://bit.ly/eb4acz"
+    ],
+    "published": [
+      "2010-12-21T16:52:33Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/17261151553327104"
+    ],
+    "slug": [
+      "tweet-17261151553327104"
+    ]
+  }
+}

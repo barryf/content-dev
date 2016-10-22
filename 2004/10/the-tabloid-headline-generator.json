@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-21T20:31:27Z"],"entry-type":["bookmark"],"name":["The Tabloid Headline Generator"],"bookmark-of":["http://www.toothycat.net/wiki/bnf.pl?page=Rachael/TabloidHeadlineGenerator"],"category":["fun","via-pinboard"],"slug":["the-tabloid-headline-generator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-21T20:31:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Tabloid Headline Generator"
+    ],
+    "bookmark-of": [
+      "http://www.toothycat.net/wiki/bnf.pl?page=Rachael/TabloidHeadlineGenerator"
+    ],
+    "category": [
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-tabloid-headline-generator"
+    ]
+  }
+}

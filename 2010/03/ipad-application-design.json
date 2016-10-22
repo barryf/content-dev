@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Adapting application design from iPhone (and web) to the larger screen and different expectations of the iPad\n"],"published":["2010-03-13T16:18:03Z"],"entry-type":["bookmark"],"name":["iPad Application Design"],"bookmark-of":["http://mattgemmell.com/2010/03/05/ipad-application-design"],"category":["ipad","iphone","design","interaction","interface","ux","via-pinboard"],"slug":["ipad-application-design"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Adapting application design from iPhone (and web) to the larger screen and different expectations of the iPad\n"
+    ],
+    "published": [
+      "2010-03-13T16:18:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iPad Application Design"
+    ],
+    "bookmark-of": [
+      "http://mattgemmell.com/2010/03/05/ipad-application-design"
+    ],
+    "category": [
+      "ipad",
+      "iphone",
+      "design",
+      "interaction",
+      "interface",
+      "ux",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ipad-application-design"
+    ]
+  }
+}

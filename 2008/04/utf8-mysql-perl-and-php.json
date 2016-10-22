@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2008-04-26T10:06:01Z"],"entry-type":["bookmark"],"name":["UTF8, MySQL, Perl and PHP"],"bookmark-of":["http://www.gyford.com/phil/writing/2008/04/25/utf8_mysql_perl.php"],"category":["utf8","unicode","mysql","perl","php","web","dev","i18n","via-pinboard"],"slug":["utf8-mysql-perl-and-php"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-04-26T10:06:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UTF8, MySQL, Perl and PHP"
+    ],
+    "bookmark-of": [
+      "http://www.gyford.com/phil/writing/2008/04/25/utf8_mysql_perl.php"
+    ],
+    "category": [
+      "utf8",
+      "unicode",
+      "mysql",
+      "perl",
+      "php",
+      "web",
+      "dev",
+      "i18n",
+      "via-pinboard"
+    ],
+    "slug": [
+      "utf8-mysql-perl-and-php"
+    ]
+  }
+}

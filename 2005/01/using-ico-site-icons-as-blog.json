@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-18T10:03:51Z"],"entry-type":["bookmark"],"name":["Using ico site icons as blog favatars"],"bookmark-of":["http://www.peej.co.uk/projects/favatars.html"],"category":["blog","favatar","via-pinboard"],"slug":["using-ico-site-icons-as-blog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-18T10:03:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Using ico site icons as blog favatars"
+    ],
+    "bookmark-of": [
+      "http://www.peej.co.uk/projects/favatars.html"
+    ],
+    "category": [
+      "blog",
+      "favatar",
+      "via-pinboard"
+    ],
+    "slug": [
+      "using-ico-site-icons-as-blog"
+    ]
+  }
+}

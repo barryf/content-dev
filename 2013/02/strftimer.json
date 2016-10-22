@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Ruby strftime generator"],"published":["2013-02-26T17:22:53Z"],"entry-type":["bookmark"],"name":["strftimer"],"bookmark-of":["http://strftimer.com/"],"category":["strftime","ruby","date","time","datetime","timestamp","via-pinboard"],"slug":["strftimer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby strftime generator"
+    ],
+    "published": [
+      "2013-02-26T17:22:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "strftimer"
+    ],
+    "bookmark-of": [
+      "http://strftimer.com/"
+    ],
+    "category": [
+      "strftime",
+      "ruby",
+      "date",
+      "time",
+      "datetime",
+      "timestamp",
+      "via-pinboard"
+    ],
+    "slug": [
+      "strftimer"
+    ]
+  }
+}

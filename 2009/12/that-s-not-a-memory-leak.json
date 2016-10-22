@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Detecting inefficiencies in Rails apps, in particular with ActiveRecord\n"],"published":["2009-12-20T22:35:05Z"],"entry-type":["bookmark"],"name":["That’s Not a Memory Leak, It’s Bloat"],"bookmark-of":["http://www.engineyard.com/blog/2009/thats-not-a-memory-leak-its-bloat/"],"category":["activerecord","bloat","rails","sysadmin","scaling","performance","work","via-pinboard"],"slug":["that-s-not-a-memory-leak"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Detecting inefficiencies in Rails apps, in particular with ActiveRecord\n"
+    ],
+    "published": [
+      "2009-12-20T22:35:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "That’s Not a Memory Leak, It’s Bloat"
+    ],
+    "bookmark-of": [
+      "http://www.engineyard.com/blog/2009/thats-not-a-memory-leak-its-bloat/"
+    ],
+    "category": [
+      "activerecord",
+      "bloat",
+      "rails",
+      "sysadmin",
+      "scaling",
+      "performance",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "that-s-not-a-memory-leak"
+    ]
+  }
+}

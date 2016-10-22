@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-11T12:49:17Z"],"entry-type":["like"],"like-of":["http://instagram.com/p/xtoApulYEy/"],"syndication":["http://instagram.com/p/xtoApulYEy/#liked-by-667045"],"slug":["11-124917"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-11T12:49:17Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://instagram.com/p/xtoApulYEy/"
+    ],
+    "syndication": [
+      "http://instagram.com/p/xtoApulYEy/#liked-by-667045"
+    ],
+    "slug": [
+      "11-124917"
+    ]
+  }
+}

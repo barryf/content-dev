@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Useful sample Rails app including user model, RESTful authenticaiton, timezones, exception notification and behavioural testing with RSpec\n"],"published":["2007-04-03T19:31:16Z"],"entry-type":["bookmark"],"name":["caboose Caboose Sample rails application"],"bookmark-of":["http://habtm.com/articles/2007/4/3/caboose-sample-rails-application"],"category":["rails","web","dev","rest","timezone","exception","testing","via-pinboard"],"slug":["caboose-caboose-sample-rails-application"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful sample Rails app including user model, RESTful authenticaiton, timezones, exception notification and behavioural testing with RSpec\n"
+    ],
+    "published": [
+      "2007-04-03T19:31:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "caboose Caboose Sample rails application"
+    ],
+    "bookmark-of": [
+      "http://habtm.com/articles/2007/4/3/caboose-sample-rails-application"
+    ],
+    "category": [
+      "rails",
+      "web",
+      "dev",
+      "rest",
+      "timezone",
+      "exception",
+      "testing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "caboose-caboose-sample-rails-application"
+    ]
+  }
+}

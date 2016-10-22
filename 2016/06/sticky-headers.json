@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2016-06-28T13:43:01Z"],"entry-type":["bookmark"],"name":["Sticky headers"],"bookmark-of":["https://adactio.com/journal/10877"],"category":["css","header","nav"],"slug":["sticky-headers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-06-28T13:43:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sticky headers"
+    ],
+    "bookmark-of": [
+      "https://adactio.com/journal/10877"
+    ],
+    "category": [
+      "css",
+      "header",
+      "nav"
+    ],
+    "slug": [
+      "sticky-headers"
+    ]
+  }
+}

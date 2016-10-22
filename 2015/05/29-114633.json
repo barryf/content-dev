@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-05-29T10:46:33Z"],"entry-type":["like"],"like-of":["https://twitter.com/StephenWildish/status/604205136009912320"],"syndication":["https://twitter.com/StephenWildish/status/604205136009912320"],"slug":["29-114633"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-05-29T10:46:33Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/StephenWildish/status/604205136009912320"
+    ],
+    "syndication": [
+      "https://twitter.com/StephenWildish/status/604205136009912320"
+    ],
+    "slug": [
+      "29-114633"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@grigoriy_kogan No problem, thanks for the article. It’s easy to forget how important these details are."],"published":["2014-06-22T10:56:53Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/63488047/status/480048874200236032"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/480665721798934528"],"slug":["tweet-480665721798934528"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@grigoriy_kogan No problem, thanks for the article. It’s easy to forget how important these details are."
+    ],
+    "published": [
+      "2014-06-22T10:56:53Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/63488047/status/480048874200236032"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/480665721798934528"
+    ],
+    "slug": [
+      "tweet-480665721798934528"
+    ]
+  }
+}

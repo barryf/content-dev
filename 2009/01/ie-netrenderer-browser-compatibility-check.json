@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Free browser checking service. Not sure how robust this is, but it could certainly be useful\n"],"published":["2009-01-25T09:01:37Z"],"entry-type":["bookmark"],"name":["IE NetRenderer - Browser Compatibility Check"],"bookmark-of":["http://ipinfo.info/netrenderer/"],"category":["browser","screenshot","render","ie6","ie7","free","compatibility","useful","via-pinboard"],"slug":["ie-netrenderer-browser-compatibility-check"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free browser checking service. Not sure how robust this is, but it could certainly be useful\n"
+    ],
+    "published": [
+      "2009-01-25T09:01:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "IE NetRenderer - Browser Compatibility Check"
+    ],
+    "bookmark-of": [
+      "http://ipinfo.info/netrenderer/"
+    ],
+    "category": [
+      "browser",
+      "screenshot",
+      "render",
+      "ie6",
+      "ie7",
+      "free",
+      "compatibility",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ie-netrenderer-browser-compatibility-check"
+    ]
+  }
+}

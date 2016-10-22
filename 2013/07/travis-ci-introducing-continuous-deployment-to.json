@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2013-07-09T16:53:03Z"],"entry-type":["bookmark"],"name":["Travis CI: Introducing Continuous Deployment to Heroku"],"bookmark-of":["http://about.travis-ci.org/blog/2013-07-09-introducing-continuous-deployment-to-heroku/"],"category":["travisci","cd","heroku","via-pinboard"],"slug":["travis-ci-introducing-continuous-deployment-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-07-09T16:53:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Travis CI: Introducing Continuous Deployment to Heroku"
+    ],
+    "bookmark-of": [
+      "http://about.travis-ci.org/blog/2013-07-09-introducing-continuous-deployment-to-heroku/"
+    ],
+    "category": [
+      "travisci",
+      "cd",
+      "heroku",
+      "via-pinboard"
+    ],
+    "slug": [
+      "travis-ci-introducing-continuous-deployment-to"
+    ]
+  }
+}

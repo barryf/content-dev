@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["It's the last day of my two-week Christmas break. Plenty of tasks ticked off the list; now it's time to get stuck into 2015 at work."],"published":["2015-01-04T20:05:16Z"],"entry-type":["note"],"category":["personal"],"syndication":["https://twitter.com/barryf/status/551831765212344320"],"slug":["it-s-the-last-day-of"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It's the last day of my two-week Christmas break. Plenty of tasks ticked off the list; now it's time to get stuck into 2015 at work."
+    ],
+    "published": [
+      "2015-01-04T20:05:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "personal"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/551831765212344320"
+    ],
+    "slug": [
+      "it-s-the-last-day-of"
+    ]
+  }
+}

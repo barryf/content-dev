@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@GrahamM_6t9 I'd love to get away with a trip to Las Vegas, but that might be a stretch! We're Rackspace Cloud customers anyway. You?"],"published":["2013-09-25T14:35:14Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/GrahamM_6t9/status/382875272850460672"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/382875952617127936"],"slug":["baker-30"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@GrahamM_6t9 I'd love to get away with a trip to Las Vegas, but that might be a stretch! We're Rackspace Cloud customers anyway. You?"
+    ],
+    "published": [
+      "2013-09-25T14:35:14Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/GrahamM_6t9/status/382875272850460672"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/382875952617127936"
+    ],
+    "slug": [
+      "baker-30"
+    ]
+  }
+}

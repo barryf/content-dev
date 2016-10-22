@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Ooh and a big shout out to Poorly Timmy. Get well soon! Peace out."],"published":["2006-10-18T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/44890"],"slug":["tweet-44890"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ooh and a big shout out to Poorly Timmy. Get well soon! Peace out."
+    ],
+    "published": [
+      "2006-10-18T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/44890"
+    ],
+    "slug": [
+      "tweet-44890"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-06-09T13:10:01Z"],"entry-type":["like"],"like-of":["http://notenoughneon.com/2016/6/8/3"],"category":["indieweb"],"slug":["09-141001"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-06-09T13:10:01Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "http://notenoughneon.com/2016/6/8/3"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "slug": [
+      "09-141001"
+    ]
+  }
+}

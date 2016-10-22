@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Static site generator app that compiles SASS, HAML, CoffeeScript, Markdown, etc. "],"published":["2013-05-01T18:10:42Z"],"entry-type":["bookmark"],"name":["Hammer for Mac"],"bookmark-of":["http://hammerformac.com/"],"category":["html","css","haml","sass","coffeescript","markdown","mac","generator","via-pinboard"],"slug":["hammer-for-mac"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Static site generator app that compiles SASS, HAML, CoffeeScript, Markdown, etc. "
+    ],
+    "published": [
+      "2013-05-01T18:10:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hammer for Mac"
+    ],
+    "bookmark-of": [
+      "http://hammerformac.com/"
+    ],
+    "category": [
+      "html",
+      "css",
+      "haml",
+      "sass",
+      "coffeescript",
+      "markdown",
+      "mac",
+      "generator",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hammer-for-mac"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Make Flex 2.0 play nicely with Rails - with XML\n"],"published":["2006-05-25T12:16:30Z"],"entry-type":["bookmark"],"name":["RubyOnRails (1.1) and Flex (2.0): Pt 1"],"bookmark-of":["http://www.liverail.net/articles/2006/04/16/rubyonrails-1-1-and-flex-2-0-pt-1"],"category":["rails","flex","xml","web","dev","via-pinboard"],"slug":["rubyonrails-1-1-and-flex-2"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Make Flex 2.0 play nicely with Rails - with XML\n"
+    ],
+    "published": [
+      "2006-05-25T12:16:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RubyOnRails (1.1) and Flex (2.0): Pt 1"
+    ],
+    "bookmark-of": [
+      "http://www.liverail.net/articles/2006/04/16/rubyonrails-1-1-and-flex-2-0-pt-1"
+    ],
+    "category": [
+      "rails",
+      "flex",
+      "xml",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rubyonrails-1-1-and-flex-2"
+    ]
+  }
+}

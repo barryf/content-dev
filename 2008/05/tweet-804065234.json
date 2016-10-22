@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Master of the oven"],"published":["2008-05-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/804065234"],"slug":["tweet-804065234"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Master of the oven"
+    ],
+    "published": [
+      "2008-05-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/804065234"
+    ],
+    "slug": [
+      "tweet-804065234"
+    ]
+  }
+}

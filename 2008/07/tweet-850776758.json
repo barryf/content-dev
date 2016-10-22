@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Preparing myself for Iron Maiden at Twickenham tonight. Not quite sure my quiet indie music sensibilities are going to cope..."],"published":["2008-07-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/850776758"],"slug":["tweet-850776758"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Preparing myself for Iron Maiden at Twickenham tonight. Not quite sure my quiet indie music sensibilities are going to cope..."
+    ],
+    "published": [
+      "2008-07-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/850776758"
+    ],
+    "slug": [
+      "tweet-850776758"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-10-23T11:59:18Z"],"entry-type":["bookmark"],"name":["Swearalot.com - Random Swearword Generator!"],"bookmark-of":["http://www.swearalot.com/"],"category":["fun","humour","random","swearing","uk","rude","nsfw","viab3ta","via-pinboard"],"slug":["swearalot-com-random-swearword-generator"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-10-23T11:59:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Swearalot.com - Random Swearword Generator!"
+    ],
+    "bookmark-of": [
+      "http://www.swearalot.com/"
+    ],
+    "category": [
+      "fun",
+      "humour",
+      "random",
+      "swearing",
+      "uk",
+      "rude",
+      "nsfw",
+      "viab3ta",
+      "via-pinboard"
+    ],
+    "slug": [
+      "swearalot-com-random-swearword-generator"
+    ]
+  }
+}

@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-27T21:45:29Z"],"entry-type":["bookmark"],"name":["Voisen.org: MTCodeBeautifier"],"bookmark-of":["http://voisen.org/archives/2003/05/mtcodebeautifier.php"],"category":["movabletype","blog","via-pinboard"],"slug":["voisen-org-mtcodebeautifier"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-27T21:45:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Voisen.org: MTCodeBeautifier"
+    ],
+    "bookmark-of": [
+      "http://voisen.org/archives/2003/05/mtcodebeautifier.php"
+    ],
+    "category": [
+      "movabletype",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "voisen-org-mtcodebeautifier"
+    ]
+  }
+}

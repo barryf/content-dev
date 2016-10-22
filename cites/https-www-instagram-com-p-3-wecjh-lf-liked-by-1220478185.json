@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://www.instagram.com/p/3_wEcjH_lf/#liked-by-1220478185"],"published":["2016-02-19T00:37:14Z"],"like-of":["https://barryfrost.com/2015/06/my-pick-of-the-isle-of"],"author":["https://www.instagram.com/emmanuelbonet/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://www.instagram.com/p/3_wEcjH_lf/#liked-by-1220478185"
+    ],
+    "published": [
+      "2016-02-19T00:37:14Z"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/06/my-pick-of-the-isle-of"
+    ],
+    "author": [
+      "https://www.instagram.com/emmanuelbonet/"
+    ]
+  }
+}

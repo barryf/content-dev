@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Relying on an input device allowing hovering is increasingly dangerous - touch devices can't support :hover\n"],"published":["2010-06-10T13:26:17Z"],"entry-type":["bookmark"],"name":["The End of :hover?"],"bookmark-of":["http://andycroll.com/writing/the-end-of-hover"],"category":["hover","ipad","ui","ux","iphone","touch","via-pinboard"],"slug":["the-end-of-hover"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Relying on an input device allowing hovering is increasingly dangerous - touch devices can't support :hover\n"
+    ],
+    "published": [
+      "2010-06-10T13:26:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The End of :hover?"
+    ],
+    "bookmark-of": [
+      "http://andycroll.com/writing/the-end-of-hover"
+    ],
+    "category": [
+      "hover",
+      "ipad",
+      "ui",
+      "ux",
+      "iphone",
+      "touch",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-end-of-hover"
+    ]
+  }
+}

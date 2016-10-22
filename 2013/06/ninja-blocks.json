@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["\"Internet of things\" - sensors and switches with internet connectivity"],"published":["2013-06-17T14:08:36Z"],"entry-type":["bookmark"],"name":["Ninja Blocks"],"bookmark-of":["http://ninjablocks.com/"],"category":["hardware","internetofthings","switch","remote","sensor","via-pinboard"],"slug":["ninja-blocks"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Internet of things\" - sensors and switches with internet connectivity"
+    ],
+    "published": [
+      "2013-06-17T14:08:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ninja Blocks"
+    ],
+    "bookmark-of": [
+      "http://ninjablocks.com/"
+    ],
+    "category": [
+      "hardware",
+      "internetofthings",
+      "switch",
+      "remote",
+      "sensor",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ninja-blocks"
+    ]
+  }
+}

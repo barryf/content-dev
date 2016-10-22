@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-03T10:41:11Z"],"entry-type":["bookmark"],"name":["Anticlue: How to install ASP.Net"],"bookmark-of":["http://www.anticlue.net/archives/000336.htm"],"category":["dotnet","via-pinboard"],"slug":["anticlue-how-to-install-asp-net"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-03T10:41:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Anticlue: How to install ASP.Net"
+    ],
+    "bookmark-of": [
+      "http://www.anticlue.net/archives/000336.htm"
+    ],
+    "category": [
+      "dotnet",
+      "via-pinboard"
+    ],
+    "slug": [
+      "anticlue-how-to-install-asp-net"
+    ]
+  }
+}

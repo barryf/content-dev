@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-23T13:12:09Z"],"entry-type":["bookmark"],"name":["Robby on Rails : Installing Ruby on Rails and PostgreSQL on OS X, Second Edition"],"bookmark-of":["http://www.robbyonrails.com/articles/2007/06/19/installing-ruby-on-rails-and-postgresql-on-os-x-second-edition"],"category":["mac","postgresql","rails","tutorial","ruby","via-pinboard"],"slug":["robby-on-rails-installing-ruby-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-23T13:12:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Robby on Rails : Installing Ruby on Rails and PostgreSQL on OS X, Second Edition"
+    ],
+    "bookmark-of": [
+      "http://www.robbyonrails.com/articles/2007/06/19/installing-ruby-on-rails-and-postgresql-on-os-x-second-edition"
+    ],
+    "category": [
+      "mac",
+      "postgresql",
+      "rails",
+      "tutorial",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "robby-on-rails-installing-ruby-on"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Full of mussels and strong Belgian beer. About to see Yes, Prime Minister. Fantastic evening (@ Gielgud Theatre) http://4sq.com/rygzxJ"],"published":["2011-11-19T19:32:51Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/137976648325799936"],"slug":["tweet-137976648325799936"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Full of mussels and strong Belgian beer. About to see Yes, Prime Minister. Fantastic evening (@ Gielgud Theatre) http://4sq.com/rygzxJ"
+    ],
+    "published": [
+      "2011-11-19T19:32:51Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/137976648325799936"
+    ],
+    "slug": [
+      "tweet-137976648325799936"
+    ]
+  }
+}

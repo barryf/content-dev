@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Steve Smith"],"photo":["https://twitter.com/stevesmith2609/profile_image?size=original"],"url":["https://twitter.com/stevesmith2609"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Steve Smith"
+    ],
+    "photo": [
+      "https://twitter.com/stevesmith2609/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/stevesmith2609"
+    ]
+  }
+}

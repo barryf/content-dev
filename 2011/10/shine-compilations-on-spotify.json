@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-10-17T18:10:46Z"],"entry-type":["bookmark"],"name":["Shine Compilations on Spotify"],"bookmark-of":["http://dogscantlookup.com/post/1014115974/shine-compilations-on-spotify"],"category":["spotify","shine","90s","music","indie","via-pinboard"],"slug":["shine-compilations-on-spotify"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-10-17T18:10:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Shine Compilations on Spotify"
+    ],
+    "bookmark-of": [
+      "http://dogscantlookup.com/post/1014115974/shine-compilations-on-spotify"
+    ],
+    "category": [
+      "spotify",
+      "shine",
+      "90s",
+      "music",
+      "indie",
+      "via-pinboard"
+    ],
+    "slug": [
+      "shine-compilations-on-spotify"
+    ]
+  }
+}

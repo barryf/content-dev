@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Generate PDFs in Ruby"],"published":["2016-07-01T07:42:56Z"],"entry-type":["bookmark"],"name":["Prawn"],"bookmark-of":["http://prawnpdf.org/api-docs/2.0/"],"category":["pdf","ruby"],"slug":["prawn"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Generate PDFs in Ruby"
+    ],
+    "published": [
+      "2016-07-01T07:42:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Prawn"
+    ],
+    "bookmark-of": [
+      "http://prawnpdf.org/api-docs/2.0/"
+    ],
+    "category": [
+      "pdf",
+      "ruby"
+    ],
+    "slug": [
+      "prawn"
+    ]
+  }
+}

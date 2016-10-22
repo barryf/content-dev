@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Finished baking, cooling and safety testing chocolatey treats for my minions tomorrow."],"published":["2009-12-22T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/6944069411"],"slug":["tweet-6944069411"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Finished baking, cooling and safety testing chocolatey treats for my minions tomorrow."
+    ],
+    "published": [
+      "2009-12-22T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/6944069411"
+    ],
+    "slug": [
+      "tweet-6944069411"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Mac app that displays a 25-min countdown timer used for the Pomodoro technique\n"],"published":["2010-08-09T15:43:07Z"],"entry-type":["bookmark"],"name":["Pomodoro"],"bookmark-of":["http://pomodoro.ugolandini.com/"],"category":["pomodoro","mac","timer","free","projectmanagement","productivity","via-pinboard"],"slug":["pomodoro"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mac app that displays a 25-min countdown timer used for the Pomodoro technique\n"
+    ],
+    "published": [
+      "2010-08-09T15:43:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Pomodoro"
+    ],
+    "bookmark-of": [
+      "http://pomodoro.ugolandini.com/"
+    ],
+    "category": [
+      "pomodoro",
+      "mac",
+      "timer",
+      "free",
+      "projectmanagement",
+      "productivity",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pomodoro"
+    ]
+  }
+}

@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["A more efficient Rails session storage than ActiveRecordStore - avoids overhead of Model.save\n"],"published":["2007-01-13T15:41:16Z"],"entry-type":["bookmark"],"name":["Roll your own SQL session store"],"bookmark-of":["http://railsexpress.de/blog/articles/2005/12/19/roll-your-own-sql-session-store"],"category":["database","mysql","rails","server","sessions","performance","sql","dev","web","via-pinboard"],"slug":["roll-your-own-sql-session-store"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A more efficient Rails session storage than ActiveRecordStore - avoids overhead of Model.save\n"
+    ],
+    "published": [
+      "2007-01-13T15:41:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Roll your own SQL session store"
+    ],
+    "bookmark-of": [
+      "http://railsexpress.de/blog/articles/2005/12/19/roll-your-own-sql-session-store"
+    ],
+    "category": [
+      "database",
+      "mysql",
+      "rails",
+      "server",
+      "sessions",
+      "performance",
+      "sql",
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "roll-your-own-sql-session-store"
+    ]
+  }
+}

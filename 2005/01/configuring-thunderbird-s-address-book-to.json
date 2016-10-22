@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-10T10:40:22Z"],"entry-type":["bookmark"],"name":["Configuring Thunderbird's address book to use Multimap"],"bookmark-of":["http://www.qwghlm.co.uk/blog.php?article=586"],"category":["useful","uk","via-pinboard"],"slug":["configuring-thunderbird-s-address-book-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-10T10:40:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Configuring Thunderbird's address book to use Multimap"
+    ],
+    "bookmark-of": [
+      "http://www.qwghlm.co.uk/blog.php?article=586"
+    ],
+    "category": [
+      "useful",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "configuring-thunderbird-s-address-book-to"
+    ]
+  }
+}

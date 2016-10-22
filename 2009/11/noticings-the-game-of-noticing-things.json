@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Geotag and tag your photos with 'noticings' on Flickr to play the game. Points awarded daily for numerous known and unknown reasons.\n"],"published":["2009-11-14T18:16:35Z"],"entry-type":["bookmark"],"name":["noticings : the game of noticing things around you"],"bookmark-of":["http://noticin.gs/"],"category":["flickr","game","tag","geotag","gps","noticing","geo","fun","photo","via-pinboard"],"slug":["noticings-the-game-of-noticing-things"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Geotag and tag your photos with 'noticings' on Flickr to play the game. Points awarded daily for numerous known and unknown reasons.\n"
+    ],
+    "published": [
+      "2009-11-14T18:16:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "noticings : the game of noticing things around you"
+    ],
+    "bookmark-of": [
+      "http://noticin.gs/"
+    ],
+    "category": [
+      "flickr",
+      "game",
+      "tag",
+      "geotag",
+      "gps",
+      "noticing",
+      "geo",
+      "fun",
+      "photo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "noticings-the-game-of-noticing-things"
+    ]
+  }
+}

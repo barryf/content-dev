@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Demo of what's possible with modern browsers - click to explode fragments of a video\n"],"published":["2010-04-25T14:40:31Z"],"entry-type":["bookmark"],"name":["HTML5 Video Destruction"],"bookmark-of":["http://craftymind.com/factory/html5video/CanvasVideo.html"],"category":["viaadactio","video","html5","canvas","effect","demo","via-pinboard"],"slug":["html5-video-destruction"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Demo of what's possible with modern browsers - click to explode fragments of a video\n"
+    ],
+    "published": [
+      "2010-04-25T14:40:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "HTML5 Video Destruction"
+    ],
+    "bookmark-of": [
+      "http://craftymind.com/factory/html5video/CanvasVideo.html"
+    ],
+    "category": [
+      "viaadactio",
+      "video",
+      "html5",
+      "canvas",
+      "effect",
+      "demo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "html5-video-destruction"
+    ]
+  }
+}

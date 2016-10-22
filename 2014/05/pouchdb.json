@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online"],"published":["2014-05-20T12:33:27Z"],"entry-type":["bookmark"],"name":["PouchDB"],"bookmark-of":["http://pouchdb.com/"],"category":["database","couchdb","javascript","offline","sync","via-pinboard"],"slug":["pouchdb"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online"
+    ],
+    "published": [
+      "2014-05-20T12:33:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PouchDB"
+    ],
+    "bookmark-of": [
+      "http://pouchdb.com/"
+    ],
+    "category": [
+      "database",
+      "couchdb",
+      "javascript",
+      "offline",
+      "sync",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pouchdb"
+    ]
+  }
+}

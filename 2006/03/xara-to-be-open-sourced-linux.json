@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Free Linux version now; Mac and Windows versions to come. Good work Computer Concepts!\n"],"published":["2006-03-30T14:29:42Z"],"entry-type":["bookmark"],"name":["Xara to be open sourced (Linux)"],"bookmark-of":["http://blogs.graphicdesignforum.com/chrisd/archives/2006/03/surprise_your_f.html"],"category":["opensource","xara","linux","design","graphics","via-pinboard"],"slug":["xara-to-be-open-sourced-linux"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free Linux version now; Mac and Windows versions to come. Good work Computer Concepts!\n"
+    ],
+    "published": [
+      "2006-03-30T14:29:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Xara to be open sourced (Linux)"
+    ],
+    "bookmark-of": [
+      "http://blogs.graphicdesignforum.com/chrisd/archives/2006/03/surprise_your_f.html"
+    ],
+    "category": [
+      "opensource",
+      "xara",
+      "linux",
+      "design",
+      "graphics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "xara-to-be-open-sourced-linux"
+    ]
+  }
+}

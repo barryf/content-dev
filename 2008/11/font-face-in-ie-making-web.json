@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Jon suggests using both @font-face and .eot files to support both Webkit and IE\n"],"published":["2008-11-08T10:38:44Z"],"entry-type":["bookmark"],"name":["@font-face in IE: Making Web Fonts Work — Jon Tan 陳"],"bookmark-of":["http://jontangerine.com/log/2008/10/font-face-in-ie-making-web-fonts-work"],"category":["font","fontface","css3","ie","webkit","web","design","typography","via-pinboard"],"slug":["font-face-in-ie-making-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Jon suggests using both @font-face and .eot files to support both Webkit and IE\n"
+    ],
+    "published": [
+      "2008-11-08T10:38:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "@font-face in IE: Making Web Fonts Work — Jon Tan 陳"
+    ],
+    "bookmark-of": [
+      "http://jontangerine.com/log/2008/10/font-face-in-ie-making-web-fonts-work"
+    ],
+    "category": [
+      "font",
+      "fontface",
+      "css3",
+      "ie",
+      "webkit",
+      "web",
+      "design",
+      "typography",
+      "via-pinboard"
+    ],
+    "slug": [
+      "font-face-in-ie-making-web"
+    ]
+  }
+}

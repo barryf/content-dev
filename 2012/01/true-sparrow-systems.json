@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Rails agency based in India who built Fab.com\n"],"published":["2012-01-07T17:35:20Z"],"entry-type":["bookmark"],"name":["True Sparrow Systems"],"bookmark-of":["http://www.truesparrow.com/"],"category":["railsagenyindia","via-pinboard"],"slug":["true-sparrow-systems"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails agency based in India who built Fab.com\n"
+    ],
+    "published": [
+      "2012-01-07T17:35:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "True Sparrow Systems"
+    ],
+    "bookmark-of": [
+      "http://www.truesparrow.com/"
+    ],
+    "category": [
+      "railsagenyindia",
+      "via-pinboard"
+    ],
+    "slug": [
+      "true-sparrow-systems"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Backup strategies and options for Macs\n"],"published":["2008-05-05T08:59:13Z"],"entry-type":["bookmark"],"name":["Hivelogic - Regarding Backups"],"bookmark-of":["http://hivelogic.com/articles/2008/04/regarding-backups"],"category":["backup","mac","storage","drobo","data","via-pinboard"],"slug":["hivelogic-regarding-backups"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Backup strategies and options for Macs\n"
+    ],
+    "published": [
+      "2008-05-05T08:59:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hivelogic - Regarding Backups"
+    ],
+    "bookmark-of": [
+      "http://hivelogic.com/articles/2008/04/regarding-backups"
+    ],
+    "category": [
+      "backup",
+      "mac",
+      "storage",
+      "drobo",
+      "data",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hivelogic-regarding-backups"
+    ]
+  }
+}

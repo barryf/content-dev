@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Reevo's development team blog and open source project home\n"],"published":["2008-07-06T11:21:01Z"],"entry-type":["bookmark"],"name":["reevoolabs"],"bookmark-of":["http://labs.reevoo.com/"],"category":["opensource","community","rails","blog","dev","work","via-pinboard"],"slug":["reevoolabs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Reevo's development team blog and open source project home\n"
+    ],
+    "published": [
+      "2008-07-06T11:21:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "reevoolabs"
+    ],
+    "bookmark-of": [
+      "http://labs.reevoo.com/"
+    ],
+    "category": [
+      "opensource",
+      "community",
+      "rails",
+      "blog",
+      "dev",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "reevoolabs"
+    ]
+  }
+}

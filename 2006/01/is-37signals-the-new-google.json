@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2006-01-04T21:04:49Z"],"entry-type":["bookmark"],"name":["Is 37signals The New Google?"],"bookmark-of":["http://www.informationweek.com/blog/main/archives/2006/01/is_37signals_th.html"],"category":["37signals","google","business","branding","web20","via-pinboard"],"slug":["is-37signals-the-new-google"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-01-04T21:04:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Is 37signals The New Google?"
+    ],
+    "bookmark-of": [
+      "http://www.informationweek.com/blog/main/archives/2006/01/is_37signals_th.html"
+    ],
+    "category": [
+      "37signals",
+      "google",
+      "business",
+      "branding",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "is-37signals-the-new-google"
+    ]
+  }
+}

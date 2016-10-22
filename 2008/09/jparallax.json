@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Parallax effects with jQuery and some simple markup\n"],"published":["2008-09-06T20:35:37Z"],"entry-type":["bookmark"],"name":["jParallax"],"bookmark-of":["http://webdev.stephband.info/parallax.html"],"category":["parallax","web","design","plugin","jquery","animation","effects","cool","via-pinboard"],"slug":["jparallax"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Parallax effects with jQuery and some simple markup\n"
+    ],
+    "published": [
+      "2008-09-06T20:35:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jParallax"
+    ],
+    "bookmark-of": [
+      "http://webdev.stephband.info/parallax.html"
+    ],
+    "category": [
+      "parallax",
+      "web",
+      "design",
+      "plugin",
+      "jquery",
+      "animation",
+      "effects",
+      "cool",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jparallax"
+    ]
+  }
+}

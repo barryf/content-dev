@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Describes the XML sent to/from the API, including offset, length, confidence and suggestions for each mistake.\n"],"published":["2007-03-25T16:37:59Z"],"entry-type":["bookmark"],"name":["Paul Welter's Weblog : Google Toolbar Spell Check API"],"bookmark-of":["http://weblogs.asp.net/pwelter34/archive/2005/07/19/419838.aspx"],"category":["api","google","spellcheck","spelling","dev","forrawnetcreative","via-pinboard"],"slug":["paul-welter-s-weblog-google-toolbar"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Describes the XML sent to/from the API, including offset, length, confidence and suggestions for each mistake.\n"
+    ],
+    "published": [
+      "2007-03-25T16:37:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Paul Welter's Weblog : Google Toolbar Spell Check API"
+    ],
+    "bookmark-of": [
+      "http://weblogs.asp.net/pwelter34/archive/2005/07/19/419838.aspx"
+    ],
+    "category": [
+      "api",
+      "google",
+      "spellcheck",
+      "spelling",
+      "dev",
+      "forrawnetcreative",
+      "via-pinboard"
+    ],
+    "slug": [
+      "paul-welter-s-weblog-google-toolbar"
+    ]
+  }
+}

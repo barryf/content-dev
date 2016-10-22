@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://petermolnar.eu/o0ue11/"],"published":["2016-01-12T13:41:25Z"],"content":["Hi; you get this mention because you said you’re around London on the indieweb/irc-people page. I’ve recently started looking into organizing an IndieWebCamp in Cambridge (the UK one, the US one is doing it already), but the first point of Planning says: \"Find at least one committed co-organizer\". Would you be interested in co-organizing?"],"author":["https://petermolnar.eu/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://petermolnar.eu/o0ue11/"
+    ],
+    "published": [
+      "2016-01-12T13:41:25Z"
+    ],
+    "content": [
+      "Hi; you get this mention because you said you’re around London on the indieweb/irc-people page. I’ve recently started looking into organizing an IndieWebCamp in Cambridge (the UK one, the US one is doing it already), but the first point of Planning says: \"Find at least one committed co-organizer\". Would you be interested in co-organizing?"
+    ],
+    "author": [
+      "https://petermolnar.eu/"
+    ]
+  }
+}

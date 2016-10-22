@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Evan Light"],"photo":["https://pbs.twimg.com/profile_images/579120532622209024/w85AqSUH.jpg"],"url":["https://twitter.com/elight"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Evan Light"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/579120532622209024/w85AqSUH.jpg"
+    ],
+    "url": [
+      "https://twitter.com/elight"
+    ]
+  }
+}

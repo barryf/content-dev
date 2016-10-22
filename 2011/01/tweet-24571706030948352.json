@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Watching Fiona, an unflappable Eddie Stobart female driver, reversing an articulated lorry down an icy slip road on Five. Balls and beauty."],"published":["2011-01-10T21:02:05Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/24571706030948352"],"slug":["tweet-24571706030948352"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watching Fiona, an unflappable Eddie Stobart female driver, reversing an articulated lorry down an icy slip road on Five. Balls and beauty."
+    ],
+    "published": [
+      "2011-01-10T21:02:05Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/24571706030948352"
+    ],
+    "slug": [
+      "tweet-24571706030948352"
+    ]
+  }
+}

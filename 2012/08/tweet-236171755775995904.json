@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["C4 is repeating Brass Eye starting tonight. If you’ve never seen it then watch and marvel. Just as relevant today as in the nineties."],"published":["2012-08-16T18:45:09Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/236171755775995904"],"slug":["tweet-236171755775995904"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "C4 is repeating Brass Eye starting tonight. If you’ve never seen it then watch and marvel. Just as relevant today as in the nineties."
+    ],
+    "published": [
+      "2012-08-16T18:45:09Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/236171755775995904"
+    ],
+    "slug": [
+      "tweet-236171755775995904"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2009-06-28T16:02:53Z"],"entry-type":["bookmark"],"name":["Setting User’s Locale Based on Domain Name In Rails"],"bookmark-of":["http://www.mendable.com/setting-users-locale-based-on-domain-name-in-rails/"],"category":["locale","internationalisation","i18n","subdomain","rails","via-pinboard"],"slug":["setting-user-s-locale-based-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-06-28T16:02:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Setting User’s Locale Based on Domain Name In Rails"
+    ],
+    "bookmark-of": [
+      "http://www.mendable.com/setting-users-locale-based-on-domain-name-in-rails/"
+    ],
+    "category": [
+      "locale",
+      "internationalisation",
+      "i18n",
+      "subdomain",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "setting-user-s-locale-based-on"
+    ]
+  }
+}

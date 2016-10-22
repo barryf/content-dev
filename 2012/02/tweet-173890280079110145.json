@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Settling in to Barcelona with @rosswilliams, ready for #mwc12 to kick off in the morning."],"published":["2012-02-26T22:00:48Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/173890280079110145"],"slug":["tweet-173890280079110145"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Settling in to Barcelona with @rosswilliams, ready for #mwc12 to kick off in the morning."
+    ],
+    "published": [
+      "2012-02-26T22:00:48Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/173890280079110145"
+    ],
+    "slug": [
+      "tweet-173890280079110145"
+    ]
+  }
+}

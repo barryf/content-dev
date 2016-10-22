@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"published":["2007-03-05T13:29:16Z"],"entry-type":["bookmark"],"name":["Tomski: The BBC's Fifteen Web Principles"],"bookmark-of":["http://www.tomski.com/archive/new_archive/000063.html"],"category":["web20","bbc","design","usability","accessibility","business","web","inspiration","social","community","via-pinboard"],"slug":["tomski-the-bbc-s-fifteen-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-03-05T13:29:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tomski: The BBC's Fifteen Web Principles"
+    ],
+    "bookmark-of": [
+      "http://www.tomski.com/archive/new_archive/000063.html"
+    ],
+    "category": [
+      "web20",
+      "bbc",
+      "design",
+      "usability",
+      "accessibility",
+      "business",
+      "web",
+      "inspiration",
+      "social",
+      "community",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tomski-the-bbc-s-fifteen-web"
+    ]
+  }
+}

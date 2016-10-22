@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Clef's company handbook on GitHub"],"published":["2016-01-15T14:43:37Z"],"entry-type":["bookmark"],"name":["clef/handbook"],"bookmark-of":["https://github.com/clef/handbook"],"category":["business","team","dev","handbook"],"slug":["clef-handbook"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Clef's company handbook on GitHub"
+    ],
+    "published": [
+      "2016-01-15T14:43:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "clef/handbook"
+    ],
+    "bookmark-of": [
+      "https://github.com/clef/handbook"
+    ],
+    "category": [
+      "business",
+      "team",
+      "dev",
+      "handbook"
+    ],
+    "slug": [
+      "clef-handbook"
+    ]
+  }
+}

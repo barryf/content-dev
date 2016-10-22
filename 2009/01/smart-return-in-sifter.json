@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Impressive attention to detail - Sifter intelligently and elegantly handles where to return you to after performing an action. Interaction design at its finest.\n"],"published":["2009-01-04T13:13:21Z"],"entry-type":["bookmark"],"name":["Smart Return in Sifter"],"bookmark-of":["http://garrettdimon.com/archives/2008/12/8/smart_return_in_sifter/"],"category":["web","design","interaction","ux","process","architecture","inspiration","via-pinboard"],"slug":["smart-return-in-sifter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Impressive attention to detail - Sifter intelligently and elegantly handles where to return you to after performing an action. Interaction design at its finest.\n"
+    ],
+    "published": [
+      "2009-01-04T13:13:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Smart Return in Sifter"
+    ],
+    "bookmark-of": [
+      "http://garrettdimon.com/archives/2008/12/8/smart_return_in_sifter/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "interaction",
+      "ux",
+      "process",
+      "architecture",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "smart-return-in-sifter"
+    ]
+  }
+}

@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Slick database diagrammer for Mac. Will also generate DDL and other database functions\n"],"published":["2008-06-23T10:28:49Z"],"entry-type":["bookmark"],"name":["SQLEditor"],"bookmark-of":["http://www.malcolmhardie.com/sqleditor/"],"category":["database","sql","mac","mysql","entity","er","editor","diagram","design","via-pinboard"],"slug":["sqleditor"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slick database diagrammer for Mac. Will also generate DDL and other database functions\n"
+    ],
+    "published": [
+      "2008-06-23T10:28:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SQLEditor"
+    ],
+    "bookmark-of": [
+      "http://www.malcolmhardie.com/sqleditor/"
+    ],
+    "category": [
+      "database",
+      "sql",
+      "mac",
+      "mysql",
+      "entity",
+      "er",
+      "editor",
+      "diagram",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sqleditor"
+    ]
+  }
+}

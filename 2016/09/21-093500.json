@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2016-09-21T08:35:00Z"],"entry-type":["like"],"like-of":["https://twitter.com/t/status/778506921720418304"],"category":["indieweb"],"syndication":["https://twitter.com/t/status/778506921720418304"],"slug":["21-093500"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-09-21T08:35:00Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/t/status/778506921720418304"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "syndication": [
+      "https://twitter.com/t/status/778506921720418304"
+    ],
+    "slug": [
+      "21-093500"
+    ]
+  }
+}

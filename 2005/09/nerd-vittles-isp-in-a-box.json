@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Using a Mac Mini as a cheap web server\n"],"published":["2005-09-13T12:59:31Z"],"entry-type":["bookmark"],"name":["Nerd Vittles » ISP-In-A-Box: The $500 Mac mini"],"bookmark-of":["http://mundy.org/blog/index.php?p=23"],"category":["mac","webserver","web","server","hosting","macmini","isp","via-pinboard"],"slug":["nerd-vittles-isp-in-a-box"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Using a Mac Mini as a cheap web server\n"
+    ],
+    "published": [
+      "2005-09-13T12:59:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Nerd Vittles » ISP-In-A-Box: The $500 Mac mini"
+    ],
+    "bookmark-of": [
+      "http://mundy.org/blog/index.php?p=23"
+    ],
+    "category": [
+      "mac",
+      "webserver",
+      "web",
+      "server",
+      "hosting",
+      "macmini",
+      "isp",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nerd-vittles-isp-in-a-box"
+    ]
+  }
+}

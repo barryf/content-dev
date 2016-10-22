@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Corny print jokes based on CMYK colour values\n"],"published":["2005-12-08T13:18:08Z"],"entry-type":["bookmark"],"name":["Advertising/Design Goodness: Hudson Repro"],"bookmark-of":["http://www.frederiksamuel.com/blog/2005/11/hudson-repro.html"],"category":["cmyk","fun","design","advertising","via-pinboard"],"slug":["advertising-design-goodness-hudson-repro"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Corny print jokes based on CMYK colour values\n"
+    ],
+    "published": [
+      "2005-12-08T13:18:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Advertising/Design Goodness: Hudson Repro"
+    ],
+    "bookmark-of": [
+      "http://www.frederiksamuel.com/blog/2005/11/hudson-repro.html"
+    ],
+    "category": [
+      "cmyk",
+      "fun",
+      "design",
+      "advertising",
+      "via-pinboard"
+    ],
+    "slug": [
+      "advertising-design-goodness-hudson-repro"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["At #UXLondon for three days of learning. Looking forward to this."],"published":["2014-05-28T08:26:23Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/471568153429147649"],"slug":["tweet-471568153429147649"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "At #UXLondon for three days of learning. Looking forward to this."
+    ],
+    "published": [
+      "2014-05-28T08:26:23Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/471568153429147649"
+    ],
+    "slug": [
+      "tweet-471568153429147649"
+    ]
+  }
+}

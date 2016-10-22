@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Simple hack for nicer URLs\n"],"published":["2007-04-25T18:46:51Z"],"entry-type":["bookmark"],"name":["Particletree » Bookmarking Dynamic Pages"],"bookmark-of":["http://particletree.com/notebook/bookmarking-dynamic-pages/"],"category":["url","hack","dev","web","bookmark","design","javascript","via-pinboard"],"slug":["particletree-bookmarking-dynamic-pages"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simple hack for nicer URLs\n"
+    ],
+    "published": [
+      "2007-04-25T18:46:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Particletree » Bookmarking Dynamic Pages"
+    ],
+    "bookmark-of": [
+      "http://particletree.com/notebook/bookmarking-dynamic-pages/"
+    ],
+    "category": [
+      "url",
+      "hack",
+      "dev",
+      "web",
+      "bookmark",
+      "design",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "particletree-bookmarking-dynamic-pages"
+    ]
+  }
+}

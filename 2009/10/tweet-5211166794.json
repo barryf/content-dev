@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@randommelsmum The world needs more TT driving mothers of social media queens on Twitter. Keep it up!"],"published":["2009-10-27T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5211166794"],"slug":["tweet-5211166794"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@randommelsmum The world needs more TT driving mothers of social media queens on Twitter. Keep it up!"
+    ],
+    "published": [
+      "2009-10-27T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5211166794"
+    ],
+    "slug": [
+      "tweet-5211166794"
+    ]
+  }
+}

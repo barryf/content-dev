@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/BenHobson/status/563803641065504768"],"published":["2015-02-06T20:57:17Z"],"content":["@barryf this is the internet mate, it's pretty much all I do!"],"in-reply-to":["https://barryfrost.com/2015/02/benhobson-replied-before-i-could-delete"],"author":["http://www.runnersworld.co.uk"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/BenHobson/status/563803641065504768"
+    ],
+    "published": [
+      "2015-02-06T20:57:17Z"
+    ],
+    "content": [
+      "@barryf this is the internet mate, it's pretty much all I do!"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/02/benhobson-replied-before-i-could-delete"
+    ],
+    "author": [
+      "http://www.runnersworld.co.uk"
+    ]
+  }
+}

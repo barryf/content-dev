@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2016-10-03T19:07:09Z"],"entry-type":["bookmark"],"name":["RSpec::Core Cheat Sheet"],"bookmark-of":["http://www.rubypigeon.com/posts/rspec-core-cheat-sheet/"],"category":["rspec","cheatsheet","tips","ruby"],"slug":["rspec-core-cheat-sheet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-10-03T19:07:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RSpec::Core Cheat Sheet"
+    ],
+    "bookmark-of": [
+      "http://www.rubypigeon.com/posts/rspec-core-cheat-sheet/"
+    ],
+    "category": [
+      "rspec",
+      "cheatsheet",
+      "tips",
+      "ruby"
+    ],
+    "slug": [
+      "rspec-core-cheat-sheet"
+    ]
+  }
+}

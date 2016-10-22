@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Highlight text and a hovering contextual toolbar pops up over your paragraph. Useful for markup/links.\n"],"published":["2010-05-24T16:26:11Z"],"entry-type":["bookmark"],"name":["Why and how to create Microsoft Office Minibar with jQuery and CSS3"],"bookmark-of":["http://www.jankoatwarpspeed.com/post/2010/05/23/microsoft-office-minibar-jQuery-CSS3.aspx"],"category":["markup","minibar","menu","javascript","highlight","editor","via-pinboard"],"slug":["why-and-how-to-create-microsoft"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Highlight text and a hovering contextual toolbar pops up over your paragraph. Useful for markup/links.\n"
+    ],
+    "published": [
+      "2010-05-24T16:26:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why and how to create Microsoft Office Minibar with jQuery and CSS3"
+    ],
+    "bookmark-of": [
+      "http://www.jankoatwarpspeed.com/post/2010/05/23/microsoft-office-minibar-jQuery-CSS3.aspx"
+    ],
+    "category": [
+      "markup",
+      "minibar",
+      "menu",
+      "javascript",
+      "highlight",
+      "editor",
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-and-how-to-create-microsoft"
+    ]
+  }
+}

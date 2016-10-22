@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thanks, Jeff :) MT @cronkshaw: Congrats to the @WLD team as they announce the launch of their 10,000th site - http://bfr.st/1008Af4"],"published":["2013-03-22T19:06:11Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/315177606716731392"],"slug":["tweet-315177606716731392"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thanks, Jeff :) MT @cronkshaw: Congrats to the @WLD team as they announce the launch of their 10,000th site - http://bfr.st/1008Af4"
+    ],
+    "published": [
+      "2013-03-22T19:06:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/315177606716731392"
+    ],
+    "slug": [
+      "tweet-315177606716731392"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Charles Bridge, Prague, one of the foremost bridges in the bridge world"],"published":["2015-02-18T14:35:50Z"],"entry-type":["photo"],"category":["bridge"],"syndication":["https://twitter.com/barryf/status/568057004943499264","http://instagram.com/p/zPv9qTn_na/"],"location":["geo:50.086447222,14.411855556"],"place-name":["Charles Bridge"],"photo":["https://media.barryfrost.com/20150218-igbPYbq3.jpg"],"slug":["charles-bridge-prague-one-of-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Charles Bridge, Prague, one of the foremost bridges in the bridge world"
+    ],
+    "published": [
+      "2015-02-18T14:35:50Z"
+    ],
+    "entry-type": [
+      "photo"
+    ],
+    "category": [
+      "bridge"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/568057004943499264",
+      "http://instagram.com/p/zPv9qTn_na/"
+    ],
+    "location": [
+      "geo:50.086447222,14.411855556"
+    ],
+    "place-name": [
+      "Charles Bridge"
+    ],
+    "photo": [
+      "https://media.barryfrost.com/20150218-igbPYbq3.jpg"
+    ],
+    "slug": [
+      "charles-bridge-prague-one-of-the"
+    ]
+  }
+}

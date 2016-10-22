@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2007-03-11T21:00:16Z"],"entry-type":["bookmark"],"name":["Core Ruby on Rails: Skills Matter Training (UK)"],"bookmark-of":["http://www.skillsmatter.com/ruby-on-rails-course"],"category":["training","rails","uk","london","edinburgh","skillsmatter","via-pinboard"],"slug":["core-ruby-on-rails-skills-matter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-03-11T21:00:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Core Ruby on Rails: Skills Matter Training (UK)"
+    ],
+    "bookmark-of": [
+      "http://www.skillsmatter.com/ruby-on-rails-course"
+    ],
+    "category": [
+      "training",
+      "rails",
+      "uk",
+      "london",
+      "edinburgh",
+      "skillsmatter",
+      "via-pinboard"
+    ],
+    "slug": [
+      "core-ruby-on-rails-skills-matter"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh @WheresWardy Sums it up nicely #notfootball RT @Oatmeal: HECK YES WHO'S READY FOR SOME #FOOTBALL? http://twitter.com/Oatmeal/status/376755360071045120/photo/1"],"published":["2013-09-08T17:17:07Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/376756095286784000"],"slug":["tweet-376756095286784000"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh @WheresWardy Sums it up nicely #notfootball RT @Oatmeal: HECK YES WHO'S READY FOR SOME #FOOTBALL? http://twitter.com/Oatmeal/status/376755360071045120/photo/1"
+    ],
+    "published": [
+      "2013-09-08T17:17:07Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/376756095286784000"
+    ],
+    "slug": [
+      "tweet-376756095286784000"
+    ]
+  }
+}

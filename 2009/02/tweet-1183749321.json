@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@marckysharky Happy birthday! Have a marvellous rest of the day."],"published":["2009-02-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1183749321"],"slug":["tweet-1183749321"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@marckysharky Happy birthday! Have a marvellous rest of the day."
+    ],
+    "published": [
+      "2009-02-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1183749321"
+    ],
+    "slug": [
+      "tweet-1183749321"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@zheileman I would love to talk to you about a Rails role with us at @globaldev - are you still looking?"],"published":["2011-11-14T17:19:52Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/136131242881060864"],"slug":["tweet-136131242881060864"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@zheileman I would love to talk to you about a Rails role with us at @globaldev - are you still looking?"
+    ],
+    "published": [
+      "2011-11-14T17:19:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/136131242881060864"
+    ],
+    "slug": [
+      "tweet-136131242881060864"
+    ]
+  }
+}

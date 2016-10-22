@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Sublime Text 2 theme, designed for Mac. Has accompanying colour scheme."],"published":["2012-08-11T15:45:12Z"],"entry-type":["bookmark"],"name":["Soda Theme for ST2"],"bookmark-of":["https://github.com/buymeasoda/soda-theme"],"category":["sublimetext","theme","mac","editor","via-pinboard"],"slug":["soda-theme-for-st2"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sublime Text 2 theme, designed for Mac. Has accompanying colour scheme."
+    ],
+    "published": [
+      "2012-08-11T15:45:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Soda Theme for ST2"
+    ],
+    "bookmark-of": [
+      "https://github.com/buymeasoda/soda-theme"
+    ],
+    "category": [
+      "sublimetext",
+      "theme",
+      "mac",
+      "editor",
+      "via-pinboard"
+    ],
+    "slug": [
+      "soda-theme-for-st2"
+    ]
+  }
+}

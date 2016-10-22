@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Happily paid for a premium @simplenoteapp account after a polite email pointed out I'd exceeded its free API limit and would I mind paying?"],"published":["2010-03-16T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10591153588"],"slug":["tweet-10591153588"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Happily paid for a premium @simplenoteapp account after a polite email pointed out I'd exceeded its free API limit and would I mind paying?"
+    ],
+    "published": [
+      "2010-03-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10591153588"
+    ],
+    "slug": [
+      "tweet-10591153588"
+    ]
+  }
+}

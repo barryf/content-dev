@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh I preferred FW’s paid model. Feedly didn’t seem to offer subscriptions export."],"published":["2013-06-29T19:43:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/351045399789838336"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/351063344289030144"],"slug":["tweet-351063344289030144"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh I preferred FW’s paid model. Feedly didn’t seem to offer subscriptions export."
+    ],
+    "published": [
+      "2013-06-29T19:43:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/351045399789838336"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/351063344289030144"
+    ],
+    "slug": [
+      "tweet-351063344289030144"
+    ]
+  }
+}

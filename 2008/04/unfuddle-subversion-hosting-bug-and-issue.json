@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2008-04-19T10:25:35Z"],"entry-type":["bookmark"],"name":["Unfuddle: Subversion Hosting, Bug and Issue Tracking"],"bookmark-of":["http://unfuddle.com/"],"category":["subversion","svn","hosting","bugtracking","wiki","team","work","collaboration","via-pinboard"],"slug":["unfuddle-subversion-hosting-bug-and-issue"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-04-19T10:25:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Unfuddle: Subversion Hosting, Bug and Issue Tracking"
+    ],
+    "bookmark-of": [
+      "http://unfuddle.com/"
+    ],
+    "category": [
+      "subversion",
+      "svn",
+      "hosting",
+      "bugtracking",
+      "wiki",
+      "team",
+      "work",
+      "collaboration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "unfuddle-subversion-hosting-bug-and-issue"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Helpful support request form example\n"],"published":["2008-06-27T08:41:44Z"],"entry-type":["bookmark"],"name":["Basecamp: Submit a support request"],"bookmark-of":["http://www.basecamphq.com/help/support"],"category":["support","form","web","help","design","layout","via-pinboard"],"slug":["basecamp-submit-a-support-request"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Helpful support request form example\n"
+    ],
+    "published": [
+      "2008-06-27T08:41:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Basecamp: Submit a support request"
+    ],
+    "bookmark-of": [
+      "http://www.basecamphq.com/help/support"
+    ],
+    "category": [
+      "support",
+      "form",
+      "web",
+      "help",
+      "design",
+      "layout",
+      "via-pinboard"
+    ],
+    "slug": [
+      "basecamp-submit-a-support-request"
+    ]
+  }
+}

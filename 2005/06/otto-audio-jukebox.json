@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Web-based MP3 jukebox. Useful for in-office player?\n"],"published":["2005-06-02T08:08:52Z"],"entry-type":["bookmark"],"name":["Otto Audio Jukebox"],"bookmark-of":["http://cardhouse.com/otto/"],"category":["mp3","via-pinboard"],"slug":["otto-audio-jukebox"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Web-based MP3 jukebox. Useful for in-office player?\n"
+    ],
+    "published": [
+      "2005-06-02T08:08:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Otto Audio Jukebox"
+    ],
+    "bookmark-of": [
+      "http://cardhouse.com/otto/"
+    ],
+    "category": [
+      "mp3",
+      "via-pinboard"
+    ],
+    "slug": [
+      "otto-audio-jukebox"
+    ]
+  }
+}

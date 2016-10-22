@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/HerrWulf/status/561101924104425472"],"published":["2015-01-30T10:01:38Z"],"content":["retweeted this."],"repost-of":["https://barryfrost.com/2015/01/if-it-wasn-t-irritating-enough"],"author":["https://davidturner.name"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/HerrWulf/status/561101924104425472"
+    ],
+    "published": [
+      "2015-01-30T10:01:38Z"
+    ],
+    "content": [
+      "retweeted this."
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/01/if-it-wasn-t-irritating-enough"
+    ],
+    "author": [
+      "https://davidturner.name"
+    ]
+  }
+}

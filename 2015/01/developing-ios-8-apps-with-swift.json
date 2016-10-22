@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Stanford iTunes U course on iOS 8/Swift development"],"published":["2015-01-27T10:36:18Z"],"entry-type":["bookmark"],"name":["Developing iOS 8 Apps with Swift"],"bookmark-of":["https://itunes.apple.com/gb/course/developing-ios-8-apps-swift/id961180099"],"category":["ios","swift","course","itunesu"],"slug":["developing-ios-8-apps-with-swift"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Stanford iTunes U course on iOS 8/Swift development"
+    ],
+    "published": [
+      "2015-01-27T10:36:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Developing iOS 8 Apps with Swift"
+    ],
+    "bookmark-of": [
+      "https://itunes.apple.com/gb/course/developing-ios-8-apps-swift/id961180099"
+    ],
+    "category": [
+      "ios",
+      "swift",
+      "course",
+      "itunesu"
+    ],
+    "slug": [
+      "developing-ios-8-apps-with-swift"
+    ]
+  }
+}

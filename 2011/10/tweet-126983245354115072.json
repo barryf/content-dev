@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Team @wld hard at work in the conservatory (@ Fanham Hall Hotel w/ @rosswilliams) [pic]: http://4sq.com/pF1yAU"],"published":["2011-10-20T11:28:59Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/126983245354115072"],"slug":["tweet-126983245354115072"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Team @wld hard at work in the conservatory (@ Fanham Hall Hotel w/ @rosswilliams) [pic]: http://4sq.com/pF1yAU"
+    ],
+    "published": [
+      "2011-10-20T11:28:59Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/126983245354115072"
+    ],
+    "slug": [
+      "tweet-126983245354115072"
+    ]
+  }
+}

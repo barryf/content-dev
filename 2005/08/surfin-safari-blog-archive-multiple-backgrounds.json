@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Firefox next please?\n"],"published":["2005-08-03T17:02:52Z"],"entry-type":["bookmark"],"name":["Surfin’ Safari » Blog Archive » Multiple Backgrounds"],"bookmark-of":["http://webkit.opendarwin.org/blog/?p=15"],"category":["css","design","standards","browser","via-pinboard"],"slug":["surfin-safari-blog-archive-multiple-backgrounds"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Firefox next please?\n"
+    ],
+    "published": [
+      "2005-08-03T17:02:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Surfin’ Safari » Blog Archive » Multiple Backgrounds"
+    ],
+    "bookmark-of": [
+      "http://webkit.opendarwin.org/blog/?p=15"
+    ],
+    "category": [
+      "css",
+      "design",
+      "standards",
+      "browser",
+      "via-pinboard"
+    ],
+    "slug": [
+      "surfin-safari-blog-archive-multiple-backgrounds"
+    ]
+  }
+}

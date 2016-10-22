@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@martinbtt Good luck with your new job today. Hope you haven't forgotten how to code!"],"published":["2011-07-11T08:13:42Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/90332926176272384"],"slug":["tweet-90332926176272384"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@martinbtt Good luck with your new job today. Hope you haven't forgotten how to code!"
+    ],
+    "published": [
+      "2011-07-11T08:13:42Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/90332926176272384"
+    ],
+    "slug": [
+      "tweet-90332926176272384"
+    ]
+  }
+}

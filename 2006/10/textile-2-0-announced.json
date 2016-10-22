@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2006-10-19T10:07:51Z"],"entry-type":["bookmark"],"name":["Textile 2.0 announced"],"bookmark-of":["http://thresholdstate.com/threshold/4210/textile-two-point-oh"],"category":["textile","markup","code","web","text","writing","via-pinboard"],"slug":["textile-2-0-announced"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-10-19T10:07:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Textile 2.0 announced"
+    ],
+    "bookmark-of": [
+      "http://thresholdstate.com/threshold/4210/textile-two-point-oh"
+    ],
+    "category": [
+      "textile",
+      "markup",
+      "code",
+      "web",
+      "text",
+      "writing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "textile-2-0-announced"
+    ]
+  }
+}

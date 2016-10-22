@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Helps you test just the CFC you're working with, mocking external objects. Uses onMissingMethod - part of CF8\n"],"published":["2007-11-15T14:58:55Z"],"entry-type":["bookmark"],"name":["Unit Testing with ColdMock To Dynamically Generate Mock Objects"],"bookmark-of":["http://www.briankotek.com/blog/index.cfm/2007/8/28/Unit-Testing-with-ColdMock-To-Dynamically-Generate-Mock-Objects"],"category":["cfc","coldfusion","mock","object","tdd","testing","web","dev","oop","coldmock","via-pinboard"],"slug":["unit-testing-with-coldmock-to-dynamically"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Helps you test just the CFC you're working with, mocking external objects. Uses onMissingMethod - part of CF8\n"
+    ],
+    "published": [
+      "2007-11-15T14:58:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Unit Testing with ColdMock To Dynamically Generate Mock Objects"
+    ],
+    "bookmark-of": [
+      "http://www.briankotek.com/blog/index.cfm/2007/8/28/Unit-Testing-with-ColdMock-To-Dynamically-Generate-Mock-Objects"
+    ],
+    "category": [
+      "cfc",
+      "coldfusion",
+      "mock",
+      "object",
+      "tdd",
+      "testing",
+      "web",
+      "dev",
+      "oop",
+      "coldmock",
+      "via-pinboard"
+    ],
+    "slug": [
+      "unit-testing-with-coldmock-to-dynamically"
+    ]
+  }
+}

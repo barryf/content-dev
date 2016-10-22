@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["iOS app and webservice for tracking/storing your own location"],"published":["2015-03-18T13:58:29Z"],"entry-type":["bookmark"],"name":["Tracklet"],"bookmark-of":["https://github.com/kenichi/tracklet"],"category":["ios","location","geo","webservice"],"slug":["tracklet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "iOS app and webservice for tracking/storing your own location"
+    ],
+    "published": [
+      "2015-03-18T13:58:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tracklet"
+    ],
+    "bookmark-of": [
+      "https://github.com/kenichi/tracklet"
+    ],
+    "category": [
+      "ios",
+      "location",
+      "geo",
+      "webservice"
+    ],
+    "slug": [
+      "tracklet"
+    ]
+  }
+}

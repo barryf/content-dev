@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Board meeting today so I'm wearing a shirt."],"published":["2009-06-25T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2323377328"],"slug":["tweet-2323377328"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Board meeting today so I'm wearing a shirt."
+    ],
+    "published": [
+      "2009-06-25T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2323377328"
+    ],
+    "slug": [
+      "tweet-2323377328"
+    ]
+  }
+}

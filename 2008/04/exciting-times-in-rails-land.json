@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Rails 2.1 to feature timestamped migrations and fancy required Gem config code\n"],"published":["2008-04-01T22:05:01Z"],"entry-type":["bookmark"],"name":["Exciting times in Rails land"],"bookmark-of":["http://blog.caboo.se/articles/2008/3/30/exciting-times-in-rails-land"],"category":["rails","edge","migration","gem","dev","via-pinboard"],"slug":["exciting-times-in-rails-land"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails 2.1 to feature timestamped migrations and fancy required Gem config code\n"
+    ],
+    "published": [
+      "2008-04-01T22:05:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Exciting times in Rails land"
+    ],
+    "bookmark-of": [
+      "http://blog.caboo.se/articles/2008/3/30/exciting-times-in-rails-land"
+    ],
+    "category": [
+      "rails",
+      "edge",
+      "migration",
+      "gem",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "exciting-times-in-rails-land"
+    ]
+  }
+}

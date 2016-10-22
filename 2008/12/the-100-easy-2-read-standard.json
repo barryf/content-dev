@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["16px body font, whitespace, good contrast, 140% leading. Common sense\n"],"published":["2008-12-20T11:06:46Z"],"entry-type":["bookmark"],"name":["The 100% Easy-2-Read Standard"],"bookmark-of":["http://informationarchitects.jp/100e2r/"],"category":["web","design","layout","readability","typography","whitespace","leading","font","via-pinboard"],"slug":["the-100-easy-2-read-standard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "16px body font, whitespace, good contrast, 140% leading. Common sense\n"
+    ],
+    "published": [
+      "2008-12-20T11:06:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The 100% Easy-2-Read Standard"
+    ],
+    "bookmark-of": [
+      "http://informationarchitects.jp/100e2r/"
+    ],
+    "category": [
+      "web",
+      "design",
+      "layout",
+      "readability",
+      "typography",
+      "whitespace",
+      "leading",
+      "font",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-100-easy-2-read-standard"
+    ]
+  }
+}

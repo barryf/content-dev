@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The Grand Budapest Hotel: Wes Anderson's new film. Looks fantastic!\n\nhttp://youtu.be/1Fg5iWmQjwk"],"published":["2013-10-17T17:49:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/390897400245944320"],"slug":["tweet-390897400245944320"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The Grand Budapest Hotel: Wes Anderson's new film. Looks fantastic!\n\nhttp://youtu.be/1Fg5iWmQjwk"
+    ],
+    "published": [
+      "2013-10-17T17:49:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/390897400245944320"
+    ],
+    "slug": [
+      "tweet-390897400245944320"
+    ]
+  }
+}

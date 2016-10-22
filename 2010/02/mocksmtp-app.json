@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Mac app that acts as a pretend SMTP server, capturing email content so you can see how it would be delivered\n"],"published":["2010-02-22T12:01:40Z"],"entry-type":["bookmark"],"name":["MockSMTP.app"],"bookmark-of":["http://mocksmtpapp.com/"],"category":["smtp","mac","test","email","work","html","marketing","forioptics","forflatpackedworld","fortimblair","via-pinboard"],"slug":["mocksmtp-app"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mac app that acts as a pretend SMTP server, capturing email content so you can see how it would be delivered\n"
+    ],
+    "published": [
+      "2010-02-22T12:01:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MockSMTP.app"
+    ],
+    "bookmark-of": [
+      "http://mocksmtpapp.com/"
+    ],
+    "category": [
+      "smtp",
+      "mac",
+      "test",
+      "email",
+      "work",
+      "html",
+      "marketing",
+      "forioptics",
+      "forflatpackedworld",
+      "fortimblair",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mocksmtp-app"
+    ]
+  }
+}

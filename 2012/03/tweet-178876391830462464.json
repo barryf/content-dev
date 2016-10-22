@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Roast beef, sticky toffee pudding, Merlot and now watching the Rosbifs winning in Paris. A good Sunday."],"published":["2012-03-11T16:13:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/178876391830462464"],"slug":["tweet-178876391830462464"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Roast beef, sticky toffee pudding, Merlot and now watching the Rosbifs winning in Paris. A good Sunday."
+    ],
+    "published": [
+      "2012-03-11T16:13:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/178876391830462464"
+    ],
+    "slug": [
+      "tweet-178876391830462464"
+    ]
+  }
+}

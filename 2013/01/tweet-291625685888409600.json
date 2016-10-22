@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The startup skill set - http://swombat.com on startups http://j.mp/11zL6Ts (via Instapaper)"],"published":["2013-01-16T19:19:16Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/291625685888409600"],"slug":["tweet-291625685888409600"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The startup skill set - http://swombat.com on startups http://j.mp/11zL6Ts (via Instapaper)"
+    ],
+    "published": [
+      "2013-01-16T19:19:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/291625685888409600"
+    ],
+    "slug": [
+      "tweet-291625685888409600"
+    ]
+  }
+}

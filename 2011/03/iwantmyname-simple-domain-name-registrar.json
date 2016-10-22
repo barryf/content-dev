@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Full DNS control and setup guides for popular web services like Tumblr\n"],"published":["2011-03-07T13:45:24Z"],"entry-type":["bookmark"],"name":["iWantMyName - Simple Domain Name Registrar"],"bookmark-of":["http://iwantmyname.com/"],"category":["dns","registrar","domain","sysadmin","via-pinboard"],"slug":["iwantmyname-simple-domain-name-registrar"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Full DNS control and setup guides for popular web services like Tumblr\n"
+    ],
+    "published": [
+      "2011-03-07T13:45:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iWantMyName - Simple Domain Name Registrar"
+    ],
+    "bookmark-of": [
+      "http://iwantmyname.com/"
+    ],
+    "category": [
+      "dns",
+      "registrar",
+      "domain",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "iwantmyname-simple-domain-name-registrar"
+    ]
+  }
+}

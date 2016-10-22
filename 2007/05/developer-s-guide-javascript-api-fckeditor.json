@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-05-31T20:30:24Z"],"entry-type":["bookmark"],"name":["Developer's Guide/Javascript API - FCKeditor Wiki"],"bookmark-of":["http://wiki.fckeditor.net/Developer_s_Guide/Javascript_API"],"category":["editor","html","web","fckeditor","javascript","wysiwyg","api","via-pinboard"],"slug":["developer-s-guide-javascript-api-fckeditor"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-05-31T20:30:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Developer's Guide/Javascript API - FCKeditor Wiki"
+    ],
+    "bookmark-of": [
+      "http://wiki.fckeditor.net/Developer_s_Guide/Javascript_API"
+    ],
+    "category": [
+      "editor",
+      "html",
+      "web",
+      "fckeditor",
+      "javascript",
+      "wysiwyg",
+      "api",
+      "via-pinboard"
+    ],
+    "slug": [
+      "developer-s-guide-javascript-api-fckeditor"
+    ]
+  }
+}

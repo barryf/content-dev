@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Useful arguments for doing this at work\n"],"published":["2007-07-01T10:05:37Z"],"entry-type":["bookmark"],"name":["Coding Horror: The Windows Security Epidemic: Don't Run as an Administrator"],"bookmark-of":["http://www.codinghorror.com/blog/archives/000891.html"],"category":["security","windows","spyware","work","via-pinboard"],"slug":["coding-horror-the-windows-security-epidemic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful arguments for doing this at work\n"
+    ],
+    "published": [
+      "2007-07-01T10:05:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Coding Horror: The Windows Security Epidemic: Don't Run as an Administrator"
+    ],
+    "bookmark-of": [
+      "http://www.codinghorror.com/blog/archives/000891.html"
+    ],
+    "category": [
+      "security",
+      "windows",
+      "spyware",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "coding-horror-the-windows-security-epidemic"
+    ]
+  }
+}

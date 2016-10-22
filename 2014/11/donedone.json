@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Issue/bug/defect tracker"],"published":["2014-11-26T12:04:53Z"],"entry-type":["bookmark"],"name":["DoneDone"],"bookmark-of":["http://www.getdonedone.com/"],"category":["bug","defect","issue","team","dev","via-pinboard"],"slug":["donedone"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Issue/bug/defect tracker"
+    ],
+    "published": [
+      "2014-11-26T12:04:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DoneDone"
+    ],
+    "bookmark-of": [
+      "http://www.getdonedone.com/"
+    ],
+    "category": [
+      "bug",
+      "defect",
+      "issue",
+      "team",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "donedone"
+    ]
+  }
+}

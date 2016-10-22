@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2010-11-30T15:28:32Z"],"entry-type":["bookmark"],"name":["Starkers: The completely naked theme for WordPress"],"bookmark-of":["http://starkerstheme.com/"],"category":["wordpress","theme","boilerplate","vanilla","via-pinboard"],"slug":["starkers-the-completely-naked-theme-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-11-30T15:28:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Starkers: The completely naked theme for WordPress"
+    ],
+    "bookmark-of": [
+      "http://starkerstheme.com/"
+    ],
+    "category": [
+      "wordpress",
+      "theme",
+      "boilerplate",
+      "vanilla",
+      "via-pinboard"
+    ],
+    "slug": [
+      "starkers-the-completely-naked-theme-for"
+    ]
+  }
+}

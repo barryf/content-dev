@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Trevorlines What a stunning scene. Even more so to my poor eyes, straining in the gloom of office fluorescent lights. Enjoy your afternoon!"],"published":["2009-03-28T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/18305886/status/1407185401"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1407314293"],"slug":["tweet-1407314293"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Trevorlines What a stunning scene. Even more so to my poor eyes, straining in the gloom of office fluorescent lights. Enjoy your afternoon!"
+    ],
+    "published": [
+      "2009-03-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/18305886/status/1407185401"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1407314293"
+    ],
+    "slug": [
+      "tweet-1407314293"
+    ]
+  }
+}

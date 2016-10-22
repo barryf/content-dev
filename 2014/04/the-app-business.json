@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Mobile app development company, London, UK - iPhone, Android & Windows developers"],"published":["2014-04-30T12:43:29Z"],"entry-type":["bookmark"],"name":["The App Business"],"bookmark-of":["http://www.theappbusiness.com/"],"category":["app","mobile","iOS","android","london","uk","via-pinboard"],"slug":["the-app-business"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mobile app development company, London, UK - iPhone, Android & Windows developers"
+    ],
+    "published": [
+      "2014-04-30T12:43:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The App Business"
+    ],
+    "bookmark-of": [
+      "http://www.theappbusiness.com/"
+    ],
+    "category": [
+      "app",
+      "mobile",
+      "iOS",
+      "android",
+      "london",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-app-business"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Generates Foreign Keys when creating tables as part of migrations in Rails\n"],"published":["2007-04-22T18:56:46Z"],"entry-type":["bookmark"],"name":["RedHill Consulting, Pty. Ltd. - Ruby on Rails Plugins (FK migrations)"],"bookmark-of":["http://www.redhillonrails.org/#foreign_key_migrations"],"category":["database","plugin","rails","migrations","foreignkey","web","dev","via-pinboard"],"slug":["redhill-consulting-pty-ltd-ruby-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Generates Foreign Keys when creating tables as part of migrations in Rails\n"
+    ],
+    "published": [
+      "2007-04-22T18:56:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RedHill Consulting, Pty. Ltd. - Ruby on Rails Plugins (FK migrations)"
+    ],
+    "bookmark-of": [
+      "http://www.redhillonrails.org/#foreign_key_migrations"
+    ],
+    "category": [
+      "database",
+      "plugin",
+      "rails",
+      "migrations",
+      "foreignkey",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "redhill-consulting-pty-ltd-ruby-on"
+    ]
+  }
+}

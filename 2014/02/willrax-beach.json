@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Small Sinatra app to host web hooks for Slack\r\n"],"published":["2014-02-26T09:57:40Z"],"entry-type":["bookmark"],"name":["willrax/beach"],"bookmark-of":["https://github.com/willrax/beach"],"category":["slack","ruby","sinatra","via-pinboard"],"slug":["willrax-beach"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Small Sinatra app to host web hooks for Slack\r\n"
+    ],
+    "published": [
+      "2014-02-26T09:57:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "willrax/beach"
+    ],
+    "bookmark-of": [
+      "https://github.com/willrax/beach"
+    ],
+    "category": [
+      "slack",
+      "ruby",
+      "sinatra",
+      "via-pinboard"
+    ],
+    "slug": [
+      "willrax-beach"
+    ]
+  }
+}

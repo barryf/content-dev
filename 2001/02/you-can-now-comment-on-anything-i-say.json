@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["You can now comment on anything I say: click on \"Discuss\" below any post to add your comments."],"published":["2001-02-08T00:00:00Z"],"slug":["you-can-now-comment-on-anything-i-say"],"entry-type":["note"],"category":["travelblog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "You can now comment on anything I say: click on \"Discuss\" below any post to add your comments."
+    ],
+    "published": [
+      "2001-02-08T00:00:00Z"
+    ],
+    "slug": [
+      "you-can-now-comment-on-anything-i-say"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "travelblog"
+    ]
+  }
+}

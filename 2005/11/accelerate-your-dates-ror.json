@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-11-09T09:40:40Z"],"entry-type":["bookmark"],"name":["Accelerate your dates (RoR)"],"bookmark-of":["http://railsexpress.de/blog/articles/2005/11/09/accelerate-your-dates"],"category":["ruby","rails","performance","speed","via-pinboard"],"slug":["accelerate-your-dates-ror"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-11-09T09:40:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Accelerate your dates (RoR)"
+    ],
+    "bookmark-of": [
+      "http://railsexpress.de/blog/articles/2005/11/09/accelerate-your-dates"
+    ],
+    "category": [
+      "ruby",
+      "rails",
+      "performance",
+      "speed",
+      "via-pinboard"
+    ],
+    "slug": [
+      "accelerate-your-dates-ror"
+    ]
+  }
+}

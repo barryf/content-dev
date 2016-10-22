@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-04-24T13:45:51Z"],"entry-type":["bookmark"],"name":["Tips for speakers"],"bookmark-of":["http://www.cennydd.com/blog/tips-for-speakers"],"category":["speaking","presentation","talk"],"slug":["tips-for-speakers"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-04-24T13:45:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tips for speakers"
+    ],
+    "bookmark-of": [
+      "http://www.cennydd.com/blog/tips-for-speakers"
+    ],
+    "category": [
+      "speaking",
+      "presentation",
+      "talk"
+    ],
+    "slug": [
+      "tips-for-speakers"
+    ]
+  }
+}

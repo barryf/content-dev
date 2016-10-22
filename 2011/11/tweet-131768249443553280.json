@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Love the sound of Chaos Monkey - tool that randomly deliberately breaks production instances to test failover http://bfr.st/5JTK /via @dhh"],"published":["2011-11-02T16:22:53Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/131768249443553280"],"slug":["tweet-131768249443553280"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Love the sound of Chaos Monkey - tool that randomly deliberately breaks production instances to test failover http://bfr.st/5JTK /via @dhh"
+    ],
+    "published": [
+      "2011-11-02T16:22:53Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/131768249443553280"
+    ],
+    "slug": [
+      "tweet-131768249443553280"
+    ]
+  }
+}

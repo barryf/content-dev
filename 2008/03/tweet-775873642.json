@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Focusing on the Champions League. The Premier League is for chumps."],"published":["2008-03-23T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/775873642"],"slug":["tweet-775873642"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Focusing on the Champions League. The Premier League is for chumps."
+    ],
+    "published": [
+      "2008-03-23T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/775873642"
+    ],
+    "slug": [
+      "tweet-775873642"
+    ]
+  }
+}

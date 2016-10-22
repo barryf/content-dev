@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Jonny Hobson"],"photo":["http://pbs.twimg.com/profile_images/2129068722/JLH_normal.jpg"],"url":["https://twitter.com/jonnyhobbo"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jonny Hobson"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/2129068722/JLH_normal.jpg"
+    ],
+    "url": [
+      "https://twitter.com/jonnyhobbo"
+    ]
+  }
+}

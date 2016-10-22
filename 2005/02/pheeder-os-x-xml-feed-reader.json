@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-18T09:40:12Z"],"entry-type":["bookmark"],"name":["Pheeder: OS X XML Feed Reader (RSS Atom and more...)"],"bookmark-of":["http://www.pheed.com/pheeder/"],"category":["mac","rss","via-pinboard"],"slug":["pheeder-os-x-xml-feed-reader"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-18T09:40:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Pheeder: OS X XML Feed Reader (RSS Atom and more...)"
+    ],
+    "bookmark-of": [
+      "http://www.pheed.com/pheeder/"
+    ],
+    "category": [
+      "mac",
+      "rss",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pheeder-os-x-xml-feed-reader"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Heading to new office by Waterloo Station from Windsor. Taxi driver: \"Is that near King's Cross?\" I don't think he'd pass The Knowledge."],"published":["2012-03-05T13:44:48Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/176664563914248192"],"slug":["tweet-176664563914248192"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Heading to new office by Waterloo Station from Windsor. Taxi driver: \"Is that near King's Cross?\" I don't think he'd pass The Knowledge."
+    ],
+    "published": [
+      "2012-03-05T13:44:48Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/176664563914248192"
+    ],
+    "slug": [
+      "tweet-176664563914248192"
+    ]
+  }
+}

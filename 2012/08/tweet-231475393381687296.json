@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewgarner Beans, biscuits and Dr Pepper?"],"published":["2012-08-03T19:43:29Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15734896/status/231473404677586945"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/231475393381687296"],"slug":["tweet-231475393381687296"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewgarner Beans, biscuits and Dr Pepper?"
+    ],
+    "published": [
+      "2012-08-03T19:43:29Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15734896/status/231473404677586945"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/231475393381687296"
+    ],
+    "slug": [
+      "tweet-231475393381687296"
+    ]
+  }
+}

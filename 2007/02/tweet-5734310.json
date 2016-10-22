@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Back from Barcelona. Shocked that I haven't checked my feeds for over a fortnight. Gulp."],"published":["2007-02-27T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5734310"],"slug":["tweet-5734310"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Back from Barcelona. Shocked that I haven't checked my feeds for over a fortnight. Gulp."
+    ],
+    "published": [
+      "2007-02-27T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5734310"
+    ],
+    "slug": [
+      "tweet-5734310"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Setup a Production Ready Ruby on Rails Application Over Apache and Mongrel\n"],"published":["2007-03-05T12:52:32Z"],"entry-type":["bookmark"],"name":["Rails on Apache Mongret"],"bookmark-of":["http://rubycorner.net/tutorials/setup-a-production-ready-ruby-on-rails-application-over-apache-and-mongrel/"],"category":["rails","apache","deployment","hosting","mongrel","server","sysadmin","production","via-pinboard"],"slug":["rails-on-apache-mongret"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Setup a Production Ready Ruby on Rails Application Over Apache and Mongrel\n"
+    ],
+    "published": [
+      "2007-03-05T12:52:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails on Apache Mongret"
+    ],
+    "bookmark-of": [
+      "http://rubycorner.net/tutorials/setup-a-production-ready-ruby-on-rails-application-over-apache-and-mongrel/"
+    ],
+    "category": [
+      "rails",
+      "apache",
+      "deployment",
+      "hosting",
+      "mongrel",
+      "server",
+      "sysadmin",
+      "production",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-on-apache-mongret"
+    ]
+  }
+}

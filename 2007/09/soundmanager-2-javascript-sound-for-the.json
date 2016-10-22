@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["via a hidden SWF. Works well\n"],"published":["2007-09-15T13:53:44Z"],"entry-type":["bookmark"],"name":["SoundManager 2: Javascript Sound for the Web"],"bookmark-of":["http://www.schillmania.com/projects/soundmanager2/"],"category":["sound","audio","swf","flash","javascript","web","dev","script","effects","design","cool","via-pinboard"],"slug":["soundmanager-2-javascript-sound-for-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "via a hidden SWF. Works well\n"
+    ],
+    "published": [
+      "2007-09-15T13:53:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "SoundManager 2: Javascript Sound for the Web"
+    ],
+    "bookmark-of": [
+      "http://www.schillmania.com/projects/soundmanager2/"
+    ],
+    "category": [
+      "sound",
+      "audio",
+      "swf",
+      "flash",
+      "javascript",
+      "web",
+      "dev",
+      "script",
+      "effects",
+      "design",
+      "cool",
+      "via-pinboard"
+    ],
+    "slug": [
+      "soundmanager-2-javascript-sound-for-the"
+    ]
+  }
+}

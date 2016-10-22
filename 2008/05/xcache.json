@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Another PHP opcode cacher\n"],"published":["2008-05-05T17:04:10Z"],"entry-type":["bookmark"],"name":["XCache"],"bookmark-of":["http://xcache.lighttpd.net/"],"category":["php","cache","opcode","performance","scaling","dev","server","via-pinboard"],"slug":["xcache"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another PHP opcode cacher\n"
+    ],
+    "published": [
+      "2008-05-05T17:04:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "XCache"
+    ],
+    "bookmark-of": [
+      "http://xcache.lighttpd.net/"
+    ],
+    "category": [
+      "php",
+      "cache",
+      "opcode",
+      "performance",
+      "scaling",
+      "dev",
+      "server",
+      "via-pinboard"
+    ],
+    "slug": [
+      "xcache"
+    ]
+  }
+}

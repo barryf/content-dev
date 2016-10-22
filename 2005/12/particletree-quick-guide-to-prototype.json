@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Very useful examples, including Prototype's Ajax features\n"],"published":["2005-12-04T10:42:29Z"],"entry-type":["bookmark"],"name":["Particletree · Quick Guide to Prototype"],"bookmark-of":["http://particletree.com/features/quick-guide-to-prototype/"],"category":["web","web20","dev","javascript","prototype","framework","library","reference","ajax","via-pinboard"],"slug":["particletree-quick-guide-to-prototype"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Very useful examples, including Prototype's Ajax features\n"
+    ],
+    "published": [
+      "2005-12-04T10:42:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Particletree · Quick Guide to Prototype"
+    ],
+    "bookmark-of": [
+      "http://particletree.com/features/quick-guide-to-prototype/"
+    ],
+    "category": [
+      "web",
+      "web20",
+      "dev",
+      "javascript",
+      "prototype",
+      "framework",
+      "library",
+      "reference",
+      "ajax",
+      "via-pinboard"
+    ],
+    "slug": [
+      "particletree-quick-guide-to-prototype"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-08-02T19:33:34Z"],"entry-type":["bookmark"],"name":["Protx VSP Direct ActiveMerchant module"],"bookmark-of":["http://pastie.caboo.se/53014"],"category":["protx","rails","activemerchant","ecommerce","shop","web","uk","payment","via-pinboard"],"slug":["protx-vsp-direct-activemerchant-module"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-08-02T19:33:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Protx VSP Direct ActiveMerchant module"
+    ],
+    "bookmark-of": [
+      "http://pastie.caboo.se/53014"
+    ],
+    "category": [
+      "protx",
+      "rails",
+      "activemerchant",
+      "ecommerce",
+      "shop",
+      "web",
+      "uk",
+      "payment",
+      "via-pinboard"
+    ],
+    "slug": [
+      "protx-vsp-direct-activemerchant-module"
+    ]
+  }
+}

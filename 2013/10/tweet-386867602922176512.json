@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@rosswilliams Not quite enough of a steal, sadly! And not enough seats for future needs."],"published":["2013-10-06T14:56:38Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11832/status/386857352764588032"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/386867602922176512"],"slug":["tweet-386867602922176512"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@rosswilliams Not quite enough of a steal, sadly! And not enough seats for future needs."
+    ],
+    "published": [
+      "2013-10-06T14:56:38Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11832/status/386857352764588032"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/386867602922176512"
+    ],
+    "slug": [
+      "tweet-386867602922176512"
+    ]
+  }
+}

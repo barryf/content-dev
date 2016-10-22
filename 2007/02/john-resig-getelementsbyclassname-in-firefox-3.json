@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Microformat parsers (and similar class-based query systems) are suddenly going to get rather fast\n"],"published":["2007-02-12T22:04:20Z"],"entry-type":["bookmark"],"name":["John Resig - getElementsByClassName in Firefox 3"],"bookmark-of":["http://ejohn.org/blog/getelementsbyclassname-in-firefox-3/"],"category":["css","javascript","dom","firefox","browser","performance","web","dev","via-pinboard"],"slug":["john-resig-getelementsbyclassname-in-firefox-3"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Microformat parsers (and similar class-based query systems) are suddenly going to get rather fast\n"
+    ],
+    "published": [
+      "2007-02-12T22:04:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "John Resig - getElementsByClassName in Firefox 3"
+    ],
+    "bookmark-of": [
+      "http://ejohn.org/blog/getelementsbyclassname-in-firefox-3/"
+    ],
+    "category": [
+      "css",
+      "javascript",
+      "dom",
+      "firefox",
+      "browser",
+      "performance",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "john-resig-getelementsbyclassname-in-firefox-3"
+    ]
+  }
+}

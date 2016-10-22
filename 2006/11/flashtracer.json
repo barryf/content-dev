@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Debug Flash in Firefox. Needs Flash 9 debug plugin\n"],"published":["2006-11-14T09:14:43Z"],"entry-type":["bookmark"],"name":["FlashTracer"],"bookmark-of":["https://addons.mozilla.org/firefox/3469/"],"category":["firefox","flash","extension","web","dev","design","debug","via-pinboard"],"slug":["flashtracer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Debug Flash in Firefox. Needs Flash 9 debug plugin\n"
+    ],
+    "published": [
+      "2006-11-14T09:14:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FlashTracer"
+    ],
+    "bookmark-of": [
+      "https://addons.mozilla.org/firefox/3469/"
+    ],
+    "category": [
+      "firefox",
+      "flash",
+      "extension",
+      "web",
+      "dev",
+      "design",
+      "debug",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flashtracer"
+    ]
+  }
+}

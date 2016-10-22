@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@TheGeekPeople You’re absolutely right. Leaving the decisions to the expert!"],"published":["2013-08-20T10:53:38Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/1239252865/status/369773490049519616"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/369774218885746688"],"slug":["tweet-369774218885746688"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@TheGeekPeople You’re absolutely right. Leaving the decisions to the expert!"
+    ],
+    "published": [
+      "2013-08-20T10:53:38Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/1239252865/status/369773490049519616"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/369774218885746688"
+    ],
+    "slug": [
+      "tweet-369774218885746688"
+    ]
+  }
+}

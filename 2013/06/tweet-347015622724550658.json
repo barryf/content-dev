@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw How’s your Pebble? What you expected when you ordered?"],"published":["2013-06-18T15:39:06Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347015622724550658"],"slug":["tweet-347015622724550658"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw How’s your Pebble? What you expected when you ordered?"
+    ],
+    "published": [
+      "2013-06-18T15:39:06Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347015622724550658"
+    ],
+    "slug": [
+      "tweet-347015622724550658"
+    ]
+  }
+}

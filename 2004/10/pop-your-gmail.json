@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-09T13:51:52Z"],"entry-type":["bookmark"],"name":["POP your Gmail"],"bookmark-of":["http://jimmysweblog.net/2004/09/pop-your-gmail.html"],"category":["gmail","via-pinboard"],"slug":["pop-your-gmail"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-09T13:51:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "POP your Gmail"
+    ],
+    "bookmark-of": [
+      "http://jimmysweblog.net/2004/09/pop-your-gmail.html"
+    ],
+    "category": [
+      "gmail",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pop-your-gmail"
+    ]
+  }
+}

@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-07T17:48:13Z"],"entry-type":["bookmark"],"name":["The Code Project: C# Programming"],"bookmark-of":["http://www.codeproject.com/csharp/"],"category":["csharp","dotnet","via-pinboard"],"slug":["the-code-project-c-programming"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-07T17:48:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Code Project: C# Programming"
+    ],
+    "bookmark-of": [
+      "http://www.codeproject.com/csharp/"
+    ],
+    "category": [
+      "csharp",
+      "dotnet",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-code-project-c-programming"
+    ]
+  }
+}

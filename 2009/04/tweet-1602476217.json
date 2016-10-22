@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Attention marketing/biz people: when you post a new entry on your blog you are not \"writing a blog\". It's like nails down a blackboard."],"published":["2009-04-24T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1602476217"],"slug":["tweet-1602476217"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Attention marketing/biz people: when you post a new entry on your blog you are not \"writing a blog\". It's like nails down a blackboard."
+    ],
+    "published": [
+      "2009-04-24T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1602476217"
+    ],
+    "slug": [
+      "tweet-1602476217"
+    ]
+  }
+}

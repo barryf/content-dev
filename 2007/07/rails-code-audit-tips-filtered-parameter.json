@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["All form variables are logged in production log by default. Don't forget to filter it if taking credit card numbers, etc.\n"],"published":["2007-07-17T12:24:18Z"],"entry-type":["bookmark"],"name":["Rails Code Audit Tips - Filtered Parameter Logging"],"bookmark-of":["http://www.robbyonrails.com/articles/2007/07/16/rails-code-audit-tips-filtered-parameter-logging"],"category":["rails","web","dev","security","forioptics","via-pinboard"],"slug":["rails-code-audit-tips-filtered-parameter"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "All form variables are logged in production log by default. Don't forget to filter it if taking credit card numbers, etc.\n"
+    ],
+    "published": [
+      "2007-07-17T12:24:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails Code Audit Tips - Filtered Parameter Logging"
+    ],
+    "bookmark-of": [
+      "http://www.robbyonrails.com/articles/2007/07/16/rails-code-audit-tips-filtered-parameter-logging"
+    ],
+    "category": [
+      "rails",
+      "web",
+      "dev",
+      "security",
+      "forioptics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-code-audit-tips-filtered-parameter"
+    ]
+  }
+}

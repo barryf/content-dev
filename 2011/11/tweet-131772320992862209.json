@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["iOS Gmail app out. Not bad. Looks like single account only for now and the scrolling lacks momentum. Embedded web view? http://itunes.apple.com/app/gmail/id422689480?mt=8"],"published":["2011-11-02T16:39:04Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/131772320992862209"],"slug":["tweet-131772320992862209"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "iOS Gmail app out. Not bad. Looks like single account only for now and the scrolling lacks momentum. Embedded web view? http://itunes.apple.com/app/gmail/id422689480?mt=8"
+    ],
+    "published": [
+      "2011-11-02T16:39:04Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/131772320992862209"
+    ],
+    "slug": [
+      "tweet-131772320992862209"
+    ]
+  }
+}

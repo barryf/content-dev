@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Thinking Vespas are quite cool. Might be joining @lilja in the scooter gang."],"published":["2008-06-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/840328491"],"slug":["tweet-840328491"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thinking Vespas are quite cool. Might be joining @lilja in the scooter gang."
+    ],
+    "published": [
+      "2008-06-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/840328491"
+    ],
+    "slug": [
+      "tweet-840328491"
+    ]
+  }
+}

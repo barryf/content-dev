@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-08-28T17:45:45Z"],"entry-type":["bookmark"],"name":["Developer Turned Manager"],"bookmark-of":["http://www.haneycodes.net/developer-turned-manager/"],"category":["management","team","dev"],"slug":["developer-turned-manager"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-08-28T17:45:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Developer Turned Manager"
+    ],
+    "bookmark-of": [
+      "http://www.haneycodes.net/developer-turned-manager/"
+    ],
+    "category": [
+      "management",
+      "team",
+      "dev"
+    ],
+    "slug": [
+      "developer-turned-manager"
+    ]
+  }
+}

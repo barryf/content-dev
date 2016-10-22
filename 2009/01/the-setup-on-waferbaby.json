@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Hardware/software used by noteworthy geeks at work and home\n"],"published":["2009-01-24T17:01:08Z"],"entry-type":["bookmark"],"name":["The Setup on waferbaby"],"bookmark-of":["http://waferbaby.com/setup"],"category":["setup","geek","interview","interesting","tool","gear","hardware","software","list","people","via-pinboard"],"slug":["the-setup-on-waferbaby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hardware/software used by noteworthy geeks at work and home\n"
+    ],
+    "published": [
+      "2009-01-24T17:01:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Setup on waferbaby"
+    ],
+    "bookmark-of": [
+      "http://waferbaby.com/setup"
+    ],
+    "category": [
+      "setup",
+      "geek",
+      "interview",
+      "interesting",
+      "tool",
+      "gear",
+      "hardware",
+      "software",
+      "list",
+      "people",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-setup-on-waferbaby"
+    ]
+  }
+}

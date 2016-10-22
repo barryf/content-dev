@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Band websites with plenty of stats and geeky web stuff. From the guy behind Oddpost\n"],"published":["2008-09-20T17:06:58Z"],"entry-type":["bookmark"],"name":["Bandcamp"],"bookmark-of":["http://bandcamp.mu/"],"category":["oddpost","band","music","hosting","community","social","via-pinboard"],"slug":["bandcamp"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Band websites with plenty of stats and geeky web stuff. From the guy behind Oddpost\n"
+    ],
+    "published": [
+      "2008-09-20T17:06:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bandcamp"
+    ],
+    "bookmark-of": [
+      "http://bandcamp.mu/"
+    ],
+    "category": [
+      "oddpost",
+      "band",
+      "music",
+      "hosting",
+      "community",
+      "social",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bandcamp"
+    ]
+  }
+}

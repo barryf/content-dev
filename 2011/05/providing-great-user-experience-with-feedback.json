@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Lessons on providing feedback in 37signals' Basecamp Mobile interface: highlight states, progress indicators and waiting screens.\n"],"published":["2011-05-01T10:43:52Z"],"entry-type":["bookmark"],"name":["Providing great user experience with feedback"],"bookmark-of":["http://37signals.com/svn/posts/2771-providing-great-user-experience-with-feedback"],"category":["feedback","mobile","design","highlight","progress","via-pinboard"],"slug":["providing-great-user-experience-with-feedback"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lessons on providing feedback in 37signals' Basecamp Mobile interface: highlight states, progress indicators and waiting screens.\n"
+    ],
+    "published": [
+      "2011-05-01T10:43:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Providing great user experience with feedback"
+    ],
+    "bookmark-of": [
+      "http://37signals.com/svn/posts/2771-providing-great-user-experience-with-feedback"
+    ],
+    "category": [
+      "feedback",
+      "mobile",
+      "design",
+      "highlight",
+      "progress",
+      "via-pinboard"
+    ],
+    "slug": [
+      "providing-great-user-experience-with-feedback"
+    ]
+  }
+}

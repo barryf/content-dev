@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-11-02T15:34:44Z"],"entry-type":["bookmark"],"name":["GNU Screen Crash Course"],"bookmark-of":["https://github.com/cdzombak/crashcourse/blob/master/courses/screen.md"],"category":["gnu","screen","guide","unix","terminal","via-pinboard"],"slug":["gnu-screen-crash-course"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-11-02T15:34:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GNU Screen Crash Course"
+    ],
+    "bookmark-of": [
+      "https://github.com/cdzombak/crashcourse/blob/master/courses/screen.md"
+    ],
+    "category": [
+      "gnu",
+      "screen",
+      "guide",
+      "unix",
+      "terminal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gnu-screen-crash-course"
+    ]
+  }
+}

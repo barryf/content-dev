@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Barbecue done and now fire from the chiminea. Happy bank holiday Monday. http://twitter.com/barryf/status/463382289884643328/photo/1"],"published":["2014-05-05T18:18:41Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/463382289884643328"],"slug":["tweet-463382289884643328"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Barbecue done and now fire from the chiminea. Happy bank holiday Monday. http://twitter.com/barryf/status/463382289884643328/photo/1"
+    ],
+    "published": [
+      "2014-05-05T18:18:41Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/463382289884643328"
+    ],
+    "slug": [
+      "tweet-463382289884643328"
+    ]
+  }
+}

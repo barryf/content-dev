@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Microformats enabled vCard - for reference\n"],"published":["2008-10-04T17:48:11Z"],"entry-type":["bookmark"],"name":["Neil Crosby's vCard"],"bookmark-of":["http://neilcrosby.com/vcard/"],"category":["vcard","microformats","identity","reference","hcard","via-pinboard"],"slug":["neil-crosby-s-vcard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Microformats enabled vCard - for reference\n"
+    ],
+    "published": [
+      "2008-10-04T17:48:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Neil Crosby's vCard"
+    ],
+    "bookmark-of": [
+      "http://neilcrosby.com/vcard/"
+    ],
+    "category": [
+      "vcard",
+      "microformats",
+      "identity",
+      "reference",
+      "hcard",
+      "via-pinboard"
+    ],
+    "slug": [
+      "neil-crosby-s-vcard"
+    ]
+  }
+}

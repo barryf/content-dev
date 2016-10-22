@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Poppy the cat is not so sweet and innocent. Discovered another cat's collar and fur next to the back door. Bruiser. http://twitter.com/barryf/status/282880943474216961/photo/1"],"published":["2012-12-23T16:10:47Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/282880943474216961"],"slug":["tweet-282880943474216961"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Poppy the cat is not so sweet and innocent. Discovered another cat's collar and fur next to the back door. Bruiser. http://twitter.com/barryf/status/282880943474216961/photo/1"
+    ],
+    "published": [
+      "2012-12-23T16:10:47Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/282880943474216961"
+    ],
+    "slug": [
+      "tweet-282880943474216961"
+    ]
+  }
+}

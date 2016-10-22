@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["IM widget for your website\n"],"published":["2006-08-10T13:27:34Z"],"entry-type":["bookmark"],"name":["meebo me widget!"],"bookmark-of":["http://www.meebome.com/"],"category":["meebo","im","message","web","via-pinboard"],"slug":["meebo-me-widget"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "IM widget for your website\n"
+    ],
+    "published": [
+      "2006-08-10T13:27:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "meebo me widget!"
+    ],
+    "bookmark-of": [
+      "http://www.meebome.com/"
+    ],
+    "category": [
+      "meebo",
+      "im",
+      "message",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "meebo-me-widget"
+    ]
+  }
+}

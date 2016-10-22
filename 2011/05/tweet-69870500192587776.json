@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Well done and many thanks to @jimeh @Jennyuffer @martinbtt and @rosswilliams for their hard work hustling and recruiting for us."],"published":["2011-05-15T21:03:20Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/69870500192587776"],"slug":["tweet-69870500192587776"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Well done and many thanks to @jimeh @Jennyuffer @martinbtt and @rosswilliams for their hard work hustling and recruiting for us."
+    ],
+    "published": [
+      "2011-05-15T21:03:20Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/69870500192587776"
+    ],
+    "slug": [
+      "tweet-69870500192587776"
+    ]
+  }
+}

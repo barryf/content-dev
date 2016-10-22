@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Didn't think of that. Now you mention it, those looked like full shoeboxes..."],"published":["2011-09-03T18:22:27Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/110045997429825536"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/110055066710450176"],"slug":["tweet-110055066710450176"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Didn't think of that. Now you mention it, those looked like full shoeboxes..."
+    ],
+    "published": [
+      "2011-09-03T18:22:27Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/110045997429825536"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/110055066710450176"
+    ],
+    "slug": [
+      "tweet-110055066710450176"
+    ]
+  }
+}

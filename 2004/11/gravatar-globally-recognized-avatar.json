@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Avatars for blog comments\n"],"published":["2004-11-17T13:36:00Z"],"entry-type":["bookmark"],"name":["Gravatar - Globally Recognized Avatar"],"bookmark-of":["http://www.gravatar.com/"],"category":["blog","via-pinboard"],"slug":["gravatar-globally-recognized-avatar"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Avatars for blog comments\n"
+    ],
+    "published": [
+      "2004-11-17T13:36:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Gravatar - Globally Recognized Avatar"
+    ],
+    "bookmark-of": [
+      "http://www.gravatar.com/"
+    ],
+    "category": [
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gravatar-globally-recognized-avatar"
+    ]
+  }
+}

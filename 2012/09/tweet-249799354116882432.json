@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Lost email flags after upgrade to iOS6 with Gmail/GApps via Exchange? Add your domain in settings http://www.andrewbecker.me/technical/apple-technical/ios/2012/ios-6-flag-message-fix/ios-6-flag-message-fix.html"],"published":["2012-09-23T09:16:21Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/249799354116882432"],"slug":["tweet-249799354116882432"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lost email flags after upgrade to iOS6 with Gmail/GApps via Exchange? Add your domain in settings http://www.andrewbecker.me/technical/apple-technical/ios/2012/ios-6-flag-message-fix/ios-6-flag-message-fix.html"
+    ],
+    "published": [
+      "2012-09-23T09:16:21Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/249799354116882432"
+    ],
+    "slug": [
+      "tweet-249799354116882432"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Alex Osborne (@AL0sborne)"],"photo":["http://pbs.twimg.com/profile_images/550813431482572801/48HIBxbI_normal.jpeg"],"url":["https://twitter.com/AL0sborne"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Alex Osborne (@AL0sborne)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/550813431482572801/48HIBxbI_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/AL0sborne"
+    ]
+  }
+}

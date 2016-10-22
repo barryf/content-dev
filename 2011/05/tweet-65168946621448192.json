@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@mattjukes I said I'd let you know how my eye lasering went. Here's a write-up: http://barryfrost.com/articles/get-your-eyes-lasered (in summary, glad I did it)."],"published":["2011-05-02T21:41:02Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/65168946621448192"],"slug":["tweet-65168946621448192"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mattjukes I said I'd let you know how my eye lasering went. Here's a write-up: http://barryfrost.com/articles/get-your-eyes-lasered (in summary, glad I did it)."
+    ],
+    "published": [
+      "2011-05-02T21:41:02Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/65168946621448192"
+    ],
+    "slug": [
+      "tweet-65168946621448192"
+    ]
+  }
+}

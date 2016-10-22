@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Comparing expeirences of Wufoo, Blinksale, Feedburner and Regonline - support, maintenance, revenue, seasonality\n"],"published":["2007-07-01T10:02:54Z"],"entry-type":["bookmark"],"name":["Particletree » Web App Autopsy"],"bookmark-of":["http://particletree.com/features/web-app-autopsy/"],"category":["business","marketing","startup","dev","web20","web","via-pinboard"],"slug":["particletree-web-app-autopsy"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Comparing expeirences of Wufoo, Blinksale, Feedburner and Regonline - support, maintenance, revenue, seasonality\n"
+    ],
+    "published": [
+      "2007-07-01T10:02:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Particletree » Web App Autopsy"
+    ],
+    "bookmark-of": [
+      "http://particletree.com/features/web-app-autopsy/"
+    ],
+    "category": [
+      "business",
+      "marketing",
+      "startup",
+      "dev",
+      "web20",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "particletree-web-app-autopsy"
+    ]
+  }
+}

@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"content":["[Jeremy Keith](https://adactio.com) on how Facebook's [Instant Articles](http://instantarticles.fb.com/) is borne out of the crappy experience and poor performance of websites. \"The web doesn’t suck. Your websites suck.\""],"published":["2015-05-22T12:56:17Z"],"entry-type":["repost"],"repost-of":["https://adactio.com/journal/8956"],"category":["facebook","web"],"slug":["jeremy-keith-https-adactio-com-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "[Jeremy Keith](https://adactio.com) on how Facebook's [Instant Articles](http://instantarticles.fb.com/) is borne out of the crappy experience and poor performance of websites. \"The web doesn’t suck. Your websites suck.\""
+    ],
+    "published": [
+      "2015-05-22T12:56:17Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://adactio.com/journal/8956"
+    ],
+    "category": [
+      "facebook",
+      "web"
+    ],
+    "slug": [
+      "jeremy-keith-https-adactio-com-on"
+    ]
+  }
+}

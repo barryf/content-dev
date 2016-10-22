@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/124110814/status/246678567734345728"],"published":["2012-09-14T18:35:28Z"],"content":["And we're done: 7.5 hours, 14 hacks, 3 awards. Congratulations to the winners, an good work everyone! Report to follow on Monday #gdhackday"],"author":["https://twitter.com/124110814"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/124110814/status/246678567734345728"
+    ],
+    "published": [
+      "2012-09-14T18:35:28Z"
+    ],
+    "content": [
+      "And we're done: 7.5 hours, 14 hacks, 3 awards. Congratulations to the winners, an good work everyone! Report to follow on Monday #gdhackday"
+    ],
+    "author": [
+      "https://twitter.com/124110814"
+    ]
+  }
+}

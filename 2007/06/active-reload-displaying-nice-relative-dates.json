@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-11T21:55:42Z"],"entry-type":["bookmark"],"name":["Active Reload: Displaying nice relative dates"],"bookmark-of":["http://activereload.net/2007/5/17/displaying-nice-relative-dates"],"category":["date","plugin","rails","time","helper","via-pinboard"],"slug":["active-reload-displaying-nice-relative-dates"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-11T21:55:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Active Reload: Displaying nice relative dates"
+    ],
+    "bookmark-of": [
+      "http://activereload.net/2007/5/17/displaying-nice-relative-dates"
+    ],
+    "category": [
+      "date",
+      "plugin",
+      "rails",
+      "time",
+      "helper",
+      "via-pinboard"
+    ],
+    "slug": [
+      "active-reload-displaying-nice-relative-dates"
+    ]
+  }
+}

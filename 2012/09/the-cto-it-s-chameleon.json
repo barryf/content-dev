@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2012-09-19T18:15:36Z"],"entry-type":["bookmark"],"name":["The CTO: IT's Chameleon"],"bookmark-of":["http://www.computerworld.com/s/article/print/276429/The_CTO_IT_s_Chameleon?taxonomyName=IT+Careers&taxonomyId=10"],"category":["cto","cio","career","job","corporate","business","via-pinboard"],"slug":["the-cto-it-s-chameleon"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-09-19T18:15:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The CTO: IT's Chameleon"
+    ],
+    "bookmark-of": [
+      "http://www.computerworld.com/s/article/print/276429/The_CTO_IT_s_Chameleon?taxonomyName=IT+Careers&taxonomyId=10"
+    ],
+    "category": [
+      "cto",
+      "cio",
+      "career",
+      "job",
+      "corporate",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-cto-it-s-chameleon"
+    ]
+  }
+}

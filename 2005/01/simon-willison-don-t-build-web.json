@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-01-26T14:10:45Z"],"entry-type":["bookmark"],"name":["Simon Willison: Don't build web apps that only work in IE"],"bookmark-of":["http://simon.incutio.com/archive/2005/01/26/ffs"],"category":["web","dev","standards","via-pinboard"],"slug":["simon-willison-don-t-build-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-01-26T14:10:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Simon Willison: Don't build web apps that only work in IE"
+    ],
+    "bookmark-of": [
+      "http://simon.incutio.com/archive/2005/01/26/ffs"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "simon-willison-don-t-build-web"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["iPhone simulator for Macs\n"],"published":["2007-07-03T13:07:02Z"],"entry-type":["bookmark"],"name":["Marketcircle: iPhoney"],"bookmark-of":["http://www.marketcircle.com/iphoney/"],"category":["mac","iphone","apple","browser","dev","safari","web","via-pinboard"],"slug":["marketcircle-iphoney"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "iPhone simulator for Macs\n"
+    ],
+    "published": [
+      "2007-07-03T13:07:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Marketcircle: iPhoney"
+    ],
+    "bookmark-of": [
+      "http://www.marketcircle.com/iphoney/"
+    ],
+    "category": [
+      "mac",
+      "iphone",
+      "apple",
+      "browser",
+      "dev",
+      "safari",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "marketcircle-iphoney"
+    ]
+  }
+}

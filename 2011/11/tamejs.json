@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Simplifies event programming in JavaScript with await and defer keywords. Apparently good for Node.js\n"],"published":["2011-11-01T12:22:40Z"],"entry-type":["bookmark"],"name":["TameJS"],"bookmark-of":["http://tamejs.org/"],"category":["nodejs","event","javascript","via-pinboard"],"slug":["tamejs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simplifies event programming in JavaScript with await and defer keywords. Apparently good for Node.js\n"
+    ],
+    "published": [
+      "2011-11-01T12:22:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TameJS"
+    ],
+    "bookmark-of": [
+      "http://tamejs.org/"
+    ],
+    "category": [
+      "nodejs",
+      "event",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tamejs"
+    ]
+  }
+}

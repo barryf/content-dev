@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@marckysharky I see you've got a new \"Gooners\" list with me and @ioptics on it - and you? Glad to see you've seen the light. PS ha ha!"],"published":["2010-03-16T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16928503/status/10590683301"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10591356183"],"slug":["tweet-10591356183"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@marckysharky I see you've got a new \"Gooners\" list with me and @ioptics on it - and you? Glad to see you've seen the light. PS ha ha!"
+    ],
+    "published": [
+      "2010-03-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16928503/status/10590683301"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10591356183"
+    ],
+    "slug": [
+      "tweet-10591356183"
+    ]
+  }
+}

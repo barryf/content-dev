@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Firefox extension or Microformats\n"],"published":["2006-12-18T13:42:14Z"],"entry-type":["bookmark"],"name":["Mozilla Labs Blog » Blog Archive » Introducing Operator"],"bookmark-of":["http://labs.mozilla.com/2006/12/introducing-operator/"],"category":["extension","firefox","mozilla","microformat","via-pinboard"],"slug":["mozilla-labs-blog-blog-archive-introducing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Firefox extension or Microformats\n"
+    ],
+    "published": [
+      "2006-12-18T13:42:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mozilla Labs Blog » Blog Archive » Introducing Operator"
+    ],
+    "bookmark-of": [
+      "http://labs.mozilla.com/2006/12/introducing-operator/"
+    ],
+    "category": [
+      "extension",
+      "firefox",
+      "mozilla",
+      "microformat",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mozilla-labs-blog-blog-archive-introducing"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Lessons in scaling, including third-party that block, ETAGs and CDN usage"],"published":["2013-06-23T12:42:47Z"],"entry-type":["bookmark"],"name":["Scaling Cheddar"],"bookmark-of":["http://sam.roon.io/scaling-cheddar"],"category":["scaling","heroku","ruby","rails","etag","cdn","via-pinboard"],"slug":["scaling-cheddar"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lessons in scaling, including third-party that block, ETAGs and CDN usage"
+    ],
+    "published": [
+      "2013-06-23T12:42:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Scaling Cheddar"
+    ],
+    "bookmark-of": [
+      "http://sam.roon.io/scaling-cheddar"
+    ],
+    "category": [
+      "scaling",
+      "heroku",
+      "ruby",
+      "rails",
+      "etag",
+      "cdn",
+      "via-pinboard"
+    ],
+    "slug": [
+      "scaling-cheddar"
+    ]
+  }
+}

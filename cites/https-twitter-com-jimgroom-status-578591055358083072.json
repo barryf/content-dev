@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/jimgroom/status/578591055358083072"],"published":["2015-03-19T16:17:11Z"],"content":["#IndieWebCamp group photo at #MIT meetup"],"photo":["http://pbs.twimg.com/media/CAeRf8xWoAAws1y.jpg"],"author":["https://twitter.com/jimgroom"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/jimgroom/status/578591055358083072"
+    ],
+    "published": [
+      "2015-03-19T16:17:11Z"
+    ],
+    "content": [
+      "#IndieWebCamp group photo at #MIT meetup"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CAeRf8xWoAAws1y.jpg"
+    ],
+    "author": [
+      "https://twitter.com/jimgroom"
+    ]
+  }
+}

@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/22905856/status/434712199756394497"],"published":["2014-02-15T15:33:59Z"],"content":["@barryf HAHA - Do they sell paaaasties in there?"],"author":["https://twitter.com/22905856"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/22905856/status/434712199756394497"
+    ],
+    "published": [
+      "2014-02-15T15:33:59Z"
+    ],
+    "content": [
+      "@barryf HAHA - Do they sell paaaasties in there?"
+    ],
+    "author": [
+      "https://twitter.com/22905856"
+    ]
+  }
+}

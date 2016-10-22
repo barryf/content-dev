@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jontarbuck Try Scroll Reverser on your work Mac http://bfr.st/3X2Y"],"published":["2011-08-15T08:28:24Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15760979/status/103017771515920384"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/103020201804697601"],"slug":["tweet-103020201804697601"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jontarbuck Try Scroll Reverser on your work Mac http://bfr.st/3X2Y"
+    ],
+    "published": [
+      "2011-08-15T08:28:24Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15760979/status/103017771515920384"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/103020201804697601"
+    ],
+    "slug": [
+      "tweet-103020201804697601"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Wishing I was eating spag bol instead of sitting on a train with the general public."],"published":["2006-09-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27808"],"slug":["tweet-27808"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wishing I was eating spag bol instead of sitting on a train with the general public."
+    ],
+    "published": [
+      "2006-09-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27808"
+    ],
+    "slug": [
+      "tweet-27808"
+    ]
+  }
+}

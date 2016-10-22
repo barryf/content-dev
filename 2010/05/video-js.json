@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["HTML5 Video Player with fallback support for IE/Opera. Even works with WebM\n"],"published":["2010-05-24T16:24:53Z"],"entry-type":["bookmark"],"name":["Video JS"],"bookmark-of":["http://videojs.com/"],"category":["video","html5","javascript","via-pinboard"],"slug":["video-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "HTML5 Video Player with fallback support for IE/Opera. Even works with WebM\n"
+    ],
+    "published": [
+      "2010-05-24T16:24:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Video JS"
+    ],
+    "bookmark-of": [
+      "http://videojs.com/"
+    ],
+    "category": [
+      "video",
+      "html5",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "video-js"
+    ]
+  }
+}

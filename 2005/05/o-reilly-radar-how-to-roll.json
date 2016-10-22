@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-05-18T20:20:33Z"],"entry-type":["bookmark"],"name":["O'Reilly Radar > How To Roll Out An Open API"],"bookmark-of":["http://radar.oreilly.com/archives/2005/05/web_services_es.html"],"category":["api","dev","web20","via-pinboard"],"slug":["o-reilly-radar-how-to-roll"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-05-18T20:20:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "O'Reilly Radar > How To Roll Out An Open API"
+    ],
+    "bookmark-of": [
+      "http://radar.oreilly.com/archives/2005/05/web_services_es.html"
+    ],
+    "category": [
+      "api",
+      "dev",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "o-reilly-radar-how-to-roll"
+    ]
+  }
+}

@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Use script.aculo.us effects in series rather than parallel\n"],"published":["2006-01-25T13:43:20Z"],"entry-type":["bookmark"],"name":["Rails webdevelopment » Effect.Queues"],"bookmark-of":["http://www.railsdevelopment.com/2006/01/15/effectqueue/"],"category":["javascript","library","prototype","scriptaculous","web","effects","web20","design","ajax","via-pinboard"],"slug":["rails-webdevelopment-effect-queues"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Use script.aculo.us effects in series rather than parallel\n"
+    ],
+    "published": [
+      "2006-01-25T13:43:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails webdevelopment » Effect.Queues"
+    ],
+    "bookmark-of": [
+      "http://www.railsdevelopment.com/2006/01/15/effectqueue/"
+    ],
+    "category": [
+      "javascript",
+      "library",
+      "prototype",
+      "scriptaculous",
+      "web",
+      "effects",
+      "web20",
+      "design",
+      "ajax",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rails-webdevelopment-effect-queues"
+    ]
+  }
+}

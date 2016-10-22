@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jameswestgate Sounds good. Send me their CV and I'll take a look."],"published":["2012-02-22T23:28:40Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/143455047/status/172460429421985792"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/172462841645891584"],"slug":["tweet-172462841645891584"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jameswestgate Sounds good. Send me their CV and I'll take a look."
+    ],
+    "published": [
+      "2012-02-22T23:28:40Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/143455047/status/172460429421985792"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/172462841645891584"
+    ],
+    "slug": [
+      "tweet-172462841645891584"
+    ]
+  }
+}

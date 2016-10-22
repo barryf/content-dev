@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Sparkling water maybe. Might see if @StevieBuckley has any Ruby developers for me to meet over there."],"published":["2013-09-25T14:38:05Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/382875215703072769"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/382876665443266560"],"slug":["tweet-382876665443266560"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Sparkling water maybe. Might see if @StevieBuckley has any Ruby developers for me to meet over there."
+    ],
+    "published": [
+      "2013-09-25T14:38:05Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/382875215703072769"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/382876665443266560"
+    ],
+    "slug": [
+      "tweet-382876665443266560"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Handy essentials list\n"],"published":["2004-09-10T14:02:54Z"],"entry-type":["bookmark"],"name":["Tools/USB Disk Manifest"],"bookmark-of":["http://the.taoofmac.com/space/Tools/USB%20Disk%20Manifest"],"category":["useful","tool","via-pinboard"],"slug":["tools-usb-disk-manifest"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Handy essentials list\n"
+    ],
+    "published": [
+      "2004-09-10T14:02:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tools/USB Disk Manifest"
+    ],
+    "bookmark-of": [
+      "http://the.taoofmac.com/space/Tools/USB%20Disk%20Manifest"
+    ],
+    "category": [
+      "useful",
+      "tool",
+      "via-pinboard"
+    ],
+    "slug": [
+      "tools-usb-disk-manifest"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ross"],"photo":["http://pbs.twimg.com/profile_images/514807946552049664/akopKK9__normal.jpeg"],"url":["https://twitter.com/rosswilliams"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ross"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/514807946552049664/akopKK9__normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/rosswilliams"
+    ]
+  }
+}

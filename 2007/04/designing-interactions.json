@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["\"40 influential designers who have shaped our interaction with technology\"\n"],"published":["2007-04-25T19:18:56Z"],"entry-type":["bookmark"],"name":["Designing Interactions"],"bookmark-of":["http://www.designinginteractions.com/"],"category":["book","design","usability","interaction","ui","interface","via-pinboard"],"slug":["designing-interactions"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"40 influential designers who have shaped our interaction with technology\"\n"
+    ],
+    "published": [
+      "2007-04-25T19:18:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Designing Interactions"
+    ],
+    "bookmark-of": [
+      "http://www.designinginteractions.com/"
+    ],
+    "category": [
+      "book",
+      "design",
+      "usability",
+      "interaction",
+      "ui",
+      "interface",
+      "via-pinboard"
+    ],
+    "slug": [
+      "designing-interactions"
+    ]
+  }
+}

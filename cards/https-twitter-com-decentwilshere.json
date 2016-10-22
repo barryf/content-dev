@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["JW10"],"photo":["https://twitter.com/DecentWilshere/profile_image?size=original"],"url":["https://twitter.com/DecentWilshere"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "JW10"
+    ],
+    "photo": [
+      "https://twitter.com/DecentWilshere/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/DecentWilshere"
+    ]
+  }
+}

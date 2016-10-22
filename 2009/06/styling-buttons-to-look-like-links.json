@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Useful for destructive post actions\n"],"published":["2009-06-14T09:54:04Z"],"entry-type":["bookmark"],"name":["Styling buttons to look like links"],"bookmark-of":["http://natbat.net/2009/Jun/10/styling-buttons-as-links/"],"category":["button","form","post","design","ui","rest","via-pinboard"],"slug":["styling-buttons-to-look-like-links"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful for destructive post actions\n"
+    ],
+    "published": [
+      "2009-06-14T09:54:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Styling buttons to look like links"
+    ],
+    "bookmark-of": [
+      "http://natbat.net/2009/Jun/10/styling-buttons-as-links/"
+    ],
+    "category": [
+      "button",
+      "form",
+      "post",
+      "design",
+      "ui",
+      "rest",
+      "via-pinboard"
+    ],
+    "slug": [
+      "styling-buttons-to-look-like-links"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Simple website that makes favicons\n"],"published":["2007-11-15T22:15:37Z"],"entry-type":["bookmark"],"name":["favikon"],"bookmark-of":["http://favikon.com/"],"category":["favicon","web","design","icon","generator","graphic","via-pinboard"],"slug":["favikon"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simple website that makes favicons\n"
+    ],
+    "published": [
+      "2007-11-15T22:15:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "favikon"
+    ],
+    "bookmark-of": [
+      "http://favikon.com/"
+    ],
+    "category": [
+      "favicon",
+      "web",
+      "design",
+      "icon",
+      "generator",
+      "graphic",
+      "via-pinboard"
+    ],
+    "slug": [
+      "favikon"
+    ]
+  }
+}

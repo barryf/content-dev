@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/tomgiddings/status/707271085922885632"],"published":["2016-03-08T18:25:42Z"],"content":["@barryf I'm going to guess a fire detector low battery starting to take hold. Good luck!"],"in-reply-to":["https://barryfrost.com/2016/03/woken-up-last-night-by-one"],"author":["http://www.tomgiddings.co.uk"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/tomgiddings/status/707271085922885632"
+    ],
+    "published": [
+      "2016-03-08T18:25:42Z"
+    ],
+    "content": [
+      "@barryf I'm going to guess a fire detector low battery starting to take hold. Good luck!"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/03/woken-up-last-night-by-one"
+    ],
+    "author": [
+      "http://www.tomgiddings.co.uk"
+    ]
+  }
+}

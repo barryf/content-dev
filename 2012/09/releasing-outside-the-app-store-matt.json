@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2012-09-10T12:51:17Z"],"entry-type":["bookmark"],"name":["Releasing Outside the App Store - Matt Gemmell"],"bookmark-of":["http://mattgemmell.com/2012/08/24/releasing-outside-the-app-store/"],"category":["mac","osx","appstore","apple","software","viatomtaylor","via-pinboard"],"slug":["releasing-outside-the-app-store-matt"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-09-10T12:51:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Releasing Outside the App Store - Matt Gemmell"
+    ],
+    "bookmark-of": [
+      "http://mattgemmell.com/2012/08/24/releasing-outside-the-app-store/"
+    ],
+    "category": [
+      "mac",
+      "osx",
+      "appstore",
+      "apple",
+      "software",
+      "viatomtaylor",
+      "via-pinboard"
+    ],
+    "slug": [
+      "releasing-outside-the-app-store-matt"
+    ]
+  }
+}

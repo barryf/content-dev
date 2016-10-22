@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Witness the Fitness: I'm trying to be a bit healthier through exercise, diet and gadgets http://bfr.st/6UbV"],"published":["2011-06-19T15:56:45Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/82476923493691392"],"slug":["tweet-82476923493691392"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Witness the Fitness: I'm trying to be a bit healthier through exercise, diet and gadgets http://bfr.st/6UbV"
+    ],
+    "published": [
+      "2011-06-19T15:56:45Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/82476923493691392"
+    ],
+    "slug": [
+      "tweet-82476923493691392"
+    ]
+  }
+}

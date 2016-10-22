@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"published":["2007-03-11T10:31:24Z"],"entry-type":["bookmark"],"name":["Craig Ambrose : Redbox - A rails compatible lightbox"],"bookmark-of":["http://blog.craigambrose.com/articles/2006/08/16/redbox-a-rails-compatible-lightbox"],"category":["lightbox","javascript","ajax","prototype","rails","ui","web","modal","design","web20","via-pinboard"],"slug":["craig-ambrose-redbox-a-rails-compatible"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-03-11T10:31:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Craig Ambrose : Redbox - A rails compatible lightbox"
+    ],
+    "bookmark-of": [
+      "http://blog.craigambrose.com/articles/2006/08/16/redbox-a-rails-compatible-lightbox"
+    ],
+    "category": [
+      "lightbox",
+      "javascript",
+      "ajax",
+      "prototype",
+      "rails",
+      "ui",
+      "web",
+      "modal",
+      "design",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "craig-ambrose-redbox-a-rails-compatible"
+    ]
+  }
+}

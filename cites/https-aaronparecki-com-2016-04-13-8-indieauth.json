@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://aaronparecki.com/2016/04/13/8/indieauth"],"published":["2016-04-13T13:21:06Z"],"content":["I just launched an update to p3k which adds an integrated authorization server. This means that now when I sign in to Micropub apps like Quill, it will redirect me to my own server where I can have more fine-grained control over the access I am granting the application.    My new authorization endpoint displays the scopes the application is requesting, and lets me modify the scope when granting the request. This means if an application I don't yet trust requests the ability to update or delete my posts, I can un-check those boxes but still allow it to create posts.  I also have the ability to have all posts from an application be added to a specific channel, rather than showing up in my main feed. I use the concept of \"channels\" to create different lists of posts depending on what kind of content the post has. For example, /photos contains all of my photo posts, and /travel contains travel plans, plane flight and train logs, and events that occur outside of Portland.   Now that I have a built-in authorization endpoint, I'm looking forward to adding more features to it, such as setting the default privacy of posts so I can allow an application to create posts that are only visible to me (or a specific audience) unless I make them public."],"author":["https://aaronparecki.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/2016/04/13/8/indieauth"
+    ],
+    "published": [
+      "2016-04-13T13:21:06Z"
+    ],
+    "content": [
+      "I just launched an update to p3k which adds an integrated authorization server. This means that now when I sign in to Micropub apps like Quill, it will redirect me to my own server where I can have more fine-grained control over the access I am granting the application.    My new authorization endpoint displays the scopes the application is requesting, and lets me modify the scope when granting the request. This means if an application I don't yet trust requests the ability to update or delete my posts, I can un-check those boxes but still allow it to create posts.  I also have the ability to have all posts from an application be added to a specific channel, rather than showing up in my main feed. I use the concept of \"channels\" to create different lists of posts depending on what kind of content the post has. For example, /photos contains all of my photo posts, and /travel contains travel plans, plane flight and train logs, and events that occur outside of Portland.   Now that I have a built-in authorization endpoint, I'm looking forward to adding more features to it, such as setting the default privacy of posts so I can allow an application to create posts that are only visible to me (or a specific audience) unless I make them public."
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ]
+  }
+}

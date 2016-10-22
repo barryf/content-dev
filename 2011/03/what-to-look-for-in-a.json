@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Writing, interface design, product, development and character\n"],"published":["2011-03-06T11:33:13Z"],"entry-type":["bookmark"],"name":["What to look for in a UI designer"],"bookmark-of":["http://37signals.com/svn/posts/2798-what-to-look-for-in-a-ui-designer"],"category":["design","web","designer","job","recruitment","ui","work","via-pinboard"],"slug":["what-to-look-for-in-a"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Writing, interface design, product, development and character\n"
+    ],
+    "published": [
+      "2011-03-06T11:33:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "What to look for in a UI designer"
+    ],
+    "bookmark-of": [
+      "http://37signals.com/svn/posts/2798-what-to-look-for-in-a-ui-designer"
+    ],
+    "category": [
+      "design",
+      "web",
+      "designer",
+      "job",
+      "recruitment",
+      "ui",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "what-to-look-for-in-a"
+    ]
+  }
+}

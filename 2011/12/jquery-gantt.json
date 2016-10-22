@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Gantt chart (or date range visualiser) library for jQuery\n"],"published":["2011-12-13T11:35:32Z"],"entry-type":["bookmark"],"name":["jQuery.Gantt"],"bookmark-of":["https://github.com/taitems/jQuery.Gantt"],"category":["chart","javascript","jquery","date","range","via-pinboard"],"slug":["jquery-gantt"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Gantt chart (or date range visualiser) library for jQuery\n"
+    ],
+    "published": [
+      "2011-12-13T11:35:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jQuery.Gantt"
+    ],
+    "bookmark-of": [
+      "https://github.com/taitems/jQuery.Gantt"
+    ],
+    "category": [
+      "chart",
+      "javascript",
+      "jquery",
+      "date",
+      "range",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jquery-gantt"
+    ]
+  }
+}

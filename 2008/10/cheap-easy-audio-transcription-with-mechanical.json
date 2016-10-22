@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Describes how Amazon's MT can be used for small, laborious tasks. May be useful for profile/photo moderations\n"],"published":["2008-10-02T19:01:06Z"],"entry-type":["bookmark"],"name":["Cheap, Easy Audio Transcription with Mechanical Turk"],"bookmark-of":["http://waxy.org/2008/09/audio_transcription_with_mechanical_turk/"],"category":["amazon","mechanicalturk","transcription","translation","outsourcing","aws","web","lifehacks","work","moderation","via-pinboard"],"slug":["cheap-easy-audio-transcription-with-mechanical"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Describes how Amazon's MT can be used for small, laborious tasks. May be useful for profile/photo moderations\n"
+    ],
+    "published": [
+      "2008-10-02T19:01:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Cheap, Easy Audio Transcription with Mechanical Turk"
+    ],
+    "bookmark-of": [
+      "http://waxy.org/2008/09/audio_transcription_with_mechanical_turk/"
+    ],
+    "category": [
+      "amazon",
+      "mechanicalturk",
+      "transcription",
+      "translation",
+      "outsourcing",
+      "aws",
+      "web",
+      "lifehacks",
+      "work",
+      "moderation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cheap-easy-audio-transcription-with-mechanical"
+    ]
+  }
+}

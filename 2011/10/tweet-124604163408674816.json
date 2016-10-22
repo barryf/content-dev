@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Forget Big Brother, a massive Steve Jobs poster on the wall would make you think twice before doing anything half-arsed http://j.mp/qYJGXA"],"published":["2011-10-13T21:55:22Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/124604163408674816"],"slug":["tweet-124604163408674816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Forget Big Brother, a massive Steve Jobs poster on the wall would make you think twice before doing anything half-arsed http://j.mp/qYJGXA"
+    ],
+    "published": [
+      "2011-10-13T21:55:22Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/124604163408674816"
+    ],
+    "slug": [
+      "tweet-124604163408674816"
+    ]
+  }
+}

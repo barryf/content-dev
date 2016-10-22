@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd Exactly. Think I'll go to the footy and watch the egg chasing highlights later instead."],"published":["2009-11-07T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/5505746818"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5506109858"],"slug":["tweet-5506109858"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd Exactly. Think I'll go to the footy and watch the egg chasing highlights later instead."
+    ],
+    "published": [
+      "2009-11-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/5505746818"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5506109858"
+    ],
+    "slug": [
+      "tweet-5506109858"
+    ]
+  }
+}

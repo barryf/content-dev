@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Belgian dinner with Laura (@ Belgo Centraal) [pic]: http://4sq.com/vty0xC"],"published":["2011-11-19T17:17:48Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/137942664548073472"],"slug":["tweet-137942664548073472"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Belgian dinner with Laura (@ Belgo Centraal) [pic]: http://4sq.com/vty0xC"
+    ],
+    "published": [
+      "2011-11-19T17:17:48Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/137942664548073472"
+    ],
+    "slug": [
+      "tweet-137942664548073472"
+    ]
+  }
+}

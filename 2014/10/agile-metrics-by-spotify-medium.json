@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-10-08T07:26:44Z"],"entry-type":["bookmark"],"name":["Agile Metrics by Spotify — Medium"],"bookmark-of":["https://medium.com/@joentakanen/agile-metrics-by-spotify-4c8653f6984"],"category":["via-pinboard"],"slug":["agile-metrics-by-spotify-medium"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-10-08T07:26:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Agile Metrics by Spotify — Medium"
+    ],
+    "bookmark-of": [
+      "https://medium.com/@joentakanen/agile-metrics-by-spotify-4c8653f6984"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "agile-metrics-by-spotify-medium"
+    ]
+  }
+}

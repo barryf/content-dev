@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Website Uptime Monitoring & Alerts – Free Unlimited Downtime Monitoring"],"published":["2015-01-05T17:11:16Z"],"entry-type":["bookmark"],"name":["StatusCake"],"bookmark-of":["https://www.statuscake.com/"],"category":["monitoring","sysadmin","downtime"],"slug":["statuscake"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Website Uptime Monitoring & Alerts – Free Unlimited Downtime Monitoring"
+    ],
+    "published": [
+      "2015-01-05T17:11:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "StatusCake"
+    ],
+    "bookmark-of": [
+      "https://www.statuscake.com/"
+    ],
+    "category": [
+      "monitoring",
+      "sysadmin",
+      "downtime"
+    ],
+    "slug": [
+      "statuscake"
+    ]
+  }
+}

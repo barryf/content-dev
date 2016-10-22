@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Dire, abject performance from Arsenal against Schalke tonight. Apoplectic guy next to me almost had a heart attack when they scored second."],"published":["2012-10-24T21:51:03Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/261223302406762496"],"slug":["tweet-261223302406762496"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dire, abject performance from Arsenal against Schalke tonight. Apoplectic guy next to me almost had a heart attack when they scored second."
+    ],
+    "published": [
+      "2012-10-24T21:51:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/261223302406762496"
+    ],
+    "slug": [
+      "tweet-261223302406762496"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-13T20:25:33Z"],"entry-type":["bookmark"],"name":["Facebook platform (F8) wiki"],"bookmark-of":["http://wiki.developers.facebook.com/index.php/Main_Page"],"category":["facebook","api","wiki","platform","reference","dev","web","socialnetworking","via-pinboard"],"slug":["facebook-platform-f8-wiki"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-13T20:25:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Facebook platform (F8) wiki"
+    ],
+    "bookmark-of": [
+      "http://wiki.developers.facebook.com/index.php/Main_Page"
+    ],
+    "category": [
+      "facebook",
+      "api",
+      "wiki",
+      "platform",
+      "reference",
+      "dev",
+      "web",
+      "socialnetworking",
+      "via-pinboard"
+    ],
+    "slug": [
+      "facebook-platform-f8-wiki"
+    ]
+  }
+}

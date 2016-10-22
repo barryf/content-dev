@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I want to make it clear that, despite Alex's Twit, I don't have to pay £19.95 per month."],"published":["2006-10-26T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/48754"],"slug":["tweet-48754"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I want to make it clear that, despite Alex's Twit, I don't have to pay £19.95 per month."
+    ],
+    "published": [
+      "2006-10-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/48754"
+    ],
+    "slug": [
+      "tweet-48754"
+    ]
+  }
+}

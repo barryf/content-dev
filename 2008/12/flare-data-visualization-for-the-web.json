@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["AS library for data visualisation in Flash\n"],"published":["2008-12-17T19:56:11Z"],"entry-type":["bookmark"],"name":["Flare | Data Visualization for the Web"],"bookmark-of":["http://flare.prefuse.org/"],"category":["visualisation","flash","actionscript","flare","design","data","graph","animation","via-pinboard"],"slug":["flare-data-visualization-for-the-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "AS library for data visualisation in Flash\n"
+    ],
+    "published": [
+      "2008-12-17T19:56:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Flare | Data Visualization for the Web"
+    ],
+    "bookmark-of": [
+      "http://flare.prefuse.org/"
+    ],
+    "category": [
+      "visualisation",
+      "flash",
+      "actionscript",
+      "flare",
+      "design",
+      "data",
+      "graph",
+      "animation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flare-data-visualization-for-the-web"
+    ]
+  }
+}

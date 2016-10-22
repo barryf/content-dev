@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm watching all of you very carefully today... Beware the Ides of March!"],"published":["2009-03-15T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1330822870"],"slug":["tweet-1330822870"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm watching all of you very carefully today... Beware the Ides of March!"
+    ],
+    "published": [
+      "2009-03-15T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1330822870"
+    ],
+    "slug": [
+      "tweet-1330822870"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Bring full AirPlay and AirTunes to your Mac\n"],"published":["2012-04-15T17:23:37Z"],"entry-type":["bookmark"],"name":["AirServer"],"bookmark-of":["http://www.airserverapp.com/"],"category":["mac","airplay","via-pinboard"],"slug":["airserver"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Bring full AirPlay and AirTunes to your Mac\n"
+    ],
+    "published": [
+      "2012-04-15T17:23:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "AirServer"
+    ],
+    "bookmark-of": [
+      "http://www.airserverapp.com/"
+    ],
+    "category": [
+      "mac",
+      "airplay",
+      "via-pinboard"
+    ],
+    "slug": [
+      "airserver"
+    ]
+  }
+}

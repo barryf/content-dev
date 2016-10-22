@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jontarbuck I had a similar Blair Witch moment having a picnic in WGP this afternoon. Those clusters of trees all look the same don't they?"],"published":["2009-05-24T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15760979/status/1905839119"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1906406644"],"slug":["tweet-1906406644"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jontarbuck I had a similar Blair Witch moment having a picnic in WGP this afternoon. Those clusters of trees all look the same don't they?"
+    ],
+    "published": [
+      "2009-05-24T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15760979/status/1905839119"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1906406644"
+    ],
+    "slug": [
+      "tweet-1906406644"
+    ]
+  }
+}

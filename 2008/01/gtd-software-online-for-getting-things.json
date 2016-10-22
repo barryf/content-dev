@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Web-based with a free plan\n"],"published":["2008-01-21T22:43:12Z"],"entry-type":["bookmark"],"name":["GTD Software Online for Getting Things Done » Vitalist"],"bookmark-of":["http://www.vitalist.com/"],"category":["gtd","task","web","todo","list","via-pinboard"],"slug":["gtd-software-online-for-getting-things"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Web-based with a free plan\n"
+    ],
+    "published": [
+      "2008-01-21T22:43:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GTD Software Online for Getting Things Done » Vitalist"
+    ],
+    "bookmark-of": [
+      "http://www.vitalist.com/"
+    ],
+    "category": [
+      "gtd",
+      "task",
+      "web",
+      "todo",
+      "list",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gtd-software-online-for-getting-things"
+    ]
+  }
+}

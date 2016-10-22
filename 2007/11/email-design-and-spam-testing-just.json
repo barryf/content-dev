@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["A $10 test in multiple email clients, including spam filter scoring\n"],"published":["2007-11-11T18:06:00Z"],"entry-type":["bookmark"],"name":["Email design and spam testing just got easy with Campaign Monitor"],"bookmark-of":["http://www.campaignmonitor.com/testing/"],"category":["design","email","html","marketing","newsletter","spam","template","testing","work","via-pinboard"],"slug":["email-design-and-spam-testing-just"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A $10 test in multiple email clients, including spam filter scoring\n"
+    ],
+    "published": [
+      "2007-11-11T18:06:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Email design and spam testing just got easy with Campaign Monitor"
+    ],
+    "bookmark-of": [
+      "http://www.campaignmonitor.com/testing/"
+    ],
+    "category": [
+      "design",
+      "email",
+      "html",
+      "marketing",
+      "newsletter",
+      "spam",
+      "template",
+      "testing",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "email-design-and-spam-testing-just"
+    ]
+  }
+}

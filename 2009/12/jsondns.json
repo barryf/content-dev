@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["JSONP RESTful interface for DNS lookups\n"],"published":["2009-12-31T17:34:18Z"],"entry-type":["bookmark"],"name":["jsondns"],"bookmark-of":["http://dig.jsondns.org/"],"category":["dns","json","jsonp","rest","domain","query","via-pinboard"],"slug":["jsondns"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "JSONP RESTful interface for DNS lookups\n"
+    ],
+    "published": [
+      "2009-12-31T17:34:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jsondns"
+    ],
+    "bookmark-of": [
+      "http://dig.jsondns.org/"
+    ],
+    "category": [
+      "dns",
+      "json",
+      "jsonp",
+      "rest",
+      "domain",
+      "query",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jsondns"
+    ]
+  }
+}

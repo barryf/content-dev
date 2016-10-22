@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["10 years of @globalpersonals today. We’ve been celebrating with bacon, cake, champagne and… squirrel monkeys: http://instagram.com/p/dj3QxxLln9/"],"published":["2013-08-28T16:29:11Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/372757763895873536"],"slug":["tweet-372757763895873536"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "10 years of @globalpersonals today. We’ve been celebrating with bacon, cake, champagne and… squirrel monkeys: http://instagram.com/p/dj3QxxLln9/"
+    ],
+    "published": [
+      "2013-08-28T16:29:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/372757763895873536"
+    ],
+    "slug": [
+      "tweet-372757763895873536"
+    ]
+  }
+}

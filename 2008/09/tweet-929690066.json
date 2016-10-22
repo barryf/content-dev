@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["There's too many mutha huckas huckin' with my shi'"],"published":["2008-09-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/929690066"],"slug":["tweet-929690066"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "There's too many mutha huckas huckin' with my shi'"
+    ],
+    "published": [
+      "2008-09-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/929690066"
+    ],
+    "slug": [
+      "tweet-929690066"
+    ]
+  }
+}

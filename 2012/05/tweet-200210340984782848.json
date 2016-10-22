@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["An even better guide (with tables!) on the distinction between a blog and its posts: http://www.megpickard.com/archive/blog-vs-blogpost-a-note-on-terminology/"],"published":["2012-05-09T13:07:19Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/200210340984782848"],"slug":["tweet-200210340984782848"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "An even better guide (with tables!) on the distinction between a blog and its posts: http://www.megpickard.com/archive/blog-vs-blogpost-a-note-on-terminology/"
+    ],
+    "published": [
+      "2012-05-09T13:07:19Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/200210340984782848"
+    ],
+    "slug": [
+      "tweet-200210340984782848"
+    ]
+  }
+}

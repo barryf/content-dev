@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Fun afternoon looking at and driving a few Audis."],"published":["2013-10-05T16:09:11Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/386523470047481856"],"slug":["tweet-386523470047481856"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Fun afternoon looking at and driving a few Audis."
+    ],
+    "published": [
+      "2013-10-05T16:09:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/386523470047481856"
+    ],
+    "slug": [
+      "tweet-386523470047481856"
+    ]
+  }
+}

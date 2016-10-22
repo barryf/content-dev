@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@losowsky I hadn't considered the potential for malicious public emoji. Wow, that aubergine emoji trolling business is new to me."],"published":["2015-07-09T16:38:52Z"],"entry-type":["reply"],"summary":["@losowsky I hadn't considered the potential for malicious public emoji. Wow, that aubergine emoji trolling business is new to me."],"in-reply-to":["https://twitter.com/losowsky/status/619182650746605568"],"syndication":["https://twitter.com/barryf/status/619183963681132544"],"slug":["losowsky-i-hadn-t-considered-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@losowsky I hadn't considered the potential for malicious public emoji. Wow, that aubergine emoji trolling business is new to me."
+    ],
+    "published": [
+      "2015-07-09T16:38:52Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@losowsky I hadn't considered the potential for malicious public emoji. Wow, that aubergine emoji trolling business is new to me."
+    ],
+    "in-reply-to": [
+      "https://twitter.com/losowsky/status/619182650746605568"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/619183963681132544"
+    ],
+    "slug": [
+      "losowsky-i-hadn-t-considered-the"
+    ]
+  }
+}

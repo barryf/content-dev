@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/554206736/status/298143703741108224"],"published":["2013-02-03T18:59:32Z"],"content":["@barryf  Very impressive! And just in time for the next cold snap."],"author":["https://twitter.com/554206736"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/554206736/status/298143703741108224"
+    ],
+    "published": [
+      "2013-02-03T18:59:32Z"
+    ],
+    "content": [
+      "@barryf  Very impressive! And just in time for the next cold snap."
+    ],
+    "author": [
+      "https://twitter.com/554206736"
+    ]
+  }
+}

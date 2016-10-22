@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-04-30T12:42:53Z"],"entry-type":["bookmark"],"name":["Supercharge your Workflow in Sketch"],"bookmark-of":["https://medium.com/design-ux/ebc9e5274845"],"category":["sketch","tutorial","via-pinboard"],"slug":["supercharge-your-workflow-in-sketch"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-04-30T12:42:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Supercharge your Workflow in Sketch"
+    ],
+    "bookmark-of": [
+      "https://medium.com/design-ux/ebc9e5274845"
+    ],
+    "category": [
+      "sketch",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "supercharge-your-workflow-in-sketch"
+    ]
+  }
+}

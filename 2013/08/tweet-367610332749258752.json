@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@BenHobson What kind of sick mind would think that’s acceptable? Fruitcake, marzipan, icing, the whole shebang? (I want one now)."],"published":["2013-08-14T11:35:07Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20511088/status/367609054178181120"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/367610332749258752"],"slug":["tweet-367610332749258752"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BenHobson What kind of sick mind would think that’s acceptable? Fruitcake, marzipan, icing, the whole shebang? (I want one now)."
+    ],
+    "published": [
+      "2013-08-14T11:35:07Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20511088/status/367609054178181120"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/367610332749258752"
+    ],
+    "slug": [
+      "tweet-367610332749258752"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Bumped into half of @globalpersonals at our local gym this evening. What a healthy bunch we are!"],"published":["2010-06-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/15348371966"],"slug":["tweet-15348371966"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Bumped into half of @globalpersonals at our local gym this evening. What a healthy bunch we are!"
+    ],
+    "published": [
+      "2010-06-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/15348371966"
+    ],
+    "slug": [
+      "tweet-15348371966"
+    ]
+  }
+}

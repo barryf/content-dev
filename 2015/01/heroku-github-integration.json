@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Heroku has experimental GitHub Integration. When GitHub integration is configured for a Heroku app, Heroku can automatically build and release (if the build is successful) pushes to the specified GitHub repo."],"published":["2015-01-06T14:20:58Z"],"entry-type":["bookmark"],"name":["Heroku/GitHub Integration"],"bookmark-of":["https://devcenter.heroku.com/articles/github-integration"],"category":["github","heroku","deployment"],"slug":["heroku-github-integration"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Heroku has experimental GitHub Integration. When GitHub integration is configured for a Heroku app, Heroku can automatically build and release (if the build is successful) pushes to the specified GitHub repo."
+    ],
+    "published": [
+      "2015-01-06T14:20:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Heroku/GitHub Integration"
+    ],
+    "bookmark-of": [
+      "https://devcenter.heroku.com/articles/github-integration"
+    ],
+    "category": [
+      "github",
+      "heroku",
+      "deployment"
+    ],
+    "slug": [
+      "heroku-github-integration"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@GrahamM_6t9 Ta. It’s powered by bitly’s free custom domain feature."],"published":["2012-08-04T12:23:57Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7567782/status/231696716187967488"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/231727171415195648"],"slug":["tweet-231727171415195648"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@GrahamM_6t9 Ta. It’s powered by bitly’s free custom domain feature."
+    ],
+    "published": [
+      "2012-08-04T12:23:57Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7567782/status/231696716187967488"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/231727171415195648"
+    ],
+    "slug": [
+      "tweet-231727171415195648"
+    ]
+  }
+}

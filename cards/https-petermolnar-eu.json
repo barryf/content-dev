@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Peter Molnar"],"photo":["https://petermolnar.eu/files/molnar_peter_avatar_4-90x90.jpg"],"url":["https://petermolnar.eu/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Peter Molnar"
+    ],
+    "photo": [
+      "https://petermolnar.eu/files/molnar_peter_avatar_4-90x90.jpg"
+    ],
+    "url": [
+      "https://petermolnar.eu/"
+    ]
+  }
+}

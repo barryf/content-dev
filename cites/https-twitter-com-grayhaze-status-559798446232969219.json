@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/grayhaze/status/559798446232969219"],"published":["2015-01-26T19:42:04Z"],"content":["@thesambarnes @barryf I really hope that Barry isn't man sized."],"in-reply-to":["https://barryfrost.com/2015/01/look-out-for-barry-coming-soon"],"author":["https://twitter.com/grayhaze"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/grayhaze/status/559798446232969219"
+    ],
+    "published": [
+      "2015-01-26T19:42:04Z"
+    ],
+    "content": [
+      "@thesambarnes @barryf I really hope that Barry isn't man sized."
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/01/look-out-for-barry-coming-soon"
+    ],
+    "author": [
+      "https://twitter.com/grayhaze"
+    ]
+  }
+}

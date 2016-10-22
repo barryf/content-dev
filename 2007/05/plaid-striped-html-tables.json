@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Useful candy striping effect for tables\n"],"published":["2007-05-15T12:34:40Z"],"entry-type":["bookmark"],"name":["Plaid-Striped HTML Tables"],"bookmark-of":["http://www.clutch-inc.com/examples/plaid/index.html"],"category":["css","html","table","web","design","via-pinboard"],"slug":["plaid-striped-html-tables"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful candy striping effect for tables\n"
+    ],
+    "published": [
+      "2007-05-15T12:34:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Plaid-Striped HTML Tables"
+    ],
+    "bookmark-of": [
+      "http://www.clutch-inc.com/examples/plaid/index.html"
+    ],
+    "category": [
+      "css",
+      "html",
+      "table",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "plaid-striped-html-tables"
+    ]
+  }
+}

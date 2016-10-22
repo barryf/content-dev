@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm looking for Rails gurus and front-enders to work with us at @wld. DM me if you know someone (or pass on). http://is.gd/icOB"],"published":["2009-02-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1172627801"],"slug":["tweet-1172627801"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm looking for Rails gurus and front-enders to work with us at @wld. DM me if you know someone (or pass on). http://is.gd/icOB"
+    ],
+    "published": [
+      "2009-02-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1172627801"
+    ],
+    "slug": [
+      "tweet-1172627801"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I am a Draw Something widow /cc @larrylou100"],"published":["2012-04-06T20:22:08Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/188360965199372289"],"slug":["tweet-188360965199372289"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I am a Draw Something widow /cc @larrylou100"
+    ],
+    "published": [
+      "2012-04-06T20:22:08Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/188360965199372289"
+    ],
+    "slug": [
+      "tweet-188360965199372289"
+    ]
+  }
+}

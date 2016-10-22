@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Rob Hyde"],"photo":["http://pbs.twimg.com/profile_images/378800000462294405/c446df9e01ff0a905bbf79f0cf42c126_normal.jpeg"],"url":["https://twitter.com/rob_hyde"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Rob Hyde"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000462294405/c446df9e01ff0a905bbf79f0cf42c126_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/rob_hyde"
+    ]
+  }
+}

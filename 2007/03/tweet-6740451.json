@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Watching dogs dancing at Crufts on telly. You wouldn't get cats degrading themselves like that. Dogs clearly have no self respect."],"published":["2007-03-11T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/6740451"],"slug":["tweet-6740451"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watching dogs dancing at Crufts on telly. You wouldn't get cats degrading themselves like that. Dogs clearly have no self respect."
+    ],
+    "published": [
+      "2007-03-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/6740451"
+    ],
+    "slug": [
+      "tweet-6740451"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Drag a gmap around and get the lat/lon\n"],"published":["2009-05-23T21:07:59Z"],"entry-type":["bookmark"],"name":["Get Lat Lon - find the latitude and longitude of a point on a map"],"bookmark-of":["http://www.getlatlon.com/"],"category":["gmap","map","latlon","location","geo","via-pinboard"],"slug":["get-lat-lon-find-the-latitude"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Drag a gmap around and get the lat/lon\n"
+    ],
+    "published": [
+      "2009-05-23T21:07:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Get Lat Lon - find the latitude and longitude of a point on a map"
+    ],
+    "bookmark-of": [
+      "http://www.getlatlon.com/"
+    ],
+    "category": [
+      "gmap",
+      "map",
+      "latlon",
+      "location",
+      "geo",
+      "via-pinboard"
+    ],
+    "slug": [
+      "get-lat-lon-find-the-latitude"
+    ]
+  }
+}

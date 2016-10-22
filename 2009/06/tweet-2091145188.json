@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Today's word is \"awesomesauce\"."],"published":["2009-06-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2091145188"],"slug":["tweet-2091145188"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Today's word is \"awesomesauce\"."
+    ],
+    "published": [
+      "2009-06-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2091145188"
+    ],
+    "slug": [
+      "tweet-2091145188"
+    ]
+  }
+}

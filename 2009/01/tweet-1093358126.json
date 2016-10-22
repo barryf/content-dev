@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Off to see Rothko at Tate Modern and then some dim sum. Yum."],"published":["2009-01-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1093358126"],"slug":["tweet-1093358126"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Off to see Rothko at Tate Modern and then some dim sum. Yum."
+    ],
+    "published": [
+      "2009-01-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1093358126"
+    ],
+    "slug": [
+      "tweet-1093358126"
+    ]
+  }
+}

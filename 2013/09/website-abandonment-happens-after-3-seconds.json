@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2013-09-11T12:12:45Z"],"entry-type":["bookmark"],"name":["\"Website abandonment happens after 3 seconds\""],"bookmark-of":["http://www.strangeloopnetworks.com/resources/infographics/web-performance-and-user-expectations/website-abandonment-happens-after-3-seconds/"],"category":["performance","pageload","design","web","via-pinboard"],"slug":["website-abandonment-happens-after-3-seconds"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-09-11T12:12:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "\"Website abandonment happens after 3 seconds\""
+    ],
+    "bookmark-of": [
+      "http://www.strangeloopnetworks.com/resources/infographics/web-performance-and-user-expectations/website-abandonment-happens-after-3-seconds/"
+    ],
+    "category": [
+      "performance",
+      "pageload",
+      "design",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "website-abandonment-happens-after-3-seconds"
+    ]
+  }
+}

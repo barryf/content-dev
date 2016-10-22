@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Google's documentation on prefetching and how to block it\n"],"published":["2005-04-07T08:34:53Z"],"entry-type":["bookmark"],"name":["Google Information for Webmasters: prefetching"],"bookmark-of":["http://www.google.com/webmasters/faq.html#prefetching"],"category":["browser","mozilla","via-pinboard"],"slug":["google-information-for-webmasters-prefetching"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Google's documentation on prefetching and how to block it\n"
+    ],
+    "published": [
+      "2005-04-07T08:34:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google Information for Webmasters: prefetching"
+    ],
+    "bookmark-of": [
+      "http://www.google.com/webmasters/faq.html#prefetching"
+    ],
+    "category": [
+      "browser",
+      "mozilla",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-information-for-webmasters-prefetching"
+    ]
+  }
+}

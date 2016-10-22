@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["\"Caja (pronounced \"KA-ha\") is \"virtual iframes\": it allows you to put untrusted third-party HTML and JavaScript inline in your page and still be secure\"\n"],"published":["2008-11-08T10:19:50Z"],"entry-type":["bookmark"],"name":["google-caja - Google Code"],"bookmark-of":["http://code.google.com/p/google-caja/"],"category":["javascript","security","iframe","xss","script","web","google","caja","via-pinboard"],"slug":["google-caja-google-code"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Caja (pronounced \"KA-ha\") is \"virtual iframes\": it allows you to put untrusted third-party HTML and JavaScript inline in your page and still be secure\"\n"
+    ],
+    "published": [
+      "2008-11-08T10:19:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "google-caja - Google Code"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/google-caja/"
+    ],
+    "category": [
+      "javascript",
+      "security",
+      "iframe",
+      "xss",
+      "script",
+      "web",
+      "google",
+      "caja",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-caja-google-code"
+    ]
+  }
+}

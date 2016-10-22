@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2009-01-24T16:14:30Z"],"entry-type":["bookmark"],"name":["37signals office on a Sunday morning"],"bookmark-of":["http://www.37signals.com/svn/posts/1517-the-office-on-a-quiet-sunday-morning"],"category":["photo","37signals","work","business","office","inspiration","apple","mac","cool","via-pinboard"],"slug":["37signals-office-on-a-sunday-morning"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-01-24T16:14:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "37signals office on a Sunday morning"
+    ],
+    "bookmark-of": [
+      "http://www.37signals.com/svn/posts/1517-the-office-on-a-quiet-sunday-morning"
+    ],
+    "category": [
+      "photo",
+      "37signals",
+      "work",
+      "business",
+      "office",
+      "inspiration",
+      "apple",
+      "mac",
+      "cool",
+      "via-pinboard"
+    ],
+    "slug": [
+      "37signals-office-on-a-sunday-morning"
+    ]
+  }
+}

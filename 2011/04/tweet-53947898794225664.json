@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Saw Doug Stanhope in a tiny venue in Leics Sq tonight. Tomorrow he's at the Apollo. Very funny and adept at dealing with hecklers."],"published":["2011-04-01T22:32:36Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/53947898794225664"],"slug":["tweet-53947898794225664"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Saw Doug Stanhope in a tiny venue in Leics Sq tonight. Tomorrow he's at the Apollo. Very funny and adept at dealing with hecklers."
+    ],
+    "published": [
+      "2011-04-01T22:32:36Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/53947898794225664"
+    ],
+    "slug": [
+      "tweet-53947898794225664"
+    ]
+  }
+}

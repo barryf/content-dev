@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Dating with tags!\n"],"published":["2005-10-06T20:22:01Z"],"entry-type":["bookmark"],"name":["Consumating: Hot nerdy girls and indie rock boys! With glasses!"],"bookmark-of":["http://consumating.com/"],"category":["tags","web20","folksonomies","fun","dating","social","geek","via-pinboard"],"slug":["consumating-hot-nerdy-girls-and-indie"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dating with tags!\n"
+    ],
+    "published": [
+      "2005-10-06T20:22:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Consumating: Hot nerdy girls and indie rock boys! With glasses!"
+    ],
+    "bookmark-of": [
+      "http://consumating.com/"
+    ],
+    "category": [
+      "tags",
+      "web20",
+      "folksonomies",
+      "fun",
+      "dating",
+      "social",
+      "geek",
+      "via-pinboard"
+    ],
+    "slug": [
+      "consumating-hot-nerdy-girls-and-indie"
+    ]
+  }
+}

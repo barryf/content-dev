@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@StevieBuckley Where are my intros?! Watching @chadfowler right now."],"published":["2013-10-30T12:12:20Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/275007771/status/395519387798888448"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/395523562884595712"],"slug":["tweet-395523562884595712"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@StevieBuckley Where are my intros?! Watching @chadfowler right now."
+    ],
+    "published": [
+      "2013-10-30T12:12:20Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/275007771/status/395519387798888448"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/395523562884595712"
+    ],
+    "slug": [
+      "tweet-395523562884595712"
+    ]
+  }
+}

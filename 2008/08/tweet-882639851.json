@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Pinging back and forth from Windsor to London."],"published":["2008-08-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/882639851"],"slug":["tweet-882639851"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pinging back and forth from Windsor to London."
+    ],
+    "published": [
+      "2008-08-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/882639851"
+    ],
+    "slug": [
+      "tweet-882639851"
+    ]
+  }
+}

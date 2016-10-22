@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/tomgauld/status/561846528428752896"],"published":["2015-02-01T11:20:25Z"],"content":["My cartoon for yesterday's Guardian:"],"photo":["http://pbs.twimg.com/media/B8wUbSjCUAABIu1.jpg"],"author":["https://twitter.com/tomgauld"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/tomgauld/status/561846528428752896"
+    ],
+    "published": [
+      "2015-02-01T11:20:25Z"
+    ],
+    "content": [
+      "My cartoon for yesterday's Guardian:"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/B8wUbSjCUAABIu1.jpg"
+    ],
+    "author": [
+      "https://twitter.com/tomgauld"
+    ]
+  }
+}

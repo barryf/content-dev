@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm 0% NORTHERN according to the North-o-Meter! That's somewhere around Jersey. http://toys.usvsth3m.com/north-o-meter/"],"published":["2013-11-08T12:37:56Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/398791497924898816"],"slug":["tweet-398791497924898816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm 0% NORTHERN according to the North-o-Meter! That's somewhere around Jersey. http://toys.usvsth3m.com/north-o-meter/"
+    ],
+    "published": [
+      "2013-11-08T12:37:56Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/398791497924898816"
+    ],
+    "slug": [
+      "tweet-398791497924898816"
+    ]
+  }
+}

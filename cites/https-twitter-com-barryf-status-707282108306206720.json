@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/707282108306206720"],"published":["2016-03-08T19:09:29Z"],"content":["@tomgiddings My guess too, although it only beeped the once. Testing it was fine. Might change the battery anyway!"],"in-reply-to":["https://barryfrost.com/2016/03/woken-up-last-night-by-one"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/707282108306206720"
+    ],
+    "published": [
+      "2016-03-08T19:09:29Z"
+    ],
+    "content": [
+      "@tomgiddings My guess too, although it only beeped the once. Testing it was fine. Might change the battery anyway!"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/03/woken-up-last-night-by-one"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Quickly test a site using common widths for mobile/other devices.\n"],"published":["2011-08-15T14:09:20Z"],"entry-type":["bookmark"],"name":["Responsive Design Testing"],"bookmark-of":["http://mattkersley.com/responsive/"],"category":["mobile","testing","responsive","design","web","via-pinboard"],"slug":["responsive-design-testing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Quickly test a site using common widths for mobile/other devices.\n"
+    ],
+    "published": [
+      "2011-08-15T14:09:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Responsive Design Testing"
+    ],
+    "bookmark-of": [
+      "http://mattkersley.com/responsive/"
+    ],
+    "category": [
+      "mobile",
+      "testing",
+      "responsive",
+      "design",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "responsive-design-testing"
+    ]
+  }
+}

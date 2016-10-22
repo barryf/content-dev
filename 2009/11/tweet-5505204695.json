@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["It's a toss up this afternoon between standing in the cold to watch my local football team, or cramming into a warm pub for the rugby on TV."],"published":["2009-11-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5505204695"],"slug":["tweet-5505204695"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It's a toss up this afternoon between standing in the cold to watch my local football team, or cramming into a warm pub for the rugby on TV."
+    ],
+    "published": [
+      "2009-11-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5505204695"
+    ],
+    "slug": [
+      "tweet-5505204695"
+    ]
+  }
+}

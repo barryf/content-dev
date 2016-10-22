@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Some smart Flash bridging to control playback of MP3s from Javascript\n"],"published":["2006-07-25T13:45:51Z"],"entry-type":["bookmark"],"name":["Javascript Sound Kit"],"bookmark-of":["http://jssoundkit.sourceforge.net/"],"category":["actionscript","javascript","sound","flash","mp3","music","web","via-pinboard"],"slug":["javascript-sound-kit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Some smart Flash bridging to control playback of MP3s from Javascript\n"
+    ],
+    "published": [
+      "2006-07-25T13:45:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Javascript Sound Kit"
+    ],
+    "bookmark-of": [
+      "http://jssoundkit.sourceforge.net/"
+    ],
+    "category": [
+      "actionscript",
+      "javascript",
+      "sound",
+      "flash",
+      "mp3",
+      "music",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "javascript-sound-kit"
+    ]
+  }
+}

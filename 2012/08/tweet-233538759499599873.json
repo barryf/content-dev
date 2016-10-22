@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@alexparish Currently using Reeder. Byline's good too."],"published":["2012-08-09T12:22:33Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15612850/status/233534652609085440"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/233538759499599873"],"slug":["tweet-233538759499599873"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@alexparish Currently using Reeder. Byline's good too."
+    ],
+    "published": [
+      "2012-08-09T12:22:33Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15612850/status/233534652609085440"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/233538759499599873"
+    ],
+    "slug": [
+      "tweet-233538759499599873"
+    ]
+  }
+}

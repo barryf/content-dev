@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2013-02-03T20:19:32Z"],"entry-type":["bookmark"],"name":["How to back up your Gmail on Linux in four easy steps"],"bookmark-of":["http://www.mattcutts.com/blog/backup-gmail-in-linux-with-getmail/"],"category":["gmail","email","backup","via-pinboard"],"slug":["how-to-back-up-your-gmail"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-02-03T20:19:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to back up your Gmail on Linux in four easy steps"
+    ],
+    "bookmark-of": [
+      "http://www.mattcutts.com/blog/backup-gmail-in-linux-with-getmail/"
+    ],
+    "category": [
+      "gmail",
+      "email",
+      "backup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-back-up-your-gmail"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Guide to Cobalt (including Gentoo on RaQ)\n"],"published":["2005-01-05T09:34:16Z"],"entry-type":["bookmark"],"name":["The Tao of Mac - Cobalt"],"bookmark-of":["http://the.taoofmac.com/space/Cobalt"],"category":["tech","linux","cobalt","via-pinboard"],"slug":["the-tao-of-mac-cobalt"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Guide to Cobalt (including Gentoo on RaQ)\n"
+    ],
+    "published": [
+      "2005-01-05T09:34:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Tao of Mac - Cobalt"
+    ],
+    "bookmark-of": [
+      "http://the.taoofmac.com/space/Cobalt"
+    ],
+    "category": [
+      "tech",
+      "linux",
+      "cobalt",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-tao-of-mac-cobalt"
+    ]
+  }
+}

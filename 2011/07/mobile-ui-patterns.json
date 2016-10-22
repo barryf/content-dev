@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Screenshots of common design patterns on mobile (mostly iPhone)\n"],"published":["2011-07-18T11:39:33Z"],"entry-type":["bookmark"],"name":["Mobile UI Patterns"],"bookmark-of":["http://mobile-patterns.com/"],"category":["iphone","ui","ux","pattern","design","feed","navigation","signup","flow","via-pinboard"],"slug":["mobile-ui-patterns"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Screenshots of common design patterns on mobile (mostly iPhone)\n"
+    ],
+    "published": [
+      "2011-07-18T11:39:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mobile UI Patterns"
+    ],
+    "bookmark-of": [
+      "http://mobile-patterns.com/"
+    ],
+    "category": [
+      "iphone",
+      "ui",
+      "ux",
+      "pattern",
+      "design",
+      "feed",
+      "navigation",
+      "signup",
+      "flow",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mobile-ui-patterns"
+    ]
+  }
+}

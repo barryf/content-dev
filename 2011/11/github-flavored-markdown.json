@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Markdown JavaScript library - with GitHub's extensions like newlines.\n"],"published":["2011-11-05T19:00:23Z"],"entry-type":["bookmark"],"name":["GitHub Flavored Markdown"],"bookmark-of":["http://github.github.com/github-flavored-markdown/"],"category":["javascript","library","markdown","github","via-pinboard"],"slug":["github-flavored-markdown"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Markdown JavaScript library - with GitHub's extensions like newlines.\n"
+    ],
+    "published": [
+      "2011-11-05T19:00:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GitHub Flavored Markdown"
+    ],
+    "bookmark-of": [
+      "http://github.github.com/github-flavored-markdown/"
+    ],
+    "category": [
+      "javascript",
+      "library",
+      "markdown",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "github-flavored-markdown"
+    ]
+  }
+}

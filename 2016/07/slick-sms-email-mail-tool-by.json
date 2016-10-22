@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Slick SMS/email/mail tool by @gdsteam, showing that UX is still important for \"internal\" apps.\n"],"published":["2016-07-26T14:48:44Z"],"entry-type":["repost"],"summary":["Slick SMS/email/mail tool by @gdsteam, showing that UX is still important for \"internal\" apps. https://twitter.com/gdsteam/status/757935993336926208"],"repost-of":["https://twitter.com/gdsteam/status/757935993336926208"],"category":["gds","sms","admin"],"syndication":["https://twitter.com/barryf/status/757952947766583296"],"slug":["slick-sms-email-mail-tool-by"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slick SMS/email/mail tool by @gdsteam, showing that UX is still important for \"internal\" apps.\n"
+    ],
+    "published": [
+      "2016-07-26T14:48:44Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "summary": [
+      "Slick SMS/email/mail tool by @gdsteam, showing that UX is still important for \"internal\" apps. https://twitter.com/gdsteam/status/757935993336926208"
+    ],
+    "repost-of": [
+      "https://twitter.com/gdsteam/status/757935993336926208"
+    ],
+    "category": [
+      "gds",
+      "sms",
+      "admin"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/757952947766583296"
+    ],
+    "slug": [
+      "slick-sms-email-mail-tool-by"
+    ]
+  }
+}

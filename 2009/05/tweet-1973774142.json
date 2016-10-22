@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoyable day with @lilja in the Eton sunshine. Lunch at the Henry VI and a stroll along the river back to Windsor. Doing some to-dos now."],"published":["2009-05-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1973774142"],"slug":["tweet-1973774142"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoyable day with @lilja in the Eton sunshine. Lunch at the Henry VI and a stroll along the river back to Windsor. Doing some to-dos now."
+    ],
+    "published": [
+      "2009-05-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1973774142"
+    ],
+    "slug": [
+      "tweet-1973774142"
+    ]
+  }
+}

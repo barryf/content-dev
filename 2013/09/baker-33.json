@@ -1,1 +1,24 @@
-{"type":["h-entry"],"properties":{"content":["I think I'll need to hide replies on my homepage posts list. It can get a bit noisy when I'm in a conversation on Twitter and my own public content slips down the page. \r\n\r\nPerhaps I should move replies to a dedicated [replies page](http://aaronparecki.com/replies) like [Aaron Parecki](http://aaronparecki.com) has?\r\n\r\nThe mixed public/replies approach is actually something I dislike when visiting profiles on Twitter: I want to see what people are sharing, not (only) their replies to others.\r\n\r\n**Update, 9pm**: [Done](/replies)."],"published":["2013-09-25T15:26:56Z"],"entry-type":["note"],"category":["indieweb","baker","via-baker"],"slug":["baker-33"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I think I'll need to hide replies on my homepage posts list. It can get a bit noisy when I'm in a conversation on Twitter and my own public content slips down the page. \r\n\r\nPerhaps I should move replies to a dedicated [replies page](http://aaronparecki.com/replies) like [Aaron Parecki](http://aaronparecki.com) has?\r\n\r\nThe mixed public/replies approach is actually something I dislike when visiting profiles on Twitter: I want to see what people are sharing, not (only) their replies to others.\r\n\r\n**Update, 9pm**: [Done](/replies)."
+    ],
+    "published": [
+      "2013-09-25T15:26:56Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "indieweb",
+      "baker",
+      "via-baker"
+    ],
+    "slug": [
+      "baker-33"
+    ]
+  }
+}

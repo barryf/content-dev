@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-13T18:43:43Z"],"entry-type":["bookmark"],"name":["Eric's Archived Thoughts: Standards Savings"],"bookmark-of":["http://www.meyerweb.com/eric/thoughts/2004/09/13/standards-savings/"],"category":["css","standards","via-pinboard"],"slug":["eric-s-archived-thoughts-standards-savings"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-13T18:43:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Eric's Archived Thoughts: Standards Savings"
+    ],
+    "bookmark-of": [
+      "http://www.meyerweb.com/eric/thoughts/2004/09/13/standards-savings/"
+    ],
+    "category": [
+      "css",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "eric-s-archived-thoughts-standards-savings"
+    ]
+  }
+}

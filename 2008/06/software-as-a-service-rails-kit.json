@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Offers rebilling payments. Limited selection of gateways though.\n"],"published":["2008-06-26T17:57:18Z"],"entry-type":["bookmark"],"name":["Software as a Service Rails Kit"],"bookmark-of":["http://railskits.com/saas/"],"category":["saas","rails","ecommerce","billing","payment","gateway","via-pinboard"],"slug":["software-as-a-service-rails-kit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Offers rebilling payments. Limited selection of gateways though.\n"
+    ],
+    "published": [
+      "2008-06-26T17:57:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Software as a Service Rails Kit"
+    ],
+    "bookmark-of": [
+      "http://railskits.com/saas/"
+    ],
+    "category": [
+      "saas",
+      "rails",
+      "ecommerce",
+      "billing",
+      "payment",
+      "gateway",
+      "via-pinboard"
+    ],
+    "slug": [
+      "software-as-a-service-rails-kit"
+    ]
+  }
+}

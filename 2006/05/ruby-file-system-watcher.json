@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Wonderfully simple. I love Ruby.\n"],"published":["2006-05-12T10:05:50Z"],"entry-type":["bookmark"],"name":["Ruby File System Watcher"],"bookmark-of":["http://www.jhorman.org/FileSystemWatcher/"],"category":["ruby","fs","dev","via-pinboard"],"slug":["ruby-file-system-watcher"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wonderfully simple. I love Ruby.\n"
+    ],
+    "published": [
+      "2006-05-12T10:05:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ruby File System Watcher"
+    ],
+    "bookmark-of": [
+      "http://www.jhorman.org/FileSystemWatcher/"
+    ],
+    "category": [
+      "ruby",
+      "fs",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-file-system-watcher"
+    ]
+  }
+}

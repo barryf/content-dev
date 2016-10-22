@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Everybody loves Sparklines\n"],"published":["2008-08-20T14:11:33Z"],"entry-type":["bookmark"],"name":["Sparklines.js"],"bookmark-of":["http://www.willarson.com/code/sparklines/sparklines.html"],"category":["sparklines","javascript","graph","chart","web","dev","data","design","via-pinboard"],"slug":["sparklines-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Everybody loves Sparklines\n"
+    ],
+    "published": [
+      "2008-08-20T14:11:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sparklines.js"
+    ],
+    "bookmark-of": [
+      "http://www.willarson.com/code/sparklines/sparklines.html"
+    ],
+    "category": [
+      "sparklines",
+      "javascript",
+      "graph",
+      "chart",
+      "web",
+      "dev",
+      "data",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sparklines-js"
+    ]
+  }
+}

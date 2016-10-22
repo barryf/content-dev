@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Several days later, I’ve still got the Too Many Cooks theme tune lodged in my brain #earworm"],"published":["2014-11-10T10:12:33Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/531751254507388928"],"slug":["tweet-531751254507388928"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Several days later, I’ve still got the Too Many Cooks theme tune lodged in my brain #earworm"
+    ],
+    "published": [
+      "2014-11-10T10:12:33Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/531751254507388928"
+    ],
+    "slug": [
+      "tweet-531751254507388928"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"published":["2014-11-18T08:46:32Z"],"entry-type":["bookmark"],"name":["Why Japanese Web Design is NOT so different — Medium"],"bookmark-of":["https://medium.com/@mariosakata/why-japanese-web-design-is-not-so-different-f1dabf43155c"],"category":["via-pinboard"],"slug":["why-japanese-web-design-is-not"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-11-18T08:46:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Why Japanese Web Design is NOT so different — Medium"
+    ],
+    "bookmark-of": [
+      "https://medium.com/@mariosakata/why-japanese-web-design-is-not-so-different-f1dabf43155c"
+    ],
+    "category": [
+      "via-pinboard"
+    ],
+    "slug": [
+      "why-japanese-web-design-is-not"
+    ]
+  }
+}

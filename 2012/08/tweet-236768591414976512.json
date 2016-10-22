@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jimeh I was using ARM CPUs in my Acorn Archimedes computers back in the 80s. Great British engineering."],"published":["2012-08-18T10:16:45Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/3068091/status/236591964781432832"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/236768591414976512"],"slug":["tweet-236768591414976512"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jimeh I was using ARM CPUs in my Acorn Archimedes computers back in the 80s. Great British engineering."
+    ],
+    "published": [
+      "2012-08-18T10:16:45Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/3068091/status/236591964781432832"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/236768591414976512"
+    ],
+    "slug": [
+      "tweet-236768591414976512"
+    ]
+  }
+}

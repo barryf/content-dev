@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Craig Smith"],"photo":["https://scontent.cdninstagram.com/t51.2885-19/11820642_1474177952893799_1087088066_a.jpg"],"url":["https://www.instagram.com/sourceevents/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Craig Smith"
+    ],
+    "photo": [
+      "https://scontent.cdninstagram.com/t51.2885-19/11820642_1474177952893799_1087088066_a.jpg"
+    ],
+    "url": [
+      "https://www.instagram.com/sourceevents/"
+    ]
+  }
+}

@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2007-09-21T18:20:45Z"],"entry-type":["bookmark"],"name":["The Best microformats Resources for Web 2.0 Developers"],"bookmark-of":["http://www.adaruby.com/2007/09/20/top-10-microformats-resources-for-web-20-developers/"],"category":["microformat","rails","web","dev","via-pinboard"],"slug":["the-best-microformats-resources-for-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-09-21T18:20:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Best microformats Resources for Web 2.0 Developers"
+    ],
+    "bookmark-of": [
+      "http://www.adaruby.com/2007/09/20/top-10-microformats-resources-for-web-20-developers/"
+    ],
+    "category": [
+      "microformat",
+      "rails",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-best-microformats-resources-for-web"
+    ]
+  }
+}

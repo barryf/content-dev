@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-21T15:03:28Z"],"entry-type":["bookmark"],"name":["Squash all my commits into one for GitHub pull request"],"bookmark-of":["http://stackoverflow.com/questions/14534397/squash-all-my-commits-into-one-for-github-pull-request"],"category":["squash","git","github","pullrequest"],"slug":["squash-all-my-commits-into-one"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-21T15:03:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Squash all my commits into one for GitHub pull request"
+    ],
+    "bookmark-of": [
+      "http://stackoverflow.com/questions/14534397/squash-all-my-commits-into-one-for-github-pull-request"
+    ],
+    "category": [
+      "squash",
+      "git",
+      "github",
+      "pullrequest"
+    ],
+    "slug": [
+      "squash-all-my-commits-into-one"
+    ]
+  }
+}

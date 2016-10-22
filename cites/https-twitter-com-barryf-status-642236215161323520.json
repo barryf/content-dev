@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/barryf/status/642236215161323520"],"published":["2015-09-11T07:20:20Z"],"content":["@PaulLomax I wouldn't mind that so much. Feedback is good, as long as it's silent!"],"in-reply-to":["https://barryfrost.com/2015/09/ios-keyboard-clicks-are-just-as"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/642236215161323520"
+    ],
+    "published": [
+      "2015-09-11T07:20:20Z"
+    ],
+    "content": [
+      "@PaulLomax I wouldn't mind that so much. Feedback is good, as long as it's silent!"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/09/ios-keyboard-clicks-are-just-as"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

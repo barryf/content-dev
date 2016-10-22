@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["UK accountants used by Go Free Range"],"published":["2016-08-08T08:51:24Z"],"entry-type":["bookmark"],"name":["Proactive"],"bookmark-of":["https://www.proactive.uk.net/"],"category":["accountant","uk"],"slug":["proactive"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "UK accountants used by Go Free Range"
+    ],
+    "published": [
+      "2016-08-08T08:51:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Proactive"
+    ],
+    "bookmark-of": [
+      "https://www.proactive.uk.net/"
+    ],
+    "category": [
+      "accountant",
+      "uk"
+    ],
+    "slug": [
+      "proactive"
+    ]
+  }
+}

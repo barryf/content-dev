@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Ticket secured for Radiohead in London... only seven months to wait!"],"published":["2007-12-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/483423052"],"slug":["tweet-483423052"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ticket secured for Radiohead in London... only seven months to wait!"
+    ],
+    "published": [
+      "2007-12-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/483423052"
+    ],
+    "slug": [
+      "tweet-483423052"
+    ]
+  }
+}

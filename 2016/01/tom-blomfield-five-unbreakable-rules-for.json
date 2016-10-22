@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2016-01-14T12:21:19Z"],"entry-type":["bookmark"],"name":["Tom Blomfield: Five Unbreakable Rules for Startups"],"bookmark-of":["http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups"],"category":["startup","business"],"slug":["tom-blomfield-five-unbreakable-rules-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-01-14T12:21:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Tom Blomfield: Five Unbreakable Rules for Startups"
+    ],
+    "bookmark-of": [
+      "http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups"
+    ],
+    "category": [
+      "startup",
+      "business"
+    ],
+    "slug": [
+      "tom-blomfield-five-unbreakable-rules-for"
+    ]
+  }
+}

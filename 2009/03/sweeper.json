@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Automatically tag your music collection with metadata from Last.fm\n"],"published":["2009-03-23T16:23:12Z"],"entry-type":["bookmark"],"name":["Sweeper"],"bookmark-of":["http://github.com/fauna/sweeper/tree/master"],"category":["forflatpackedworld","lastfm","music","tag","ruby","id3lib","mp3","via-pinboard"],"slug":["sweeper"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Automatically tag your music collection with metadata from Last.fm\n"
+    ],
+    "published": [
+      "2009-03-23T16:23:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sweeper"
+    ],
+    "bookmark-of": [
+      "http://github.com/fauna/sweeper/tree/master"
+    ],
+    "category": [
+      "forflatpackedworld",
+      "lastfm",
+      "music",
+      "tag",
+      "ruby",
+      "id3lib",
+      "mp3",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sweeper"
+    ]
+  }
+}

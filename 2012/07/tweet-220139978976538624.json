@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Love this: a pub in a shed http://bfr.st/NZW2yr /via @currybet"],"published":["2012-07-03T13:00:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/220139978976538624"],"slug":["tweet-220139978976538624"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Love this: a pub in a shed http://bfr.st/NZW2yr /via @currybet"
+    ],
+    "published": [
+      "2012-07-03T13:00:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/220139978976538624"
+    ],
+    "slug": [
+      "tweet-220139978976538624"
+    ]
+  }
+}

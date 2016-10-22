@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["ConnectTweet lets real people represent your group or business on Twitter from their own Twitter accounts\n"],"published":["2010-11-01T13:32:52Z"],"entry-type":["bookmark"],"name":["ConnectTweet"],"bookmark-of":["http://www.connecttweet.com/"],"category":["twitter","group","company","work","business","via-pinboard"],"slug":["connecttweet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "ConnectTweet lets real people represent your group or business on Twitter from their own Twitter accounts\n"
+    ],
+    "published": [
+      "2010-11-01T13:32:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ConnectTweet"
+    ],
+    "bookmark-of": [
+      "http://www.connecttweet.com/"
+    ],
+    "category": [
+      "twitter",
+      "group",
+      "company",
+      "work",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "connecttweet"
+    ]
+  }
+}

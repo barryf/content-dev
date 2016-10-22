@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["\"Track exceptions with modern error logging for JavaScript, Python, Ruby, Java, and Node.js\". Alternative to Airbrake?"],"published":["2014-07-04T15:05:21Z"],"entry-type":["bookmark"],"name":["Sentry"],"bookmark-of":["https://www.getsentry.com/welcome/"],"category":["monitoring","logging","sysadmin","error","via-pinboard"],"slug":["sentry"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Track exceptions with modern error logging for JavaScript, Python, Ruby, Java, and Node.js\". Alternative to Airbrake?"
+    ],
+    "published": [
+      "2014-07-04T15:05:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sentry"
+    ],
+    "bookmark-of": [
+      "https://www.getsentry.com/welcome/"
+    ],
+    "category": [
+      "monitoring",
+      "logging",
+      "sysadmin",
+      "error",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sentry"
+    ]
+  }
+}

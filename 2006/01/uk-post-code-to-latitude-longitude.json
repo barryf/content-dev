@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2006-01-12T20:25:13Z"],"entry-type":["bookmark"],"name":["UK post code to latitude/longitude snippet"],"bookmark-of":["http://blog.mongoo.se/articles/2005/12/01/uk-post-code-to-latitude-longitude-snippet"],"category":["web","dev","rails","uk","postcode","geo","gmap","map","via-pinboard"],"slug":["uk-post-code-to-latitude-longitude"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-01-12T20:25:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UK post code to latitude/longitude snippet"
+    ],
+    "bookmark-of": [
+      "http://blog.mongoo.se/articles/2005/12/01/uk-post-code-to-latitude-longitude-snippet"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "rails",
+      "uk",
+      "postcode",
+      "geo",
+      "gmap",
+      "map",
+      "via-pinboard"
+    ],
+    "slug": [
+      "uk-post-code-to-latitude-longitude"
+    ]
+  }
+}

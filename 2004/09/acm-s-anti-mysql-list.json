@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-06T20:06:47Z"],"entry-type":["bookmark"],"name":["ACM's anti-MySQL list"],"bookmark-of":["http://vulcanus.its.tudelft.nl/~acm/got/antimysql.php"],"category":["database","mysql","via-pinboard"],"slug":["acm-s-anti-mysql-list"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-06T20:06:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ACM's anti-MySQL list"
+    ],
+    "bookmark-of": [
+      "http://vulcanus.its.tudelft.nl/~acm/got/antimysql.php"
+    ],
+    "category": [
+      "database",
+      "mysql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "acm-s-anti-mysql-list"
+    ]
+  }
+}

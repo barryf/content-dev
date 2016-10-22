@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Another social Twitter bot. Great idea, well executed\n"],"published":["2007-11-18T19:14:40Z"],"entry-type":["bookmark"],"name":["plusplusbot"],"bookmark-of":["http://plusplusbot.com/"],"category":["api","mashup","rating","social","twitter","karma","bot","inspiration","web20","via-pinboard"],"slug":["plusplusbot"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another social Twitter bot. Great idea, well executed\n"
+    ],
+    "published": [
+      "2007-11-18T19:14:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "plusplusbot"
+    ],
+    "bookmark-of": [
+      "http://plusplusbot.com/"
+    ],
+    "category": [
+      "api",
+      "mashup",
+      "rating",
+      "social",
+      "twitter",
+      "karma",
+      "bot",
+      "inspiration",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "plusplusbot"
+    ]
+  }
+}

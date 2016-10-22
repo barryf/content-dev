@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Free online version from O'Reilly\n"],"published":["2005-04-08T08:39:21Z"],"entry-type":["bookmark"],"name":["Version Control with Subversion"],"bookmark-of":["http://svnbook.red-bean.com/"],"category":["subversion","dev","via-pinboard"],"slug":["version-control-with-subversion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free online version from O'Reilly\n"
+    ],
+    "published": [
+      "2005-04-08T08:39:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Version Control with Subversion"
+    ],
+    "bookmark-of": [
+      "http://svnbook.red-bean.com/"
+    ],
+    "category": [
+      "subversion",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "version-control-with-subversion"
+    ]
+  }
+}

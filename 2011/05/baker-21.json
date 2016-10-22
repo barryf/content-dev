@@ -1,1 +1,23 @@
-{"type":["h-entry"],"properties":{"content":["[Get your eyes lasered](/articles/get-your-eyes-lasered)\r\n\r\nMy experiences getting laser eye surgery."],"published":["2011-05-11T00:00:00Z"],"entry-type":["note"],"category":["article","via-baker"],"slug":["baker-21"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "[Get your eyes lasered](/articles/get-your-eyes-lasered)\r\n\r\nMy experiences getting laser eye surgery."
+    ],
+    "published": [
+      "2011-05-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "article",
+      "via-baker"
+    ],
+    "slug": [
+      "baker-21"
+    ]
+  }
+}

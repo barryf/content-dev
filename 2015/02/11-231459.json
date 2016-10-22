@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-02-11T23:14:59Z"],"entry-type":["repost"],"repost-of":["https://mobile.twitter.com/AL0sborne/status/565595741746651137"],"syndication":["https://twitter.com/barryf/status/565650240066576384"],"slug":["11-231459"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-02-11T23:14:59Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://mobile.twitter.com/AL0sborne/status/565595741746651137"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/565650240066576384"
+    ],
+    "slug": [
+      "11-231459"
+    ]
+  }
+}

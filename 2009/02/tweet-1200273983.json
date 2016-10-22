@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Massively excited to have the keys to our new house. So much space and it's all shiny, lovely and new."],"published":["2009-02-11T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1200273983"],"slug":["tweet-1200273983"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Massively excited to have the keys to our new house. So much space and it's all shiny, lovely and new."
+    ],
+    "published": [
+      "2009-02-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1200273983"
+    ],
+    "slug": [
+      "tweet-1200273983"
+    ]
+  }
+}

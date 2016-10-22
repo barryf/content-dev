@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["I'd rather never have to use this, but just in case, it's a news ticker scroller thing\n"],"published":["2009-01-24T16:23:46Z"],"entry-type":["bookmark"],"name":["jQuery liScroll - a jQuery News Ticker"],"bookmark-of":["http://www.gcmingati.net/wordpress/wp-content/lab/jquery/newsticker/jq-liscroll/scrollanimate.html"],"category":["scroller","news","newsticker","jquery","ticker","web","plugin","animation","via-pinboard"],"slug":["jquery-liscroll-a-jquery-news-ticker"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'd rather never have to use this, but just in case, it's a news ticker scroller thing\n"
+    ],
+    "published": [
+      "2009-01-24T16:23:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jQuery liScroll - a jQuery News Ticker"
+    ],
+    "bookmark-of": [
+      "http://www.gcmingati.net/wordpress/wp-content/lab/jquery/newsticker/jq-liscroll/scrollanimate.html"
+    ],
+    "category": [
+      "scroller",
+      "news",
+      "newsticker",
+      "jquery",
+      "ticker",
+      "web",
+      "plugin",
+      "animation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jquery-liscroll-a-jquery-news-ticker"
+    ]
+  }
+}

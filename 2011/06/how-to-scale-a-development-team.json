@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Adam Wiggins from Heroku describes his stages of dev team growth from homebrew through to specialised teams\n"],"published":["2011-06-26T15:37:08Z"],"entry-type":["bookmark"],"name":["How To Scale a Development Team"],"bookmark-of":["http://adam.heroku.com/past/2011/4/28/scaling_a_development_team/"],"category":["team","dev","business","growth","heroku","management","via-pinboard"],"slug":["how-to-scale-a-development-team"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Adam Wiggins from Heroku describes his stages of dev team growth from homebrew through to specialised teams\n"
+    ],
+    "published": [
+      "2011-06-26T15:37:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How To Scale a Development Team"
+    ],
+    "bookmark-of": [
+      "http://adam.heroku.com/past/2011/4/28/scaling_a_development_team/"
+    ],
+    "category": [
+      "team",
+      "dev",
+      "business",
+      "growth",
+      "heroku",
+      "management",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-scale-a-development-team"
+    ]
+  }
+}

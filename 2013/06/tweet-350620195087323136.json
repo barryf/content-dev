@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@carmat71 Good to have another Gooner on board. Welcome."],"published":["2013-06-28T14:22:23Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/61010452/status/350615353124061185"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/350620195087323136"],"slug":["tweet-350620195087323136"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@carmat71 Good to have another Gooner on board. Welcome."
+    ],
+    "published": [
+      "2013-06-28T14:22:23Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/61010452/status/350615353124061185"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/350620195087323136"
+    ],
+    "slug": [
+      "tweet-350620195087323136"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Brief guide to what's written on a payslip and the bandings for tax/NI\n"],"published":["2009-11-30T13:49:37Z"],"entry-type":["bookmark"],"name":["Understanding your payslip"],"bookmark-of":["http://www.guardian.co.uk/money/2009/nov/30/payslip-checking-tax-national-insurance"],"category":["tax","payslip","work","job","uk","business","ni","via-pinboard"],"slug":["understanding-your-payslip"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Brief guide to what's written on a payslip and the bandings for tax/NI\n"
+    ],
+    "published": [
+      "2009-11-30T13:49:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Understanding your payslip"
+    ],
+    "bookmark-of": [
+      "http://www.guardian.co.uk/money/2009/nov/30/payslip-checking-tax-national-insurance"
+    ],
+    "category": [
+      "tax",
+      "payslip",
+      "work",
+      "job",
+      "uk",
+      "business",
+      "ni",
+      "via-pinboard"
+    ],
+    "slug": [
+      "understanding-your-payslip"
+    ]
+  }
+}

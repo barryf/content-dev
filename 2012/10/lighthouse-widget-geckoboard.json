@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Display Lighthouse stats in Geckoboard"],"published":["2012-10-29T19:21:48Z"],"entry-type":["bookmark"],"name":["Lighthouse Widget « Geckoboard"],"bookmark-of":["http://www.geckoboard.com/lighthouse-widget/"],"category":["lighthouse","geckoboard","via-pinboard"],"slug":["lighthouse-widget-geckoboard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Display Lighthouse stats in Geckoboard"
+    ],
+    "published": [
+      "2012-10-29T19:21:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Lighthouse Widget « Geckoboard"
+    ],
+    "bookmark-of": [
+      "http://www.geckoboard.com/lighthouse-widget/"
+    ],
+    "category": [
+      "lighthouse",
+      "geckoboard",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lighthouse-widget-geckoboard"
+    ]
+  }
+}

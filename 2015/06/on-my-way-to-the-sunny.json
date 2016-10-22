@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["On my way to the sunny-rainy Isle of Wight for the Festival. Covering all bases with wellies, suntan lotion, waterproof and flip-flops. "],"published":["2015-06-12T09:10:45Z"],"entry-type":["note"],"summary":["On my way to the sunny-rainy Isle of Wight for the Festival. Covering all bases with wellies, suntan lotion, waterproof and flip-flops."],"category":["festival","music","uk"],"syndication":["https://twitter.com/barryf/status/609286715816087552"],"slug":["on-my-way-to-the-sunny"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "On my way to the sunny-rainy Isle of Wight for the Festival. Covering all bases with wellies, suntan lotion, waterproof and flip-flops. "
+    ],
+    "published": [
+      "2015-06-12T09:10:45Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "On my way to the sunny-rainy Isle of Wight for the Festival. Covering all bases with wellies, suntan lotion, waterproof and flip-flops."
+    ],
+    "category": [
+      "festival",
+      "music",
+      "uk"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/609286715816087552"
+    ],
+    "slug": [
+      "on-my-way-to-the-sunny"
+    ]
+  }
+}

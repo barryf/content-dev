@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@alexstrang Was only temporary: back to the Orange T-Mobile hybrid now."],"published":["2012-09-19T20:56:37Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/248526028568424448"],"slug":["tweet-248526028568424448"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@alexstrang Was only temporary: back to the Orange T-Mobile hybrid now."
+    ],
+    "published": [
+      "2012-09-19T20:56:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/248526028568424448"
+    ],
+    "slug": [
+      "tweet-248526028568424448"
+    ]
+  }
+}

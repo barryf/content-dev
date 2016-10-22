@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2016-08-22T10:44:02Z"],"entry-type":["like"],"like-of":["https://twitter.com/Martin_Jordan/status/767670203161411584"],"category":["ux","user"],"syndication":["https://twitter.com/Martin_Jordan/status/767670203161411584"],"slug":["22-114402"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-08-22T10:44:02Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/Martin_Jordan/status/767670203161411584"
+    ],
+    "category": [
+      "ux",
+      "user"
+    ],
+    "syndication": [
+      "https://twitter.com/Martin_Jordan/status/767670203161411584"
+    ],
+    "slug": [
+      "22-114402"
+    ]
+  }
+}

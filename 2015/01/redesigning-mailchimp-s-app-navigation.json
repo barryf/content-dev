@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-11T17:23:03Z"],"entry-type":["bookmark"],"name":["Redesigning MailChimp’s App Navigation"],"bookmark-of":["http://blog.mailchimp.com/redesigning-mailchimps-app-navigation/"],"category":["nav","navigation","ux","ia","design"],"slug":["redesigning-mailchimp-s-app-navigation"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-11T17:23:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Redesigning MailChimp’s App Navigation"
+    ],
+    "bookmark-of": [
+      "http://blog.mailchimp.com/redesigning-mailchimps-app-navigation/"
+    ],
+    "category": [
+      "nav",
+      "navigation",
+      "ux",
+      "ia",
+      "design"
+    ],
+    "slug": [
+      "redesigning-mailchimp-s-app-navigation"
+    ]
+  }
+}

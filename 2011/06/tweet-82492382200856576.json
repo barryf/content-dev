@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@rosswilliams Give it a refresh. You'll notice I come clean about the bike."],"published":["2011-06-19T16:58:11Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11832/status/82490502691291136"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/82492382200856576"],"slug":["tweet-82492382200856576"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@rosswilliams Give it a refresh. You'll notice I come clean about the bike."
+    ],
+    "published": [
+      "2011-06-19T16:58:11Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11832/status/82490502691291136"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/82492382200856576"
+    ],
+    "slug": [
+      "tweet-82492382200856576"
+    ]
+  }
+}

@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-31T09:23:39Z"],"entry-type":["bookmark"],"name":["Fighting Movable Type Comments Spam"],"bookmark-of":["http://www.elise.com/mt/archives/000246concerning_spam.php"],"category":["blog","spam","via-pinboard"],"slug":["fighting-movable-type-comments-spam"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-31T09:23:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fighting Movable Type Comments Spam"
+    ],
+    "bookmark-of": [
+      "http://www.elise.com/mt/archives/000246concerning_spam.php"
+    ],
+    "category": [
+      "blog",
+      "spam",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fighting-movable-type-comments-spam"
+    ]
+  }
+}

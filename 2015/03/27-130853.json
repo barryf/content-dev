@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-27T13:08:53Z"],"entry-type":["like"],"like-of":["https://twitter.com/BenHobson/status/581437842305490944"],"syndication":["https://twitter.com/BenHobson/status/581437842305490944"],"slug":["27-130853"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-27T13:08:53Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/BenHobson/status/581437842305490944"
+    ],
+    "syndication": [
+      "https://twitter.com/BenHobson/status/581437842305490944"
+    ],
+    "slug": [
+      "27-130853"
+    ]
+  }
+}

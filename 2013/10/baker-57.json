@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Trailer for [The Grand Budapest Hotel](http://youtu.be/1Fg5iWmQjwk), Wes Anderson's new film. Looks fantastic!\r\n\r\nhttp://youtu.be/1Fg5iWmQjwk"],"published":["2013-10-17T17:49:36Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/390897400245944320"],"slug":["baker-57"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Trailer for [The Grand Budapest Hotel](http://youtu.be/1Fg5iWmQjwk), Wes Anderson's new film. Looks fantastic!\r\n\r\nhttp://youtu.be/1Fg5iWmQjwk"
+    ],
+    "published": [
+      "2013-10-17T17:49:36Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/390897400245944320"
+    ],
+    "slug": [
+      "baker-57"
+    ]
+  }
+}

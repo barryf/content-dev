@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Light-weight persistent queue server that speaks the MemCache protocol. It was built to drive Twitter's backend, and is in production across Twitter's cluster.\n"],"published":["2008-01-13T19:21:55Z"],"entry-type":["bookmark"],"name":["Starling"],"bookmark-of":["http://rubyforge.org/projects/starling/"],"category":["memcache","gem","ruby","twitter","web","queue","scaling","message","via-pinboard"],"slug":["starling"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Light-weight persistent queue server that speaks the MemCache protocol. It was built to drive Twitter's backend, and is in production across Twitter's cluster.\n"
+    ],
+    "published": [
+      "2008-01-13T19:21:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Starling"
+    ],
+    "bookmark-of": [
+      "http://rubyforge.org/projects/starling/"
+    ],
+    "category": [
+      "memcache",
+      "gem",
+      "ruby",
+      "twitter",
+      "web",
+      "queue",
+      "scaling",
+      "message",
+      "via-pinboard"
+    ],
+    "slug": [
+      "starling"
+    ]
+  }
+}

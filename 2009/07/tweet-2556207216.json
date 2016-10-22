@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Tesco charge me £4.50 to deliver yet miss a 2-hour window and won't refund the charge because the time is an \"estimate\". Unhappy customer."],"published":["2009-07-09T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2556207216"],"slug":["tweet-2556207216"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tesco charge me £4.50 to deliver yet miss a 2-hour window and won't refund the charge because the time is an \"estimate\". Unhappy customer."
+    ],
+    "published": [
+      "2009-07-09T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2556207216"
+    ],
+    "slug": [
+      "tweet-2556207216"
+    ]
+  }
+}

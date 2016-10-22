@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-01-21T10:55:33Z"],"entry-type":["bookmark"],"name":["Managing Rails Versions with Capistrano"],"bookmark-of":["http://www.clarkware.com/cgi/blosxom/2007/01/19#ManagingVersionsWithCap"],"category":["capistrano","deployment","dev","rails","subversion","via-pinboard"],"slug":["managing-rails-versions-with-capistrano"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-01-21T10:55:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Managing Rails Versions with Capistrano"
+    ],
+    "bookmark-of": [
+      "http://www.clarkware.com/cgi/blosxom/2007/01/19#ManagingVersionsWithCap"
+    ],
+    "category": [
+      "capistrano",
+      "deployment",
+      "dev",
+      "rails",
+      "subversion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "managing-rails-versions-with-capistrano"
+    ]
+  }
+}

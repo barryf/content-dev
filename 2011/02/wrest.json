@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Easy-to-use Ruby HTTP/REST client library with caching support\n"],"published":["2011-02-11T09:21:25Z"],"entry-type":["bookmark"],"name":["Wrest"],"bookmark-of":["https://github.com/kaiwren/wrest"],"category":["ruby","rest","http","cache","wrest","via-pinboard"],"slug":["wrest"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Easy-to-use Ruby HTTP/REST client library with caching support\n"
+    ],
+    "published": [
+      "2011-02-11T09:21:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Wrest"
+    ],
+    "bookmark-of": [
+      "https://github.com/kaiwren/wrest"
+    ],
+    "category": [
+      "ruby",
+      "rest",
+      "http",
+      "cache",
+      "wrest",
+      "via-pinboard"
+    ],
+    "slug": [
+      "wrest"
+    ]
+  }
+}

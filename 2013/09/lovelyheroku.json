@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Heroku iPhone app"],"published":["2013-09-26T11:36:51Z"],"entry-type":["bookmark"],"name":["LovelyHeroku"],"bookmark-of":["http://lovelyheroku.com/"],"category":["ios","iphone","mobile","heroku","app","via-pinboard"],"slug":["lovelyheroku"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Heroku iPhone app"
+    ],
+    "published": [
+      "2013-09-26T11:36:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "LovelyHeroku"
+    ],
+    "bookmark-of": [
+      "http://lovelyheroku.com/"
+    ],
+    "category": [
+      "ios",
+      "iphone",
+      "mobile",
+      "heroku",
+      "app",
+      "via-pinboard"
+    ],
+    "slug": [
+      "lovelyheroku"
+    ]
+  }
+}

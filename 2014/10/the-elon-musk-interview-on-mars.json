@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2014-10-04T15:26:18Z"],"entry-type":["bookmark"],"name":["The Elon Musk interview on Mars colonisation – Ross Andersen – Aeon"],"bookmark-of":["http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/"],"category":["space","via-pinboard"],"slug":["the-elon-musk-interview-on-mars"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-10-04T15:26:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Elon Musk interview on Mars colonisation – Ross Andersen – Aeon"
+    ],
+    "bookmark-of": [
+      "http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/"
+    ],
+    "category": [
+      "space",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-elon-musk-interview-on-mars"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/MessiMinutes/status/631446499633840128"],"published":["2015-08-12T12:45:51Z"],"content":["In 2004, Jeremy Corbyn backed a motion in parliament to recognise @Arsenal as \"the best team in the world\"."],"photo":["http://pbs.twimg.com/media/CMNYpPwWsAAX9y7.jpg"],"author":["https://twitter.com/MessiMinutes"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/MessiMinutes/status/631446499633840128"
+    ],
+    "published": [
+      "2015-08-12T12:45:51Z"
+    ],
+    "content": [
+      "In 2004, Jeremy Corbyn backed a motion in parliament to recognise @Arsenal as \"the best team in the world\"."
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CMNYpPwWsAAX9y7.jpg"
+    ],
+    "author": [
+      "https://twitter.com/MessiMinutes"
+    ]
+  }
+}

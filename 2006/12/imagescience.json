@@ -1,1 +1,41 @@
-{"type":["h-entry"],"properties":{"content":["Alternative to RMagic\n"],"published":["2006-12-18T17:46:08Z"],"entry-type":["bookmark"],"name":["ImageScience"],"bookmark-of":["http://seattlerb.rubyforge.org/ImageScience.html"],"category":["ruby","library","image","rmagick","thumbnail","rails","imagemagick","graphics","gem","generator","web","dev","design","via-pinboard"],"slug":["imagescience"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Alternative to RMagic\n"
+    ],
+    "published": [
+      "2006-12-18T17:46:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ImageScience"
+    ],
+    "bookmark-of": [
+      "http://seattlerb.rubyforge.org/ImageScience.html"
+    ],
+    "category": [
+      "ruby",
+      "library",
+      "image",
+      "rmagick",
+      "thumbnail",
+      "rails",
+      "imagemagick",
+      "graphics",
+      "gem",
+      "generator",
+      "web",
+      "dev",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "imagescience"
+    ]
+  }
+}

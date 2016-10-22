@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Up-to-date (currently) opinionated list of the author's Mac Rails setup with Git, MySQL, Vim, gems and Fluid apps\n"],"published":["2009-04-04T14:56:03Z"],"entry-type":["bookmark"],"name":["2009 Rubyist's guide to a Mac OS X development environment"],"bookmark-of":["http://giantrobots.thoughtbot.com/2009/3/30/2009-rubyist-guide-mac-os-x-development-environment"],"category":["rails","mac","setup","tutorial","git","ruby","mysql","vim","fluid","via-pinboard"],"slug":["2009-rubyist-s-guide-to-a"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Up-to-date (currently) opinionated list of the author's Mac Rails setup with Git, MySQL, Vim, gems and Fluid apps\n"
+    ],
+    "published": [
+      "2009-04-04T14:56:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "2009 Rubyist's guide to a Mac OS X development environment"
+    ],
+    "bookmark-of": [
+      "http://giantrobots.thoughtbot.com/2009/3/30/2009-rubyist-guide-mac-os-x-development-environment"
+    ],
+    "category": [
+      "rails",
+      "mac",
+      "setup",
+      "tutorial",
+      "git",
+      "ruby",
+      "mysql",
+      "vim",
+      "fluid",
+      "via-pinboard"
+    ],
+    "slug": [
+      "2009-rubyist-s-guide-to-a"
+    ]
+  }
+}

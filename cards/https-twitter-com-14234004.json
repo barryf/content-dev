@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Andrew Scrivener"],"photo":["http://pbs.twimg.com/profile_images/378800000050542187/f56beff3e5bab915e841758c9f5243e3_normal.png"],"url":["https://twitter.com/andrewscrivener"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Andrew Scrivener"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000050542187/f56beff3e5bab915e841758c9f5243e3_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/andrewscrivener"
+    ]
+  }
+}

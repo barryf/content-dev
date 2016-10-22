@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd Not sure if that says more about your filthy mind, or about me!"],"published":["2012-01-27T17:28:22Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/162949268188037121"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/162950086349946881"],"slug":["tweet-162950086349946881"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd Not sure if that says more about your filthy mind, or about me!"
+    ],
+    "published": [
+      "2012-01-27T17:28:22Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/162949268188037121"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/162950086349946881"
+    ],
+    "slug": [
+      "tweet-162950086349946881"
+    ]
+  }
+}

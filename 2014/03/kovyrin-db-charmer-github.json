@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-03-31T11:11:06Z"],"entry-type":["bookmark"],"name":["kovyrin/db-charmer · GitHub"],"bookmark-of":["https://github.com/kovyrin/db-charmer"],"category":["fromifttt","github","via-pinboard"],"slug":["kovyrin-db-charmer-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-03-31T11:11:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "kovyrin/db-charmer · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/kovyrin/db-charmer"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kovyrin-db-charmer-github"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Includes bang up-to-date stuff like oAuth\n"],"published":["2008-03-02T23:38:47Z"],"entry-type":["bookmark"],"name":["Pownce API"],"bookmark-of":["http://pownce.pbwiki.com/API%20Documentation2-0"],"category":["pownce","api","web","oauth","webservices","dev","via-pinboard"],"slug":["pownce-api"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Includes bang up-to-date stuff like oAuth\n"
+    ],
+    "published": [
+      "2008-03-02T23:38:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Pownce API"
+    ],
+    "bookmark-of": [
+      "http://pownce.pbwiki.com/API%20Documentation2-0"
+    ],
+    "category": [
+      "pownce",
+      "api",
+      "web",
+      "oauth",
+      "webservices",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pownce-api"
+    ]
+  }
+}

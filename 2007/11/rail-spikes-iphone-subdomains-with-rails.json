@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Neater ways to handle iPhone visitors to your Rails app\n"],"published":["2007-11-11T11:41:09Z"],"entry-type":["bookmark"],"name":["Rail Spikes: iPhone subdomains with Rails"],"bookmark-of":["http://railspikes.com/2007/11/8/iphone-subdomains-with-rails"],"category":["iphone","mobile","rails","web","dev","design","via-pinboard"],"slug":["rail-spikes-iphone-subdomains-with-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Neater ways to handle iPhone visitors to your Rails app\n"
+    ],
+    "published": [
+      "2007-11-11T11:41:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rail Spikes: iPhone subdomains with Rails"
+    ],
+    "bookmark-of": [
+      "http://railspikes.com/2007/11/8/iphone-subdomains-with-rails"
+    ],
+    "category": [
+      "iphone",
+      "mobile",
+      "rails",
+      "web",
+      "dev",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rail-spikes-iphone-subdomains-with-rails"
+    ]
+  }
+}

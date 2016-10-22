@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Moist in anticipation of my new work iMac which UPS say is \"out for delivery\""],"published":["2008-01-16T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/605213582"],"slug":["tweet-605213582"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Moist in anticipation of my new work iMac which UPS say is \"out for delivery\""
+    ],
+    "published": [
+      "2008-01-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/605213582"
+    ],
+    "slug": [
+      "tweet-605213582"
+    ]
+  }
+}

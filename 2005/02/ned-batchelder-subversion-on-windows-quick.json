@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-06T12:07:26Z"],"entry-type":["bookmark"],"name":["Ned Batchelder: Subversion on Windows quick start"],"bookmark-of":["http://www.nedbatchelder.com/text/quicksvn.html"],"category":["subversion","via-pinboard"],"slug":["ned-batchelder-subversion-on-windows-quick"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-06T12:07:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ned Batchelder: Subversion on Windows quick start"
+    ],
+    "bookmark-of": [
+      "http://www.nedbatchelder.com/text/quicksvn.html"
+    ],
+    "category": [
+      "subversion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ned-batchelder-subversion-on-windows-quick"
+    ]
+  }
+}

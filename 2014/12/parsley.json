@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["The ultimate JavaScript form validation library"],"published":["2014-12-07T19:21:23Z"],"entry-type":["bookmark"],"name":["Parsley"],"bookmark-of":["http://parsleyjs.org/"],"category":["validation","javascript","form","library","via-pinboard"],"slug":["parsley"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The ultimate JavaScript form validation library"
+    ],
+    "published": [
+      "2014-12-07T19:21:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Parsley"
+    ],
+    "bookmark-of": [
+      "http://parsleyjs.org/"
+    ],
+    "category": [
+      "validation",
+      "javascript",
+      "form",
+      "library",
+      "via-pinboard"
+    ],
+    "slug": [
+      "parsley"
+    ]
+  }
+}

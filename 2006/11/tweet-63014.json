@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Irritated with the lack of signal in my own flat in the countryside. Never had these problems in London."],"published":["2006-11-11T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/63014"],"slug":["tweet-63014"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Irritated with the lack of signal in my own flat in the countryside. Never had these problems in London."
+    ],
+    "published": [
+      "2006-11-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/63014"
+    ],
+    "slug": [
+      "tweet-63014"
+    ]
+  }
+}

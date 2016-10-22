@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["saniyan"],"photo":["https://twitter.com/saniyan/profile_image?size=original"],"url":["https://twitter.com/saniyan"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "saniyan"
+    ],
+    "photo": [
+      "https://twitter.com/saniyan/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/saniyan"
+    ]
+  }
+}

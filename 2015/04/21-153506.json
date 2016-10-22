@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-04-21T14:35:06Z"],"entry-type":["like"],"like-of":["https://twitter.com/rey_z/status/590511757015265280"],"syndication":["https://twitter.com/rey_z/status/590511757015265280"],"slug":["21-153506"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-04-21T14:35:06Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/rey_z/status/590511757015265280"
+    ],
+    "syndication": [
+      "https://twitter.com/rey_z/status/590511757015265280"
+    ],
+    "slug": [
+      "21-153506"
+    ]
+  }
+}

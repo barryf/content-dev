@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids Well I'm 30 now; the kids are 18-20. An entirely different generation. You could be their father!"],"published":["2009-08-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3182353927"],"slug":["tweet-3182353927"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids Well I'm 30 now; the kids are 18-20. An entirely different generation. You could be their father!"
+    ],
+    "published": [
+      "2009-08-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3182353927"
+    ],
+    "slug": [
+      "tweet-3182353927"
+    ]
+  }
+}

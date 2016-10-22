@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2012-05-09T20:39:45Z"],"entry-type":["bookmark"],"name":["CSS Arrows"],"bookmark-of":["http://cssarrowplease.com/"],"category":["callout","box","design","arrows","css","via-pinboard"],"slug":["css-arrows"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-05-09T20:39:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CSS Arrows"
+    ],
+    "bookmark-of": [
+      "http://cssarrowplease.com/"
+    ],
+    "category": [
+      "callout",
+      "box",
+      "design",
+      "arrows",
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "css-arrows"
+    ]
+  }
+}

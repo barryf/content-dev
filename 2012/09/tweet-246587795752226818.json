@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Succumbed: iPhone 5 upgrade ordered through @orangeuk who claim delivery on Monday. Not sure I believe that!"],"published":["2012-09-14T12:34:46Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/246587795752226818"],"slug":["tweet-246587795752226818"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Succumbed: iPhone 5 upgrade ordered through @orangeuk who claim delivery on Monday. Not sure I believe that!"
+    ],
+    "published": [
+      "2012-09-14T12:34:46Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/246587795752226818"
+    ],
+    "slug": [
+      "tweet-246587795752226818"
+    ]
+  }
+}

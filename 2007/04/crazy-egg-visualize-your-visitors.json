@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Heat maps, overlays and more\n"],"published":["2007-04-16T21:13:48Z"],"entry-type":["bookmark"],"name":["Crazy Egg – visualize your visitors"],"bookmark-of":["http://crazyegg.com/"],"category":["blog","statistics","web","design","analytics","via-pinboard"],"slug":["crazy-egg-visualize-your-visitors"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Heat maps, overlays and more\n"
+    ],
+    "published": [
+      "2007-04-16T21:13:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Crazy Egg – visualize your visitors"
+    ],
+    "bookmark-of": [
+      "http://crazyegg.com/"
+    ],
+    "category": [
+      "blog",
+      "statistics",
+      "web",
+      "design",
+      "analytics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "crazy-egg-visualize-your-visitors"
+    ]
+  }
+}

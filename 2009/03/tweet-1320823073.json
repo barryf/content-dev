@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Why are so many people here scrambling for Jackson tickets? Guys, he's a deranged freak who's been terrible since before you were born."],"published":["2009-03-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1320823073"],"slug":["tweet-1320823073"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Why are so many people here scrambling for Jackson tickets? Guys, he's a deranged freak who's been terrible since before you were born."
+    ],
+    "published": [
+      "2009-03-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1320823073"
+    ],
+    "slug": [
+      "tweet-1320823073"
+    ]
+  }
+}

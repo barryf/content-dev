@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Using memcache with Rails\n"],"published":["2008-01-19T17:45:32Z"],"entry-type":["bookmark"],"name":["Memcaching Rails — err.the_blog"],"bookmark-of":["http://errtheblog.com/posts/25-memcaching-rails"],"category":["cache","memcached","plugin","rails","ruby","performance","dev","via-pinboard"],"slug":["memcaching-rails-err-the-blog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Using memcache with Rails\n"
+    ],
+    "published": [
+      "2008-01-19T17:45:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Memcaching Rails — err.the_blog"
+    ],
+    "bookmark-of": [
+      "http://errtheblog.com/posts/25-memcaching-rails"
+    ],
+    "category": [
+      "cache",
+      "memcached",
+      "plugin",
+      "rails",
+      "ruby",
+      "performance",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "memcaching-rails-err-the-blog"
+    ]
+  }
+}

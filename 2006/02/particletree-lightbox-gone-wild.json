@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Modal dialogs using the Lightbox technique of faded backgrounds\n"],"published":["2006-02-09T15:10:03Z"],"entry-type":["bookmark"],"name":["Particletree · Lightbox Gone Wild!"],"bookmark-of":["http://particletree.com/features/lightbox-gone-wild/"],"category":["ajax","javascript","web20","modal","lightbox","interface","css","design","dev","via-pinboard"],"slug":["particletree-lightbox-gone-wild"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Modal dialogs using the Lightbox technique of faded backgrounds\n"
+    ],
+    "published": [
+      "2006-02-09T15:10:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Particletree · Lightbox Gone Wild!"
+    ],
+    "bookmark-of": [
+      "http://particletree.com/features/lightbox-gone-wild/"
+    ],
+    "category": [
+      "ajax",
+      "javascript",
+      "web20",
+      "modal",
+      "lightbox",
+      "interface",
+      "css",
+      "design",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "particletree-lightbox-gone-wild"
+    ]
+  }
+}

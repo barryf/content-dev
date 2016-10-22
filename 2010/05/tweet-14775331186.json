@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids \"Yeah, sending this one out to my man Killa B\" or something like that. Load of nonsense!"],"published":["2010-05-26T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/14697641051"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/14775331186"],"slug":["tweet-14775331186"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids \"Yeah, sending this one out to my man Killa B\" or something like that. Load of nonsense!"
+    ],
+    "published": [
+      "2010-05-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/14697641051"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/14775331186"
+    ],
+    "slug": [
+      "tweet-14775331186"
+    ]
+  }
+}

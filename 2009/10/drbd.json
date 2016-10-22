@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Open source high availability clustering software for server redundancy\n"],"published":["2009-10-31T18:07:56Z"],"entry-type":["bookmark"],"name":["DRBD"],"bookmark-of":["http://www.drbd.org/"],"category":["raid","ha","drbd","sysadmin","cluster","redundancy","opensource","via-pinboard"],"slug":["drbd"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Open source high availability clustering software for server redundancy\n"
+    ],
+    "published": [
+      "2009-10-31T18:07:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DRBD"
+    ],
+    "bookmark-of": [
+      "http://www.drbd.org/"
+    ],
+    "category": [
+      "raid",
+      "ha",
+      "drbd",
+      "sysadmin",
+      "cluster",
+      "redundancy",
+      "opensource",
+      "via-pinboard"
+    ],
+    "slug": [
+      "drbd"
+    ]
+  }
+}

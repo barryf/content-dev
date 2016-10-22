@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Register a handler for network outages/server problems\n"],"published":["2006-03-25T11:57:43Z"],"entry-type":["bookmark"],"name":["codejanitor » AJAX Timeouts with Prototype"],"bookmark-of":["http://codejanitor.com/wp/ajax-timeouts-with-prototype/"],"category":["ajax","prototype","network","server","web","dev","web20","javascript","via-pinboard"],"slug":["codejanitor-ajax-timeouts-with-prototype"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Register a handler for network outages/server problems\n"
+    ],
+    "published": [
+      "2006-03-25T11:57:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "codejanitor » AJAX Timeouts with Prototype"
+    ],
+    "bookmark-of": [
+      "http://codejanitor.com/wp/ajax-timeouts-with-prototype/"
+    ],
+    "category": [
+      "ajax",
+      "prototype",
+      "network",
+      "server",
+      "web",
+      "dev",
+      "web20",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "codejanitor-ajax-timeouts-with-prototype"
+    ]
+  }
+}

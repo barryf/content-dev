@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["@hobbsy Next one is 27th July. Fancy coming along?\r\n\r\nhttp://indiewebcamp.com/events/2016-07-27-homebrew-website-club\r\n"],"published":["2016-06-23T10:41:50Z"],"entry-type":["reply"],"summary":["@hobbsy Next one is 27th July. Fancy coming along? \r\n\r\nhttp://indiewebcamp.com/events/2016-07-27-homebrew-website-club"],"in-reply-to":["https://twitter.com/hobbsy/status/745778668904013825"],"category":["hwc"],"syndication":["https://twitter.com/barryf/status/745929860560916481"],"slug":["hobbsy-next-one-is-27th-july"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hobbsy Next one is 27th July. Fancy coming along?\r\n\r\nhttp://indiewebcamp.com/events/2016-07-27-homebrew-website-club\r\n"
+    ],
+    "published": [
+      "2016-06-23T10:41:50Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@hobbsy Next one is 27th July. Fancy coming along? \r\n\r\nhttp://indiewebcamp.com/events/2016-07-27-homebrew-website-club"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/hobbsy/status/745778668904013825"
+    ],
+    "category": [
+      "hwc"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/745929860560916481"
+    ],
+    "slug": [
+      "hobbsy-next-one-is-27th-july"
+    ]
+  }
+}

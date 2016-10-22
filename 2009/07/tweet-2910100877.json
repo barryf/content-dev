@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Filling out cells in a big, important, shared Google spreadsheet. Crossing fingers that it doesn't break."],"published":["2009-07-29T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2910100877"],"slug":["tweet-2910100877"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Filling out cells in a big, important, shared Google spreadsheet. Crossing fingers that it doesn't break."
+    ],
+    "published": [
+      "2009-07-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2910100877"
+    ],
+    "slug": [
+      "tweet-2910100877"
+    ]
+  }
+}

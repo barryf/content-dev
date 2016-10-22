@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2016-01-26T19:02:05Z"],"entry-type":["bookmark"],"name":["Two Factor Authentication in Rails 4 with Devise and Authy"],"bookmark-of":["https://www.twilio.com/blog/2016/01/two-factor-authentication-in-rails-4-with-devise-authy-and-puppies.html"],"category":["2fa","devise","rails","twilio"],"slug":["two-factor-authentication-in-rails-4"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-01-26T19:02:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Two Factor Authentication in Rails 4 with Devise and Authy"
+    ],
+    "bookmark-of": [
+      "https://www.twilio.com/blog/2016/01/two-factor-authentication-in-rails-4-with-devise-authy-and-puppies.html"
+    ],
+    "category": [
+      "2fa",
+      "devise",
+      "rails",
+      "twilio"
+    ],
+    "slug": [
+      "two-factor-authentication-in-rails-4"
+    ]
+  }
+}

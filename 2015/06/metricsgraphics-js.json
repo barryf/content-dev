@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["> MetricsGraphics.js is a library built on top of D3 that is optimized for visualizing and laying out time-series data."],"published":["2015-06-16T06:40:41Z"],"entry-type":["bookmark"],"name":["MetricsGraphics.js"],"bookmark-of":["http://metricsgraphicsjs.org/"],"category":["javascript","d3","graph","data","chart"],"slug":["metricsgraphics-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> MetricsGraphics.js is a library built on top of D3 that is optimized for visualizing and laying out time-series data."
+    ],
+    "published": [
+      "2015-06-16T06:40:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MetricsGraphics.js"
+    ],
+    "bookmark-of": [
+      "http://metricsgraphicsjs.org/"
+    ],
+    "category": [
+      "javascript",
+      "d3",
+      "graph",
+      "data",
+      "chart"
+    ],
+    "slug": [
+      "metricsgraphics-js"
+    ]
+  }
+}

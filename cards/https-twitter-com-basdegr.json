@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Bas de Groot"],"photo":["https://twitter.com/basdegr/profile_image?size=original"],"url":["https://twitter.com/basdegr"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Bas de Groot"
+    ],
+    "photo": [
+      "https://twitter.com/basdegr/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/basdegr"
+    ]
+  }
+}

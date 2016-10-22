@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Repeating backgrounds\n"],"published":["2010-06-02T11:06:15Z"],"entry-type":["bookmark"],"name":["Repeat-x Repeat-y"],"bookmark-of":["http://www.repeatxrepeaty.com/"],"category":["background","tile","design","pattern","via-pinboard"],"slug":["repeat-x-repeat-y"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Repeating backgrounds\n"
+    ],
+    "published": [
+      "2010-06-02T11:06:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Repeat-x Repeat-y"
+    ],
+    "bookmark-of": [
+      "http://www.repeatxrepeaty.com/"
+    ],
+    "category": [
+      "background",
+      "tile",
+      "design",
+      "pattern",
+      "via-pinboard"
+    ],
+    "slug": [
+      "repeat-x-repeat-y"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Books and resources for iPhone app development\n"],"published":["2009-04-04T14:51:39Z"],"entry-type":["bookmark"],"name":["iPhone Developer's Roadmap"],"bookmark-of":["http://pragmaticstudio.com/iphone-roadmap"],"category":["dev","iphone","cocoa","book","ipod","apple","via-pinboard"],"slug":["iphone-developer-s-roadmap"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Books and resources for iPhone app development\n"
+    ],
+    "published": [
+      "2009-04-04T14:51:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iPhone Developer's Roadmap"
+    ],
+    "bookmark-of": [
+      "http://pragmaticstudio.com/iphone-roadmap"
+    ],
+    "category": [
+      "dev",
+      "iphone",
+      "cocoa",
+      "book",
+      "ipod",
+      "apple",
+      "via-pinboard"
+    ],
+    "slug": [
+      "iphone-developer-s-roadmap"
+    ]
+  }
+}

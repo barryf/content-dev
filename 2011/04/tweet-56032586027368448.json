@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener GitX is pretty good for starters. The GitHub web interface is better than any app for collaboration."],"published":["2011-04-07T16:36:24Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14234004/status/56030220062433280"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/56032586027368448"],"slug":["tweet-56032586027368448"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener GitX is pretty good for starters. The GitHub web interface is better than any app for collaboration."
+    ],
+    "published": [
+      "2011-04-07T16:36:24Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14234004/status/56030220062433280"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/56032586027368448"
+    ],
+    "slug": [
+      "tweet-56032586027368448"
+    ]
+  }
+}

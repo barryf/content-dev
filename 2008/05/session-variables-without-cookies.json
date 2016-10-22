@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Clever. Uses window.name so won't work if you open a new window/tab and is vulnerable to XSS. Useful trick nonetheless.\n"],"published":["2008-05-14T13:20:12Z"],"entry-type":["bookmark"],"name":["Session variables without cookies"],"bookmark-of":["http://www.thomasfrank.se/sessionvars.html"],"category":["javascript","session","dev","state","web","via-pinboard"],"slug":["session-variables-without-cookies"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Clever. Uses window.name so won't work if you open a new window/tab and is vulnerable to XSS. Useful trick nonetheless.\n"
+    ],
+    "published": [
+      "2008-05-14T13:20:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Session variables without cookies"
+    ],
+    "bookmark-of": [
+      "http://www.thomasfrank.se/sessionvars.html"
+    ],
+    "category": [
+      "javascript",
+      "session",
+      "dev",
+      "state",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "session-variables-without-cookies"
+    ]
+  }
+}

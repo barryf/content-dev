@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-08-28T12:50:01Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/IanSanders/status/637235712446873600"],"syndication":["https://twitter.com/barryf/status/637245758039683072"],"slug":["28-135001"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-08-28T12:50:01Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/IanSanders/status/637235712446873600"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/637245758039683072"
+    ],
+    "slug": [
+      "28-135001"
+    ]
+  }
+}

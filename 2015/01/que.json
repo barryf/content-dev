@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["A Ruby job queue that uses PostgreSQL’s advisory locks for speed and reliability."],"published":["2015-01-08T07:39:17Z"],"entry-type":["bookmark"],"name":["Que"],"bookmark-of":["https://github.com/chanks/que"],"category":["ruby","queue","postgres"],"slug":["que"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A Ruby job queue that uses PostgreSQL’s advisory locks for speed and reliability."
+    ],
+    "published": [
+      "2015-01-08T07:39:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Que"
+    ],
+    "bookmark-of": [
+      "https://github.com/chanks/que"
+    ],
+    "category": [
+      "ruby",
+      "queue",
+      "postgres"
+    ],
+    "slug": [
+      "que"
+    ]
+  }
+}

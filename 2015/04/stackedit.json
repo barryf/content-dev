@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["> Online Markdown editor with support for sync to Google Drive or Dropbox, publishing to Blogger, GitHub, Tumblr, SSH server and others, plus loads of Markdown extensions like fenced code blocks, smart punctuation, table of contents, MathJax, sequence diagrams and flow charts."],"published":["2015-04-13T08:45:48Z"],"entry-type":["bookmark"],"name":["StackEdit"],"bookmark-of":["https://stackedit.io/"],"category":["markdown","editor"],"slug":["stackedit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Online Markdown editor with support for sync to Google Drive or Dropbox, publishing to Blogger, GitHub, Tumblr, SSH server and others, plus loads of Markdown extensions like fenced code blocks, smart punctuation, table of contents, MathJax, sequence diagrams and flow charts."
+    ],
+    "published": [
+      "2015-04-13T08:45:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "StackEdit"
+    ],
+    "bookmark-of": [
+      "https://stackedit.io/"
+    ],
+    "category": [
+      "markdown",
+      "editor"
+    ],
+    "slug": [
+      "stackedit"
+    ]
+  }
+}

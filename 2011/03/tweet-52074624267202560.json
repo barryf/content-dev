@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Census submitted online. Missed the last one while living in NZ so this is my very first as an adult #census"],"published":["2011-03-27T18:28:52Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/52074624267202560"],"slug":["tweet-52074624267202560"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Census submitted online. Missed the last one while living in NZ so this is my very first as an adult #census"
+    ],
+    "published": [
+      "2011-03-27T18:28:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/52074624267202560"
+    ],
+    "slug": [
+      "tweet-52074624267202560"
+    ]
+  }
+}

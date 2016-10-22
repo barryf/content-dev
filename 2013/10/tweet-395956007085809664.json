@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@destraynor Many thanks for your superb presentation earlier. Next time I present data I’ll be mindful of your tips."],"published":["2013-10-31T16:50:43Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/395956007085809664"],"slug":["tweet-395956007085809664"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@destraynor Many thanks for your superb presentation earlier. Next time I present data I’ll be mindful of your tips."
+    ],
+    "published": [
+      "2013-10-31T16:50:43Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/395956007085809664"
+    ],
+    "slug": [
+      "tweet-395956007085809664"
+    ]
+  }
+}

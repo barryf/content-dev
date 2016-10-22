@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Paul Pounder"],"photo":["http://pbs.twimg.com/profile_images/434608645054423041/N_8A146v_normal.jpeg"],"url":["https://twitter.com/ppounder"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Paul Pounder"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/434608645054423041/N_8A146v_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/ppounder"
+    ]
+  }
+}

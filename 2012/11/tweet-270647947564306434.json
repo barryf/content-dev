@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Fist of Fun Series 2 (would make an excellent Christmas present for me...) http://bfr.st/URiRNM"],"published":["2012-11-19T22:01:13Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/270647947564306434"],"slug":["tweet-270647947564306434"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Fist of Fun Series 2 (would make an excellent Christmas present for me...) http://bfr.st/URiRNM"
+    ],
+    "published": [
+      "2012-11-19T22:01:13Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/270647947564306434"
+    ],
+    "slug": [
+      "tweet-270647947564306434"
+    ]
+  }
+}

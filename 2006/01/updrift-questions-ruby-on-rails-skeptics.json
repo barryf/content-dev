@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Slaying some sacred cows\n"],"published":["2006-01-15T21:20:23Z"],"entry-type":["bookmark"],"name":["Updrift: Questions Ruby on Rails skeptics ask"],"bookmark-of":["http://www.updrift.com/article/questions-ruby-on-rails-skeptics-ask"],"category":["web","dev","rails","web20","ruby","faq","advocacy","business","via-pinboard"],"slug":["updrift-questions-ruby-on-rails-skeptics"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Slaying some sacred cows\n"
+    ],
+    "published": [
+      "2006-01-15T21:20:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Updrift: Questions Ruby on Rails skeptics ask"
+    ],
+    "bookmark-of": [
+      "http://www.updrift.com/article/questions-ruby-on-rails-skeptics-ask"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "rails",
+      "web20",
+      "ruby",
+      "faq",
+      "advocacy",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "updrift-questions-ruby-on-rails-skeptics"
+    ]
+  }
+}

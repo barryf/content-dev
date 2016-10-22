@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Early to #lrug. No point hanging around: it’s freezing out there."],"published":["2013-02-11T18:09:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/301030236190027776"],"slug":["tweet-301030236190027776"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Early to #lrug. No point hanging around: it’s freezing out there."
+    ],
+    "published": [
+      "2013-02-11T18:09:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/301030236190027776"
+    ],
+    "slug": [
+      "tweet-301030236190027776"
+    ]
+  }
+}

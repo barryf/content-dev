@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@nstanley If that's your usual present, I'm inviting you to my christening next week :)"],"published":["2012-01-20T16:13:36Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11470692/status/160365036181786624"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/160394556754501632"],"slug":["tweet-160394556754501632"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nstanley If that's your usual present, I'm inviting you to my christening next week :)"
+    ],
+    "published": [
+      "2012-01-20T16:13:36Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11470692/status/160365036181786624"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/160394556754501632"
+    ],
+    "slug": [
+      "tweet-160394556754501632"
+    ]
+  }
+}

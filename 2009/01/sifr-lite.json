@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Lightweight alternative to sIFR (untested)\n"],"published":["2009-01-24T16:11:26Z"],"entry-type":["bookmark"],"name":["sIFR lite"],"bookmark-of":["http://www.allcrunchy.com/Web_Stuff/sIFR_lite/"],"category":["web","font","typography","design","replacement","flash","via-pinboard"],"slug":["sifr-lite"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lightweight alternative to sIFR (untested)\n"
+    ],
+    "published": [
+      "2009-01-24T16:11:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "sIFR lite"
+    ],
+    "bookmark-of": [
+      "http://www.allcrunchy.com/Web_Stuff/sIFR_lite/"
+    ],
+    "category": [
+      "web",
+      "font",
+      "typography",
+      "design",
+      "replacement",
+      "flash",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sifr-lite"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Note to self: when using CF, MySQL and the Connector/J driver, adding \"logger=com.mysql.jdbc.log.StandardLogger\" to the connection string stops this from happening\n"],"published":["2006-02-14T10:14:44Z"],"entry-type":["bookmark"],"name":["Unable to instantiate logger class 'com.mysql.jdbc.log.Log4JLogger'"],"bookmark-of":["http://bugs.mysql.com/bug.php?id=9976"],"category":["mysql","coldfusion","database","driver","java","jdbc","log4j","jrun","via-pinboard"],"slug":["unable-to-instantiate-logger-class-com"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Note to self: when using CF, MySQL and the Connector/J driver, adding \"logger=com.mysql.jdbc.log.StandardLogger\" to the connection string stops this from happening\n"
+    ],
+    "published": [
+      "2006-02-14T10:14:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Unable to instantiate logger class 'com.mysql.jdbc.log.Log4JLogger'"
+    ],
+    "bookmark-of": [
+      "http://bugs.mysql.com/bug.php?id=9976"
+    ],
+    "category": [
+      "mysql",
+      "coldfusion",
+      "database",
+      "driver",
+      "java",
+      "jdbc",
+      "log4j",
+      "jrun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "unable-to-instantiate-logger-class-com"
+    ]
+  }
+}

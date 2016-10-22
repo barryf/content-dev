@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-12-21T13:13:13Z"],"entry-type":["bookmark"],"name":["Rami Kayyali - The Perfect Wiki"],"bookmark-of":["http://www.ramikayyali.com/archives/2004/10/04/perfect_wiki"],"category":["wiki","via-pinboard"],"slug":["rami-kayyali-the-perfect-wiki"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-12-21T13:13:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rami Kayyali - The Perfect Wiki"
+    ],
+    "bookmark-of": [
+      "http://www.ramikayyali.com/archives/2004/10/04/perfect_wiki"
+    ],
+    "category": [
+      "wiki",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rami-kayyali-the-perfect-wiki"
+    ]
+  }
+}

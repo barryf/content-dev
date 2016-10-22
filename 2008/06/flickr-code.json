@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Good example of the developer side of a non-geek service\n"],"published":["2008-06-27T08:15:51Z"],"entry-type":["bookmark"],"name":["Flickr Code"],"bookmark-of":["http://code.flickr.com/"],"category":["blog","flickr","code","dev","team","work","api","via-pinboard"],"slug":["flickr-code"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Good example of the developer side of a non-geek service\n"
+    ],
+    "published": [
+      "2008-06-27T08:15:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Flickr Code"
+    ],
+    "bookmark-of": [
+      "http://code.flickr.com/"
+    ],
+    "category": [
+      "blog",
+      "flickr",
+      "code",
+      "dev",
+      "team",
+      "work",
+      "api",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flickr-code"
+    ]
+  }
+}

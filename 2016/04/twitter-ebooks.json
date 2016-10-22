@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Twitter bot framework"],"published":["2016-04-12T15:40:57Z"],"entry-type":["bookmark"],"name":["twitter_ebooks"],"bookmark-of":["https://github.com/mispy/twitter_ebooks"],"category":["twitter","bot","framework"],"slug":["twitter-ebooks"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Twitter bot framework"
+    ],
+    "published": [
+      "2016-04-12T15:40:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "twitter_ebooks"
+    ],
+    "bookmark-of": [
+      "https://github.com/mispy/twitter_ebooks"
+    ],
+    "category": [
+      "twitter",
+      "bot",
+      "framework"
+    ],
+    "slug": [
+      "twitter-ebooks"
+    ]
+  }
+}

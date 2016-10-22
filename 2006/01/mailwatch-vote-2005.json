@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["The best of Daily Mail (and Express) front covers from 2005. What would Diana say indeed?\n"],"published":["2006-01-11T12:29:16Z"],"entry-type":["bookmark"],"name":["Mailwatch Vote 2005"],"bookmark-of":["http://bigdaddymerk.co.uk/mailwatch/mwvote/"],"category":["dailymail","uk","media","newspapers","via-pinboard"],"slug":["mailwatch-vote-2005"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The best of Daily Mail (and Express) front covers from 2005. What would Diana say indeed?\n"
+    ],
+    "published": [
+      "2006-01-11T12:29:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mailwatch Vote 2005"
+    ],
+    "bookmark-of": [
+      "http://bigdaddymerk.co.uk/mailwatch/mwvote/"
+    ],
+    "category": [
+      "dailymail",
+      "uk",
+      "media",
+      "newspapers",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mailwatch-vote-2005"
+    ]
+  }
+}

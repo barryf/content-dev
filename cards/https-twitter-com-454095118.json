@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["MPS Helicopters"],"photo":["http://pbs.twimg.com/profile_images/462215186351259649/bf4FPCoR_normal.jpeg"],"url":["https://twitter.com/MPSinthesky"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "MPS Helicopters"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/462215186351259649/bf4FPCoR_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/MPSinthesky"
+    ]
+  }
+}

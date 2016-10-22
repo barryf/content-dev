@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My office has been seasonally vandalised with horrific Christmas decorations #humbug  http://yfrog.com/o09aohrj http://yfrog.com/ocswvej"],"published":["2011-12-06T16:48:16Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/144095826648645633"],"slug":["tweet-144095826648645633"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My office has been seasonally vandalised with horrific Christmas decorations #humbug  http://yfrog.com/o09aohrj http://yfrog.com/ocswvej"
+    ],
+    "published": [
+      "2011-12-06T16:48:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/144095826648645633"
+    ],
+    "slug": [
+      "tweet-144095826648645633"
+    ]
+  }
+}

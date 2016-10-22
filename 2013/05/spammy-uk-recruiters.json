@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["List of domains of recruiters that routinely spam UK developers. Presented in a format for cut-and-pasting into a GMail filter"],"published":["2013-05-24T07:30:10Z"],"entry-type":["bookmark"],"name":["Spammy [UK] Recruiters"],"bookmark-of":["https://github.com/drcongo/spammy-recruiters"],"category":["spam","recruitment","uk","via-pinboard"],"slug":["spammy-uk-recruiters"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "List of domains of recruiters that routinely spam UK developers. Presented in a format for cut-and-pasting into a GMail filter"
+    ],
+    "published": [
+      "2013-05-24T07:30:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Spammy [UK] Recruiters"
+    ],
+    "bookmark-of": [
+      "https://github.com/drcongo/spammy-recruiters"
+    ],
+    "category": [
+      "spam",
+      "recruitment",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "spammy-uk-recruiters"
+    ]
+  }
+}

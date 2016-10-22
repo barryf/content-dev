@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2010-09-13T08:11:46Z"],"entry-type":["bookmark"],"name":["Sketch | Vector drawing for OS X"],"bookmark-of":["http://www.bohemiancoding.com/sketch/overview/"],"category":["vector","design","mac","via-pinboard"],"slug":["sketch-vector-drawing-for-os-x"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-09-13T08:11:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sketch | Vector drawing for OS X"
+    ],
+    "bookmark-of": [
+      "http://www.bohemiancoding.com/sketch/overview/"
+    ],
+    "category": [
+      "vector",
+      "design",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sketch-vector-drawing-for-os-x"
+    ]
+  }
+}

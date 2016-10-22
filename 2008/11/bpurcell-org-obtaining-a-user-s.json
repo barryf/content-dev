@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Simple guide to implementing MaxMind's free/commercial GeoIP service using Brandon's prepared JAR. Worked first time and finished integration within an hour.\n"],"published":["2008-11-17T15:26:23Z"],"entry-type":["bookmark"],"name":["bpurcell.org - Obtaining a user's geographical location based on their IP with GeoIP and ColdFusion"],"bookmark-of":["http://www.bpurcell.org/blog/index.cfm?mode=entry&entry=1100"],"category":["coldfusion","geoip","ip","location","java","city","country","dev","maxmind","jar","via-pinboard"],"slug":["bpurcell-org-obtaining-a-user-s"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simple guide to implementing MaxMind's free/commercial GeoIP service using Brandon's prepared JAR. Worked first time and finished integration within an hour.\n"
+    ],
+    "published": [
+      "2008-11-17T15:26:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "bpurcell.org - Obtaining a user's geographical location based on their IP with GeoIP and ColdFusion"
+    ],
+    "bookmark-of": [
+      "http://www.bpurcell.org/blog/index.cfm?mode=entry&entry=1100"
+    ],
+    "category": [
+      "coldfusion",
+      "geoip",
+      "ip",
+      "location",
+      "java",
+      "city",
+      "country",
+      "dev",
+      "maxmind",
+      "jar",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bpurcell-org-obtaining-a-user-s"
+    ]
+  }
+}

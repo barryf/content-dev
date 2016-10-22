@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["RT @wld: New upgrade page delivers increases in partners’ revenue: http://tinyurl.com/ms5gny - doing my corporate blogging duty"],"published":["2009-09-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4143635856"],"slug":["tweet-4143635856"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "RT @wld: New upgrade page delivers increases in partners’ revenue: http://tinyurl.com/ms5gny - doing my corporate blogging duty"
+    ],
+    "published": [
+      "2009-09-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4143635856"
+    ],
+    "slug": [
+      "tweet-4143635856"
+    ]
+  }
+}

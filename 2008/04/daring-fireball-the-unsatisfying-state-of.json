@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Useful commentary on how the plethora of Twitter clients fail to work well on the iPhone. Tips for iPhone web app development\n"],"published":["2008-04-20T14:38:11Z"],"entry-type":["bookmark"],"name":["Daring Fireball: The Unsatisfying State of Twitter Web Clients for the iPhone"],"bookmark-of":["http://daringfireball.net/2008/04/twitter_web_clients_for_the_iphone"],"category":["iphone","twitter","web","ipod","ipodtouch","ui","design","via-pinboard"],"slug":["daring-fireball-the-unsatisfying-state-of"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful commentary on how the plethora of Twitter clients fail to work well on the iPhone. Tips for iPhone web app development\n"
+    ],
+    "published": [
+      "2008-04-20T14:38:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Daring Fireball: The Unsatisfying State of Twitter Web Clients for the iPhone"
+    ],
+    "bookmark-of": [
+      "http://daringfireball.net/2008/04/twitter_web_clients_for_the_iphone"
+    ],
+    "category": [
+      "iphone",
+      "twitter",
+      "web",
+      "ipod",
+      "ipodtouch",
+      "ui",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "daring-fireball-the-unsatisfying-state-of"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Bug, Veep, Alan Partridge, Bad Sugar, Hunderby, A Touch Of Cloth… pretty much all the best new comedy is on Sky Atlantic/One these days."],"published":["2012-08-27T19:33:47Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/240170263763902465"],"slug":["tweet-240170263763902465"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Bug, Veep, Alan Partridge, Bad Sugar, Hunderby, A Touch Of Cloth… pretty much all the best new comedy is on Sky Atlantic/One these days."
+    ],
+    "published": [
+      "2012-08-27T19:33:47Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/240170263763902465"
+    ],
+    "slug": [
+      "tweet-240170263763902465"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-12T09:00:55Z"],"entry-type":["bookmark"],"name":["amCharts: customizable free flash charts"],"bookmark-of":["http://www.amcharts.com/"],"category":["chart","flash","graph","business","free","via-pinboard"],"slug":["amcharts-customizable-free-flash-charts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-12T09:00:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "amCharts: customizable free flash charts"
+    ],
+    "bookmark-of": [
+      "http://www.amcharts.com/"
+    ],
+    "category": [
+      "chart",
+      "flash",
+      "graph",
+      "business",
+      "free",
+      "via-pinboard"
+    ],
+    "slug": [
+      "amcharts-customizable-free-flash-charts"
+    ]
+  }
+}

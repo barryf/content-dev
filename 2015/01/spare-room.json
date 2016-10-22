@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Recommended by GP people when they've flat-shared"],"published":["2015-01-13T10:33:16Z"],"entry-type":["bookmark"],"name":["Spare Room"],"bookmark-of":["http://www.spareroom.co.uk/"],"category":["accommodation","renting","flat","uk"],"slug":["spare-room"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Recommended by GP people when they've flat-shared"
+    ],
+    "published": [
+      "2015-01-13T10:33:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Spare Room"
+    ],
+    "bookmark-of": [
+      "http://www.spareroom.co.uk/"
+    ],
+    "category": [
+      "accommodation",
+      "renting",
+      "flat",
+      "uk"
+    ],
+    "slug": [
+      "spare-room"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Database sharding for activerecord (Ruby)"],"published":["2012-07-04T16:48:23Z"],"entry-type":["bookmark"],"name":["octopus"],"bookmark-of":["https://github.com/tchandy/octopus"],"category":["activerecord","sharding","database","ruby","rails","via-pinboard"],"slug":["octopus"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Database sharding for activerecord (Ruby)"
+    ],
+    "published": [
+      "2012-07-04T16:48:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "octopus"
+    ],
+    "bookmark-of": [
+      "https://github.com/tchandy/octopus"
+    ],
+    "category": [
+      "activerecord",
+      "sharding",
+      "database",
+      "ruby",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "octopus"
+    ]
+  }
+}

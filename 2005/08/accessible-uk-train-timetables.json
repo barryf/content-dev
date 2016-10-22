@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-16T12:19:52Z"],"entry-type":["bookmark"],"name":["Accessible UK Train Timetables"],"bookmark-of":["http://www.traintimes.org.uk/"],"category":["uk","travel","accessibility","via-pinboard"],"slug":["accessible-uk-train-timetables"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-16T12:19:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Accessible UK Train Timetables"
+    ],
+    "bookmark-of": [
+      "http://www.traintimes.org.uk/"
+    ],
+    "category": [
+      "uk",
+      "travel",
+      "accessibility",
+      "via-pinboard"
+    ],
+    "slug": [
+      "accessible-uk-train-timetables"
+    ]
+  }
+}

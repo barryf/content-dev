@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["The apps in my Panasonic TV broke last night. Turns out Netflix etc. must phone home to a Panasonic URL even if it's down https://www.avforums.com/threads/network-issue-with-panasonic-cloud-services-for-lcd-tv-with-firefox-os.1985724/page-7#post-23313595"],"published":["2016-03-08T17:49:04Z"],"entry-type":["note"],"summary":["The apps in my Panasonic TV broke last night. Turns out Netflix etc. must phone home to a Pana URL even if it's down https://www.avforums.com/threads/network-issue-with-panasonic-cloud-services-for-lcd-tv-with-firefox-os.1985724/page-7#post-23313595"],"category":["spof","uk","tv"],"syndication":["https://twitter.com/barryf/status/707261878301364224"],"slug":["the-apps-in-my-panasonic-tv"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The apps in my Panasonic TV broke last night. Turns out Netflix etc. must phone home to a Panasonic URL even if it's down https://www.avforums.com/threads/network-issue-with-panasonic-cloud-services-for-lcd-tv-with-firefox-os.1985724/page-7#post-23313595"
+    ],
+    "published": [
+      "2016-03-08T17:49:04Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "The apps in my Panasonic TV broke last night. Turns out Netflix etc. must phone home to a Pana URL even if it's down https://www.avforums.com/threads/network-issue-with-panasonic-cloud-services-for-lcd-tv-with-firefox-os.1985724/page-7#post-23313595"
+    ],
+    "category": [
+      "spof",
+      "uk",
+      "tv"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/707261878301364224"
+    ],
+    "slug": [
+      "the-apps-in-my-panasonic-tv"
+    ]
+  }
+}

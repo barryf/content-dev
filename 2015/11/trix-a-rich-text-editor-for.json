@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2015-11-16T17:24:58Z"],"entry-type":["bookmark"],"name":["Trix: A rich text editor for everyday writing"],"bookmark-of":["http://trix-editor.org/"],"category":["editor","richtext","markup","form","basecamp"],"slug":["trix-a-rich-text-editor-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-11-16T17:24:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Trix: A rich text editor for everyday writing"
+    ],
+    "bookmark-of": [
+      "http://trix-editor.org/"
+    ],
+    "category": [
+      "editor",
+      "richtext",
+      "markup",
+      "form",
+      "basecamp"
+    ],
+    "slug": [
+      "trix-a-rich-text-editor-for"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["First page of proof-of-concept working and committed to git. So far so good. #gdhackday"],"published":["2012-09-14T09:19:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/246538585925353473"],"slug":["tweet-246538585925353473"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "First page of proof-of-concept working and committed to git. So far so good. #gdhackday"
+    ],
+    "published": [
+      "2012-09-14T09:19:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/246538585925353473"
+    ],
+    "slug": [
+      "tweet-246538585925353473"
+    ]
+  }
+}

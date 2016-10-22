@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Josue Gio"],"photo":["https://twitter.com/JosueGio/profile_image?size=original"],"url":["https://twitter.com/JosueGio"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Josue Gio"
+    ],
+    "photo": [
+      "https://twitter.com/JosueGio/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/JosueGio"
+    ]
+  }
+}

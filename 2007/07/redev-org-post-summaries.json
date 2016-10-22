@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Back when I used to blog in my last company...\n"],"published":["2007-07-21T16:14:41Z"],"entry-type":["bookmark"],"name":["redev.org post summaries"],"bookmark-of":["http://fullasagoog.com/index.cfm?blogid=114"],"category":["redev","jgp","jobsgopublic","blog","personal","via-pinboard"],"slug":["redev-org-post-summaries"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Back when I used to blog in my last company...\n"
+    ],
+    "published": [
+      "2007-07-21T16:14:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "redev.org post summaries"
+    ],
+    "bookmark-of": [
+      "http://fullasagoog.com/index.cfm?blogid=114"
+    ],
+    "category": [
+      "redev",
+      "jgp",
+      "jobsgopublic",
+      "blog",
+      "personal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "redev-org-post-summaries"
+    ]
+  }
+}

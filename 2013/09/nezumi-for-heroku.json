@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Another Heroku iPhone app. Includes console and logs."],"published":["2013-09-26T12:50:41Z"],"entry-type":["bookmark"],"name":["Nezumi for Heroku"],"bookmark-of":["http://nezumiapp.com/"],"category":["heroku","iphone","ios","via-pinboard"],"slug":["nezumi-for-heroku"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another Heroku iPhone app. Includes console and logs."
+    ],
+    "published": [
+      "2013-09-26T12:50:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Nezumi for Heroku"
+    ],
+    "bookmark-of": [
+      "http://nezumiapp.com/"
+    ],
+    "category": [
+      "heroku",
+      "iphone",
+      "ios",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nezumi-for-heroku"
+    ]
+  }
+}

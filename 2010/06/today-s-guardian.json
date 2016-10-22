@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["A completely different way of reading The Guardian online, more like the printed newspaper with a sense of reading from a beginning to the end. Less friction and interruptions too.\n"],"published":["2010-06-09T13:33:18Z"],"entry-type":["bookmark"],"name":["Today's Guardian"],"bookmark-of":["http://guardian.gyford.com/"],"category":["guardian","newspaper","read","ui","design","content","media","news","via-pinboard"],"slug":["today-s-guardian"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A completely different way of reading The Guardian online, more like the printed newspaper with a sense of reading from a beginning to the end. Less friction and interruptions too.\n"
+    ],
+    "published": [
+      "2010-06-09T13:33:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Today's Guardian"
+    ],
+    "bookmark-of": [
+      "http://guardian.gyford.com/"
+    ],
+    "category": [
+      "guardian",
+      "newspaper",
+      "read",
+      "ui",
+      "design",
+      "content",
+      "media",
+      "news",
+      "via-pinboard"
+    ],
+    "slug": [
+      "today-s-guardian"
+    ]
+  }
+}

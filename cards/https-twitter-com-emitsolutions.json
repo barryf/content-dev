@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["E-MIT Solutions"],"photo":["https://twitter.com/emitsolutions/profile_image?size=original"],"url":["https://twitter.com/emitsolutions"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "E-MIT Solutions"
+    ],
+    "photo": [
+      "https://twitter.com/emitsolutions/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/emitsolutions"
+    ]
+  }
+}

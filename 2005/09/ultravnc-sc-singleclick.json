@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["A single-click VNC server installer. For all those troubleshooting nightmares...\n"],"published":["2005-09-15T12:26:17Z"],"entry-type":["bookmark"],"name":["UltraVNC SC (SingleClick)"],"bookmark-of":["http://ultravnc.sourceforge.net/addons/singleclick.html"],"category":["vnc","server","remote","help","support","via-pinboard"],"slug":["ultravnc-sc-singleclick"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A single-click VNC server installer. For all those troubleshooting nightmares...\n"
+    ],
+    "published": [
+      "2005-09-15T12:26:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "UltraVNC SC (SingleClick)"
+    ],
+    "bookmark-of": [
+      "http://ultravnc.sourceforge.net/addons/singleclick.html"
+    ],
+    "category": [
+      "vnc",
+      "server",
+      "remote",
+      "help",
+      "support",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ultravnc-sc-singleclick"
+    ]
+  }
+}

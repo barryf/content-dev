@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["What if Shakespeare wrote The Big Lebowski? \"I stand before thee tainted with remorse, and beg thy mercy; I am overcome. A pox upon’t, Knave; let us play at ninepins.\"\n"],"published":["2010-01-09T14:54:20Z"],"entry-type":["bookmark"],"name":["Two Gentlemen of Lebowski"],"bookmark-of":["http://www.runleiarun.com/lebowski/"],"category":["shakespeare","humour","lebowski","parody","script","mashup","awesome","via-pinboard"],"slug":["two-gentlemen-of-lebowski"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "What if Shakespeare wrote The Big Lebowski? \"I stand before thee tainted with remorse, and beg thy mercy; I am overcome. A pox upon’t, Knave; let us play at ninepins.\"\n"
+    ],
+    "published": [
+      "2010-01-09T14:54:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Two Gentlemen of Lebowski"
+    ],
+    "bookmark-of": [
+      "http://www.runleiarun.com/lebowski/"
+    ],
+    "category": [
+      "shakespeare",
+      "humour",
+      "lebowski",
+      "parody",
+      "script",
+      "mashup",
+      "awesome",
+      "via-pinboard"
+    ],
+    "slug": [
+      "two-gentlemen-of-lebowski"
+    ]
+  }
+}

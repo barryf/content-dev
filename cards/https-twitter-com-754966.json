@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["hobbsy"],"photo":["http://pbs.twimg.com/profile_images/431782859339075585/NTLU2SUk_normal.jpeg"],"url":["https://twitter.com/hobbsy"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "hobbsy"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/431782859339075585/NTLU2SUk_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/hobbsy"
+    ]
+  }
+}

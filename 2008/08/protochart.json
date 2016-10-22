@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Prototype/Canvas powered charts\n"],"published":["2008-08-03T09:45:17Z"],"entry-type":["bookmark"],"name":["ProtoChart"],"bookmark-of":["http://www.deensoft.com/lab/protochart/index.php"],"category":["prototype","canvas","chart","statistics","graph","javascript","design","via-pinboard"],"slug":["protochart"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Prototype/Canvas powered charts\n"
+    ],
+    "published": [
+      "2008-08-03T09:45:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ProtoChart"
+    ],
+    "bookmark-of": [
+      "http://www.deensoft.com/lab/protochart/index.php"
+    ],
+    "category": [
+      "prototype",
+      "canvas",
+      "chart",
+      "statistics",
+      "graph",
+      "javascript",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "protochart"
+    ]
+  }
+}

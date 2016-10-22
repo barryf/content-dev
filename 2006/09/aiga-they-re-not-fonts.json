@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Righting a common misconception. I've been guilty here too.\n"],"published":["2006-09-22T12:50:54Z"],"entry-type":["bookmark"],"name":["AIGA - They're not fonts!"],"bookmark-of":["http://designforum.aiga.org/content.cfm?ContentAlias=_getfullarticle&aid=291450"],"category":["font","typeface","design","print","via-pinboard"],"slug":["aiga-they-re-not-fonts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Righting a common misconception. I've been guilty here too.\n"
+    ],
+    "published": [
+      "2006-09-22T12:50:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "AIGA - They're not fonts!"
+    ],
+    "bookmark-of": [
+      "http://designforum.aiga.org/content.cfm?ContentAlias=_getfullarticle&aid=291450"
+    ],
+    "category": [
+      "font",
+      "typeface",
+      "design",
+      "print",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aiga-they-re-not-fonts"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Register report/snark into GDS culture"],"published":["2015-04-29T12:21:27Z"],"entry-type":["bookmark"],"name":["The Government Digital Service: The Happiest Place on Earth"],"bookmark-of":["http://www.theregister.co.uk/2015/04/28/gds_hr_consultancy_report_exclusive"],"category":["gds","culture","work","gov","uk"],"slug":["the-government-digital-service-the-happiest"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Register report/snark into GDS culture"
+    ],
+    "published": [
+      "2015-04-29T12:21:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Government Digital Service: The Happiest Place on Earth"
+    ],
+    "bookmark-of": [
+      "http://www.theregister.co.uk/2015/04/28/gds_hr_consultancy_report_exclusive"
+    ],
+    "category": [
+      "gds",
+      "culture",
+      "work",
+      "gov",
+      "uk"
+    ],
+    "slug": [
+      "the-government-digital-service-the-happiest"
+    ]
+  }
+}

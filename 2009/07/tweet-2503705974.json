@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@Philip5150 Great great great film. Seen this mashup with Radiohead's 15 Step? http://bit.ly/aZ5fF"],"published":["2009-07-06T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2503705974"],"slug":["tweet-2503705974"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Philip5150 Great great great film. Seen this mashup with Radiohead's 15 Step? http://bit.ly/aZ5fF"
+    ],
+    "published": [
+      "2009-07-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2503705974"
+    ],
+    "slug": [
+      "tweet-2503705974"
+    ]
+  }
+}

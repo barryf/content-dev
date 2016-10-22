@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Workflow of writing stories in Pivotal Tracker through to the git push.\n"],"published":["2009-06-07T14:19:27Z"],"entry-type":["bookmark"],"name":["Agile git and the story branch pattern"],"bookmark-of":["http://blog.hasmanythrough.com/2008/12/18/agile-git-and-the-story-branch-pattern"],"category":["git","story","agile","pivotaltracker","merge","dev","via-pinboard"],"slug":["agile-git-and-the-story-branch"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Workflow of writing stories in Pivotal Tracker through to the git push.\n"
+    ],
+    "published": [
+      "2009-06-07T14:19:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Agile git and the story branch pattern"
+    ],
+    "bookmark-of": [
+      "http://blog.hasmanythrough.com/2008/12/18/agile-git-and-the-story-branch-pattern"
+    ],
+    "category": [
+      "git",
+      "story",
+      "agile",
+      "pivotaltracker",
+      "merge",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "agile-git-and-the-story-branch"
+    ]
+  }
+}

@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Drag'n'drop DHTML tree\n"],"published":["2005-12-14T14:23:44Z"],"entry-type":["bookmark"],"name":["dhtmlxTree - an advanced DHTML tree component with rich JavaScript API"],"bookmark-of":["http://www.scbr.com/docs/products/dhtmlxTree/"],"category":["web","dev","ajax","html","java","javascript","dhtml","tree","ui","web20","via-pinboard"],"slug":["dhtmlxtree-an-advanced-dhtml-tree-component"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Drag'n'drop DHTML tree\n"
+    ],
+    "published": [
+      "2005-12-14T14:23:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "dhtmlxTree - an advanced DHTML tree component with rich JavaScript API"
+    ],
+    "bookmark-of": [
+      "http://www.scbr.com/docs/products/dhtmlxTree/"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "ajax",
+      "html",
+      "java",
+      "javascript",
+      "dhtml",
+      "tree",
+      "ui",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "dhtmlxtree-an-advanced-dhtml-tree-component"
+    ]
+  }
+}

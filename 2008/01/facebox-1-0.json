@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Facebook-style dialog boxes - use an image, div or remote page. Built on jQuery\n"],"published":["2008-01-29T21:57:20Z"],"entry-type":["bookmark"],"name":["Facebox 1.0"],"bookmark-of":["http://famspam.com/facebox"],"category":["design","dev","facebook","image","javascript","jquery","lightbox","modal","web","via-pinboard"],"slug":["facebox-1-0"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Facebook-style dialog boxes - use an image, div or remote page. Built on jQuery\n"
+    ],
+    "published": [
+      "2008-01-29T21:57:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Facebox 1.0"
+    ],
+    "bookmark-of": [
+      "http://famspam.com/facebox"
+    ],
+    "category": [
+      "design",
+      "dev",
+      "facebook",
+      "image",
+      "javascript",
+      "jquery",
+      "lightbox",
+      "modal",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "facebox-1-0"
+    ]
+  }
+}

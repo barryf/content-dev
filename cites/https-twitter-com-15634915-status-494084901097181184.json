@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/15634915/status/494084901097181184"],"published":["2014-07-29T11:39:54Z"],"content":["@barryf I'm changing them to a card that expires in 2017! But whatever happens don't lose the new one :)"],"author":["https://twitter.com/15634915"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/15634915/status/494084901097181184"
+    ],
+    "published": [
+      "2014-07-29T11:39:54Z"
+    ],
+    "content": [
+      "@barryf I'm changing them to a card that expires in 2017! But whatever happens don't lose the new one :)"
+    ],
+    "author": [
+      "https://twitter.com/15634915"
+    ]
+  }
+}

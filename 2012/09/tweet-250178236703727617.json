@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@PaulCaudell Texting STOP doesn’t help - different number every time. If people didn’t fall for it then I suppose they’d stop texting."],"published":["2012-09-24T10:21:54Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16433935/status/250175438343782400"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/250178236703727617"],"slug":["tweet-250178236703727617"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@PaulCaudell Texting STOP doesn’t help - different number every time. If people didn’t fall for it then I suppose they’d stop texting."
+    ],
+    "published": [
+      "2012-09-24T10:21:54Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16433935/status/250175438343782400"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/250178236703727617"
+    ],
+    "slug": [
+      "tweet-250178236703727617"
+    ]
+  }
+}

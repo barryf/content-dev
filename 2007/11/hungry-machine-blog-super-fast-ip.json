@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"published":["2007-11-15T22:12:50Z"],"entry-type":["bookmark"],"name":["Hungry Machine Blog: Super fast IP to lat/lng in Rails"],"bookmark-of":["http://blog.hungrymachine.com/2007/10/22/super-fast-ip-to-lat-lng-in-rails"],"category":["geocode","geocoding","ip","map","plugin","rails","web","ruby","latitude","longitude","via-pinboard"],"slug":["hungry-machine-blog-super-fast-ip"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-11-15T22:12:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hungry Machine Blog: Super fast IP to lat/lng in Rails"
+    ],
+    "bookmark-of": [
+      "http://blog.hungrymachine.com/2007/10/22/super-fast-ip-to-lat-lng-in-rails"
+    ],
+    "category": [
+      "geocode",
+      "geocoding",
+      "ip",
+      "map",
+      "plugin",
+      "rails",
+      "web",
+      "ruby",
+      "latitude",
+      "longitude",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hungry-machine-blog-super-fast-ip"
+    ]
+  }
+}

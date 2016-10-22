@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-12-04T14:09:05Z"],"entry-type":["bookmark"],"name":["Amazon S3 REST Wrapper [ColdFusion]"],"bookmark-of":["http://amazons3.riaforge.org/"],"category":["amazon","coldfusion","s3","rest","webservices","web","dev","via-pinboard"],"slug":["amazon-s3-rest-wrapper-coldfusion"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-12-04T14:09:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Amazon S3 REST Wrapper [ColdFusion]"
+    ],
+    "bookmark-of": [
+      "http://amazons3.riaforge.org/"
+    ],
+    "category": [
+      "amazon",
+      "coldfusion",
+      "s3",
+      "rest",
+      "webservices",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "amazon-s3-rest-wrapper-coldfusion"
+    ]
+  }
+}

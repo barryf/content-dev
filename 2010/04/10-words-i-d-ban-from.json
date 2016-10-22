@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Welcome, please, click here, mandatory fields, etc.\n"],"published":["2010-04-25T15:05:15Z"],"entry-type":["bookmark"],"name":["10 words I'd ban from all websites"],"bookmark-of":["http://www.imediaconnection.com/content/25929.imc"],"category":["uk","copywriting","text","web","usability","marketing","via-pinboard"],"slug":["10-words-i-d-ban-from"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Welcome, please, click here, mandatory fields, etc.\n"
+    ],
+    "published": [
+      "2010-04-25T15:05:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "10 words I'd ban from all websites"
+    ],
+    "bookmark-of": [
+      "http://www.imediaconnection.com/content/25929.imc"
+    ],
+    "category": [
+      "uk",
+      "copywriting",
+      "text",
+      "web",
+      "usability",
+      "marketing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "10-words-i-d-ban-from"
+    ]
+  }
+}

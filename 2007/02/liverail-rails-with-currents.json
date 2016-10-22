@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Rails WebDAV plugin\n"],"published":["2007-02-17T17:09:27Z"],"entry-type":["bookmark"],"name":["Liverail » Rails with currents"],"bookmark-of":["http://www.liverail.net/articles/2006/06/25/webdav-ruby-on-rails-plugin"],"category":["plugin","rails","webdav","dev","activerecord","via-pinboard"],"slug":["liverail-rails-with-currents"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails WebDAV plugin\n"
+    ],
+    "published": [
+      "2007-02-17T17:09:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Liverail » Rails with currents"
+    ],
+    "bookmark-of": [
+      "http://www.liverail.net/articles/2006/06/25/webdav-ruby-on-rails-plugin"
+    ],
+    "category": [
+      "plugin",
+      "rails",
+      "webdav",
+      "dev",
+      "activerecord",
+      "via-pinboard"
+    ],
+    "slug": [
+      "liverail-rails-with-currents"
+    ]
+  }
+}

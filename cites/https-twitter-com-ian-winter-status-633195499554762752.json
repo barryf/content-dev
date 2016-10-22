@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/ian_winter/status/633195499554762752"],"published":["2015-08-17T08:35:45Z"],"content":["@boffbowsh @barryf careful it might snap, or, ping back and hit you in the face :)"],"in-reply-to":["https://barryfrost.com/2015/08/boffbowsh-house"],"author":["https://ian.io"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/ian_winter/status/633195499554762752"
+    ],
+    "published": [
+      "2015-08-17T08:35:45Z"
+    ],
+    "content": [
+      "@boffbowsh @barryf careful it might snap, or, ping back and hit you in the face :)"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/08/boffbowsh-house"
+    ],
+    "author": [
+      "https://ian.io"
+    ]
+  }
+}

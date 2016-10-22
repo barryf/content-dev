@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Just bought furniture, a bed and sofas. Giving poor credit card a rest watching the cricket in HD."],"published":["2009-02-16T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1215806837"],"slug":["tweet-1215806837"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just bought furniture, a bed and sofas. Giving poor credit card a rest watching the cricket in HD."
+    ],
+    "published": [
+      "2009-02-16T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1215806837"
+    ],
+    "slug": [
+      "tweet-1215806837"
+    ]
+  }
+}

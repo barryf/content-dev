@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids Hear hear. Hard to imagine commercial TV producing similar."],"published":["2009-10-14T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/4869149069"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/4872763183"],"slug":["tweet-4872763183"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids Hear hear. Hard to imagine commercial TV producing similar."
+    ],
+    "published": [
+      "2009-10-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/4869149069"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/4872763183"
+    ],
+    "slug": [
+      "tweet-4872763183"
+    ]
+  }
+}

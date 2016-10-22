@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh AMAZEBALLS! http://twitter.com/barryf/status/540884542786400256/photo/1"],"published":["2014-12-05T15:04:58Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/540884542786400256"],"slug":["tweet-540884542786400256"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh AMAZEBALLS! http://twitter.com/barryf/status/540884542786400256/photo/1"
+    ],
+    "published": [
+      "2014-12-05T15:04:58Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/540884542786400256"
+    ],
+    "slug": [
+      "tweet-540884542786400256"
+    ]
+  }
+}

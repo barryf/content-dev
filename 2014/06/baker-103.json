@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["My [write-up of this year's UX London conference](http://globaldev.co.uk/2014/06/ux-london-products-people-and-platforms/) is now live on our [globaldev](http://globaldev.co.uk) team blog.\r\n\r\nAlso replicated as an [article](/articles/ux-london) on this site.\r\n"],"published":["2014-06-04T13:32:35Z"],"entry-type":["note"],"category":["uxlondon","conference","ux","globaldev","article","via-baker"],"syndication":["https://twitter.com/barryf/status/474182456288239617"],"slug":["baker-103"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My [write-up of this year's UX London conference](http://globaldev.co.uk/2014/06/ux-london-products-people-and-platforms/) is now live on our [globaldev](http://globaldev.co.uk) team blog.\r\n\r\nAlso replicated as an [article](/articles/ux-london) on this site.\r\n"
+    ],
+    "published": [
+      "2014-06-04T13:32:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "uxlondon",
+      "conference",
+      "ux",
+      "globaldev",
+      "article",
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/474182456288239617"
+    ],
+    "slug": [
+      "baker-103"
+    ]
+  }
+}

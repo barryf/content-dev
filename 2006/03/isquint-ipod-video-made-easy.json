@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Convert video into iPod-friendly mp4\n"],"published":["2006-03-07T19:44:37Z"],"entry-type":["bookmark"],"name":["iSquint: iPod video made easy."],"bookmark-of":["http://www.isquint.org/"],"category":["ipod","video","mac","via-pinboard"],"slug":["isquint-ipod-video-made-easy"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Convert video into iPod-friendly mp4\n"
+    ],
+    "published": [
+      "2006-03-07T19:44:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iSquint: iPod video made easy."
+    ],
+    "bookmark-of": [
+      "http://www.isquint.org/"
+    ],
+    "category": [
+      "ipod",
+      "video",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "isquint-ipod-video-made-easy"
+    ]
+  }
+}

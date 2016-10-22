@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2016-03-01T14:21:52Z"],"entry-type":["bookmark"],"name":["What should a new ScrumMaster be doing?"],"bookmark-of":["http://www.growingagile.co.za/2014/08/what-should-a-new-scrummaster-be-doing/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost"],"category":["scrummaster","agile","scrum"],"slug":["what-should-a-new-scrummaster-be"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-03-01T14:21:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "What should a new ScrumMaster be doing?"
+    ],
+    "bookmark-of": [
+      "http://www.growingagile.co.za/2014/08/what-should-a-new-scrummaster-be-doing/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost"
+    ],
+    "category": [
+      "scrummaster",
+      "agile",
+      "scrum"
+    ],
+    "slug": [
+      "what-should-a-new-scrummaster-be"
+    ]
+  }
+}

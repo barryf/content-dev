@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Ben Hobson"],"photo":["http://pbs.twimg.com/profile_images/531780068842819584/1BnsAHq5_normal.jpeg"],"url":["https://twitter.com/BenHobson"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ben Hobson"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/531780068842819584/1BnsAHq5_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/BenHobson"
+    ]
+  }
+}

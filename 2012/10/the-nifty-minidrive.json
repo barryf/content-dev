@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Fits entirely inside a MacBook Air|Pro's SD slot, providing an adaptor for a MicroSD card."],"published":["2012-10-02T21:35:57Z"],"entry-type":["bookmark"],"name":["The Nifty MiniDrive"],"bookmark-of":["http://theniftyminidrive.com/"],"category":["mac","microsd","storage","via-pinboard"],"slug":["the-nifty-minidrive"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Fits entirely inside a MacBook Air|Pro's SD slot, providing an adaptor for a MicroSD card."
+    ],
+    "published": [
+      "2012-10-02T21:35:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Nifty MiniDrive"
+    ],
+    "bookmark-of": [
+      "http://theniftyminidrive.com/"
+    ],
+    "category": [
+      "mac",
+      "microsd",
+      "storage",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-nifty-minidrive"
+    ]
+  }
+}

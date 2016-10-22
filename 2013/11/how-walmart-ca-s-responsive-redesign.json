@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2013-11-21T15:00:33Z"],"entry-type":["bookmark"],"name":["How Walmart.ca’s Responsive Redesign Boost Conversion by 20%"],"bookmark-of":["http://www.getelastic.com/how-walmart-cas-responsive-redesign-boost-conversion-by-20/"],"category":["responsive","design","layout","commerce","conversion","via-pinboard"],"slug":["how-walmart-ca-s-responsive-redesign"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-11-21T15:00:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How Walmart.ca’s Responsive Redesign Boost Conversion by 20%"
+    ],
+    "bookmark-of": [
+      "http://www.getelastic.com/how-walmart-cas-responsive-redesign-boost-conversion-by-20/"
+    ],
+    "category": [
+      "responsive",
+      "design",
+      "layout",
+      "commerce",
+      "conversion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-walmart-ca-s-responsive-redesign"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Another app built on Twitter. Pretty damn sexy too\n"],"published":["2008-03-19T18:58:41Z"],"entry-type":["bookmark"],"name":["FoodFeed - What are you eating?"],"bookmark-of":["http://foodfeed.us/"],"category":["twitter","food","mashup","inspiration","life","lifestream","social","eat","via-pinboard"],"slug":["foodfeed-what-are-you-eating"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another app built on Twitter. Pretty damn sexy too\n"
+    ],
+    "published": [
+      "2008-03-19T18:58:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FoodFeed - What are you eating?"
+    ],
+    "bookmark-of": [
+      "http://foodfeed.us/"
+    ],
+    "category": [
+      "twitter",
+      "food",
+      "mashup",
+      "inspiration",
+      "life",
+      "lifestream",
+      "social",
+      "eat",
+      "via-pinboard"
+    ],
+    "slug": [
+      "foodfeed-what-are-you-eating"
+    ]
+  }
+}

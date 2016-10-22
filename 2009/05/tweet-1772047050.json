@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I had a paper cut from a £20 note this morning. It hurt. If I was a superstitious man I'd take it as some sort of ominous money warning."],"published":["2009-05-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1772047050"],"slug":["tweet-1772047050"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I had a paper cut from a £20 note this morning. It hurt. If I was a superstitious man I'd take it as some sort of ominous money warning."
+    ],
+    "published": [
+      "2009-05-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1772047050"
+    ],
+    "slug": [
+      "tweet-1772047050"
+    ]
+  }
+}

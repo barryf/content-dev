@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Take Direct Debit payments with only a 1% transaction fee. Well documented, clean API. Backed by RBS"],"published":["2013-01-29T12:24:16Z"],"entry-type":["bookmark"],"name":["GoCardless"],"bookmark-of":["https://gocardless.com/"],"category":["directdebit","payment","uk","ecommerce","gateway","rbs","via-pinboard"],"slug":["gocardless"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Take Direct Debit payments with only a 1% transaction fee. Well documented, clean API. Backed by RBS"
+    ],
+    "published": [
+      "2013-01-29T12:24:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GoCardless"
+    ],
+    "bookmark-of": [
+      "https://gocardless.com/"
+    ],
+    "category": [
+      "directdebit",
+      "payment",
+      "uk",
+      "ecommerce",
+      "gateway",
+      "rbs",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gocardless"
+    ]
+  }
+}

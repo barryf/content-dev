@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-02T12:13:22Z"],"entry-type":["bookmark"],"name":["The Man in Blue > Styling Form Widgets"],"bookmark-of":["http://www.themaninblue.com/writing/perspective/2004/04/28/"],"category":["css","design","web","via-pinboard"],"slug":["the-man-in-blue-styling-form"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-02T12:13:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Man in Blue > Styling Form Widgets"
+    ],
+    "bookmark-of": [
+      "http://www.themaninblue.com/writing/perspective/2004/04/28/"
+    ],
+    "category": [
+      "css",
+      "design",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-man-in-blue-styling-form"
+    ]
+  }
+}

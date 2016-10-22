@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> Compare the speed of enterprise and commercial DNS services"],"published":["2015-03-31T16:33:14Z"],"entry-type":["bookmark"],"name":["DNS Performance"],"bookmark-of":["http://www.dnsperf.com/"],"category":["dns","performance","speed"],"slug":["dns-performance"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Compare the speed of enterprise and commercial DNS services"
+    ],
+    "published": [
+      "2015-03-31T16:33:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "DNS Performance"
+    ],
+    "bookmark-of": [
+      "http://www.dnsperf.com/"
+    ],
+    "category": [
+      "dns",
+      "performance",
+      "speed"
+    ],
+    "slug": [
+      "dns-performance"
+    ]
+  }
+}

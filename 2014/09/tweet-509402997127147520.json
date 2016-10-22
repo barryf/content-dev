@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Glued to the Apple event. Looks like a lovely new sans-serif font for  Watch."],"published":["2014-09-09T18:08:33Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/509402997127147520"],"slug":["tweet-509402997127147520"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Glued to the Apple event. Looks like a lovely new sans-serif font for  Watch."
+    ],
+    "published": [
+      "2014-09-09T18:08:33Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/509402997127147520"
+    ],
+    "slug": [
+      "tweet-509402997127147520"
+    ]
+  }
+}

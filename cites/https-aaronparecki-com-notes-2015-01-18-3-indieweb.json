@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://aaronparecki.com/notes/2015/01/18/3/indieweb"],"published":["2015-01-19T05:07:18Z"],"content":["Funny, after seeing the same comparison of server- vs client-side rendering of HTML, I had the opposite reaction: http://www.onebigfluke.com/2015/01/experimentally-verified-why-client-side.html\n\nTL;DR: Client-side and server-side rendering are approximately equivalent for moderately-sized pages. The author uses this data to justify his use of client-side rendering, while I use this data to justify server-side rendering. \n\n#indieweb"],"author":["https://aaronparecki.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/notes/2015/01/18/3/indieweb"
+    ],
+    "published": [
+      "2015-01-19T05:07:18Z"
+    ],
+    "content": [
+      "Funny, after seeing the same comparison of server- vs client-side rendering of HTML, I had the opposite reaction: http://www.onebigfluke.com/2015/01/experimentally-verified-why-client-side.html\n\nTL;DR: Client-side and server-side rendering are approximately equivalent for moderately-sized pages. The author uses this data to justify his use of client-side rendering, while I use this data to justify server-side rendering. \n\n#indieweb"
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ]
+  }
+}

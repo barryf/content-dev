@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@aviatorgal Thanks. You're right: it looks like Tim's photo archive went back further than I thought. #feelingold"],"published":["2013-01-10T14:11:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22544965/status/289360841130782720"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/289373808530436096"],"slug":["tweet-289373808530436096"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@aviatorgal Thanks. You're right: it looks like Tim's photo archive went back further than I thought. #feelingold"
+    ],
+    "published": [
+      "2013-01-10T14:11:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22544965/status/289360841130782720"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/289373808530436096"
+    ],
+    "slug": [
+      "tweet-289373808530436096"
+    ]
+  }
+}

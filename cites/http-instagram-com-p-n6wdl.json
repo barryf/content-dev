@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["http://instagram.com/p/N6wDL/"],"published":["2015-01-10T15:30:56Z"],"content":["@andrewgarner and @ian_winter at #yellowfoot"],"photo":["http://images.ak.instagram.com/media/2011/09/23/ead2dd0ca6d440959c88ad930c7508d4_7.jpg"],"author":["http://instagram.com/barryf"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://instagram.com/p/N6wDL/"
+    ],
+    "published": [
+      "2015-01-10T15:30:56Z"
+    ],
+    "content": [
+      "@andrewgarner and @ian_winter at #yellowfoot"
+    ],
+    "photo": [
+      "http://images.ak.instagram.com/media/2011/09/23/ead2dd0ca6d440959c88ad930c7508d4_7.jpg"
+    ],
+    "author": [
+      "http://instagram.com/barryf"
+    ]
+  }
+}

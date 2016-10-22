@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Ha, I don’t know about respect! You’re busy taking on the world with your own business; I’ve automated tweets about my cat."],"published":["2013-06-17T14:41:33Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/346638385273786368"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/346638752770306048"],"slug":["tweet-346638752770306048"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Ha, I don’t know about respect! You’re busy taking on the world with your own business; I’ve automated tweets about my cat."
+    ],
+    "published": [
+      "2013-06-17T14:41:33Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/346638385273786368"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/346638752770306048"
+    ],
+    "slug": [
+      "tweet-346638752770306048"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Node.js and Ruby hosting service, similar in concept and pricing to Heroku (simple free plan)\n"],"published":["2011-05-14T11:21:40Z"],"entry-type":["bookmark"],"name":["Duostack"],"bookmark-of":["http://www.duostack.com/"],"category":["hosting","ruby","nodejs","heroku","free","via-pinboard"],"slug":["duostack"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Node.js and Ruby hosting service, similar in concept and pricing to Heroku (simple free plan)\n"
+    ],
+    "published": [
+      "2011-05-14T11:21:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Duostack"
+    ],
+    "bookmark-of": [
+      "http://www.duostack.com/"
+    ],
+    "category": [
+      "hosting",
+      "ruby",
+      "nodejs",
+      "heroku",
+      "free",
+      "via-pinboard"
+    ],
+    "slug": [
+      "duostack"
+    ]
+  }
+}

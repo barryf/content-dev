@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-10-18T22:27:44Z"],"entry-type":["bookmark"],"name":["Alamofire/Alamofire · GitHub"],"bookmark-of":["https://github.com/Alamofire/Alamofire"],"category":["fromifttt","github","via-pinboard"],"slug":["alamofire-alamofire-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-10-18T22:27:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Alamofire/Alamofire · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/Alamofire/Alamofire"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "alamofire-alamofire-github"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2008-02-21T21:13:26Z"],"entry-type":["bookmark"],"name":["INFORMATION_SCHEMA Support in MySQL, PostgreSQL"],"bookmark-of":["http://www.petefreitag.com/item/666.cfm"],"category":["database","mysql","postgresql","metadata","sql","schema","dev","via-pinboard"],"slug":["information-schema-support-in-mysql-postgresql"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-02-21T21:13:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "INFORMATION_SCHEMA Support in MySQL, PostgreSQL"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/666.cfm"
+    ],
+    "category": [
+      "database",
+      "mysql",
+      "postgresql",
+      "metadata",
+      "sql",
+      "schema",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "information-schema-support-in-mysql-postgresql"
+    ]
+  }
+}

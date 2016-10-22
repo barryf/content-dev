@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["When is a blog not a blog? When it's a sodding blog post! Alas, @gyford is probably fighting a losing battle: http://www.gyford.com/phil/writing/2012/05/09/blog-blogpost.php"],"published":["2012-05-09T13:05:11Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/200209804210339844"],"slug":["tweet-200209804210339844"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "When is a blog not a blog? When it's a sodding blog post! Alas, @gyford is probably fighting a losing battle: http://www.gyford.com/phil/writing/2012/05/09/blog-blogpost.php"
+    ],
+    "published": [
+      "2012-05-09T13:05:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/200209804210339844"
+    ],
+    "slug": [
+      "tweet-200209804210339844"
+    ]
+  }
+}

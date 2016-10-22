@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Neat hack to make anti-aliased text look nice in Safari\n"],"published":["2009-09-27T19:53:49Z"],"entry-type":["bookmark"],"name":["Thin Text in Safari with Snow Leopard"],"bookmark-of":["http://orderedlist.com/articles/thining-text-in-safari-under-snow-leopard"],"category":["safari","font","shadow","css","hack","browser","thin","via-pinboard"],"slug":["thin-text-in-safari-with-snow"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Neat hack to make anti-aliased text look nice in Safari\n"
+    ],
+    "published": [
+      "2009-09-27T19:53:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Thin Text in Safari with Snow Leopard"
+    ],
+    "bookmark-of": [
+      "http://orderedlist.com/articles/thining-text-in-safari-under-snow-leopard"
+    ],
+    "category": [
+      "safari",
+      "font",
+      "shadow",
+      "css",
+      "hack",
+      "browser",
+      "thin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "thin-text-in-safari-with-snow"
+    ]
+  }
+}

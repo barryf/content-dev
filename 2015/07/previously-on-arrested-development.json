@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Stunning interactive breakdown of running gags, cross-referenced between episodes/series."],"published":["2015-07-23T12:49:41Z"],"entry-type":["bookmark"],"name":["Previously, On Arrested Development"],"bookmark-of":["http://apps.npr.org/arrested-development/"],"category":["arresteddevelopment","tv","visualisation"],"slug":["previously-on-arrested-development"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Stunning interactive breakdown of running gags, cross-referenced between episodes/series."
+    ],
+    "published": [
+      "2015-07-23T12:49:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Previously, On Arrested Development"
+    ],
+    "bookmark-of": [
+      "http://apps.npr.org/arrested-development/"
+    ],
+    "category": [
+      "arresteddevelopment",
+      "tv",
+      "visualisation"
+    ],
+    "slug": [
+      "previously-on-arrested-development"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-11-18T21:20:40Z"],"entry-type":["bookmark"],"name":["A Large Monitor Makes You More Productive (by Jeremy Zawodny)"],"bookmark-of":["http://jeremy.zawodny.com/blog/archives/005541.html"],"category":["monitor","work","business","productivity","dev","via-pinboard"],"slug":["a-large-monitor-makes-you-more"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-11-18T21:20:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A Large Monitor Makes You More Productive (by Jeremy Zawodny)"
+    ],
+    "bookmark-of": [
+      "http://jeremy.zawodny.com/blog/archives/005541.html"
+    ],
+    "category": [
+      "monitor",
+      "work",
+      "business",
+      "productivity",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-large-monitor-makes-you-more"
+    ]
+  }
+}

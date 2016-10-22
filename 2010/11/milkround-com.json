@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Graduate Jobs, Schemes and Internships UK\n"],"published":["2010-11-19T09:09:55Z"],"entry-type":["bookmark"],"name":["Milkround.com"],"bookmark-of":["http://www.milkround.com/"],"category":["uk","job","graduate","recruitment","intern","via-pinboard"],"slug":["milkround-com"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Graduate Jobs, Schemes and Internships UK\n"
+    ],
+    "published": [
+      "2010-11-19T09:09:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Milkround.com"
+    ],
+    "bookmark-of": [
+      "http://www.milkround.com/"
+    ],
+    "category": [
+      "uk",
+      "job",
+      "graduate",
+      "recruitment",
+      "intern",
+      "via-pinboard"
+    ],
+    "slug": [
+      "milkround-com"
+    ]
+  }
+}

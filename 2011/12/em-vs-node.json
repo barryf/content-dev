@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Comparison of EventMachine and Node.js for async. Also discusses frameworks and tools built on top of each.\n"],"published":["2011-12-13T12:48:47Z"],"entry-type":["bookmark"],"name":["EM vs Node"],"bookmark-of":["http://speakerdeck.com/u/andrew/p/em-vs-node"],"category":["ruby","eventmachine","nodejs","async","via-pinboard"],"slug":["em-vs-node"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Comparison of EventMachine and Node.js for async. Also discusses frameworks and tools built on top of each.\n"
+    ],
+    "published": [
+      "2011-12-13T12:48:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "EM vs Node"
+    ],
+    "bookmark-of": [
+      "http://speakerdeck.com/u/andrew/p/em-vs-node"
+    ],
+    "category": [
+      "ruby",
+      "eventmachine",
+      "nodejs",
+      "async",
+      "via-pinboard"
+    ],
+    "slug": [
+      "em-vs-node"
+    ]
+  }
+}

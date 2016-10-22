@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["First part in a series of useful accesibility tips\n"],"published":["2006-03-08T09:49:43Z"],"entry-type":["bookmark"],"name":["Evaluating Website Accessibility (1)"],"bookmark-of":["http://www.456bereastreet.com/archive/200603/evaluating_website_accessibility_part_1_background_and_preparation/"],"category":["accessibility","css","web","standards","via-pinboard"],"slug":["evaluating-website-accessibility-1"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "First part in a series of useful accesibility tips\n"
+    ],
+    "published": [
+      "2006-03-08T09:49:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Evaluating Website Accessibility (1)"
+    ],
+    "bookmark-of": [
+      "http://www.456bereastreet.com/archive/200603/evaluating_website_accessibility_part_1_background_and_preparation/"
+    ],
+    "category": [
+      "accessibility",
+      "css",
+      "web",
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "evaluating-website-accessibility-1"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Dave__Bell Nice. Yeah, the natives were very restless. “Spend some fucking money” was the loudest song of the day."],"published":["2013-08-17T17:01:56Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/234519096/status/368779420800020481"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/368779742150811648"],"slug":["tweet-368779742150811648"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Dave__Bell Nice. Yeah, the natives were very restless. “Spend some fucking money” was the loudest song of the day."
+    ],
+    "published": [
+      "2013-08-17T17:01:56Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/234519096/status/368779420800020481"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/368779742150811648"
+    ],
+    "slug": [
+      "tweet-368779742150811648"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@WarwickBoar Congratulations! Our 25th anniversary issue in 1998 really doesn’t seem that long ago."],"published":["2013-10-11T12:48:22Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/35496603/status/388567598511980545"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/388647261477306368"],"slug":["tweet-388647261477306368"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@WarwickBoar Congratulations! Our 25th anniversary issue in 1998 really doesn’t seem that long ago."
+    ],
+    "published": [
+      "2013-10-11T12:48:22Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/35496603/status/388567598511980545"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/388647261477306368"
+    ],
+    "slug": [
+      "tweet-388647261477306368"
+    ]
+  }
+}

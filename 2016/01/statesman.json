@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Statesman is an opinionated state machine library designed to provide a robust audit trail and data integrity. It decouples the state machine logic from the underlying model and allows for easy composition with one or more model classes.\r\n"],"published":["2016-01-15T14:40:35Z"],"entry-type":["bookmark"],"name":["Statesman"],"bookmark-of":["https://github.com/gocardless/statesman"],"category":["statemachine","ruby"],"slug":["statesman"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Statesman is an opinionated state machine library designed to provide a robust audit trail and data integrity. It decouples the state machine logic from the underlying model and allows for easy composition with one or more model classes.\r\n"
+    ],
+    "published": [
+      "2016-01-15T14:40:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Statesman"
+    ],
+    "bookmark-of": [
+      "https://github.com/gocardless/statesman"
+    ],
+    "category": [
+      "statemachine",
+      "ruby"
+    ],
+    "slug": [
+      "statesman"
+    ]
+  }
+}

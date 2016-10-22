@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/tomgiddings/status/561215231951896576"],"published":["2015-01-30T17:31:52Z"],"content":["retweeted this."],"repost-of":["https://barryfrost.com/2015/01/if-it-wasn-t-irritating-enough"],"author":["http://www.tomgiddings.co.uk"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/tomgiddings/status/561215231951896576"
+    ],
+    "published": [
+      "2015-01-30T17:31:52Z"
+    ],
+    "content": [
+      "retweeted this."
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/01/if-it-wasn-t-irritating-enough"
+    ],
+    "author": [
+      "http://www.tomgiddings.co.uk"
+    ]
+  }
+}

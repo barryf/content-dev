@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2014-07-26T08:28:49Z"],"entry-type":["bookmark"],"name":["aanand/git-up · GitHub"],"bookmark-of":["https://github.com/aanand/git-up"],"category":["fromifttt","github","via-pinboard"],"slug":["aanand-git-up-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-07-26T08:28:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "aanand/git-up · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/aanand/git-up"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aanand-git-up-github"
+    ]
+  }
+}

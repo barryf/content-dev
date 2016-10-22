@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Interviewing and on-boarding from a recent Songkick hire"],"published":["2012-10-11T16:49:24Z"],"entry-type":["bookmark"],"name":["A month at Songkick"],"bookmark-of":["http://www.songkick.com/devblog/2012/10/11/a-month-at-songkick/"],"category":["recruitment","interview","onboard","uk","via-pinboard"],"slug":["a-month-at-songkick"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Interviewing and on-boarding from a recent Songkick hire"
+    ],
+    "published": [
+      "2012-10-11T16:49:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A month at Songkick"
+    ],
+    "bookmark-of": [
+      "http://www.songkick.com/devblog/2012/10/11/a-month-at-songkick/"
+    ],
+    "category": [
+      "recruitment",
+      "interview",
+      "onboard",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "a-month-at-songkick"
+    ]
+  }
+}

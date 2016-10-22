@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My office has been Xmas-bombed. Even my pens… Full set of photos from Santa (aka @timblair) http://bfr.st/Z9bcLT"],"published":["2012-12-11T09:46:01Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/278435458462142464"],"slug":["tweet-278435458462142464"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My office has been Xmas-bombed. Even my pens… Full set of photos from Santa (aka @timblair) http://bfr.st/Z9bcLT"
+    ],
+    "published": [
+      "2012-12-11T09:46:01Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/278435458462142464"
+    ],
+    "slug": [
+      "tweet-278435458462142464"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["Leaving on Friday morning - no 'puter until then so next entry will be from somewhere in New Zealand.  Hurrah!"],"published":["2000-10-18T00:00:00Z"],"slug":["leaving-on-friday-morning-no-puter"],"entry-type":["note"],"category":["travelblog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Leaving on Friday morning - no 'puter until then so next entry will be from somewhere in New Zealand.  Hurrah!"
+    ],
+    "published": [
+      "2000-10-18T00:00:00Z"
+    ],
+    "slug": [
+      "leaving-on-friday-morning-no-puter"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "travelblog"
+    ]
+  }
+}

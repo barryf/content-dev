@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Including Buster's lessons on how to build a happy startup\n"],"published":["2009-05-17T08:29:50Z"],"entry-type":["bookmark"],"name":["News! I’m leaving the Robot Co-op, starting Enjoymentland"],"bookmark-of":["http://enjoymentland.com/2009/05/14/leaving-robot-coop/"],"category":["startup","business","web","company","via-pinboard"],"slug":["news-i-m-leaving-the-robot"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Including Buster's lessons on how to build a happy startup\n"
+    ],
+    "published": [
+      "2009-05-17T08:29:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "News! I’m leaving the Robot Co-op, starting Enjoymentland"
+    ],
+    "bookmark-of": [
+      "http://enjoymentland.com/2009/05/14/leaving-robot-coop/"
+    ],
+    "category": [
+      "startup",
+      "business",
+      "web",
+      "company",
+      "via-pinboard"
+    ],
+    "slug": [
+      "news-i-m-leaving-the-robot"
+    ]
+  }
+}

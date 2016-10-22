@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@marckysharky That would look lovely framed in the office. Awesome."],"published":["2010-04-27T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16928503/status/12962991300"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/12963490505"],"slug":["tweet-12963490505"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@marckysharky That would look lovely framed in the office. Awesome."
+    ],
+    "published": [
+      "2010-04-27T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16928503/status/12962991300"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/12963490505"
+    ],
+    "slug": [
+      "tweet-12963490505"
+    ]
+  }
+}

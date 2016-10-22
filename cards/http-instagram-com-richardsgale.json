@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Richard Gale"],"photo":["https://instagramimages-a.akamaihd.net/profiles/anonymousUser.jpg"],"url":["http://instagram.com/richardsgale"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Richard Gale"
+    ],
+    "photo": [
+      "https://instagramimages-a.akamaihd.net/profiles/anonymousUser.jpg"
+    ],
+    "url": [
+      "http://instagram.com/richardsgale"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Namebox is a simple service to help you list your unwanted and/or unused web domains for sale. It's free to use and is built to make listing your domains super fast and easy."],"published":["2013-08-30T07:37:11Z"],"entry-type":["bookmark"],"name":["Namebox"],"bookmark-of":["http://namebox.io/"],"category":["domain","market","startup","via-pinboard"],"slug":["namebox"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Namebox is a simple service to help you list your unwanted and/or unused web domains for sale. It's free to use and is built to make listing your domains super fast and easy."
+    ],
+    "published": [
+      "2013-08-30T07:37:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Namebox"
+    ],
+    "bookmark-of": [
+      "http://namebox.io/"
+    ],
+    "category": [
+      "domain",
+      "market",
+      "startup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "namebox"
+    ]
+  }
+}

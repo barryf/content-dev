@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["Inexplicably Outlook 2007 won't support background images, background colours, floats, position and screws up the box model. It actually uses the Word rendering engine!\n"],"published":["2007-01-13T14:42:11Z"],"entry-type":["bookmark"],"name":["Microsoft takes email design back 5 years - Campaign Monitor Blog"],"bookmark-of":["http://www.campaignmonitor.com/blog/archives/2007/01/microsoft_takes_email_design_b.html"],"category":["email","microsoft","css","outlook","html","design","standards","newsletter","marketing","ie","via-pinboard"],"slug":["microsoft-takes-email-design-back-5"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Inexplicably Outlook 2007 won't support background images, background colours, floats, position and screws up the box model. It actually uses the Word rendering engine!\n"
+    ],
+    "published": [
+      "2007-01-13T14:42:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Microsoft takes email design back 5 years - Campaign Monitor Blog"
+    ],
+    "bookmark-of": [
+      "http://www.campaignmonitor.com/blog/archives/2007/01/microsoft_takes_email_design_b.html"
+    ],
+    "category": [
+      "email",
+      "microsoft",
+      "css",
+      "outlook",
+      "html",
+      "design",
+      "standards",
+      "newsletter",
+      "marketing",
+      "ie",
+      "via-pinboard"
+    ],
+    "slug": [
+      "microsoft-takes-email-design-back-5"
+    ]
+  }
+}

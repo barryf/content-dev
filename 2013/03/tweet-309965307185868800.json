@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@nixgeek Enjoyed your talk last night - very similar to how we work and ship. We’d love to use your/GH’s Propane hacks - are they public?"],"published":["2013-03-08T09:54:22Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/309965307185868800"],"slug":["tweet-309965307185868800"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nixgeek Enjoyed your talk last night - very similar to how we work and ship. We’d love to use your/GH’s Propane hacks - are they public?"
+    ],
+    "published": [
+      "2013-03-08T09:54:22Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/309965307185868800"
+    ],
+    "slug": [
+      "tweet-309965307185868800"
+    ]
+  }
+}

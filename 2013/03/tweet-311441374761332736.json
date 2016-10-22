@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@nstanley Needs a bit of localisation: “Ten past ten”."],"published":["2013-03-12T11:39:44Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11470692/status/311419897458597889"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/311441374761332736"],"slug":["tweet-311441374761332736"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@nstanley Needs a bit of localisation: “Ten past ten”."
+    ],
+    "published": [
+      "2013-03-12T11:39:44Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11470692/status/311419897458597889"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/311441374761332736"
+    ],
+    "slug": [
+      "tweet-311441374761332736"
+    ]
+  }
+}

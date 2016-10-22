@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw No, sorry, I can’t make that one either."],"published":["2013-11-24T19:31:39Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/404633469440913408"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/404693818148421632"],"slug":["tweet-404693818148421632"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw No, sorry, I can’t make that one either."
+    ],
+    "published": [
+      "2013-11-24T19:31:39Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/404633469440913408"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/404693818148421632"
+    ],
+    "slug": [
+      "tweet-404693818148421632"
+    ]
+  }
+}

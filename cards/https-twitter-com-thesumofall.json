@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Florian Heinemann"],"photo":["https://twitter.com/thesumofall/profile_image?size=original"],"url":["https://twitter.com/thesumofall"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Florian Heinemann"
+    ],
+    "photo": [
+      "https://twitter.com/thesumofall/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/thesumofall"
+    ]
+  }
+}

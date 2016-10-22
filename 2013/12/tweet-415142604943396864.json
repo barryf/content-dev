@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@agit8or Ha, the kind of downtime where I've just got one eye on my work email!"],"published":["2013-12-23T15:31:24Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/19501149/status/415140578138279936"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/415142604943396864"],"slug":["tweet-415142604943396864"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@agit8or Ha, the kind of downtime where I've just got one eye on my work email!"
+    ],
+    "published": [
+      "2013-12-23T15:31:24Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/19501149/status/415140578138279936"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/415142604943396864"
+    ],
+    "slug": [
+      "tweet-415142604943396864"
+    ]
+  }
+}

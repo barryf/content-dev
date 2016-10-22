@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2016-01-27T15:00:56Z"],"entry-type":["bookmark"],"name":["What HTTP/2 Means for Ruby Developers"],"bookmark-of":["https://www.nateberkopec.com/2016/01/07/what-http2-means-for-ruby-developers.html"],"category":["ruby","http","http2","performance"],"slug":["what-http-2-means-for-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-01-27T15:00:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "What HTTP/2 Means for Ruby Developers"
+    ],
+    "bookmark-of": [
+      "https://www.nateberkopec.com/2016/01/07/what-http2-means-for-ruby-developers.html"
+    ],
+    "category": [
+      "ruby",
+      "http",
+      "http2",
+      "performance"
+    ],
+    "slug": [
+      "what-http-2-means-for-ruby"
+    ]
+  }
+}

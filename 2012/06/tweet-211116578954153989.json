@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids Cheers Tom. Looking forward to it. Time to leave the royal confines of Berkshire."],"published":["2012-06-08T15:24:49Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/211097507994931200"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/211116578954153989"],"slug":["tweet-211116578954153989"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids Cheers Tom. Looking forward to it. Time to leave the royal confines of Berkshire."
+    ],
+    "published": [
+      "2012-06-08T15:24:49Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/211097507994931200"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/211116578954153989"
+    ],
+    "slug": [
+      "tweet-211116578954153989"
+    ]
+  }
+}

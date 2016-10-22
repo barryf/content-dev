@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@airbrake Ben, these things happen, but it’s frustrating without any status update. The timing of that newsletter was just unfortunate!"],"published":["2013-03-06T18:31:07Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/298023205/status/309366810791247872"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/309370573492977665"],"slug":["tweet-309370573492977665"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@airbrake Ben, these things happen, but it’s frustrating without any status update. The timing of that newsletter was just unfortunate!"
+    ],
+    "published": [
+      "2013-03-06T18:31:07Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/298023205/status/309366810791247872"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/309370573492977665"
+    ],
+    "slug": [
+      "tweet-309370573492977665"
+    ]
+  }
+}

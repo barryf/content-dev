@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@clearjanuary Hmm. App page rather than splash? OK, we'll investigate. Should also be a mobile link in bottom-right."],"published":["2011-12-21T16:56:14Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/80843056/status/149532848649547776"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/149533647878361088"],"slug":["tweet-149533647878361088"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@clearjanuary Hmm. App page rather than splash? OK, we'll investigate. Should also be a mobile link in bottom-right."
+    ],
+    "published": [
+      "2011-12-21T16:56:14Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/80843056/status/149532848649547776"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/149533647878361088"
+    ],
+    "slug": [
+      "tweet-149533647878361088"
+    ]
+  }
+}

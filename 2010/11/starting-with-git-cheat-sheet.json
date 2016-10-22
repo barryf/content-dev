@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2010-11-03T12:34:03Z"],"entry-type":["bookmark"],"name":["Starting with Git: Cheat Sheet"],"bookmark-of":["http://thinkvitamin.com/code/starting-with-git-cheat-sheet/"],"category":["cheatsheet","git","tutorial","via-pinboard"],"slug":["starting-with-git-cheat-sheet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-11-03T12:34:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Starting with Git: Cheat Sheet"
+    ],
+    "bookmark-of": [
+      "http://thinkvitamin.com/code/starting-with-git-cheat-sheet/"
+    ],
+    "category": [
+      "cheatsheet",
+      "git",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "starting-with-git-cheat-sheet"
+    ]
+  }
+}

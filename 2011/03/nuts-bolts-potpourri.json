@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["37Signals chose ServerCentral to co-lo their infrastructure\n"],"published":["2011-03-26T12:46:59Z"],"entry-type":["bookmark"],"name":["Nuts & Bolts: Potpourri"],"bookmark-of":["http://37signals.com/svn/posts/2488-nuts-bolts-potpourri"],"category":["server","hosting","37signals","colo","sysadmin","via-pinboard"],"slug":["nuts-bolts-potpourri"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "37Signals chose ServerCentral to co-lo their infrastructure\n"
+    ],
+    "published": [
+      "2011-03-26T12:46:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Nuts & Bolts: Potpourri"
+    ],
+    "bookmark-of": [
+      "http://37signals.com/svn/posts/2488-nuts-bolts-potpourri"
+    ],
+    "category": [
+      "server",
+      "hosting",
+      "37signals",
+      "colo",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nuts-bolts-potpourri"
+    ]
+  }
+}

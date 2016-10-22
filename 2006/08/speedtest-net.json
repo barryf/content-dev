@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Sexy Flash bandwidth visualisations\n"],"published":["2006-08-16T16:32:39Z"],"entry-type":["bookmark"],"name":["Speedtest.net"],"bookmark-of":["http://speedtest.net/"],"category":["broadband","bandwidth","test","speed","flash","upload","download","network","performance","via-pinboard"],"slug":["speedtest-net"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sexy Flash bandwidth visualisations\n"
+    ],
+    "published": [
+      "2006-08-16T16:32:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Speedtest.net"
+    ],
+    "bookmark-of": [
+      "http://speedtest.net/"
+    ],
+    "category": [
+      "broadband",
+      "bandwidth",
+      "test",
+      "speed",
+      "flash",
+      "upload",
+      "download",
+      "network",
+      "performance",
+      "via-pinboard"
+    ],
+    "slug": [
+      "speedtest-net"
+    ]
+  }
+}

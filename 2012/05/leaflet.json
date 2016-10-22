@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["JavaScript library for interactive maps by CloudMade. Uses OpenStreetMap.\n"],"published":["2012-05-03T12:25:16Z"],"entry-type":["bookmark"],"name":["Leaflet"],"bookmark-of":["http://leaflet.cloudmade.com/"],"category":["openstreetmap","opensource","maps","javascript","via-pinboard"],"slug":["leaflet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "JavaScript library for interactive maps by CloudMade. Uses OpenStreetMap.\n"
+    ],
+    "published": [
+      "2012-05-03T12:25:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Leaflet"
+    ],
+    "bookmark-of": [
+      "http://leaflet.cloudmade.com/"
+    ],
+    "category": [
+      "openstreetmap",
+      "opensource",
+      "maps",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "leaflet"
+    ]
+  }
+}

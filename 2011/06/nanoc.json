@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Ruby site compiler that generates static HTML from Markdown, Textile, Haml, etc.\n"],"published":["2011-06-10T09:58:43Z"],"entry-type":["bookmark"],"name":["nanoc"],"bookmark-of":["http://nanoc.stoneship.org/"],"category":["ruby","nanoc","generator","web","cms","markdown","haml","textile","via-pinboard"],"slug":["nanoc"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby site compiler that generates static HTML from Markdown, Textile, Haml, etc.\n"
+    ],
+    "published": [
+      "2011-06-10T09:58:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "nanoc"
+    ],
+    "bookmark-of": [
+      "http://nanoc.stoneship.org/"
+    ],
+    "category": [
+      "ruby",
+      "nanoc",
+      "generator",
+      "web",
+      "cms",
+      "markdown",
+      "haml",
+      "textile",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nanoc"
+    ]
+  }
+}

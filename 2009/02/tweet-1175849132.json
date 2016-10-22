@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@rosswilliams (to the tune of Dancing Queen) You are our Arshavin/Move those feet, Arsenal's 23... I'm at Goldsmith's Open Day with Alex."],"published":["2009-02-04T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/11832/status/1175715055"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1175849132"],"slug":["tweet-1175849132"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@rosswilliams (to the tune of Dancing Queen) You are our Arshavin/Move those feet, Arsenal's 23... I'm at Goldsmith's Open Day with Alex."
+    ],
+    "published": [
+      "2009-02-04T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/11832/status/1175715055"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1175849132"
+    ],
+    "slug": [
+      "tweet-1175849132"
+    ]
+  }
+}

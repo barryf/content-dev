@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@ioptics @timblair RT Results of an A/B test on the mobile “hamburger” nav icon http://exisweb.net/mobile-menu-icons"],"published":["2014-02-12T08:35:08Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/433519629370396672"],"slug":["tweet-433519629370396672"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ioptics @timblair RT Results of an A/B test on the mobile “hamburger” nav icon http://exisweb.net/mobile-menu-icons"
+    ],
+    "published": [
+      "2014-02-12T08:35:08Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/433519629370396672"
+    ],
+    "slug": [
+      "tweet-433519629370396672"
+    ]
+  }
+}

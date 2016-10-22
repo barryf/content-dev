@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Martin Goode"],"photo":["https://twitter.com/martingoode/profile_image?size=original"],"url":["http://www.wilsonfletcher.com"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Martin Goode"
+    ],
+    "photo": [
+      "https://twitter.com/martingoode/profile_image?size=original"
+    ],
+    "url": [
+      "http://www.wilsonfletcher.com"
+    ]
+  }
+}

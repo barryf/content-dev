@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Describes use of Heroku's new custom buildpack to generate the site at build time - much cleaner."],"published":["2012-07-17T22:10:04Z"],"entry-type":["bookmark"],"name":["Run Your Jekyll Site On Heroku"],"bookmark-of":["http://mwmanning.com/2011/11/29/Run-Your-Jekyll-Site-On-Heroku.html"],"category":["git","heroku","jekyll","ruby","blog","via-pinboard"],"slug":["run-your-jekyll-site-on-heroku"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Describes use of Heroku's new custom buildpack to generate the site at build time - much cleaner."
+    ],
+    "published": [
+      "2012-07-17T22:10:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Run Your Jekyll Site On Heroku"
+    ],
+    "bookmark-of": [
+      "http://mwmanning.com/2011/11/29/Run-Your-Jekyll-Site-On-Heroku.html"
+    ],
+    "category": [
+      "git",
+      "heroku",
+      "jekyll",
+      "ruby",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "run-your-jekyll-site-on-heroku"
+    ]
+  }
+}

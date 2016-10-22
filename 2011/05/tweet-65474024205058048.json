@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@hobbsy This article claims the 27in does, although doesn't quote a source: http://gigaom.com/apple/new-27-inch-imac-supports-dual-external-display-output/"],"published":["2011-05-03T17:53:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/754966/status/65461561304678400"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/65474024205058048"],"slug":["tweet-65474024205058048"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hobbsy This article claims the 27in does, although doesn't quote a source: http://gigaom.com/apple/new-27-inch-imac-supports-dual-external-display-output/"
+    ],
+    "published": [
+      "2011-05-03T17:53:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/754966/status/65461561304678400"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/65474024205058048"
+    ],
+    "slug": [
+      "tweet-65474024205058048"
+    ]
+  }
+}

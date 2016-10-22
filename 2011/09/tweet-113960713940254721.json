@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Not yet - according to Amazon UK http://www.amazon.co.uk/dp/059306612X"],"published":["2011-09-14T13:02:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/113959615061950464"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/113960713940254721"],"slug":["tweet-113960713940254721"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Not yet - according to Amazon UK http://www.amazon.co.uk/dp/059306612X"
+    ],
+    "published": [
+      "2011-09-14T13:02:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/113959615061950464"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/113960713940254721"
+    ],
+    "slug": [
+      "tweet-113960713940254721"
+    ]
+  }
+}

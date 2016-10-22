@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The new #bbcnewssite is much better in my opinion. Sensible URLs, whitespace and even a switch to Helvetica with webkit antialiasing."],"published":["2010-07-14T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/18515952202"],"slug":["tweet-18515952202"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The new #bbcnewssite is much better in my opinion. Sensible URLs, whitespace and even a switch to Helvetica with webkit antialiasing."
+    ],
+    "published": [
+      "2010-07-14T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/18515952202"
+    ],
+    "slug": [
+      "tweet-18515952202"
+    ]
+  }
+}

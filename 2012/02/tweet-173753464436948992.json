@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh Interesting. I've a soft spot for Pompey. Spurs + Saints means you're a double scummer!"],"published":["2012-02-26T12:57:08Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/173751988771766272"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/173753464436948992"],"slug":["tweet-173753464436948992"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh Interesting. I've a soft spot for Pompey. Spurs + Saints means you're a double scummer!"
+    ],
+    "published": [
+      "2012-02-26T12:57:08Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/173751988771766272"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/173753464436948992"
+    ],
+    "slug": [
+      "tweet-173753464436948992"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tom Scott"],"photo":["http://pbs.twimg.com/profile_images/418422190359343104/UQXoTiOR_normal.jpeg"],"url":["https://twitter.com/tomscott"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom Scott"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/418422190359343104/UQXoTiOR_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/tomscott"
+    ]
+  }
+}

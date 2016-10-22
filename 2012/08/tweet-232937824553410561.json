@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Watching Blur's Maida Vale gig on BBC Red Button in preparation for Sunday's Olympics Hyde Park closing show. Spine-tingling This is a Low."],"published":["2012-08-07T20:34:39Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/232937824553410561"],"slug":["tweet-232937824553410561"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watching Blur's Maida Vale gig on BBC Red Button in preparation for Sunday's Olympics Hyde Park closing show. Spine-tingling This is a Low."
+    ],
+    "published": [
+      "2012-08-07T20:34:39Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/232937824553410561"
+    ],
+    "slug": [
+      "tweet-232937824553410561"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["A powerful HTTP client to test web services"],"published":["2013-12-23T12:05:37Z"],"entry-type":["bookmark"],"name":["Postman"],"bookmark-of":["http://www.getpostman.com/"],"category":["chrome","http","rest","debug","via-pinboard"],"slug":["postman"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A powerful HTTP client to test web services"
+    ],
+    "published": [
+      "2013-12-23T12:05:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Postman"
+    ],
+    "bookmark-of": [
+      "http://www.getpostman.com/"
+    ],
+    "category": [
+      "chrome",
+      "http",
+      "rest",
+      "debug",
+      "via-pinboard"
+    ],
+    "slug": [
+      "postman"
+    ]
+  }
+}

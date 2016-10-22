@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids Excellent 9 mins. I especially liked the need to balance impulse vs aspirational stuff. Important to explore outside what's normal."],"published":["2011-05-18T18:11:56Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/70897454979100672"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/70914531043450880"],"slug":["tweet-70914531043450880"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids Excellent 9 mins. I especially liked the need to balance impulse vs aspirational stuff. Important to explore outside what's normal."
+    ],
+    "published": [
+      "2011-05-18T18:11:56Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/70897454979100672"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/70914531043450880"
+    ],
+    "slug": [
+      "tweet-70914531043450880"
+    ]
+  }
+}

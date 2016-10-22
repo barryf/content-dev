@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@grayhaze Oh god no! *gags again*"],"published":["2013-02-13T09:14:12Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22610785/status/301619680194482176"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/301620276771307522"],"slug":["tweet-301620276771307522"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@grayhaze Oh god no! *gags again*"
+    ],
+    "published": [
+      "2013-02-13T09:14:12Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22610785/status/301619680194482176"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/301620276771307522"
+    ],
+    "slug": [
+      "tweet-301620276771307522"
+    ]
+  }
+}

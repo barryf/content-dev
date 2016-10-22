@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-05T21:10:13Z"],"entry-type":["bookmark"],"name":["CSS Panic Guide"],"bookmark-of":["http://www.thenoodleincident.com/tutorials/css/index.html"],"category":["css","via-pinboard"],"slug":["css-panic-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-05T21:10:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CSS Panic Guide"
+    ],
+    "bookmark-of": [
+      "http://www.thenoodleincident.com/tutorials/css/index.html"
+    ],
+    "category": [
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "css-panic-guide"
+    ]
+  }
+}

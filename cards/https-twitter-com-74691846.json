@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Keith Clark"],"photo":["http://pbs.twimg.com/profile_images/459695119348678661/Jbo4IAfZ_normal.jpeg"],"url":["https://twitter.com/keithclarkcouk"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Keith Clark"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/459695119348678661/Jbo4IAfZ_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/keithclarkcouk"
+    ]
+  }
+}

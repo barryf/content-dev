@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids COME ON TIM!"],"published":["2010-06-30T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/17426539128"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/17426665809"],"slug":["tweet-17426665809"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids COME ON TIM!"
+    ],
+    "published": [
+      "2010-06-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/17426539128"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/17426665809"
+    ],
+    "slug": [
+      "tweet-17426665809"
+    ]
+  }
+}

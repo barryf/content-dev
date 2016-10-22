@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Refurbished my old iMac with a SSD and gave it to my wife: her very first Mac. Enjoying all her newbie discoveries I’d forgotten."],"published":["2014-11-30T20:49:31Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/539159311977828352"],"slug":["tweet-539159311977828352"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Refurbished my old iMac with a SSD and gave it to my wife: her very first Mac. Enjoying all her newbie discoveries I’d forgotten."
+    ],
+    "published": [
+      "2014-11-30T20:49:31Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/539159311977828352"
+    ],
+    "slug": [
+      "tweet-539159311977828352"
+    ]
+  }
+}

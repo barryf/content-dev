@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2008-05-28T18:27:55Z"],"entry-type":["bookmark"],"name":["Ten typographic mistakes everyone makes"],"bookmark-of":["http://www.recedinghairline.co.uk/files/c1c3be2fda2b218e858029a4bde7e96c-397.html"],"category":["typography","writing","design","grammar","font","web","mac","useful","via-pinboard"],"slug":["ten-typographic-mistakes-everyone-makes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-05-28T18:27:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ten typographic mistakes everyone makes"
+    ],
+    "bookmark-of": [
+      "http://www.recedinghairline.co.uk/files/c1c3be2fda2b218e858029a4bde7e96c-397.html"
+    ],
+    "category": [
+      "typography",
+      "writing",
+      "design",
+      "grammar",
+      "font",
+      "web",
+      "mac",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ten-typographic-mistakes-everyone-makes"
+    ]
+  }
+}

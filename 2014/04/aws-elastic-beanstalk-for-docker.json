@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["You can now have Elastic Beanstalk provision, monitor and load balance Docker images."],"published":["2014-04-24T07:53:48Z"],"entry-type":["bookmark"],"name":["AWS Elastic Beanstalk for Docker"],"bookmark-of":["http://aws.typepad.com/aws/2014/04/aws-elastic-beanstalk-for-docker.html"],"category":["amazon","was","docker","elasticbeanstalk","loadbalance","server","sysadmin","via-pinboard"],"slug":["aws-elastic-beanstalk-for-docker"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "You can now have Elastic Beanstalk provision, monitor and load balance Docker images."
+    ],
+    "published": [
+      "2014-04-24T07:53:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "AWS Elastic Beanstalk for Docker"
+    ],
+    "bookmark-of": [
+      "http://aws.typepad.com/aws/2014/04/aws-elastic-beanstalk-for-docker.html"
+    ],
+    "category": [
+      "amazon",
+      "was",
+      "docker",
+      "elasticbeanstalk",
+      "loadbalance",
+      "server",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aws-elastic-beanstalk-for-docker"
+    ]
+  }
+}

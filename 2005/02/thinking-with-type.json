@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-03T21:37:19Z"],"entry-type":["bookmark"],"name":["Thinking With Type"],"bookmark-of":["http://www.thinkingwithtype.com/"],"category":["font","design","via-pinboard"],"slug":["thinking-with-type"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-03T21:37:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Thinking With Type"
+    ],
+    "bookmark-of": [
+      "http://www.thinkingwithtype.com/"
+    ],
+    "category": [
+      "font",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "thinking-with-type"
+    ]
+  }
+}

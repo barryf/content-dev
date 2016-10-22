@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2015-05-07T09:02:47Z"],"entry-type":["like"],"like-of":["https://twitter.com/iowahawkblog/status/594168269759623168"],"syndication":["https://twitter.com/iowahawkblog/status/594168269759623168"],"slug":["07-100247"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-05-07T09:02:47Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/iowahawkblog/status/594168269759623168"
+    ],
+    "syndication": [
+      "https://twitter.com/iowahawkblog/status/594168269759623168"
+    ],
+    "slug": [
+      "07-100247"
+    ]
+  }
+}

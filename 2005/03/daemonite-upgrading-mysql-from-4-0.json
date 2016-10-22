@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-03-21T09:25:37Z"],"entry-type":["bookmark"],"name":["Daemonite: Upgrading mySQL from 4.0 to 4.1"],"bookmark-of":["http://blog.daemon.com.au/archives/000304.html"],"category":["mysql","database","via-pinboard"],"slug":["daemonite-upgrading-mysql-from-4-0"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-03-21T09:25:37Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Daemonite: Upgrading mySQL from 4.0 to 4.1"
+    ],
+    "bookmark-of": [
+      "http://blog.daemon.com.au/archives/000304.html"
+    ],
+    "category": [
+      "mysql",
+      "database",
+      "via-pinboard"
+    ],
+    "slug": [
+      "daemonite-upgrading-mysql-from-4-0"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Rails from a ColdFusion developer's perspective. Pretty compelling stuff.\n"],"published":["2005-07-25T08:45:46Z"],"entry-type":["bookmark"],"name":["Michael Buffington | First Rails App Shipped"],"bookmark-of":["http://www.michaelbuffington.com/archives/2005/06/first_rails_app.html"],"category":["coldfusion","rails","dev","via-pinboard"],"slug":["michael-buffington-first-rails-app-shipped"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails from a ColdFusion developer's perspective. Pretty compelling stuff.\n"
+    ],
+    "published": [
+      "2005-07-25T08:45:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Michael Buffington | First Rails App Shipped"
+    ],
+    "bookmark-of": [
+      "http://www.michaelbuffington.com/archives/2005/06/first_rails_app.html"
+    ],
+    "category": [
+      "coldfusion",
+      "rails",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "michael-buffington-first-rails-app-shipped"
+    ]
+  }
+}

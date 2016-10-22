@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The Strange Face project: photos of people listening to a lost recording of Nick Drake's Cello Song http://elastictv.com/elastictv/strangeface.html"],"published":["2012-01-25T10:29:11Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/162119817061613569"],"slug":["tweet-162119817061613569"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The Strange Face project: photos of people listening to a lost recording of Nick Drake's Cello Song http://elastictv.com/elastictv/strangeface.html"
+    ],
+    "published": [
+      "2012-01-25T10:29:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/162119817061613569"
+    ],
+    "slug": [
+      "tweet-162119817061613569"
+    ]
+  }
+}

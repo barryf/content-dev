@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair. Phew. Glad to hear the internets have returned for you."],"published":["2008-10-06T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/948544909"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/948613484"],"slug":["tweet-948613484"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair. Phew. Glad to hear the internets have returned for you."
+    ],
+    "published": [
+      "2008-10-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/948544909"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/948613484"
+    ],
+    "slug": [
+      "tweet-948613484"
+    ]
+  }
+}

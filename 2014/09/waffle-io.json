@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Project management tool powered by GitHub issues and PRs"],"published":["2014-09-16T14:57:05Z"],"entry-type":["bookmark"],"name":["Waffle.io"],"bookmark-of":["https://waffle.io/"],"category":["github","kanban","pm","team","via-pinboard"],"slug":["waffle-io"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Project management tool powered by GitHub issues and PRs"
+    ],
+    "published": [
+      "2014-09-16T14:57:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Waffle.io"
+    ],
+    "bookmark-of": [
+      "https://waffle.io/"
+    ],
+    "category": [
+      "github",
+      "kanban",
+      "pm",
+      "team",
+      "via-pinboard"
+    ],
+    "slug": [
+      "waffle-io"
+    ]
+  }
+}

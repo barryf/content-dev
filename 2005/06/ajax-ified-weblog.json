@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Simple form validation using Ajax\n"],"published":["2005-06-28T15:35:53Z"],"entry-type":["bookmark"],"name":["Ajax-ified Weblog"],"bookmark-of":["http://bbuchs.f2o.org/archives/2005/06/23/ajax-ified_weblog/"],"category":["ajax","blog","javascript","validation","via-pinboard"],"slug":["ajax-ified-weblog"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simple form validation using Ajax\n"
+    ],
+    "published": [
+      "2005-06-28T15:35:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ajax-ified Weblog"
+    ],
+    "bookmark-of": [
+      "http://bbuchs.f2o.org/archives/2005/06/23/ajax-ified_weblog/"
+    ],
+    "category": [
+      "ajax",
+      "blog",
+      "javascript",
+      "validation",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ajax-ified-weblog"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Comprehensive set of icons for use in iPhone apps as toolbar buttons\n"],"published":["2009-04-19T11:54:42Z"],"entry-type":["bookmark"],"name":["eddit: Shop: iPhone UI Icon Set"],"bookmark-of":["http://www.eddit.com/shop/iphone_ui_icon_set/"],"category":["icon","button","iphone","ui","design","tabbar","via-pinboard"],"slug":["eddit-shop-iphone-ui-icon-set"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Comprehensive set of icons for use in iPhone apps as toolbar buttons\n"
+    ],
+    "published": [
+      "2009-04-19T11:54:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "eddit: Shop: iPhone UI Icon Set"
+    ],
+    "bookmark-of": [
+      "http://www.eddit.com/shop/iphone_ui_icon_set/"
+    ],
+    "category": [
+      "icon",
+      "button",
+      "iphone",
+      "ui",
+      "design",
+      "tabbar",
+      "via-pinboard"
+    ],
+    "slug": [
+      "eddit-shop-iphone-ui-icon-set"
+    ]
+  }
+}

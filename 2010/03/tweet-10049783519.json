@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd Alec Baldwin? He's the best actor in the world!"],"published":["2010-03-06T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/10049674603"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/10049783519"],"slug":["tweet-10049783519"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd Alec Baldwin? He's the best actor in the world!"
+    ],
+    "published": [
+      "2010-03-06T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/10049674603"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/10049783519"
+    ],
+    "slug": [
+      "tweet-10049783519"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Online digital photo printing, print photos, photo cards, photo books and more"],"published":["2014-11-03T08:58:15Z"],"entry-type":["bookmark"],"name":["Snapfish"],"bookmark-of":["http://www.snapfish.co.uk/"],"category":["photo","printing","cards","calendar","uk","via-pinboard"],"slug":["snapfish"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Online digital photo printing, print photos, photo cards, photo books and more"
+    ],
+    "published": [
+      "2014-11-03T08:58:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Snapfish"
+    ],
+    "bookmark-of": [
+      "http://www.snapfish.co.uk/"
+    ],
+    "category": [
+      "photo",
+      "printing",
+      "cards",
+      "calendar",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "snapfish"
+    ]
+  }
+}

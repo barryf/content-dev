@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@timblair when you say \"extra hair\", do you mean \"some hair\"?"],"published":["2007-11-29T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4672/status/455588592"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/455652642"],"slug":["tweet-455652642"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@timblair when you say \"extra hair\", do you mean \"some hair\"?"
+    ],
+    "published": [
+      "2007-11-29T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4672/status/455588592"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/455652642"
+    ],
+    "slug": [
+      "tweet-455652642"
+    ]
+  }
+}

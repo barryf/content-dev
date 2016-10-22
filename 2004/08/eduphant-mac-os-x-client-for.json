@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-02T15:12:57Z"],"entry-type":["bookmark"],"name":["Eduphant: Mac OS X Client for PostgreSQL"],"bookmark-of":["http://www.aliacta.com/products/eduphant.htm"],"category":["mac","postgresql","via-pinboard"],"slug":["eduphant-mac-os-x-client-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-02T15:12:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Eduphant: Mac OS X Client for PostgreSQL"
+    ],
+    "bookmark-of": [
+      "http://www.aliacta.com/products/eduphant.htm"
+    ],
+    "category": [
+      "mac",
+      "postgresql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "eduphant-mac-os-x-client-for"
+    ]
+  }
+}

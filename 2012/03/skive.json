@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["London-based digital agency (with a nice website).\n"],"published":["2012-03-07T16:39:57Z"],"entry-type":["bookmark"],"name":["Skive"],"bookmark-of":["http://skive.co.uk/"],"category":["portfolio","inspiration","london","digital","design","agency","via-pinboard"],"slug":["skive"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "London-based digital agency (with a nice website).\n"
+    ],
+    "published": [
+      "2012-03-07T16:39:57Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Skive"
+    ],
+    "bookmark-of": [
+      "http://skive.co.uk/"
+    ],
+    "category": [
+      "portfolio",
+      "inspiration",
+      "london",
+      "digital",
+      "design",
+      "agency",
+      "via-pinboard"
+    ],
+    "slug": [
+      "skive"
+    ]
+  }
+}

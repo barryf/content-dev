@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@marckysharky Terrible shame about Chelsea. Third place for the Arse I think."],"published":["2009-02-01T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16928503/status/1166923896"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1167731958"],"slug":["tweet-1167731958"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@marckysharky Terrible shame about Chelsea. Third place for the Arse I think."
+    ],
+    "published": [
+      "2009-02-01T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16928503/status/1166923896"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1167731958"
+    ],
+    "slug": [
+      "tweet-1167731958"
+    ]
+  }
+}

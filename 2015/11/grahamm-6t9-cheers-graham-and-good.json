@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@GrahamM_6t9 Cheers, Graham. And good luck with yours!"],"published":["2015-11-01T18:54:56Z"],"entry-type":["reply"],"summary":["@GrahamM_6t9 Cheers, Graham. And good luck with yours!"],"in-reply-to":["https://twitter.com/GrahamM_6t9/status/660891801734283264"],"syndication":["https://twitter.com/barryf/status/660892810543890433"],"slug":["grahamm-6t9-cheers-graham-and-good"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@GrahamM_6t9 Cheers, Graham. And good luck with yours!"
+    ],
+    "published": [
+      "2015-11-01T18:54:56Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@GrahamM_6t9 Cheers, Graham. And good luck with yours!"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/GrahamM_6t9/status/660891801734283264"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/660892810543890433"
+    ],
+    "slug": [
+      "grahamm-6t9-cheers-graham-and-good"
+    ]
+  }
+}

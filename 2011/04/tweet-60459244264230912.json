@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@neilmiddleton It's a great concept: write, generate and git push."],"published":["2011-04-19T21:46:21Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/4143281/status/60458254236524545"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/60459244264230912"],"slug":["tweet-60459244264230912"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@neilmiddleton It's a great concept: write, generate and git push."
+    ],
+    "published": [
+      "2011-04-19T21:46:21Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/4143281/status/60458254236524545"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/60459244264230912"
+    ],
+    "slug": [
+      "tweet-60459244264230912"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["This could be very useful in the @globaldev office RT @IFTTT @37signals group chat service, Campfire, is now on IFTTT! http://bfr.st/SOuLSh"],"published":["2012-11-20T19:17:09Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/270969043694002176"],"slug":["tweet-270969043694002176"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This could be very useful in the @globaldev office RT @IFTTT @37signals group chat service, Campfire, is now on IFTTT! http://bfr.st/SOuLSh"
+    ],
+    "published": [
+      "2012-11-20T19:17:09Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/270969043694002176"
+    ],
+    "slug": [
+      "tweet-270969043694002176"
+    ]
+  }
+}

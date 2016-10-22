@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@sevarina Only if he asks nicely. The iPad 2 should be with you both next week when @tomgiddings brings it home for you."],"published":["2011-10-13T21:36:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/18960147/status/124563767177654272"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/124599289237352448"],"slug":["tweet-124599289237352448"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@sevarina Only if he asks nicely. The iPad 2 should be with you both next week when @tomgiddings brings it home for you."
+    ],
+    "published": [
+      "2011-10-13T21:36:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/18960147/status/124563767177654272"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/124599289237352448"
+    ],
+    "slug": [
+      "tweet-124599289237352448"
+    ]
+  }
+}

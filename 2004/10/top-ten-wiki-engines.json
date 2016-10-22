@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-10-25T15:06:35Z"],"entry-type":["bookmark"],"name":["Top Ten Wiki Engines"],"bookmark-of":["http://c2.com/cgi/wiki?TopTenWikiEngines"],"category":["wiki","via-pinboard"],"slug":["top-ten-wiki-engines"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-10-25T15:06:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Top Ten Wiki Engines"
+    ],
+    "bookmark-of": [
+      "http://c2.com/cgi/wiki?TopTenWikiEngines"
+    ],
+    "category": [
+      "wiki",
+      "via-pinboard"
+    ],
+    "slug": [
+      "top-ten-wiki-engines"
+    ]
+  }
+}

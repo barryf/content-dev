@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2011-11-08T12:26:23Z"],"entry-type":["bookmark"],"name":["Redis: Zero to Master in 30 minutes - Part 1"],"bookmark-of":["http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/"],"category":["redis","guide","nosql","via-pinboard"],"slug":["redis-zero-to-master-in-30"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-11-08T12:26:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Redis: Zero to Master in 30 minutes - Part 1"
+    ],
+    "bookmark-of": [
+      "http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/"
+    ],
+    "category": [
+      "redis",
+      "guide",
+      "nosql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "redis-zero-to-master-in-30"
+    ]
+  }
+}

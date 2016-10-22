@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Iain Haywood"],"photo":["https://twitter.com/iainhaywood/profile_image?size=original"],"url":["https://twitter.com/iainhaywood"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Iain Haywood"
+    ],
+    "photo": [
+      "https://twitter.com/iainhaywood/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/iainhaywood"
+    ]
+  }
+}

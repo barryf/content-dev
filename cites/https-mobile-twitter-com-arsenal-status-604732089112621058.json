@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://mobile.twitter.com/Arsenal/status/604732089112621058"],"published":["2015-05-30T19:32:20Z"],"content":["WHAT DID SHE WEAR?! #WeAreArsenal"],"photo":["http://pbs.twimg.com/media/CGRwoVLW8AEPFMo.jpg"],"author":["https://twitter.com/Arsenal"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://mobile.twitter.com/Arsenal/status/604732089112621058"
+    ],
+    "published": [
+      "2015-05-30T19:32:20Z"
+    ],
+    "content": [
+      "WHAT DID SHE WEAR?! #WeAreArsenal"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/CGRwoVLW8AEPFMo.jpg"
+    ],
+    "author": [
+      "https://twitter.com/Arsenal"
+    ]
+  }
+}

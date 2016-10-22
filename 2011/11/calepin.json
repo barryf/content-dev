@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Write articles in Markdown, save them in a special Dropbox folder and Calepin turns them into static pages hosted at subdomain.calepin.co. Uses a Python generation tool called Pelican.\n"],"published":["2011-11-23T21:16:52Z"],"entry-type":["bookmark"],"name":["Calepin"],"bookmark-of":["http://calepin.co/"],"category":["dropbox","markdown","static","pelican","blog","via-pinboard"],"slug":["calepin"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Write articles in Markdown, save them in a special Dropbox folder and Calepin turns them into static pages hosted at subdomain.calepin.co. Uses a Python generation tool called Pelican.\n"
+    ],
+    "published": [
+      "2011-11-23T21:16:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Calepin"
+    ],
+    "bookmark-of": [
+      "http://calepin.co/"
+    ],
+    "category": [
+      "dropbox",
+      "markdown",
+      "static",
+      "pelican",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "calepin"
+    ]
+  }
+}

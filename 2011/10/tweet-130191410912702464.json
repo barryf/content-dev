@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Up very early and now on my first train to get to BarCamp London. #bcl9"],"published":["2011-10-29T07:57:05Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/130191410912702464"],"slug":["tweet-130191410912702464"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Up very early and now on my first train to get to BarCamp London. #bcl9"
+    ],
+    "published": [
+      "2011-10-29T07:57:05Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/130191410912702464"
+    ],
+    "slug": [
+      "tweet-130191410912702464"
+    ]
+  }
+}

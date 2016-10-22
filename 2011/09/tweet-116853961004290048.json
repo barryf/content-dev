@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I've blogged for @globaldev again: my write-up of the Future of Mobile conference last week http://globaldev.co.uk/2011/09/future-of-mobile-2011/"],"published":["2011-09-22T12:38:50Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/116853961004290048"],"slug":["tweet-116853961004290048"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've blogged for @globaldev again: my write-up of the Future of Mobile conference last week http://globaldev.co.uk/2011/09/future-of-mobile-2011/"
+    ],
+    "published": [
+      "2011-09-22T12:38:50Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/116853961004290048"
+    ],
+    "slug": [
+      "tweet-116853961004290048"
+    ]
+  }
+}

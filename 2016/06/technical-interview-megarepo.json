@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Study materials for technical interviews"],"published":["2016-06-12T11:45:42Z"],"entry-type":["bookmark"],"name":["Technical Interview Megarepo"],"bookmark-of":["https://github.com/jdsutton/Technical-Interview-Megarepo"],"category":["interview","exercise"],"slug":["technical-interview-megarepo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Study materials for technical interviews"
+    ],
+    "published": [
+      "2016-06-12T11:45:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Technical Interview Megarepo"
+    ],
+    "bookmark-of": [
+      "https://github.com/jdsutton/Technical-Interview-Megarepo"
+    ],
+    "category": [
+      "interview",
+      "exercise"
+    ],
+    "slug": [
+      "technical-interview-megarepo"
+    ]
+  }
+}

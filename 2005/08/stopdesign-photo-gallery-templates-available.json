@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-26T11:48:40Z"],"entry-type":["bookmark"],"name":["Stopdesign | Photo Gallery Templates available"],"bookmark-of":["http://www.stopdesign.com/log/2005/08/24/photo-templates.html"],"category":["design","photo","css","web","via-pinboard"],"slug":["stopdesign-photo-gallery-templates-available"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-26T11:48:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Stopdesign | Photo Gallery Templates available"
+    ],
+    "bookmark-of": [
+      "http://www.stopdesign.com/log/2005/08/24/photo-templates.html"
+    ],
+    "category": [
+      "design",
+      "photo",
+      "css",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stopdesign-photo-gallery-templates-available"
+    ]
+  }
+}

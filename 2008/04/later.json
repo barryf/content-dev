@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["My first stab at a Google App Engine app. It's hardly original - a Read Later clone - but it's been a fun learning experience of Python and GAE\n"],"published":["2008-04-13T20:46:30Z"],"entry-type":["bookmark"],"name":["Later"],"bookmark-of":["http://later.appspot.com/"],"category":["googleappengine","appengine","gae","google","python","later","dev","readlater","bookmark","personal","work","via-pinboard"],"slug":["later"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My first stab at a Google App Engine app. It's hardly original - a Read Later clone - but it's been a fun learning experience of Python and GAE\n"
+    ],
+    "published": [
+      "2008-04-13T20:46:30Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Later"
+    ],
+    "bookmark-of": [
+      "http://later.appspot.com/"
+    ],
+    "category": [
+      "googleappengine",
+      "appengine",
+      "gae",
+      "google",
+      "python",
+      "later",
+      "dev",
+      "readlater",
+      "bookmark",
+      "personal",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "later"
+    ]
+  }
+}

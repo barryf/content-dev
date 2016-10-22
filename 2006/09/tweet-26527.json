@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Crying about my scratched car"],"published":["2006-09-07T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/26527"],"slug":["tweet-26527"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Crying about my scratched car"
+    ],
+    "published": [
+      "2006-09-07T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/26527"
+    ],
+    "slug": [
+      "tweet-26527"
+    ]
+  }
+}

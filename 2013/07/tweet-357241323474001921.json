@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Inspired by this news story, I’ve been re-enjoying Monty Python’s Penis Song http://youtu.be/nGRPFUYUUdQ RT @prodnose: http://www.bbc.co.uk/news/uk-23329442"],"published":["2013-07-16T20:52:23Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/357241323474001921"],"slug":["tweet-357241323474001921"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Inspired by this news story, I’ve been re-enjoying Monty Python’s Penis Song http://youtu.be/nGRPFUYUUdQ RT @prodnose: http://www.bbc.co.uk/news/uk-23329442"
+    ],
+    "published": [
+      "2013-07-16T20:52:23Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/357241323474001921"
+    ],
+    "slug": [
+      "tweet-357241323474001921"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Free app that provides Magic Mouse enhancements\n"],"published":["2010-02-01T09:18:41Z"],"entry-type":["bookmark"],"name":["MagicPrefs"],"bookmark-of":["http://magicprefs.com/index.php"],"category":["magicmouse","mouse","mac","free","multitouch","hardware","via-pinboard"],"slug":["magicprefs"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free app that provides Magic Mouse enhancements\n"
+    ],
+    "published": [
+      "2010-02-01T09:18:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MagicPrefs"
+    ],
+    "bookmark-of": [
+      "http://magicprefs.com/index.php"
+    ],
+    "category": [
+      "magicmouse",
+      "mouse",
+      "mac",
+      "free",
+      "multitouch",
+      "hardware",
+      "via-pinboard"
+    ],
+    "slug": [
+      "magicprefs"
+    ]
+  }
+}

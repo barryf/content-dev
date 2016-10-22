@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/grayhaze/status/639370528772460544"],"published":["2015-09-03T09:33:07Z"],"content":["RT @barryf: New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor dev.venntro.com/jobs/"],"repost-of":["https://barryfrost.com/2015/09/new-roles-i-m-looking-for"],"author":["https://twitter.com/grayhaze"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/grayhaze/status/639370528772460544"
+    ],
+    "published": [
+      "2015-09-03T09:33:07Z"
+    ],
+    "content": [
+      "RT @barryf: New roles: I'm looking for a Ruby dev, QA and web designer to join us at @venntrodev in Covent Garden or Windsor dev.venntro.com/jobs/"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/09/new-roles-i-m-looking-for"
+    ],
+    "author": [
+      "https://twitter.com/grayhaze"
+    ]
+  }
+}

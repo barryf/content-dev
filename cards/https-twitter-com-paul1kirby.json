@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Paul Kirby (@paul1kirby)"],"photo":["http://pbs.twimg.com/profile_images/419516029203922944/iq8z0O5N_normal.jpeg"],"url":["https://twitter.com/paul1kirby"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Paul Kirby (@paul1kirby)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/419516029203922944/iq8z0O5N_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/paul1kirby"
+    ]
+  }
+}

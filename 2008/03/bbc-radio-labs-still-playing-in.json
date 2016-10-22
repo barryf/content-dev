@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["DAB text updates over XMPP. Demonstrates XMPP/Javascript library\n"],"published":["2008-03-29T14:38:50Z"],"entry-type":["bookmark"],"name":["BBC - Radio Labs - Still Playing in the Cloud"],"bookmark-of":["http://www.bbc.co.uk/blogs/radiolabs/2008/03/still_playing_in_the_cloud_1.shtml"],"category":["xmpp","bbc","javascript","jabber","radio","http","via-pinboard"],"slug":["bbc-radio-labs-still-playing-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "DAB text updates over XMPP. Demonstrates XMPP/Javascript library\n"
+    ],
+    "published": [
+      "2008-03-29T14:38:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "BBC - Radio Labs - Still Playing in the Cloud"
+    ],
+    "bookmark-of": [
+      "http://www.bbc.co.uk/blogs/radiolabs/2008/03/still_playing_in_the_cloud_1.shtml"
+    ],
+    "category": [
+      "xmpp",
+      "bbc",
+      "javascript",
+      "jabber",
+      "radio",
+      "http",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bbc-radio-labs-still-playing-in"
+    ]
+  }
+}

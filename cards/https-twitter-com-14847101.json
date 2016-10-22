@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Rupert Goodwins"],"photo":["http://pbs.twimg.com/profile_images/3281709322/5efb88a9ea8b6cff5d651095c30486bb_normal.jpeg"],"url":["https://twitter.com/rupertg"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Rupert Goodwins"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/3281709322/5efb88a9ea8b6cff5d651095c30486bb_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/rupertg"
+    ]
+  }
+}

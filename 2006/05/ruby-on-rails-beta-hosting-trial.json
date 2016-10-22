@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Free while the beta programme runs. Two weeks' notice of its end\n"],"published":["2006-05-12T12:53:56Z"],"entry-type":["bookmark"],"name":["Ruby on Rails Beta Hosting Trial"],"bookmark-of":["http://www.hostmysite.com/Rails/"],"category":["rails","hosting","via-pinboard"],"slug":["ruby-on-rails-beta-hosting-trial"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free while the beta programme runs. Two weeks' notice of its end\n"
+    ],
+    "published": [
+      "2006-05-12T12:53:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ruby on Rails Beta Hosting Trial"
+    ],
+    "bookmark-of": [
+      "http://www.hostmysite.com/Rails/"
+    ],
+    "category": [
+      "rails",
+      "hosting",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-on-rails-beta-hosting-trial"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Word of the day in the @globaldev team is... facepalm."],"published":["2010-05-13T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/13908173347"],"slug":["tweet-13908173347"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Word of the day in the @globaldev team is... facepalm."
+    ],
+    "published": [
+      "2010-05-13T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/13908173347"
+    ],
+    "slug": [
+      "tweet-13908173347"
+    ]
+  }
+}

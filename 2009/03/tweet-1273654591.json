@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Just finished my first PR briefing with a journo, talking about mobile dating. Went quite well really and I don't think I waffled too much."],"published":["2009-03-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1273654591"],"slug":["tweet-1273654591"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just finished my first PR briefing with a journo, talking about mobile dating. Went quite well really and I don't think I waffled too much."
+    ],
+    "published": [
+      "2009-03-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1273654591"
+    ],
+    "slug": [
+      "tweet-1273654591"
+    ]
+  }
+}

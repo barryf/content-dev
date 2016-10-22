@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Inline Javascript calculations - useful for unit conversion, mortgage calculators,e tc.\n"],"published":["2007-03-21T17:16:07Z"],"entry-type":["bookmark"],"name":["Instacalc Online Calculator | Instant Results"],"bookmark-of":["http://instacalc.com/"],"category":["calculator","web20","maths","ajax","javascript","via-pinboard"],"slug":["instacalc-online-calculator-instant-results"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Inline Javascript calculations - useful for unit conversion, mortgage calculators,e tc.\n"
+    ],
+    "published": [
+      "2007-03-21T17:16:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Instacalc Online Calculator | Instant Results"
+    ],
+    "bookmark-of": [
+      "http://instacalc.com/"
+    ],
+    "category": [
+      "calculator",
+      "web20",
+      "maths",
+      "ajax",
+      "javascript",
+      "via-pinboard"
+    ],
+    "slug": [
+      "instacalc-online-calculator-instant-results"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-03-30T12:27:45Z"],"entry-type":["like"],"like-of":["https://twitter.com/NetflixUK/status/714831936397529088"],"syndication":["https://twitter.com/NetflixUK/status/714831936397529088"],"slug":["30-132745"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-03-30T12:27:45Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/NetflixUK/status/714831936397529088"
+    ],
+    "syndication": [
+      "https://twitter.com/NetflixUK/status/714831936397529088"
+    ],
+    "slug": [
+      "30-132745"
+    ]
+  }
+}

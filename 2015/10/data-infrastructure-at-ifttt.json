@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-10-17T09:28:13Z"],"entry-type":["bookmark"],"name":["Data Infrastructure at IFTTT"],"bookmark-of":["http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/"],"category":["data","api","ifttt"],"slug":["data-infrastructure-at-ifttt"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-10-17T09:28:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Data Infrastructure at IFTTT"
+    ],
+    "bookmark-of": [
+      "http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/"
+    ],
+    "category": [
+      "data",
+      "api",
+      "ifttt"
+    ],
+    "slug": [
+      "data-infrastructure-at-ifttt"
+    ]
+  }
+}

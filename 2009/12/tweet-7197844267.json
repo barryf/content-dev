@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Picked up some banana plugs from Wokingham. Neither as rude nor as exotic as their name suggests. They do help with my new speakers though."],"published":["2009-12-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/7197844267"],"slug":["tweet-7197844267"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Picked up some banana plugs from Wokingham. Neither as rude nor as exotic as their name suggests. They do help with my new speakers though."
+    ],
+    "published": [
+      "2009-12-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/7197844267"
+    ],
+    "slug": [
+      "tweet-7197844267"
+    ]
+  }
+}

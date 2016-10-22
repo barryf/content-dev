@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-11-04T15:55:07Z"],"entry-type":["bookmark"],"name":["Full CSS Property Compatibility Chart"],"bookmark-of":["http://www.corecss.com/properties/full-chart.php"],"category":["css","via-pinboard"],"slug":["full-css-property-compatibility-chart"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-11-04T15:55:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Full CSS Property Compatibility Chart"
+    ],
+    "bookmark-of": [
+      "http://www.corecss.com/properties/full-chart.php"
+    ],
+    "category": [
+      "css",
+      "via-pinboard"
+    ],
+    "slug": [
+      "full-css-property-compatibility-chart"
+    ]
+  }
+}

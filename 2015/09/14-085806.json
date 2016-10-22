@@ -1,1 +1,19 @@
-{"type":["h-entry"],"properties":{"published":["2015-09-14T07:58:06Z"],"entry-type":["like"],"like-of":["https://twitter.com/tomstandage/status/643326245078454272"],"slug":["14-085806"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-09-14T07:58:06Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/tomstandage/status/643326245078454272"
+    ],
+    "slug": [
+      "14-085806"
+    ]
+  }
+}

@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["A wonderful alternative (blog-derived) guide to Barcelona by the super talented Mr L\n"],"published":["2005-12-16T11:40:47Z"],"entry-type":["bookmark"],"name":["Barçabook by Andrew Losowsky"],"bookmark-of":["http://www.lulu.com/content/194099"],"category":["blog","book","blook","barcelona","spain","travel","guide","fun","via-pinboard"],"slug":["bar-abook-by-andrew-losowsky"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A wonderful alternative (blog-derived) guide to Barcelona by the super talented Mr L\n"
+    ],
+    "published": [
+      "2005-12-16T11:40:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Barçabook by Andrew Losowsky"
+    ],
+    "bookmark-of": [
+      "http://www.lulu.com/content/194099"
+    ],
+    "category": [
+      "blog",
+      "book",
+      "blook",
+      "barcelona",
+      "spain",
+      "travel",
+      "guide",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bar-abook-by-andrew-losowsky"
+    ]
+  }
+}

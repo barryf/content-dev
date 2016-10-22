@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2008-01-26T10:50:54Z"],"entry-type":["bookmark"],"name":["Prototype 1.6.0.2 cheat sheet"],"bookmark-of":["http://thinkweb2.com/projects/prototype/2008/01/22/prototype-1602-cheat-sheet/"],"category":["cheatsheet","javascript","prototype","pdf","via-pinboard"],"slug":["prototype-1-6-0-2-cheat"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-01-26T10:50:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Prototype 1.6.0.2 cheat sheet"
+    ],
+    "bookmark-of": [
+      "http://thinkweb2.com/projects/prototype/2008/01/22/prototype-1602-cheat-sheet/"
+    ],
+    "category": [
+      "cheatsheet",
+      "javascript",
+      "prototype",
+      "pdf",
+      "via-pinboard"
+    ],
+    "slug": [
+      "prototype-1-6-0-2-cheat"
+    ]
+  }
+}

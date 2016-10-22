@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"content":["Finally got round to allowing my reposts to have a comment/content to support Twitter's new(ish) retweet-with-comment functionality.\r\n\r\nMicropublish also had a [bump](https://github.com/barryf/micropublish/commit/ca9f8d85ab4ccd53c840f43761941426cf1164fc) to show the content field when posting."],"published":["2015-05-16T10:56:16Z"],"entry-type":["repost"],"repost-of":["https://twitter.com/twitter/status/585225218093932544"],"category":["moof","twitter"],"slug":["finally-got-round-to-allowing-my"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Finally got round to allowing my reposts to have a comment/content to support Twitter's new(ish) retweet-with-comment functionality.\r\n\r\nMicropublish also had a [bump](https://github.com/barryf/micropublish/commit/ca9f8d85ab4ccd53c840f43761941426cf1164fc) to show the content field when posting."
+    ],
+    "published": [
+      "2015-05-16T10:56:16Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://twitter.com/twitter/status/585225218093932544"
+    ],
+    "category": [
+      "moof",
+      "twitter"
+    ],
+    "slug": [
+      "finally-got-round-to-allowing-my"
+    ]
+  }
+}

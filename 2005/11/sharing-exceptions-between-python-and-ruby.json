@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Useful stuff - use feedparser.py from Ruby\n"],"published":["2005-11-03T10:45:43Z"],"entry-type":["bookmark"],"name":["Sharing exceptions between Python and Ruby"],"bookmark-of":["http://blogamundo.net/dev/2005/10/23/shared-exceptions/"],"category":["python","ruby","web","dev","via-pinboard"],"slug":["sharing-exceptions-between-python-and-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful stuff - use feedparser.py from Ruby\n"
+    ],
+    "published": [
+      "2005-11-03T10:45:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sharing exceptions between Python and Ruby"
+    ],
+    "bookmark-of": [
+      "http://blogamundo.net/dev/2005/10/23/shared-exceptions/"
+    ],
+    "category": [
+      "python",
+      "ruby",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sharing-exceptions-between-python-and-ruby"
+    ]
+  }
+}

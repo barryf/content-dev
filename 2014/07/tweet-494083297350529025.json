@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I love web apps and SaaS, except when my card is about to expire and I have 22 (so far) separate billing settings to update. Kill me now."],"published":["2014-07-29T11:33:32Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/494083297350529025"],"slug":["tweet-494083297350529025"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I love web apps and SaaS, except when my card is about to expire and I have 22 (so far) separate billing settings to update. Kill me now."
+    ],
+    "published": [
+      "2014-07-29T11:33:32Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/494083297350529025"
+    ],
+    "slug": [
+      "tweet-494083297350529025"
+    ]
+  }
+}

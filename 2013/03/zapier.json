@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Automation service, similar to IFTTT"],"published":["2013-03-17T16:12:28Z"],"entry-type":["bookmark"],"name":["Zapier"],"bookmark-of":["https://zapier.com/"],"category":["data","sync","mashup","api","automation","ifttt","via-pinboard"],"slug":["zapier"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Automation service, similar to IFTTT"
+    ],
+    "published": [
+      "2013-03-17T16:12:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Zapier"
+    ],
+    "bookmark-of": [
+      "https://zapier.com/"
+    ],
+    "category": [
+      "data",
+      "sync",
+      "mashup",
+      "api",
+      "automation",
+      "ifttt",
+      "via-pinboard"
+    ],
+    "slug": [
+      "zapier"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Incubator/umbrella for interesting companies, including Instapaper."],"published":["2013-04-30T16:48:19Z"],"entry-type":["bookmark"],"name":["Betaworks - A New Medium Company"],"bookmark-of":["http://betaworks.com/"],"category":["entrepreneur","business","incubator","vc","startup","via-pinboard"],"slug":["betaworks-a-new-medium-company"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Incubator/umbrella for interesting companies, including Instapaper."
+    ],
+    "published": [
+      "2013-04-30T16:48:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Betaworks - A New Medium Company"
+    ],
+    "bookmark-of": [
+      "http://betaworks.com/"
+    ],
+    "category": [
+      "entrepreneur",
+      "business",
+      "incubator",
+      "vc",
+      "startup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "betaworks-a-new-medium-company"
+    ]
+  }
+}

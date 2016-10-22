@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Ruby gem to connect ActiveRecord to Sphinx\n"],"published":["2009-08-24T14:42:10Z"],"entry-type":["bookmark"],"name":["Thinking Sphinx"],"bookmark-of":["http://freelancing-god.github.com/ts/en/"],"category":["rails","activerecord","sphinx","search","gem","dev","via-pinboard"],"slug":["thinking-sphinx"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby gem to connect ActiveRecord to Sphinx\n"
+    ],
+    "published": [
+      "2009-08-24T14:42:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Thinking Sphinx"
+    ],
+    "bookmark-of": [
+      "http://freelancing-god.github.com/ts/en/"
+    ],
+    "category": [
+      "rails",
+      "activerecord",
+      "sphinx",
+      "search",
+      "gem",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "thinking-sphinx"
+    ]
+  }
+}

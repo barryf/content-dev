@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Paul Mison's thoughts on aggregating your distributed content, like Tom Insam, Jeremy Keith, Phil Gyford and others. Dual purpose: for your personal website and also backup in case things all go Magnolia.\n"],"published":["2009-03-13T22:37:50Z"],"entry-type":["bookmark"],"name":["Aggregation and the Edge."],"bookmark-of":["http://husk.org/blog/arch/aggregation_and_the_edge.html"],"category":["aggregation","decentralisation","backup","cloud","data","personal","via-pinboard"],"slug":["aggregation-and-the-edge"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Paul Mison's thoughts on aggregating your distributed content, like Tom Insam, Jeremy Keith, Phil Gyford and others. Dual purpose: for your personal website and also backup in case things all go Magnolia.\n"
+    ],
+    "published": [
+      "2009-03-13T22:37:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Aggregation and the Edge."
+    ],
+    "bookmark-of": [
+      "http://husk.org/blog/arch/aggregation_and_the_edge.html"
+    ],
+    "category": [
+      "aggregation",
+      "decentralisation",
+      "backup",
+      "cloud",
+      "data",
+      "personal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aggregation-and-the-edge"
+    ]
+  }
+}

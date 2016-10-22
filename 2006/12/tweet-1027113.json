@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Watching Girls Aloud in a haunted house on ITV2. TV gold."],"published":["2006-12-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1027113"],"slug":["tweet-1027113"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watching Girls Aloud in a haunted house on ITV2. TV gold."
+    ],
+    "published": [
+      "2006-12-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1027113"
+    ],
+    "slug": [
+      "tweet-1027113"
+    ]
+  }
+}

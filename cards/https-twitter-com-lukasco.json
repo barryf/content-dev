@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Lukas Oberhuber (@lukasco)"],"photo":["http://pbs.twimg.com/profile_images/485160270369546240/lq-t580P_normal.jpeg"],"url":["https://twitter.com/lukasco"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Lukas Oberhuber (@lukasco)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/485160270369546240/lq-t580P_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/lukasco"
+    ]
+  }
+}

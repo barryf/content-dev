@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Why megapixels are a terrible way of differentiating cameras\n"],"published":["2007-12-28T22:50:02Z"],"entry-type":["bookmark"],"name":["The Megapixel Myth"],"bookmark-of":["http://www.kenrockwell.com/tech/mpmyth.htm"],"category":["photography","megapixel","digital","photo","technology","camera","comparison","via-pinboard"],"slug":["the-megapixel-myth"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Why megapixels are a terrible way of differentiating cameras\n"
+    ],
+    "published": [
+      "2007-12-28T22:50:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Megapixel Myth"
+    ],
+    "bookmark-of": [
+      "http://www.kenrockwell.com/tech/mpmyth.htm"
+    ],
+    "category": [
+      "photography",
+      "megapixel",
+      "digital",
+      "photo",
+      "technology",
+      "camera",
+      "comparison",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-megapixel-myth"
+    ]
+  }
+}

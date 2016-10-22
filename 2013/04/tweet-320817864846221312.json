@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@andrewscrivener In that case we were both wrong! I doff my cap to your superior knowledge of nineties teen films."],"published":["2013-04-07T08:38:34Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14234004/status/320664165385650176"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/320817864846221312"],"slug":["tweet-320817864846221312"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@andrewscrivener In that case we were both wrong! I doff my cap to your superior knowledge of nineties teen films."
+    ],
+    "published": [
+      "2013-04-07T08:38:34Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14234004/status/320664165385650176"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/320817864846221312"
+    ],
+    "slug": [
+      "tweet-320817864846221312"
+    ]
+  }
+}

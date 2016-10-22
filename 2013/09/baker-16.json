@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm looking for an iOS app that uploads a photo to an Amazon S3 bucket and exposes its URL for cut-and-pasting. Does such a thing exist?"],"published":["2013-09-17T10:43:41Z"],"entry-type":["note"],"category":["via-baker"],"syndication":["https://twitter.com/barryf/status/379918579472547840"],"slug":["baker-16"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm looking for an iOS app that uploads a photo to an Amazon S3 bucket and exposes its URL for cut-and-pasting. Does such a thing exist?"
+    ],
+    "published": [
+      "2013-09-17T10:43:41Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-baker"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/379918579472547840"
+    ],
+    "slug": [
+      "baker-16"
+    ]
+  }
+}

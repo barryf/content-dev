@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-12-10T15:08:40Z"],"entry-type":["bookmark"],"name":["kemiller/rubymotion-style-guide · GitHub"],"bookmark-of":["https://github.com/kemiller/rubymotion-style-guide"],"category":["fromifttt","github","via-pinboard"],"slug":["kemiller-rubymotion-style-guide-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-12-10T15:08:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "kemiller/rubymotion-style-guide · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/kemiller/rubymotion-style-guide"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kemiller-rubymotion-style-guide-github"
+    ]
+  }
+}

@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Interview questions from Steve"],"published":["2013-04-12T09:49:12Z"],"entry-type":["bookmark"],"name":["Hacker Jobs Meets... Barry Frost - CTO of Globaldev"],"bookmark-of":["http://hackerjobs.co.uk/blog/2013/2/27/hacker-jobs-meets-barry-frost-cto-of-globaldev"],"category":["interview","me","globaldev","via-pinboard"],"slug":["hacker-jobs-meets-barry-frost-cto"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Interview questions from Steve"
+    ],
+    "published": [
+      "2013-04-12T09:49:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hacker Jobs Meets... Barry Frost - CTO of Globaldev"
+    ],
+    "bookmark-of": [
+      "http://hackerjobs.co.uk/blog/2013/2/27/hacker-jobs-meets-barry-frost-cto-of-globaldev"
+    ],
+    "category": [
+      "interview",
+      "me",
+      "globaldev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hacker-jobs-meets-barry-frost-cto"
+    ]
+  }
+}

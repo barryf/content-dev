@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter @larrylou100 There’s an endless list of decisions to make and jobs to do. ~15 months to go!"],"published":["2013-05-06T21:01:03Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/331478398289457152"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/331513967308591105"],"slug":["tweet-331513967308591105"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter @larrylou100 There’s an endless list of decisions to make and jobs to do. ~15 months to go!"
+    ],
+    "published": [
+      "2013-05-06T21:01:03Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/331478398289457152"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/331513967308591105"
+    ],
+    "slug": [
+      "tweet-331513967308591105"
+    ]
+  }
+}

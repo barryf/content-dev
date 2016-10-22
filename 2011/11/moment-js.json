@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Lightweight JavaScript date library\n"],"published":["2011-11-14T17:30:20Z"],"entry-type":["bookmark"],"name":["Moment.js"],"bookmark-of":["http://www.momentjs.com/"],"category":["date","javascript","library","via-pinboard"],"slug":["moment-js"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lightweight JavaScript date library\n"
+    ],
+    "published": [
+      "2011-11-14T17:30:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Moment.js"
+    ],
+    "bookmark-of": [
+      "http://www.momentjs.com/"
+    ],
+    "category": [
+      "date",
+      "javascript",
+      "library",
+      "via-pinboard"
+    ],
+    "slug": [
+      "moment-js"
+    ]
+  }
+}

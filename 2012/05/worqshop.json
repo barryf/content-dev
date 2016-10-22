@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["iPad code editor with GitHub and Heroku support\n"],"published":["2012-05-20T18:33:34Z"],"entry-type":["bookmark"],"name":["Worqshop"],"bookmark-of":["http://worqshop.com/"],"category":["heroku","github","ide","editor","ipad","via-pinboard"],"slug":["worqshop"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "iPad code editor with GitHub and Heroku support\n"
+    ],
+    "published": [
+      "2012-05-20T18:33:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Worqshop"
+    ],
+    "bookmark-of": [
+      "http://worqshop.com/"
+    ],
+    "category": [
+      "heroku",
+      "github",
+      "ide",
+      "editor",
+      "ipad",
+      "via-pinboard"
+    ],
+    "slug": [
+      "worqshop"
+    ]
+  }
+}

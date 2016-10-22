@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Pivotal Tracker now integrates with Google Apps - attach a GDoc or use SSO with team http://www.youtube.com/watch?v=wFxJhhqz3r4"],"published":["2011-10-13T21:14:12Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/124593804136288256"],"slug":["tweet-124593804136288256"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pivotal Tracker now integrates with Google Apps - attach a GDoc or use SSO with team http://www.youtube.com/watch?v=wFxJhhqz3r4"
+    ],
+    "published": [
+      "2011-10-13T21:14:12Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/124593804136288256"
+    ],
+    "slug": [
+      "tweet-124593804136288256"
+    ]
+  }
+}

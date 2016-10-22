@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Suffering Friday lady tunes here in the @wld office"],"published":["2009-04-17T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1542567578"],"slug":["tweet-1542567578"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Suffering Friday lady tunes here in the @wld office"
+    ],
+    "published": [
+      "2009-04-17T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1542567578"
+    ],
+    "slug": [
+      "tweet-1542567578"
+    ]
+  }
+}

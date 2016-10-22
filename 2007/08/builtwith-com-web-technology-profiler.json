@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Find out what a site is built with\n"],"published":["2007-08-18T12:14:06Z"],"entry-type":["bookmark"],"name":["BuiltWith.com - Web Technology Profiler"],"bookmark-of":["http://builtwith.com/"],"category":["dev","server","sysadmin","web","useful","hosting","via-pinboard"],"slug":["builtwith-com-web-technology-profiler"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Find out what a site is built with\n"
+    ],
+    "published": [
+      "2007-08-18T12:14:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "BuiltWith.com - Web Technology Profiler"
+    ],
+    "bookmark-of": [
+      "http://builtwith.com/"
+    ],
+    "category": [
+      "dev",
+      "server",
+      "sysadmin",
+      "web",
+      "useful",
+      "hosting",
+      "via-pinboard"
+    ],
+    "slug": [
+      "builtwith-com-web-technology-profiler"
+    ]
+  }
+}

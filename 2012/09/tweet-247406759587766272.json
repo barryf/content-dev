@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Brilliant! Foolproof."],"published":["2012-09-16T18:49:02Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/247393711267389441"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/247406759587766272"],"slug":["tweet-247406759587766272"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Brilliant! Foolproof."
+    ],
+    "published": [
+      "2012-09-16T18:49:02Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/247393711267389441"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/247406759587766272"
+    ],
+    "slug": [
+      "tweet-247406759587766272"
+    ]
+  }
+}

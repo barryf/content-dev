@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Serve different versions of an API by requiring a version number in the content type, eg application/vnd.mycompany.myapp-v2+xml\n"],"published":["2008-10-13T20:35:29Z"],"entry-type":["bookmark"],"name":["Peter Williams - Versioning REST Web Services"],"bookmark-of":["http://barelyenough.org/blog/2008/05/versioning-rest-web-services/"],"category":["rest","version","mime","http","restful","api","webservices","via-pinboard"],"slug":["peter-williams-versioning-rest-web-services"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Serve different versions of an API by requiring a version number in the content type, eg application/vnd.mycompany.myapp-v2+xml\n"
+    ],
+    "published": [
+      "2008-10-13T20:35:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Peter Williams - Versioning REST Web Services"
+    ],
+    "bookmark-of": [
+      "http://barelyenough.org/blog/2008/05/versioning-rest-web-services/"
+    ],
+    "category": [
+      "rest",
+      "version",
+      "mime",
+      "http",
+      "restful",
+      "api",
+      "webservices",
+      "via-pinboard"
+    ],
+    "slug": [
+      "peter-williams-versioning-rest-web-services"
+    ]
+  }
+}

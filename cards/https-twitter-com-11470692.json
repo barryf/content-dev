@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Neil Stanley"],"photo":["http://pbs.twimg.com/profile_images/523497795915759618/q89kjsCQ_normal.jpeg"],"url":["https://twitter.com/nstanley"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Neil Stanley"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/523497795915759618/q89kjsCQ_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/nstanley"
+    ]
+  }
+}

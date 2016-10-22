@@ -1,1 +1,38 @@
-{"type":["h-entry"],"properties":{"content":["How much will it cost to use S3, EC2 and/or SQS\n"],"published":["2007-07-08T11:14:45Z"],"entry-type":["bookmark"],"name":["JavaScript-based Amazon Web Services Simple Monthly Calculator"],"bookmark-of":["http://s3.amazonaws.com/calculator/calc5.html"],"category":["amazon","aws","ec2","sqs","s3","calculator","bandwidth","web","dev","web20","via-pinboard"],"slug":["javascript-based-amazon-web-services-simple"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How much will it cost to use S3, EC2 and/or SQS\n"
+    ],
+    "published": [
+      "2007-07-08T11:14:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JavaScript-based Amazon Web Services Simple Monthly Calculator"
+    ],
+    "bookmark-of": [
+      "http://s3.amazonaws.com/calculator/calc5.html"
+    ],
+    "category": [
+      "amazon",
+      "aws",
+      "ec2",
+      "sqs",
+      "s3",
+      "calculator",
+      "bandwidth",
+      "web",
+      "dev",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "javascript-based-amazon-web-services-simple"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["#LetterPress just got real. @larrylou100 plays the C word http://twitter.com/barryf/status/262516029299773441/photo/1"],"published":["2012-10-28T11:27:54Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/262516029299773441"],"slug":["tweet-262516029299773441"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "#LetterPress just got real. @larrylou100 plays the C word http://twitter.com/barryf/status/262516029299773441/photo/1"
+    ],
+    "published": [
+      "2012-10-28T11:27:54Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/262516029299773441"
+    ],
+    "slug": [
+      "tweet-262516029299773441"
+    ]
+  }
+}

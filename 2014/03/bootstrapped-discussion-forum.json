@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2014-03-09T11:10:52Z"],"entry-type":["bookmark"],"name":["Bootstrapped discussion forum"],"bookmark-of":["http://discuss.bootstrapped.fm/"],"category":["startup","bootstrap","forum","business","inspiration","via-pinboard"],"slug":["bootstrapped-discussion-forum"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-03-09T11:10:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bootstrapped discussion forum"
+    ],
+    "bookmark-of": [
+      "http://discuss.bootstrapped.fm/"
+    ],
+    "category": [
+      "startup",
+      "bootstrap",
+      "forum",
+      "business",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bootstrapped-discussion-forum"
+    ]
+  }
+}

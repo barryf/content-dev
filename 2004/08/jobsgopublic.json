@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-01T13:23:01Z"],"entry-type":["bookmark"],"name":["jobsgopublic"],"bookmark-of":["http://www.jobsgopublic.com/"],"category":["jobs","via-pinboard"],"slug":["jobsgopublic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-01T13:23:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "jobsgopublic"
+    ],
+    "bookmark-of": [
+      "http://www.jobsgopublic.com/"
+    ],
+    "category": [
+      "jobs",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jobsgopublic"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@RealBradHaverly I wondered why I hadn't seen you tweet for a while."],"published":["2011-11-21T15:30:55Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/103539254/status/138639325687586816"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/138640539376566273"],"slug":["tweet-138640539376566273"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@RealBradHaverly I wondered why I hadn't seen you tweet for a while."
+    ],
+    "published": [
+      "2011-11-21T15:30:55Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/103539254/status/138639325687586816"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/138640539376566273"
+    ],
+    "slug": [
+      "tweet-138640539376566273"
+    ]
+  }
+}

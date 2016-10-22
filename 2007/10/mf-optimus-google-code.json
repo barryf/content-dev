@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Open source code for the Optimus microformats transformer (in PHP)\n"],"published":["2007-10-23T12:02:39Z"],"entry-type":["bookmark"],"name":["mf-optimus - Google Code"],"bookmark-of":["http://code.google.com/p/mf-optimus/"],"category":["microformat","json","xml","transform","web","dev","php","via-pinboard"],"slug":["mf-optimus-google-code"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Open source code for the Optimus microformats transformer (in PHP)\n"
+    ],
+    "published": [
+      "2007-10-23T12:02:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "mf-optimus - Google Code"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/mf-optimus/"
+    ],
+    "category": [
+      "microformat",
+      "json",
+      "xml",
+      "transform",
+      "web",
+      "dev",
+      "php",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mf-optimus-google-code"
+    ]
+  }
+}

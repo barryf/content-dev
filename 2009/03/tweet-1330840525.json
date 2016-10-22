@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ZackRabbit They do look similar, don't they? Same beige coloured fur and huge ears!"],"published":["2009-03-15T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23870482/status/1329316221"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1330840525"],"slug":["tweet-1330840525"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ZackRabbit They do look similar, don't they? Same beige coloured fur and huge ears!"
+    ],
+    "published": [
+      "2009-03-15T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23870482/status/1329316221"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1330840525"
+    ],
+    "slug": [
+      "tweet-1330840525"
+    ]
+  }
+}

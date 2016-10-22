@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2006-08-17T08:11:39Z"],"entry-type":["bookmark"],"name":["Create Letterhead Templates in MS Word"],"bookmark-of":["http://www.creativetechs.com/iq/create_letterhead_templates_in_ms_word.html"],"category":["word","microsoft","template","letterhead","print","design","via-pinboard"],"slug":["create-letterhead-templates-in-ms-word"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2006-08-17T08:11:39Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Create Letterhead Templates in MS Word"
+    ],
+    "bookmark-of": [
+      "http://www.creativetechs.com/iq/create_letterhead_templates_in_ms_word.html"
+    ],
+    "category": [
+      "word",
+      "microsoft",
+      "template",
+      "letterhead",
+      "print",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "create-letterhead-templates-in-ms-word"
+    ]
+  }
+}

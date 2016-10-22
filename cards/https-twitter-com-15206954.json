@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Benji Lanyado"],"photo":["http://pbs.twimg.com/profile_images/378800000405522454/b2efed09bb7b332365824cd9fb6062a5_normal.jpeg"],"url":["https://twitter.com/benjilanyado"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Benji Lanyado"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000405522454/b2efed09bb7b332365824cd9fb6062a5_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/benjilanyado"
+    ]
+  }
+}

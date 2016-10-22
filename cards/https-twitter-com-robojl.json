@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Rob Lamb"],"photo":["https://twitter.com/RoboJL/profile_image?size=original"],"url":["https://twitter.com/RoboJL"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Rob Lamb"
+    ],
+    "photo": [
+      "https://twitter.com/RoboJL/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/RoboJL"
+    ]
+  }
+}

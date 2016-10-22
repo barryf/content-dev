@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@TheGhoti I’ll send her out for the papers in the morning."],"published":["2012-08-10T20:19:50Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20146547/status/234012522179616768"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/234021258252144641"],"slug":["tweet-234021258252144641"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@TheGhoti I’ll send her out for the papers in the morning."
+    ],
+    "published": [
+      "2012-08-10T20:19:50Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20146547/status/234012522179616768"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/234021258252144641"
+    ],
+    "slug": [
+      "tweet-234021258252144641"
+    ]
+  }
+}

@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Aaron Parecki"],"url":["http://aaronparecki.com/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Aaron Parecki"
+    ],
+    "url": [
+      "http://aaronparecki.com/"
+    ]
+  }
+}

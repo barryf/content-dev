@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-10-27T09:47:20Z"],"entry-type":["bookmark"],"name":["Web Two Point Oh!"],"bookmark-of":["http://andrewwooldridge.com/myapps/webtwopointoh.html"],"category":["web20","fun","via-pinboard"],"slug":["web-two-point-oh"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-10-27T09:47:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Web Two Point Oh!"
+    ],
+    "bookmark-of": [
+      "http://andrewwooldridge.com/myapps/webtwopointoh.html"
+    ],
+    "category": [
+      "web20",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "web-two-point-oh"
+    ]
+  }
+}

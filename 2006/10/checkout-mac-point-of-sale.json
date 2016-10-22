@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Boring old PoS made fun\n"],"published":["2006-10-19T14:59:27Z"],"entry-type":["bookmark"],"name":["Checkout : Mac Point of Sale"],"bookmark-of":["http://checkoutapp.com/"],"category":["pos","mac","shopping","inspiration","business","via-pinboard"],"slug":["checkout-mac-point-of-sale"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Boring old PoS made fun\n"
+    ],
+    "published": [
+      "2006-10-19T14:59:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Checkout : Mac Point of Sale"
+    ],
+    "bookmark-of": [
+      "http://checkoutapp.com/"
+    ],
+    "category": [
+      "pos",
+      "mac",
+      "shopping",
+      "inspiration",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "checkout-mac-point-of-sale"
+    ]
+  }
+}

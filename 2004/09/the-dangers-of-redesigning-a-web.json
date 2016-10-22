@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-02T10:59:25Z"],"entry-type":["bookmark"],"name":["The Dangers of Redesigning a Web Application"],"bookmark-of":["http://allinthehead.com/retro/225/"],"category":["dev","via-pinboard"],"slug":["the-dangers-of-redesigning-a-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-02T10:59:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Dangers of Redesigning a Web Application"
+    ],
+    "bookmark-of": [
+      "http://allinthehead.com/retro/225/"
+    ],
+    "category": [
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-dangers-of-redesigning-a-web"
+    ]
+  }
+}

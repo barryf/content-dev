@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-02-17T11:37:47Z"],"entry-type":["bookmark"],"name":["Installing a Rails Application at TextDrive"],"bookmark-of":["http://help.textdrive.com/index.php?pg=kb.chapter&id=71"],"category":["lighttpd","rails","textdrive","hosting","web","via-pinboard"],"slug":["installing-a-rails-application-at-textdrive"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-02-17T11:37:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Installing a Rails Application at TextDrive"
+    ],
+    "bookmark-of": [
+      "http://help.textdrive.com/index.php?pg=kb.chapter&id=71"
+    ],
+    "category": [
+      "lighttpd",
+      "rails",
+      "textdrive",
+      "hosting",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "installing-a-rails-application-at-textdrive"
+    ]
+  }
+}

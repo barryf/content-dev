@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["What a beautiful personal website/tumblelog design. I like the chunky icons which reveal more when rolled over.\n"],"published":["2009-03-15T10:16:42Z"],"entry-type":["bookmark"],"name":["Playground Blues"],"bookmark-of":["http://playgroundblues.com/"],"category":["designer","inspiration","design","tumblelog","homepage","via-pinboard"],"slug":["playground-blues"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "What a beautiful personal website/tumblelog design. I like the chunky icons which reveal more when rolled over.\n"
+    ],
+    "published": [
+      "2009-03-15T10:16:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Playground Blues"
+    ],
+    "bookmark-of": [
+      "http://playgroundblues.com/"
+    ],
+    "category": [
+      "designer",
+      "inspiration",
+      "design",
+      "tumblelog",
+      "homepage",
+      "via-pinboard"
+    ],
+    "slug": [
+      "playground-blues"
+    ]
+  }
+}

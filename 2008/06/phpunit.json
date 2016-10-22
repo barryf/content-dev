@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-06-21T17:03:48Z"],"entry-type":["bookmark"],"name":["PHPUnit"],"bookmark-of":["http://www.phpunit.de/"],"category":["php","phpunit","framework","dev","work","via-pinboard"],"slug":["phpunit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-06-21T17:03:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PHPUnit"
+    ],
+    "bookmark-of": [
+      "http://www.phpunit.de/"
+    ],
+    "category": [
+      "php",
+      "phpunit",
+      "framework",
+      "dev",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "phpunit"
+    ]
+  }
+}

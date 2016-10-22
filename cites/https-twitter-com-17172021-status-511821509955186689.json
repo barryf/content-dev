@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/17172021/status/511821509955186689"],"published":["2014-09-16T10:18:51Z"],"content":["IDEA FOR STARTUP: some kind of central content syndication service for pub chalkboards, oh wait it's been done"],"photo":["http://pbs.twimg.com/media/Bxpa8zLIEAALJ_O.jpg"],"author":["https://twitter.com/17172021"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/17172021/status/511821509955186689"
+    ],
+    "published": [
+      "2014-09-16T10:18:51Z"
+    ],
+    "content": [
+      "IDEA FOR STARTUP: some kind of central content syndication service for pub chalkboards, oh wait it's been done"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/media/Bxpa8zLIEAALJ_O.jpg"
+    ],
+    "author": [
+      "https://twitter.com/17172021"
+    ]
+  }
+}

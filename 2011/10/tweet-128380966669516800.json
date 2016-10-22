@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@jimeh Good point. Best stay away from McDonalds or Shakeaway."],"published":["2011-10-24T08:03:02Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/3068091/status/128372630460973056"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/128380966669516800"],"slug":["tweet-128380966669516800"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@jimeh Good point. Best stay away from McDonalds or Shakeaway."
+    ],
+    "published": [
+      "2011-10-24T08:03:02Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/3068091/status/128372630460973056"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/128380966669516800"
+    ],
+    "slug": [
+      "tweet-128380966669516800"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Tracks your personal information online\n"],"published":["2007-04-18T21:04:05Z"],"entry-type":["bookmark"],"name":["Garlik – PowerfulStuff – protect your online security, keep track of your online data"],"bookmark-of":["http://www.garlik.com/"],"category":["privacy","security","identity","web","personal","via-pinboard"],"slug":["garlik-powerfulstuff-protect-your-online-security"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tracks your personal information online\n"
+    ],
+    "published": [
+      "2007-04-18T21:04:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Garlik – PowerfulStuff – protect your online security, keep track of your online data"
+    ],
+    "bookmark-of": [
+      "http://www.garlik.com/"
+    ],
+    "category": [
+      "privacy",
+      "security",
+      "identity",
+      "web",
+      "personal",
+      "via-pinboard"
+    ],
+    "slug": [
+      "garlik-powerfulstuff-protect-your-online-security"
+    ]
+  }
+}

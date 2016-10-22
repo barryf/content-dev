@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-01T13:00:01Z"],"entry-type":["bookmark"],"name":["NZMusic.com - The Real New Zealand Music Website"],"bookmark-of":["http://www.nzmusic.com/"],"category":["music","nz","via-pinboard"],"slug":["nzmusic-com-the-real-new-zealand"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-01T13:00:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "NZMusic.com - The Real New Zealand Music Website"
+    ],
+    "bookmark-of": [
+      "http://www.nzmusic.com/"
+    ],
+    "category": [
+      "music",
+      "nz",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nzmusic-com-the-real-new-zealand"
+    ]
+  }
+}

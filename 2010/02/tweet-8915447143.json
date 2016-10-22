@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Typically for a town like Windsor, its Waitrose supermarket has sold out of quails eggs. I suppose hens eggs will have to do."],"published":["2010-02-10T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/8915447143"],"slug":["tweet-8915447143"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Typically for a town like Windsor, its Waitrose supermarket has sold out of quails eggs. I suppose hens eggs will have to do."
+    ],
+    "published": [
+      "2010-02-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/8915447143"
+    ],
+    "slug": [
+      "tweet-8915447143"
+    ]
+  }
+}

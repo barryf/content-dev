@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Nick Morgan"],"photo":["http://pbs.twimg.com/profile_images/378800000382925028/6afb5b1a123a7da50802decd36159938_normal.jpeg"],"url":["https://twitter.com/skilldrick"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Nick Morgan"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000382925028/6afb5b1a123a7da50802decd36159938_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/skilldrick"
+    ]
+  }
+}

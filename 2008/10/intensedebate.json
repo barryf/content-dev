@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Centralised discussion/comments system. Newly-acquired by Automattic\n"],"published":["2008-10-04T16:32:00Z"],"entry-type":["bookmark"],"name":["IntenseDebate"],"bookmark-of":["http://intensedebate.com/"],"category":["web","blog","collaboration","comment","wordpress","automattic","discussion","via-pinboard"],"slug":["intensedebate"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Centralised discussion/comments system. Newly-acquired by Automattic\n"
+    ],
+    "published": [
+      "2008-10-04T16:32:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "IntenseDebate"
+    ],
+    "bookmark-of": [
+      "http://intensedebate.com/"
+    ],
+    "category": [
+      "web",
+      "blog",
+      "collaboration",
+      "comment",
+      "wordpress",
+      "automattic",
+      "discussion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "intensedebate"
+    ]
+  }
+}

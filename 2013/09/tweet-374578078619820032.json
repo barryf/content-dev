@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Splendid afternoon tea at Great Fosters with @larrylou100 (and wasps) http://www.greatfosters.co.uk http://twitter.com/barryf/status/374578078619820032/photo/1"],"published":["2013-09-02T17:02:27Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/374578078619820032"],"slug":["tweet-374578078619820032"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Splendid afternoon tea at Great Fosters with @larrylou100 (and wasps) http://www.greatfosters.co.uk http://twitter.com/barryf/status/374578078619820032/photo/1"
+    ],
+    "published": [
+      "2013-09-02T17:02:27Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/374578078619820032"
+    ],
+    "slug": [
+      "tweet-374578078619820032"
+    ]
+  }
+}

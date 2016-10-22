@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Rails portal\n"],"published":["2008-01-19T17:53:55Z"],"entry-type":["bookmark"],"name":["BuildingWebApps.com: A Resource for Ruby on Rails Developers"],"bookmark-of":["http://www.buildingwebapps.com/"],"category":["portal","rails","ruby","web","dev","via-pinboard"],"slug":["buildingwebapps-com-a-resource-for-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails portal\n"
+    ],
+    "published": [
+      "2008-01-19T17:53:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "BuildingWebApps.com: A Resource for Ruby on Rails Developers"
+    ],
+    "bookmark-of": [
+      "http://www.buildingwebapps.com/"
+    ],
+    "category": [
+      "portal",
+      "rails",
+      "ruby",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "buildingwebapps-com-a-resource-for-ruby"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Off to the gym to do a bit of running while watching proper runners doing the #londonmarathon on the TVs."],"published":["2010-04-25T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/12814856445"],"slug":["tweet-12814856445"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Off to the gym to do a bit of running while watching proper runners doing the #londonmarathon on the TVs."
+    ],
+    "published": [
+      "2010-04-25T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/12814856445"
+    ],
+    "slug": [
+      "tweet-12814856445"
+    ]
+  }
+}

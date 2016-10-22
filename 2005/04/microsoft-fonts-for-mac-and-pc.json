@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-04-07T08:32:25Z"],"entry-type":["bookmark"],"name":["Microsoft fonts for Mac and PC"],"bookmark-of":["http://dtp.msstudio.com.pl/fonty.html"],"category":["font","via-pinboard"],"slug":["microsoft-fonts-for-mac-and-pc"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-04-07T08:32:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Microsoft fonts for Mac and PC"
+    ],
+    "bookmark-of": [
+      "http://dtp.msstudio.com.pl/fonty.html"
+    ],
+    "category": [
+      "font",
+      "via-pinboard"
+    ],
+    "slug": [
+      "microsoft-fonts-for-mac-and-pc"
+    ]
+  }
+}

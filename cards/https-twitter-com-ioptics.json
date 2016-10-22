@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Peter Lambert"],"photo":["https://twitter.com/ioptics/profile_image?size=original"],"url":["https://twitter.com/ioptics"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Peter Lambert"
+    ],
+    "photo": [
+      "https://twitter.com/ioptics/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/ioptics"
+    ]
+  }
+}

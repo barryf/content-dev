@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Twitter's API entities docs now updated to show how to refer to its upcoming photos functionality http://dev.twitter.com/pages/tweet_entities"],"published":["2011-06-01T19:34:38Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/76008775517085697"],"slug":["tweet-76008775517085697"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Twitter's API entities docs now updated to show how to refer to its upcoming photos functionality http://dev.twitter.com/pages/tweet_entities"
+    ],
+    "published": [
+      "2011-06-01T19:34:38Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/76008775517085697"
+    ],
+    "slug": [
+      "tweet-76008775517085697"
+    ]
+  }
+}

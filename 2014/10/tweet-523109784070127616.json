@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["My #WLD2014 presentation is done. Now listening to speakers from Google, Twitter and Facebook who have come to present to our partners."],"published":["2014-10-17T13:54:26Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/523109784070127616"],"slug":["tweet-523109784070127616"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My #WLD2014 presentation is done. Now listening to speakers from Google, Twitter and Facebook who have come to present to our partners."
+    ],
+    "published": [
+      "2014-10-17T13:54:26Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/523109784070127616"
+    ],
+    "slug": [
+      "tweet-523109784070127616"
+    ]
+  }
+}

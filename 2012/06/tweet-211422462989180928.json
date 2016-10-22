@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes I love the radiator that may be hot."],"published":["2012-06-09T11:40:17Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/211401933792100352"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/211422462989180928"],"slug":["tweet-211422462989180928"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes I love the radiator that may be hot."
+    ],
+    "published": [
+      "2012-06-09T11:40:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/211401933792100352"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/211422462989180928"
+    ],
+    "slug": [
+      "tweet-211422462989180928"
+    ]
+  }
+}

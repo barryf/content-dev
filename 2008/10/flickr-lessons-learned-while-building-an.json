@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Avoid JS frameworks, optimise everything and keep page loads/ajax calls tiny\n"],"published":["2008-10-28T18:34:35Z"],"entry-type":["bookmark"],"name":["Flickr: Lessons Learned while Building an iPhone Site"],"bookmark-of":["http://code.flickr.com/blog/2008/10/27/lessons-learned-while-building-an-iphone-site/"],"category":["flickr","iphone","mobile","web","bestpractice","ajax","design","framework","via-pinboard"],"slug":["flickr-lessons-learned-while-building-an"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Avoid JS frameworks, optimise everything and keep page loads/ajax calls tiny\n"
+    ],
+    "published": [
+      "2008-10-28T18:34:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Flickr: Lessons Learned while Building an iPhone Site"
+    ],
+    "bookmark-of": [
+      "http://code.flickr.com/blog/2008/10/27/lessons-learned-while-building-an-iphone-site/"
+    ],
+    "category": [
+      "flickr",
+      "iphone",
+      "mobile",
+      "web",
+      "bestpractice",
+      "ajax",
+      "design",
+      "framework",
+      "via-pinboard"
+    ],
+    "slug": [
+      "flickr-lessons-learned-while-building-an"
+    ]
+  }
+}

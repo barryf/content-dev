@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["\"An icon to represent 'sharing': posting to social sites, sending by e-mail, etc.\"\n"],"published":["2008-03-23T08:56:41Z"],"entry-type":["bookmark"],"name":["Share Icon Project"],"bookmark-of":["http://shareicons.com/"],"category":["share","social","design","icon","web","web20","via-pinboard"],"slug":["share-icon-project"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"An icon to represent 'sharing': posting to social sites, sending by e-mail, etc.\"\n"
+    ],
+    "published": [
+      "2008-03-23T08:56:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Share Icon Project"
+    ],
+    "bookmark-of": [
+      "http://shareicons.com/"
+    ],
+    "category": [
+      "share",
+      "social",
+      "design",
+      "icon",
+      "web",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "share-icon-project"
+    ]
+  }
+}

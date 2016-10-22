@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Ebstar That's useful to know. I think they've only enabled 2G for now so if I'm repeatedly kicked off 3G I'll switch back to just Orange."],"published":["2011-03-23T16:14:23Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/3374271/status/50582560874561537"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/50591226986110976"],"slug":["tweet-50591226986110976"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Ebstar That's useful to know. I think they've only enabled 2G for now so if I'm repeatedly kicked off 3G I'll switch back to just Orange."
+    ],
+    "published": [
+      "2011-03-23T16:14:23Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/3374271/status/50582560874561537"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/50591226986110976"
+    ],
+    "slug": [
+      "tweet-50591226986110976"
+    ]
+  }
+}

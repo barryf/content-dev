@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2005-09-16T14:14:31Z"],"entry-type":["bookmark"],"name":["Howto Create an RSS 2.0 Feed"],"bookmark-of":["http://www.petefreitag.com/item/465.cfm"],"category":["rss","web","reference","xml","blog","via-pinboard"],"slug":["howto-create-an-rss-2-0"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-09-16T14:14:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Howto Create an RSS 2.0 Feed"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/465.cfm"
+    ],
+    "category": [
+      "rss",
+      "web",
+      "reference",
+      "xml",
+      "blog",
+      "via-pinboard"
+    ],
+    "slug": [
+      "howto-create-an-rss-2-0"
+    ]
+  }
+}

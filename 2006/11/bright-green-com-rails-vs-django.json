@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["...and it's a draw. I like the summary: it's concise vs explicit\n"],"published":["2006-11-20T15:09:18Z"],"entry-type":["bookmark"],"name":["Bright-Green.com: Rails vs Django"],"bookmark-of":["http://bright-green.com/blog/2006_11_14/rails_vs_django.html"],"category":["comparison","django","rails","python","ruby","web","dev","framework","via-pinboard"],"slug":["bright-green-com-rails-vs-django"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "...and it's a draw. I like the summary: it's concise vs explicit\n"
+    ],
+    "published": [
+      "2006-11-20T15:09:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bright-Green.com: Rails vs Django"
+    ],
+    "bookmark-of": [
+      "http://bright-green.com/blog/2006_11_14/rails_vs_django.html"
+    ],
+    "category": [
+      "comparison",
+      "django",
+      "rails",
+      "python",
+      "ruby",
+      "web",
+      "dev",
+      "framework",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bright-green-com-rails-vs-django"
+    ]
+  }
+}

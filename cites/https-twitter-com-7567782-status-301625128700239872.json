@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/7567782/status/301625128700239872"],"published":["2013-02-13T09:33:29Z"],"content":["@barryf to clear seats?"],"author":["https://twitter.com/7567782"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/7567782/status/301625128700239872"
+    ],
+    "published": [
+      "2013-02-13T09:33:29Z"
+    ],
+    "content": [
+      "@barryf to clear seats?"
+    ],
+    "author": [
+      "https://twitter.com/7567782"
+    ]
+  }
+}

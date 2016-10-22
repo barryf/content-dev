@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Break up the list into small groups, shorten subject lines, remove spammy words from subjects, don't send forms within email\n"],"published":["2009-07-13T20:26:38Z"],"entry-type":["bookmark"],"name":["Four Tips For Cracking E-Mail Filters"],"bookmark-of":["http://www.foliomag.com/2009/four-tips-cracking-e-mail-filters"],"category":["email","marketing","publishing","spam","subject","filter","via-pinboard"],"slug":["four-tips-for-cracking-e-mail"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Break up the list into small groups, shorten subject lines, remove spammy words from subjects, don't send forms within email\n"
+    ],
+    "published": [
+      "2009-07-13T20:26:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Four Tips For Cracking E-Mail Filters"
+    ],
+    "bookmark-of": [
+      "http://www.foliomag.com/2009/four-tips-cracking-e-mail-filters"
+    ],
+    "category": [
+      "email",
+      "marketing",
+      "publishing",
+      "spam",
+      "subject",
+      "filter",
+      "via-pinboard"
+    ],
+    "slug": [
+      "four-tips-for-cracking-e-mail"
+    ]
+  }
+}

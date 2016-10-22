@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2012-04-20T09:59:15Z"],"entry-type":["bookmark"],"name":["Atelier Olschinsky’s Cities Series"],"bookmark-of":["http://www.magicalurbanism.com/archives/5493"],"category":["urbanism","illustration","cities","photography","via-pinboard"],"slug":["atelier-olschinsky-s-cities-series"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-04-20T09:59:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Atelier Olschinsky’s Cities Series"
+    ],
+    "bookmark-of": [
+      "http://www.magicalurbanism.com/archives/5493"
+    ],
+    "category": [
+      "urbanism",
+      "illustration",
+      "cities",
+      "photography",
+      "via-pinboard"
+    ],
+    "slug": [
+      "atelier-olschinsky-s-cities-series"
+    ]
+  }
+}

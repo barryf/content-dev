@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@souperphly You never know Phil. Hey, time for you to swap that profile image of Rafa for Roy Hodgson."],"published":["2010-06-10T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/133238003/status/15850974393"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/15852141951"],"slug":["tweet-15852141951"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@souperphly You never know Phil. Hey, time for you to swap that profile image of Rafa for Roy Hodgson."
+    ],
+    "published": [
+      "2010-06-10T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/133238003/status/15850974393"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/15852141951"
+    ],
+    "slug": [
+      "tweet-15852141951"
+    ]
+  }
+}

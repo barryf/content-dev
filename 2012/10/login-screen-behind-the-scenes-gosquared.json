@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Sweat the details"],"published":["2012-10-11T16:45:04Z"],"entry-type":["bookmark"],"name":["Login Screen – behind the scenes — GoSquared - Blog"],"bookmark-of":["https://www.gosquared.com/blog/archives/3359"],"category":["login","ux","design","via-pinboard"],"slug":["login-screen-behind-the-scenes-gosquared"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sweat the details"
+    ],
+    "published": [
+      "2012-10-11T16:45:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Login Screen – behind the scenes — GoSquared - Blog"
+    ],
+    "bookmark-of": [
+      "https://www.gosquared.com/blog/archives/3359"
+    ],
+    "category": [
+      "login",
+      "ux",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "login-screen-behind-the-scenes-gosquared"
+    ]
+  }
+}

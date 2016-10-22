@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["HTTP/HTTPS/SSL Monitor/Proxy/Reverse Proxy\n"],"published":["2007-09-24T16:23:10Z"],"entry-type":["bookmark"],"name":["Charles"],"bookmark-of":["http://www.xk72.com/charles/"],"category":["debug","web","dev","flash","proxy","monitor","http","https","ssl","sysadmin","network","via-pinboard"],"slug":["charles"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "HTTP/HTTPS/SSL Monitor/Proxy/Reverse Proxy\n"
+    ],
+    "published": [
+      "2007-09-24T16:23:10Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Charles"
+    ],
+    "bookmark-of": [
+      "http://www.xk72.com/charles/"
+    ],
+    "category": [
+      "debug",
+      "web",
+      "dev",
+      "flash",
+      "proxy",
+      "monitor",
+      "http",
+      "https",
+      "ssl",
+      "sysadmin",
+      "network",
+      "via-pinboard"
+    ],
+    "slug": [
+      "charles"
+    ]
+  }
+}

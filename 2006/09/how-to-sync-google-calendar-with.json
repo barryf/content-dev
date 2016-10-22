@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Need to try this out and sync personal/work events\n"],"published":["2006-09-21T14:02:13Z"],"entry-type":["bookmark"],"name":["How to Sync Google Calendar with Outlook and Smartphones Automatically"],"bookmark-of":["http://www.jakeludington.com/ask_jake/20060818_how_to_sync_google_calendar_with_outlook_and_smartphones_automatically.html"],"category":["calendar","google","outlook","sync","via-pinboard"],"slug":["how-to-sync-google-calendar-with"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Need to try this out and sync personal/work events\n"
+    ],
+    "published": [
+      "2006-09-21T14:02:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Sync Google Calendar with Outlook and Smartphones Automatically"
+    ],
+    "bookmark-of": [
+      "http://www.jakeludington.com/ask_jake/20060818_how_to_sync_google_calendar_with_outlook_and_smartphones_automatically.html"
+    ],
+    "category": [
+      "calendar",
+      "google",
+      "outlook",
+      "sync",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-to-sync-google-calendar-with"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Before O2 do the right thing and stop putting their customers' numbers in headers, we could store them for advertising. Just a thought..."],"published":["2012-01-25T11:59:57Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/162142662466609153"],"slug":["tweet-162142662466609153"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Before O2 do the right thing and stop putting their customers' numbers in headers, we could store them for advertising. Just a thought..."
+    ],
+    "published": [
+      "2012-01-25T11:59:57Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/162142662466609153"
+    ],
+    "slug": [
+      "tweet-162142662466609153"
+    ]
+  }
+}

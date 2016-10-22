@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Step-by-step instructions for getting a Docker instance set up with Rails"],"published":["2015-03-11T15:21:12Z"],"entry-type":["bookmark"],"name":["Rails on Docker"],"bookmark-of":["https://robots.thoughtbot.com/rails-on-docker"],"category":["docker","rails","ruby","vm"],"slug":["rails-on-docker"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Step-by-step instructions for getting a Docker instance set up with Rails"
+    ],
+    "published": [
+      "2015-03-11T15:21:12Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Rails on Docker"
+    ],
+    "bookmark-of": [
+      "https://robots.thoughtbot.com/rails-on-docker"
+    ],
+    "category": [
+      "docker",
+      "rails",
+      "ruby",
+      "vm"
+    ],
+    "slug": [
+      "rails-on-docker"
+    ]
+  }
+}

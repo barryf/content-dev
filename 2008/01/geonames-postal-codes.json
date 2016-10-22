@@ -1,1 +1,40 @@
-{"type":["h-entry"],"properties":{"content":["Free (CC Attribution licence) web service for postcode lookups. Lat/Lng results in JSON.\n"],"published":["2008-01-26T12:19:28Z"],"entry-type":["bookmark"],"name":["Geonames: Postal Codes"],"bookmark-of":["http://www.geonames.org/postal-codes/"],"category":["api","geocode","geocoding","postal","postcode","geo","latitude","longitude","json","dev","work","fortimblair","via-pinboard"],"slug":["geonames-postal-codes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free (CC Attribution licence) web service for postcode lookups. Lat/Lng results in JSON.\n"
+    ],
+    "published": [
+      "2008-01-26T12:19:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Geonames: Postal Codes"
+    ],
+    "bookmark-of": [
+      "http://www.geonames.org/postal-codes/"
+    ],
+    "category": [
+      "api",
+      "geocode",
+      "geocoding",
+      "postal",
+      "postcode",
+      "geo",
+      "latitude",
+      "longitude",
+      "json",
+      "dev",
+      "work",
+      "fortimblair",
+      "via-pinboard"
+    ],
+    "slug": [
+      "geonames-postal-codes"
+    ]
+  }
+}

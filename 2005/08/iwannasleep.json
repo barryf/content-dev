@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Sleep timer for iTunes\n"],"published":["2005-08-26T10:47:08Z"],"entry-type":["bookmark"],"name":["iWannaSleep"],"bookmark-of":["http://www.sb-software.de/en/"],"category":["mac","itunes","useful","via-pinboard"],"slug":["iwannasleep"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Sleep timer for iTunes\n"
+    ],
+    "published": [
+      "2005-08-26T10:47:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iWannaSleep"
+    ],
+    "bookmark-of": [
+      "http://www.sb-software.de/en/"
+    ],
+    "category": [
+      "mac",
+      "itunes",
+      "useful",
+      "via-pinboard"
+    ],
+    "slug": [
+      "iwannasleep"
+    ]
+  }
+}

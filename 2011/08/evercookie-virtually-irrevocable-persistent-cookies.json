@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Uses a combination of cookies, LSOs (Flash), Silverlight Isolated Storage, web history, cache, etc. to create a lasting persistent \"cookie\". Not sure how permanent this will be but could be useful.\n"],"published":["2011-08-23T10:44:34Z"],"entry-type":["bookmark"],"name":["evercookie - virtually irrevocable persistent cookies"],"bookmark-of":["http://samy.pl/evercookie/"],"category":["cookie","tracking","persistence","browser","scammer","via-pinboard"],"slug":["evercookie-virtually-irrevocable-persistent-cookies"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Uses a combination of cookies, LSOs (Flash), Silverlight Isolated Storage, web history, cache, etc. to create a lasting persistent \"cookie\". Not sure how permanent this will be but could be useful.\n"
+    ],
+    "published": [
+      "2011-08-23T10:44:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "evercookie - virtually irrevocable persistent cookies"
+    ],
+    "bookmark-of": [
+      "http://samy.pl/evercookie/"
+    ],
+    "category": [
+      "cookie",
+      "tracking",
+      "persistence",
+      "browser",
+      "scammer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "evercookie-virtually-irrevocable-persistent-cookies"
+    ]
+  }
+}

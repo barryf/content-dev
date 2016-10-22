@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@hobbsy I've only ever bought series one of 30 Rock because it was £10. It's usually cheaper to buy and rip DVDs. Which is tedious."],"published":["2011-09-19T16:06:11Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/754966/status/115810803101351937"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/115818981402750978"],"slug":["tweet-115818981402750978"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@hobbsy I've only ever bought series one of 30 Rock because it was £10. It's usually cheaper to buy and rip DVDs. Which is tedious."
+    ],
+    "published": [
+      "2011-09-19T16:06:11Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/754966/status/115810803101351937"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/115818981402750978"
+    ],
+    "slug": [
+      "tweet-115818981402750978"
+    ]
+  }
+}

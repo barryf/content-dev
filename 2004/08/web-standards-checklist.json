@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-18T19:17:53Z"],"entry-type":["bookmark"],"name":["Web standards checklist"],"bookmark-of":["http://www.maxdesign.com.au/presentation/checklist.cfm"],"category":["standards","via-pinboard"],"slug":["web-standards-checklist"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-18T19:17:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Web standards checklist"
+    ],
+    "bookmark-of": [
+      "http://www.maxdesign.com.au/presentation/checklist.cfm"
+    ],
+    "category": [
+      "standards",
+      "via-pinboard"
+    ],
+    "slug": [
+      "web-standards-checklist"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Josh Hill"],"photo":["http://pbs.twimg.com/profile_images/498485647686918144/Tkuz07tn_normal.jpeg"],"url":["https://twitter.com/jamesjoshuahill"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Josh Hill"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/498485647686918144/Tkuz07tn_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/jamesjoshuahill"
+    ]
+  }
+}

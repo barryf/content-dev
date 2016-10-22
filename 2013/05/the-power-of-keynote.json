@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Using Keynote for wireframing and prototyping web/mobile apps"],"published":["2013-05-01T18:20:31Z"],"entry-type":["bookmark"],"name":["The power of Keynote"],"bookmark-of":["http://www.edenspiekermann.com/en/blog/espi-at-work-the-power-of-keynote"],"category":["keynote","wireframe","via-pinboard"],"slug":["the-power-of-keynote"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Using Keynote for wireframing and prototyping web/mobile apps"
+    ],
+    "published": [
+      "2013-05-01T18:20:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The power of Keynote"
+    ],
+    "bookmark-of": [
+      "http://www.edenspiekermann.com/en/blog/espi-at-work-the-power-of-keynote"
+    ],
+    "category": [
+      "keynote",
+      "wireframe",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-power-of-keynote"
+    ]
+  }
+}

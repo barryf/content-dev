@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Typhoeus wraps libcurl in order to make fast and reliable requests"],"published":["2015-04-29T16:23:27Z"],"entry-type":["bookmark"],"name":["typhoeus"],"bookmark-of":["https://github.com/typhoeus/typhoeus"],"category":["ruby","curl","libcurl","http","parallel"],"slug":["typhoeus"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Typhoeus wraps libcurl in order to make fast and reliable requests"
+    ],
+    "published": [
+      "2015-04-29T16:23:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "typhoeus"
+    ],
+    "bookmark-of": [
+      "https://github.com/typhoeus/typhoeus"
+    ],
+    "category": [
+      "ruby",
+      "curl",
+      "libcurl",
+      "http",
+      "parallel"
+    ],
+    "slug": [
+      "typhoeus"
+    ]
+  }
+}

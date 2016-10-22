@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["1Mind"],"photo":["http://pbs.twimg.com/profile_images/507540452338171904/qCCOnei9_normal.png"],"url":["https://twitter.com/1MindUK"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "1Mind"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/507540452338171904/qCCOnei9_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/1MindUK"
+    ]
+  }
+}

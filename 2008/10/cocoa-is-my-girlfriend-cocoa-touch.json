@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-10-04T17:38:36Z"],"entry-type":["bookmark"],"name":["Cocoa Is My Girlfriend » Cocoa Touch Tutorial: iPhone Application Example"],"bookmark-of":["http://www.cimgf.com/2008/10/01/cocoa-touch-tutorial-iphone-application-example/"],"category":["dev","objectivec","iphone","cocoa","mac","tutorial","via-pinboard"],"slug":["cocoa-is-my-girlfriend-cocoa-touch"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-10-04T17:38:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Cocoa Is My Girlfriend » Cocoa Touch Tutorial: iPhone Application Example"
+    ],
+    "bookmark-of": [
+      "http://www.cimgf.com/2008/10/01/cocoa-touch-tutorial-iphone-application-example/"
+    ],
+    "category": [
+      "dev",
+      "objectivec",
+      "iphone",
+      "cocoa",
+      "mac",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cocoa-is-my-girlfriend-cocoa-touch"
+    ]
+  }
+}

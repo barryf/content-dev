@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter I'll settle for a cat instead."],"published":["2012-03-07T22:20:34Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/177515737181720577"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/177519136614776832"],"slug":["tweet-177519136614776832"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter I'll settle for a cat instead."
+    ],
+    "published": [
+      "2012-03-07T22:20:34Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/177515737181720577"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/177519136614776832"
+    ],
+    "slug": [
+      "tweet-177519136614776832"
+    ]
+  }
+}

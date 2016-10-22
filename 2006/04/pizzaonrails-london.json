@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Pizza, Rails geeks, London. Sounds good to me\n"],"published":["2006-04-26T12:37:09Z"],"entry-type":["bookmark"],"name":["PizzaOnRails London"],"bookmark-of":["http://pizzaonrails.com/"],"category":["rails","web","dev","london","uk","pizza","meetup","via-pinboard"],"slug":["pizzaonrails-london"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Pizza, Rails geeks, London. Sounds good to me\n"
+    ],
+    "published": [
+      "2006-04-26T12:37:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PizzaOnRails London"
+    ],
+    "bookmark-of": [
+      "http://pizzaonrails.com/"
+    ],
+    "category": [
+      "rails",
+      "web",
+      "dev",
+      "london",
+      "uk",
+      "pizza",
+      "meetup",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pizzaonrails-london"
+    ]
+  }
+}

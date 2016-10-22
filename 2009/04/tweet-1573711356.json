@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["How not to rebrand: Protx is now SagePay but all of the Protx payment gateway URLs we use have now broken overnight."],"published":["2009-04-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1573711356"],"slug":["tweet-1573711356"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How not to rebrand: Protx is now SagePay but all of the Protx payment gateway URLs we use have now broken overnight."
+    ],
+    "published": [
+      "2009-04-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1573711356"
+    ],
+    "slug": [
+      "tweet-1573711356"
+    ]
+  }
+}

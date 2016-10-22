@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Fast-loading simple app that emails a note to you with optional photo attachment\n"],"published":["2010-10-05T15:04:50Z"],"entry-type":["bookmark"],"name":["Captio for iPhone"],"bookmark-of":["http://www.boonbits.com/captio/"],"category":["todo","gtd","iphone","app","photo","ios","via-pinboard"],"slug":["captio-for-iphone"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Fast-loading simple app that emails a note to you with optional photo attachment\n"
+    ],
+    "published": [
+      "2010-10-05T15:04:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Captio for iPhone"
+    ],
+    "bookmark-of": [
+      "http://www.boonbits.com/captio/"
+    ],
+    "category": [
+      "todo",
+      "gtd",
+      "iphone",
+      "app",
+      "photo",
+      "ios",
+      "via-pinboard"
+    ],
+    "slug": [
+      "captio-for-iphone"
+    ]
+  }
+}

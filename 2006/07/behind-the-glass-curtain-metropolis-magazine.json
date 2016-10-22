@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Google's new HQ\n"],"published":["2006-07-20T12:48:31Z"],"entry-type":["bookmark"],"name":["Behind the Glass Curtain | Metropolis Magazine"],"bookmark-of":["http://www.metropolismag.com/cda/story.php?artid=2123"],"category":["google","architecture","design","office","business","work","inspiration","via-pinboard"],"slug":["behind-the-glass-curtain-metropolis-magazine"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Google's new HQ\n"
+    ],
+    "published": [
+      "2006-07-20T12:48:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Behind the Glass Curtain | Metropolis Magazine"
+    ],
+    "bookmark-of": [
+      "http://www.metropolismag.com/cda/story.php?artid=2123"
+    ],
+    "category": [
+      "google",
+      "architecture",
+      "design",
+      "office",
+      "business",
+      "work",
+      "inspiration",
+      "via-pinboard"
+    ],
+    "slug": [
+      "behind-the-glass-curtain-metropolis-magazine"
+    ]
+  }
+}

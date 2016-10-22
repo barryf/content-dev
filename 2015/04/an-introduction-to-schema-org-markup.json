@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-04-29T15:36:27Z"],"entry-type":["bookmark"],"name":["An Introduction to Schema.org Markup for Emails"],"bookmark-of":["http://moz.com/blog/markup-for-emails"],"category":["gmail","schema","email"],"slug":["an-introduction-to-schema-org-markup"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-04-29T15:36:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "An Introduction to Schema.org Markup for Emails"
+    ],
+    "bookmark-of": [
+      "http://moz.com/blog/markup-for-emails"
+    ],
+    "category": [
+      "gmail",
+      "schema",
+      "email"
+    ],
+    "slug": [
+      "an-introduction-to-schema-org-markup"
+    ]
+  }
+}

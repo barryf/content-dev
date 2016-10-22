@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@RealBradHaverly Bradders, if it's a bit advanced for you I can get someone to show you how to use it."],"published":["2011-11-25T15:43:10Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/103539254/status/140078822874808320"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/140093174952632320"],"slug":["tweet-140093174952632320"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@RealBradHaverly Bradders, if it's a bit advanced for you I can get someone to show you how to use it."
+    ],
+    "published": [
+      "2011-11-25T15:43:10Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/103539254/status/140078822874808320"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/140093174952632320"
+    ],
+    "slug": [
+      "tweet-140093174952632320"
+    ]
+  }
+}

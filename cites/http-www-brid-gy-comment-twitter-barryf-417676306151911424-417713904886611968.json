@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["http://www.brid.gy/comment/twitter/barryf/417676306151911424/417713904886611968"],"published":["2014-01-01T02:00:06Z"],"content":["@barryf thanks for trying it! and for finding a bug. :P should be (mostly) fixed now."],"author":["http://twitter.com/snarfed_org"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://www.brid.gy/comment/twitter/barryf/417676306151911424/417713904886611968"
+    ],
+    "published": [
+      "2014-01-01T02:00:06Z"
+    ],
+    "content": [
+      "@barryf thanks for trying it! and for finding a bug. :P should be (mostly) fixed now."
+    ],
+    "author": [
+      "http://twitter.com/snarfed_org"
+    ]
+  }
+}

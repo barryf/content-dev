@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2008-05-30T19:00:33Z"],"entry-type":["bookmark"],"name":["Google Chart API for PHP"],"bookmark-of":["http://james.cridland.net/code/google-chart.html"],"category":["php","google","api","charts","chart","web","javascript","design","statistics","via-pinboard"],"slug":["google-chart-api-for-php"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-05-30T19:00:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google Chart API for PHP"
+    ],
+    "bookmark-of": [
+      "http://james.cridland.net/code/google-chart.html"
+    ],
+    "category": [
+      "php",
+      "google",
+      "api",
+      "charts",
+      "chart",
+      "web",
+      "javascript",
+      "design",
+      "statistics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-chart-api-for-php"
+    ]
+  }
+}

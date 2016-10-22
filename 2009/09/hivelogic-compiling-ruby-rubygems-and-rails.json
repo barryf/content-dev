@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Dan Benjamin's compile from source instructions for SL/Rails\n"],"published":["2009-09-13T16:49:54Z"],"entry-type":["bookmark"],"name":["Hivelogic - Compiling Ruby, RubyGems, and Rails on Snow Leopard"],"bookmark-of":["http://hivelogic.com/articles/compiling-ruby-rubygems-and-rails-on-snow-leopard/"],"category":["rails","snowleopard","ruby","rubygems","hivelogic","via-pinboard"],"slug":["hivelogic-compiling-ruby-rubygems-and-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dan Benjamin's compile from source instructions for SL/Rails\n"
+    ],
+    "published": [
+      "2009-09-13T16:49:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Hivelogic - Compiling Ruby, RubyGems, and Rails on Snow Leopard"
+    ],
+    "bookmark-of": [
+      "http://hivelogic.com/articles/compiling-ruby-rubygems-and-rails-on-snow-leopard/"
+    ],
+    "category": [
+      "rails",
+      "snowleopard",
+      "ruby",
+      "rubygems",
+      "hivelogic",
+      "via-pinboard"
+    ],
+    "slug": [
+      "hivelogic-compiling-ruby-rubygems-and-rails"
+    ]
+  }
+}

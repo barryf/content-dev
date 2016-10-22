@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Tom"],"photo":["https://twitter.com/tpacker86/profile_image?size=original"],"url":["https://twitter.com/tpacker86"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom"
+    ],
+    "photo": [
+      "https://twitter.com/tpacker86/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/tpacker86"
+    ]
+  }
+}

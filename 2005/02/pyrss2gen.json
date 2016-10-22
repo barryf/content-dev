@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-02-07T10:45:27Z"],"entry-type":["bookmark"],"name":["PyRSS2Gen"],"bookmark-of":["http://www.dalkescientific.com/Python/PyRSS2Gen.html"],"category":["rss","python","via-pinboard"],"slug":["pyrss2gen"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-02-07T10:45:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PyRSS2Gen"
+    ],
+    "bookmark-of": [
+      "http://www.dalkescientific.com/Python/PyRSS2Gen.html"
+    ],
+    "category": [
+      "rss",
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "pyrss2gen"
+    ]
+  }
+}

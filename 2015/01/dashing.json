@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["> Dashing is a Sinatra based framework that lets you build beautiful dashboards."],"published":["2015-01-04T20:08:03Z"],"entry-type":["bookmark"],"name":["Dashing"],"bookmark-of":["http://dashing.io"],"category":["ruby","sinatra","dashboard","metrics"],"slug":["dashing"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Dashing is a Sinatra based framework that lets you build beautiful dashboards."
+    ],
+    "published": [
+      "2015-01-04T20:08:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Dashing"
+    ],
+    "bookmark-of": [
+      "http://dashing.io"
+    ],
+    "category": [
+      "ruby",
+      "sinatra",
+      "dashboard",
+      "metrics"
+    ],
+    "slug": [
+      "dashing"
+    ]
+  }
+}

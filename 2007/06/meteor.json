@@ -1,1 +1,39 @@
-{"type":["h-entry"],"properties":{"content":["HTTP server that was designed for apps using Comet techniques\n"],"published":["2007-06-18T12:19:40Z"],"entry-type":["bookmark"],"name":["Meteor"],"bookmark-of":["http://meteorserver.org/"],"category":["comet","ajax","http","server","opensource","streaming","perl","javascript","web","sysadmin","dev","via-pinboard"],"slug":["meteor"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "HTTP server that was designed for apps using Comet techniques\n"
+    ],
+    "published": [
+      "2007-06-18T12:19:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Meteor"
+    ],
+    "bookmark-of": [
+      "http://meteorserver.org/"
+    ],
+    "category": [
+      "comet",
+      "ajax",
+      "http",
+      "server",
+      "opensource",
+      "streaming",
+      "perl",
+      "javascript",
+      "web",
+      "sysadmin",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "meteor"
+    ]
+  }
+}

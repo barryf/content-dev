@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Enjoyed my evening in London at the Clapham Common fireworks and meeting friends old and new."],"published":["2009-11-05T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5464064310"],"slug":["tweet-5464064310"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Enjoyed my evening in London at the Clapham Common fireworks and meeting friends old and new."
+    ],
+    "published": [
+      "2009-11-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5464064310"
+    ],
+    "slug": [
+      "tweet-5464064310"
+    ]
+  }
+}

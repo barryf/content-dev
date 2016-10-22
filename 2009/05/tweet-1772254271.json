@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@braindeaf Or perhaps the government's way of increasing liquidity by making razor-edged notes that kill half the population off."],"published":["2009-05-12T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15984393/status/1772206768"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1772254271"],"slug":["tweet-1772254271"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@braindeaf Or perhaps the government's way of increasing liquidity by making razor-edged notes that kill half the population off."
+    ],
+    "published": [
+      "2009-05-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15984393/status/1772206768"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1772254271"
+    ],
+    "slug": [
+      "tweet-1772254271"
+    ]
+  }
+}

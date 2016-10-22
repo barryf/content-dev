@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Dashboard widget that Integrates with Basecamp to submit time\n"],"published":["2006-10-10T09:17:40Z"],"entry-type":["bookmark"],"name":["Clearwired: Sundial"],"bookmark-of":["http://www.clearwired.com/sundial/"],"category":["mac","time","dashboard","basecamp","via-pinboard"],"slug":["clearwired-sundial"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Dashboard widget that Integrates with Basecamp to submit time\n"
+    ],
+    "published": [
+      "2006-10-10T09:17:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Clearwired: Sundial"
+    ],
+    "bookmark-of": [
+      "http://www.clearwired.com/sundial/"
+    ],
+    "category": [
+      "mac",
+      "time",
+      "dashboard",
+      "basecamp",
+      "via-pinboard"
+    ],
+    "slug": [
+      "clearwired-sundial"
+    ]
+  }
+}

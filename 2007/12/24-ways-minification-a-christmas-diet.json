@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Optimising HTML, CSS, PNG and Javascript\n"],"published":["2007-12-08T16:21:53Z"],"entry-type":["bookmark"],"name":["24 ways: Minification: A Christmas Diet"],"bookmark-of":["http://24ways.org/2007/minification-a-christmas-diet"],"category":["css","javascript","performance","minification","compression","bestpractice","web","html","png","via-pinboard"],"slug":["24-ways-minification-a-christmas-diet"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Optimising HTML, CSS, PNG and Javascript\n"
+    ],
+    "published": [
+      "2007-12-08T16:21:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "24 ways: Minification: A Christmas Diet"
+    ],
+    "bookmark-of": [
+      "http://24ways.org/2007/minification-a-christmas-diet"
+    ],
+    "category": [
+      "css",
+      "javascript",
+      "performance",
+      "minification",
+      "compression",
+      "bestpractice",
+      "web",
+      "html",
+      "png",
+      "via-pinboard"
+    ],
+    "slug": [
+      "24-ways-minification-a-christmas-diet"
+    ]
+  }
+}

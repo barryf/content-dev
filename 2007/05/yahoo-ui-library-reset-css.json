@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2007-05-29T19:06:42Z"],"entry-type":["bookmark"],"name":["Yahoo! UI Library: Reset CSS"],"bookmark-of":["http://developer.yahoo.com/yui/reset/"],"category":["css","yahoo","design","web","via-pinboard"],"slug":["yahoo-ui-library-reset-css"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-05-29T19:06:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Yahoo! UI Library: Reset CSS"
+    ],
+    "bookmark-of": [
+      "http://developer.yahoo.com/yui/reset/"
+    ],
+    "category": [
+      "css",
+      "yahoo",
+      "design",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "yahoo-ui-library-reset-css"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Up-to-date for Rails 2.0\n"],"published":["2007-12-08T16:11:00Z"],"entry-type":["bookmark"],"name":["The Pragmatic Bookshelf | Advanced Rails Recipes"],"bookmark-of":["http://pragprog.com/titles/fr_arr"],"category":["book","rails","dev","wishlist","via-pinboard"],"slug":["the-pragmatic-bookshelf-advanced-rails-recipes"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Up-to-date for Rails 2.0\n"
+    ],
+    "published": [
+      "2007-12-08T16:11:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Pragmatic Bookshelf | Advanced Rails Recipes"
+    ],
+    "bookmark-of": [
+      "http://pragprog.com/titles/fr_arr"
+    ],
+    "category": [
+      "book",
+      "rails",
+      "dev",
+      "wishlist",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-pragmatic-bookshelf-advanced-rails-recipes"
+    ]
+  }
+}

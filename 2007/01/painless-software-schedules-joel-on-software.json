@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"published":["2007-01-30T10:25:52Z"],"entry-type":["bookmark"],"name":["Painless Software Schedules - Joel on Software"],"bookmark-of":["http://www.joelonsoftware.com/articles/fog0000000245.html"],"category":["scheduling","productivity","dev","project","management","business","inspiration","work","todo","estimate","via-pinboard"],"slug":["painless-software-schedules-joel-on-software"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-01-30T10:25:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Painless Software Schedules - Joel on Software"
+    ],
+    "bookmark-of": [
+      "http://www.joelonsoftware.com/articles/fog0000000245.html"
+    ],
+    "category": [
+      "scheduling",
+      "productivity",
+      "dev",
+      "project",
+      "management",
+      "business",
+      "inspiration",
+      "work",
+      "todo",
+      "estimate",
+      "via-pinboard"
+    ],
+    "slug": [
+      "painless-software-schedules-joel-on-software"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["LET'S PLAY DARTS! http://twitter.com/barryf/status/157238707613732865/photo/1"],"published":["2012-01-11T23:13:25Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/157238707613732865"],"slug":["tweet-157238707613732865"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "LET'S PLAY DARTS! http://twitter.com/barryf/status/157238707613732865/photo/1"
+    ],
+    "published": [
+      "2012-01-11T23:13:25Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/157238707613732865"
+    ],
+    "slug": [
+      "tweet-157238707613732865"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Rip DVDs and remove region encoding\n"],"published":["2006-09-25T13:07:55Z"],"entry-type":["bookmark"],"name":["MacTheRipper 2.6.6 - VersionTracker:"],"bookmark-of":["http://www.versiontracker.com/dyn/moreinfo/macosx/22715"],"category":["dvd","mac","video","ripper","via-pinboard"],"slug":["mactheripper-2-6-6-versiontracker"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rip DVDs and remove region encoding\n"
+    ],
+    "published": [
+      "2006-09-25T13:07:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MacTheRipper 2.6.6 - VersionTracker:"
+    ],
+    "bookmark-of": [
+      "http://www.versiontracker.com/dyn/moreinfo/macosx/22715"
+    ],
+    "category": [
+      "dvd",
+      "mac",
+      "video",
+      "ripper",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mactheripper-2-6-6-versiontracker"
+    ]
+  }
+}

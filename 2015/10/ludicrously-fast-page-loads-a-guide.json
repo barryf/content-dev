@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2015-10-18T11:23:59Z"],"entry-type":["bookmark"],"name":["Ludicrously Fast Page Loads - A Guide for Full-Stack Devs"],"bookmark-of":["http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html"],"category":["performance","javascript","async","css"],"slug":["ludicrously-fast-page-loads-a-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-10-18T11:23:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ludicrously Fast Page Loads - A Guide for Full-Stack Devs"
+    ],
+    "bookmark-of": [
+      "http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html"
+    ],
+    "category": [
+      "performance",
+      "javascript",
+      "async",
+      "css"
+    ],
+    "slug": [
+      "ludicrously-fast-page-loads-a-guide"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Inspiring offices and workplaces\n"],"published":["2008-06-21T11:06:52Z"],"entry-type":["bookmark"],"name":["This Ain’t No Disco"],"bookmark-of":["http://www.aintnodisco.com/"],"category":["office","work","design","workplace","business","inspiration","architecture","via-pinboard"],"slug":["this-ain-t-no-disco"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Inspiring offices and workplaces\n"
+    ],
+    "published": [
+      "2008-06-21T11:06:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "This Ain’t No Disco"
+    ],
+    "bookmark-of": [
+      "http://www.aintnodisco.com/"
+    ],
+    "category": [
+      "office",
+      "work",
+      "design",
+      "workplace",
+      "business",
+      "inspiration",
+      "architecture",
+      "via-pinboard"
+    ],
+    "slug": [
+      "this-ain-t-no-disco"
+    ]
+  }
+}

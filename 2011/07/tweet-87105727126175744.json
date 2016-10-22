@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@randommelsmum I think I'd get arrested!"],"published":["2011-07-02T10:29:58Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/19191021/status/87105442584608769"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/87105727126175744"],"slug":["tweet-87105727126175744"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@randommelsmum I think I'd get arrested!"
+    ],
+    "published": [
+      "2011-07-02T10:29:58Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/19191021/status/87105442584608769"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/87105727126175744"
+    ],
+    "slug": [
+      "tweet-87105727126175744"
+    ]
+  }
+}

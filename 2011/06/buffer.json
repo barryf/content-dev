@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Spread out tweets throughout the day rather than sending them in one burst.\n"],"published":["2011-06-01T11:53:51Z"],"entry-type":["bookmark"],"name":["Buffer"],"bookmark-of":["http://bufferapp.com/"],"category":["twitter","business","buffer","corporate","via-pinboard"],"slug":["buffer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Spread out tweets throughout the day rather than sending them in one burst.\n"
+    ],
+    "published": [
+      "2011-06-01T11:53:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Buffer"
+    ],
+    "bookmark-of": [
+      "http://bufferapp.com/"
+    ],
+    "category": [
+      "twitter",
+      "business",
+      "buffer",
+      "corporate",
+      "via-pinboard"
+    ],
+    "slug": [
+      "buffer"
+    ]
+  }
+}

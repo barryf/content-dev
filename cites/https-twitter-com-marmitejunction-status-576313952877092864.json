@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/MarmiteJunction/status/576313952877092864"],"published":["2015-03-13T09:28:48Z"],"content":["RT @barryf: Pretty swanky venue for a developer conference. Chandeliers and Ruby. #BathRuby"],"repost-of":["https://barryfrost.com/2015/03/pretty-swanky-venue-for-a-developer"],"author":["http://www.andrewfaraday.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/MarmiteJunction/status/576313952877092864"
+    ],
+    "published": [
+      "2015-03-13T09:28:48Z"
+    ],
+    "content": [
+      "RT @barryf: Pretty swanky venue for a developer conference. Chandeliers and Ruby. #BathRuby"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/03/pretty-swanky-venue-for-a-developer"
+    ],
+    "author": [
+      "http://www.andrewfaraday.com"
+    ]
+  }
+}

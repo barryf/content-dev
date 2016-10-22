@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["School Guide (@SchoolGuideUK)"],"photo":["http://pbs.twimg.com/profile_images/3493710379/8e5ac88a13713a58288a19ce6b79f1bf_normal.png"],"url":["https://twitter.com/SchoolGuideUK"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "School Guide (@SchoolGuideUK)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/3493710379/8e5ac88a13713a58288a19ce6b79f1bf_normal.png"
+    ],
+    "url": [
+      "https://twitter.com/SchoolGuideUK"
+    ]
+  }
+}

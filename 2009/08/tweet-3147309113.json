@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids I think I'm expected to buy a round with that so it's tap water for everyone..."],"published":["2009-08-05T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/3147002682"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3147309113"],"slug":["tweet-3147309113"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids I think I'm expected to buy a round with that so it's tap water for everyone..."
+    ],
+    "published": [
+      "2009-08-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/3147002682"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3147309113"
+    ],
+    "slug": [
+      "tweet-3147309113"
+    ]
+  }
+}

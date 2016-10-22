@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2005-03-22T16:50:13Z"],"entry-type":["bookmark"],"name":["(24)Slash7: Rails - What Goes Where"],"bookmark-of":["http://www.slash7.com/flashback/2005/03/rails_what_goes.html"],"category":["rails","via-pinboard"],"slug":["24-slash7-rails-what-goes-where"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-03-22T16:50:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "(24)Slash7: Rails - What Goes Where"
+    ],
+    "bookmark-of": [
+      "http://www.slash7.com/flashback/2005/03/rails_what_goes.html"
+    ],
+    "category": [
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "24-slash7-rails-what-goes-where"
+    ]
+  }
+}

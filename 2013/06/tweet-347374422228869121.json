@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ppounder I’d recommend trying it if you’re developing apps and want to see what’s new, but I found it clunky on my main phone."],"published":["2013-06-19T15:24:50Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20845611/status/347371907814920195"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347374422228869121"],"slug":["tweet-347374422228869121"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ppounder I’d recommend trying it if you’re developing apps and want to see what’s new, but I found it clunky on my main phone."
+    ],
+    "published": [
+      "2013-06-19T15:24:50Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20845611/status/347371907814920195"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347374422228869121"
+    ],
+    "slug": [
+      "tweet-347374422228869121"
+    ]
+  }
+}

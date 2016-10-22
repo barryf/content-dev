@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Asynchronous job queue system, as used by 6Apart\n"],"published":["2008-03-19T19:31:17Z"],"entry-type":["bookmark"],"name":["TheSchwartz - reliable job queue"],"bookmark-of":["http://search.cpan.org/~bradfitz/TheSchwartz-1.04/lib/TheSchwartz.pm"],"category":["perl","queue","job","asynchronous","via-pinboard"],"slug":["theschwartz-reliable-job-queue"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Asynchronous job queue system, as used by 6Apart\n"
+    ],
+    "published": [
+      "2008-03-19T19:31:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "TheSchwartz - reliable job queue"
+    ],
+    "bookmark-of": [
+      "http://search.cpan.org/~bradfitz/TheSchwartz-1.04/lib/TheSchwartz.pm"
+    ],
+    "category": [
+      "perl",
+      "queue",
+      "job",
+      "asynchronous",
+      "via-pinboard"
+    ],
+    "slug": [
+      "theschwartz-reliable-job-queue"
+    ]
+  }
+}

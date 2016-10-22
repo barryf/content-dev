@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["nuripix"],"url":["http://instagram.com/nuripix"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "nuripix"
+    ],
+    "url": [
+      "http://instagram.com/nuripix"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2008-04-13T07:39:54Z"],"entry-type":["bookmark"],"name":["21 Merb Links, Tutorials and Other Resources"],"bookmark-of":["http://www.rubyinside.com/merb-tutorials-and-resources-716.html"],"category":["merb","ruby","framework","web","dev","via-pinboard"],"slug":["21-merb-links-tutorials-and-other"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-04-13T07:39:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "21 Merb Links, Tutorials and Other Resources"
+    ],
+    "bookmark-of": [
+      "http://www.rubyinside.com/merb-tutorials-and-resources-716.html"
+    ],
+    "category": [
+      "merb",
+      "ruby",
+      "framework",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "21-merb-links-tutorials-and-other"
+    ]
+  }
+}

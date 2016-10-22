@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Perhaps it's not quite as simple as it first seems. A useful list for consideration when building public services.\n"],"published":["2011-05-01T12:21:15Z"],"entry-type":["bookmark"],"name":["notes on \"how to clone delicious in 48 hours\""],"bookmark-of":["http://notes.torrez.org/2010/12/learn-to-program-in-24-hours.html"],"category":["delicious","dev","clone","scaling","via-pinboard"],"slug":["notes-on-how-to-clone-delicious"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Perhaps it's not quite as simple as it first seems. A useful list for consideration when building public services.\n"
+    ],
+    "published": [
+      "2011-05-01T12:21:15Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "notes on \"how to clone delicious in 48 hours\""
+    ],
+    "bookmark-of": [
+      "http://notes.torrez.org/2010/12/learn-to-program-in-24-hours.html"
+    ],
+    "category": [
+      "delicious",
+      "dev",
+      "clone",
+      "scaling",
+      "via-pinboard"
+    ],
+    "slug": [
+      "notes-on-how-to-clone-delicious"
+    ]
+  }
+}

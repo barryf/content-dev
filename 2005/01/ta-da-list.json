@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["From the 37Signals people\n"],"published":["2005-01-19T19:25:11Z"],"entry-type":["bookmark"],"name":["Ta-da List"],"bookmark-of":["http://www.tadalist.com/"],"category":["web","via-pinboard"],"slug":["ta-da-list"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "From the 37Signals people\n"
+    ],
+    "published": [
+      "2005-01-19T19:25:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ta-da List"
+    ],
+    "bookmark-of": [
+      "http://www.tadalist.com/"
+    ],
+    "category": [
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ta-da-list"
+    ]
+  }
+}

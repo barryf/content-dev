@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["New Delicious design and new features coming: http://nyti.ms/omcxX6"],"published":["2011-09-14T12:59:30Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/113960060497043456"],"slug":["tweet-113960060497043456"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "New Delicious design and new features coming: http://nyti.ms/omcxX6"
+    ],
+    "published": [
+      "2011-09-14T12:59:30Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/113960060497043456"
+    ],
+    "slug": [
+      "tweet-113960060497043456"
+    ]
+  }
+}

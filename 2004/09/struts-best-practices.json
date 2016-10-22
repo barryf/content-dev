@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-14T09:35:44Z"],"entry-type":["bookmark"],"name":["Struts best practices"],"bookmark-of":["http://www.javaworld.com/javaworld/jw-09-2004/jw-0913-struts.html"],"category":["framework","java","via-pinboard"],"slug":["struts-best-practices"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-14T09:35:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Struts best practices"
+    ],
+    "bookmark-of": [
+      "http://www.javaworld.com/javaworld/jw-09-2004/jw-0913-struts.html"
+    ],
+    "category": [
+      "framework",
+      "java",
+      "via-pinboard"
+    ],
+    "slug": [
+      "struts-best-practices"
+    ]
+  }
+}

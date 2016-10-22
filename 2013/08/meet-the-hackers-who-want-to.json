@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Wired article on the IndieWeb movement, POSSE and other related things."],"published":["2013-08-14T12:33:04Z"],"entry-type":["bookmark"],"name":["Meet the Hackers Who Want to Jailbreak the Internet"],"bookmark-of":["http://www.wired.com/wiredenterprise/2013/08/indie-web/"],"category":["wired","indieweb","posse","via-pinboard"],"slug":["meet-the-hackers-who-want-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wired article on the IndieWeb movement, POSSE and other related things."
+    ],
+    "published": [
+      "2013-08-14T12:33:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Meet the Hackers Who Want to Jailbreak the Internet"
+    ],
+    "bookmark-of": [
+      "http://www.wired.com/wiredenterprise/2013/08/indie-web/"
+    ],
+    "category": [
+      "wired",
+      "indieweb",
+      "posse",
+      "via-pinboard"
+    ],
+    "slug": [
+      "meet-the-hackers-who-want-to"
+    ]
+  }
+}

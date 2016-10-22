@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["EFF backed project that uses a combination of the standard public data reported by your browser to create a trackable fingerprint, even if cookies are disabled.\n"],"published":["2011-08-23T10:45:49Z"],"entry-type":["bookmark"],"name":["Panopticlick"],"bookmark-of":["https://panopticlick.eff.org/"],"category":["cookie","tracking","eff","browser","scammer","via-pinboard"],"slug":["panopticlick"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "EFF backed project that uses a combination of the standard public data reported by your browser to create a trackable fingerprint, even if cookies are disabled.\n"
+    ],
+    "published": [
+      "2011-08-23T10:45:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Panopticlick"
+    ],
+    "bookmark-of": [
+      "https://panopticlick.eff.org/"
+    ],
+    "category": [
+      "cookie",
+      "tracking",
+      "eff",
+      "browser",
+      "scammer",
+      "via-pinboard"
+    ],
+    "slug": [
+      "panopticlick"
+    ]
+  }
+}

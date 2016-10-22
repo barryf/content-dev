@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"published":["2007-01-28T12:49:14Z"],"entry-type":["bookmark"],"name":["Prototype JavaScript Image Cropper UI"],"bookmark-of":["http://www.defusion.org.uk/demos/060519/cropper.php?demoType=preview&image=flower&formSubmit=Load+demo"],"category":["javascript","image","prototype","scriptaculous","crop","web","design","dev","buddy","icon","avatar","via-pinboard"],"slug":["prototype-javascript-image-cropper-ui"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-01-28T12:49:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Prototype JavaScript Image Cropper UI"
+    ],
+    "bookmark-of": [
+      "http://www.defusion.org.uk/demos/060519/cropper.php?demoType=preview&image=flower&formSubmit=Load+demo"
+    ],
+    "category": [
+      "javascript",
+      "image",
+      "prototype",
+      "scriptaculous",
+      "crop",
+      "web",
+      "design",
+      "dev",
+      "buddy",
+      "icon",
+      "avatar",
+      "via-pinboard"
+    ],
+    "slug": [
+      "prototype-javascript-image-cropper-ui"
+    ]
+  }
+}

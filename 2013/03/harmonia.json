@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["\"Recurring task and chore management made easy.\" Distributes repeating tasks among a team."],"published":["2013-03-11T08:33:32Z"],"entry-type":["bookmark"],"name":["Harmonia"],"bookmark-of":["https://harmonia.io/"],"category":["projectmanagement","team","via-pinboard"],"slug":["harmonia"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Recurring task and chore management made easy.\" Distributes repeating tasks among a team."
+    ],
+    "published": [
+      "2013-03-11T08:33:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Harmonia"
+    ],
+    "bookmark-of": [
+      "https://harmonia.io/"
+    ],
+    "category": [
+      "projectmanagement",
+      "team",
+      "via-pinboard"
+    ],
+    "slug": [
+      "harmonia"
+    ]
+  }
+}

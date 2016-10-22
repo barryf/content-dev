@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I've made myself a self-hosted short URL system with my new bfr.st domain to link to things, e.g. http://bfr.st/2Tqu"],"published":["2011-05-09T20:09:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/67682559588446208"],"slug":["tweet-67682559588446208"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've made myself a self-hosted short URL system with my new bfr.st domain to link to things, e.g. http://bfr.st/2Tqu"
+    ],
+    "published": [
+      "2011-05-09T20:09:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/67682559588446208"
+    ],
+    "slug": [
+      "tweet-67682559588446208"
+    ]
+  }
+}

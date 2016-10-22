@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://barryfrost.com/2015/01/i-ve-just-set-up-ssl"],"published":["2015-01-14T22:10:43Z"],"content":["I’ve just set up SSL image proxying on my website through camo to make sure any external non-https images are served via https. Camo is a simple HTTP proxy that also encrypts URLs with HMAC to prevent someone piggy-backing off your service.  \n\n Currently running nicely through Heroku using their wildcard SSL herokuapp.com certificate. My first time using a “Deploy to Heroku” button which made this ridiculously easy to get set up.  \n\n I now wrap external (http) image URLs on here with camo_image(): \n\n # from https://github.com/atmos/camo/blob/master/test/proxy_test.rb\ndef hexenc(image_url)\n  image_url.to_enum(:each_byte).map { |byte| \"%02x\" % byte }.join\nend\ndef camo_image(image_url)\n  hexdigest = OpenSSL::HMAC.hexdigest(OpenSSL::Digest::Digest.new('sha1'), ENV['CAMO_KEY'], image_url)\n  encoded_image_url = hexenc(image_url)\n  \"#{ENV['CAMO_URL']}/#{hexdigest}/#{encoded_image_url}\"\nend\n \n\n You can see it in action here."],"mention-of":["https://barryfrost.com/2015/01/11-124917"],"author":["https://barryfrost.com/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryfrost.com/2015/01/i-ve-just-set-up-ssl"
+    ],
+    "published": [
+      "2015-01-14T22:10:43Z"
+    ],
+    "content": [
+      "I’ve just set up SSL image proxying on my website through camo to make sure any external non-https images are served via https. Camo is a simple HTTP proxy that also encrypts URLs with HMAC to prevent someone piggy-backing off your service.  \n\n Currently running nicely through Heroku using their wildcard SSL herokuapp.com certificate. My first time using a “Deploy to Heroku” button which made this ridiculously easy to get set up.  \n\n I now wrap external (http) image URLs on here with camo_image(): \n\n # from https://github.com/atmos/camo/blob/master/test/proxy_test.rb\ndef hexenc(image_url)\n  image_url.to_enum(:each_byte).map { |byte| \"%02x\" % byte }.join\nend\ndef camo_image(image_url)\n  hexdigest = OpenSSL::HMAC.hexdigest(OpenSSL::Digest::Digest.new('sha1'), ENV['CAMO_KEY'], image_url)\n  encoded_image_url = hexenc(image_url)\n  \"#{ENV['CAMO_URL']}/#{hexdigest}/#{encoded_image_url}\"\nend\n \n\n You can see it in action here."
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2015/01/11-124917"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}

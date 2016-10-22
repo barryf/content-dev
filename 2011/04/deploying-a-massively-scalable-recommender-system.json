@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Uses Hadoop to do the heavy lifting and MySQL for the datastore\n"],"published":["2011-04-25T13:24:19Z"],"entry-type":["bookmark"],"name":["Deploying a massively scalable recommender system with Apache Mahout"],"bookmark-of":["http://ssc.io/deploying-a-massively-scalable-recommender-system-with-apache-mahout/"],"category":["suggestion","recommender","recommendation","hadoop","work","mysql","via-pinboard"],"slug":["deploying-a-massively-scalable-recommender-system"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Uses Hadoop to do the heavy lifting and MySQL for the datastore\n"
+    ],
+    "published": [
+      "2011-04-25T13:24:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Deploying a massively scalable recommender system with Apache Mahout"
+    ],
+    "bookmark-of": [
+      "http://ssc.io/deploying-a-massively-scalable-recommender-system-with-apache-mahout/"
+    ],
+    "category": [
+      "suggestion",
+      "recommender",
+      "recommendation",
+      "hadoop",
+      "work",
+      "mysql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "deploying-a-massively-scalable-recommender-system"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Useful story of Gravatar's growth and architectural challenges\n"],"published":["2008-10-12T19:22:17Z"],"entry-type":["bookmark"],"name":["Gravatar, one year later"],"bookmark-of":["http://blog.gravatar.com/2008/10/11/gravatar-one-year-later/"],"category":["gravatar","automattic","scaling","architecture","growth","web","dev","via-pinboard"],"slug":["gravatar-one-year-later"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Useful story of Gravatar's growth and architectural challenges\n"
+    ],
+    "published": [
+      "2008-10-12T19:22:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Gravatar, one year later"
+    ],
+    "bookmark-of": [
+      "http://blog.gravatar.com/2008/10/11/gravatar-one-year-later/"
+    ],
+    "category": [
+      "gravatar",
+      "automattic",
+      "scaling",
+      "architecture",
+      "growth",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "gravatar-one-year-later"
+    ]
+  }
+}

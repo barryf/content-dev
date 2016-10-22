@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Has some Leopard Server specific stuff, but may be useful nonetheless\n"],"published":["2008-03-29T14:43:24Z"],"entry-type":["bookmark"],"name":["Deploying Rails Applications on Mac OS X Leopard"],"bookmark-of":["http://developer.apple.com/tools/deployonrailsleopard.html"],"category":["deployment","leopard","mac","rails","server","sysadmin","work","via-pinboard"],"slug":["deploying-rails-applications-on-mac-os"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Has some Leopard Server specific stuff, but may be useful nonetheless\n"
+    ],
+    "published": [
+      "2008-03-29T14:43:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Deploying Rails Applications on Mac OS X Leopard"
+    ],
+    "bookmark-of": [
+      "http://developer.apple.com/tools/deployonrailsleopard.html"
+    ],
+    "category": [
+      "deployment",
+      "leopard",
+      "mac",
+      "rails",
+      "server",
+      "sysadmin",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "deploying-rails-applications-on-mac-os"
+    ]
+  }
+}

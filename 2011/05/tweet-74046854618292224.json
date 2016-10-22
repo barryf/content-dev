@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw I think Messenger for Mac 7+ supports it http://www.microsoft.com/mac/messenger"],"published":["2011-05-27T09:38:40Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/73903530376830976"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/74046854618292224"],"slug":["tweet-74046854618292224"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw I think Messenger for Mac 7+ supports it http://www.microsoft.com/mac/messenger"
+    ],
+    "published": [
+      "2011-05-27T09:38:40Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/73903530376830976"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/74046854618292224"
+    ],
+    "slug": [
+      "tweet-74046854618292224"
+    ]
+  }
+}

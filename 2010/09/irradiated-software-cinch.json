@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Snap windows to the sides of your Mac display - or maximise them\n"],"published":["2010-09-29T11:50:26Z"],"entry-type":["bookmark"],"name":["Irradiated Software - Cinch"],"bookmark-of":["http://www.irradiatedsoftware.com/cinch/"],"category":["window","mac","maximise","drag","screen","via-pinboard"],"slug":["irradiated-software-cinch"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Snap windows to the sides of your Mac display - or maximise them\n"
+    ],
+    "published": [
+      "2010-09-29T11:50:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Irradiated Software - Cinch"
+    ],
+    "bookmark-of": [
+      "http://www.irradiatedsoftware.com/cinch/"
+    ],
+    "category": [
+      "window",
+      "mac",
+      "maximise",
+      "drag",
+      "screen",
+      "via-pinboard"
+    ],
+    "slug": [
+      "irradiated-software-cinch"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Commentary on how they optimised conversion and reduced page load times. Backed by Jekyll and S3/Akamai hosting."],"published":["2013-01-05T15:31:55Z"],"entry-type":["bookmark"],"name":["Meet the Obama campaign's $250 million fundraising platform"],"bookmark-of":["http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/"],"category":["jekyll","akamai","cdn","optimisation","politics","scalability","via-pinboard"],"slug":["meet-the-obama-campaign-s-250"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Commentary on how they optimised conversion and reduced page load times. Backed by Jekyll and S3/Akamai hosting."
+    ],
+    "published": [
+      "2013-01-05T15:31:55Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Meet the Obama campaign's $250 million fundraising platform"
+    ],
+    "bookmark-of": [
+      "http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/"
+    ],
+    "category": [
+      "jekyll",
+      "akamai",
+      "cdn",
+      "optimisation",
+      "politics",
+      "scalability",
+      "via-pinboard"
+    ],
+    "slug": [
+      "meet-the-obama-campaign-s-250"
+    ]
+  }
+}

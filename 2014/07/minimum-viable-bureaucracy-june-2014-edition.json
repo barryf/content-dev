@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Notes for those managing or leading teams."],"published":["2014-07-11T13:27:13Z"],"entry-type":["bookmark"],"name":["Minimum Viable Bureaucracy, June 2014 Edition"],"bookmark-of":["https://speakerdeck.com/lauraxt/minimum-viable-bureaucracy-june-2014-edition"],"category":["management","leadership","team","dev","agile","via-pinboard"],"slug":["minimum-viable-bureaucracy-june-2014-edition"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Notes for those managing or leading teams."
+    ],
+    "published": [
+      "2014-07-11T13:27:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Minimum Viable Bureaucracy, June 2014 Edition"
+    ],
+    "bookmark-of": [
+      "https://speakerdeck.com/lauraxt/minimum-viable-bureaucracy-june-2014-edition"
+    ],
+    "category": [
+      "management",
+      "leadership",
+      "team",
+      "dev",
+      "agile",
+      "via-pinboard"
+    ],
+    "slug": [
+      "minimum-viable-bureaucracy-june-2014-edition"
+    ]
+  }
+}

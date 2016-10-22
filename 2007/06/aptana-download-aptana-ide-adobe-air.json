@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-06-13T20:27:35Z"],"entry-type":["bookmark"],"name":["Aptana: Download Aptana IDE Adobe® AIR™"],"bookmark-of":["http://www.aptana.com/air/"],"category":["adobe","aptana","eclipse","ide","air","apollo","web","dev","via-pinboard"],"slug":["aptana-download-aptana-ide-adobe-air"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-06-13T20:27:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Aptana: Download Aptana IDE Adobe® AIR™"
+    ],
+    "bookmark-of": [
+      "http://www.aptana.com/air/"
+    ],
+    "category": [
+      "adobe",
+      "aptana",
+      "eclipse",
+      "ide",
+      "air",
+      "apollo",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aptana-download-aptana-ide-adobe-air"
+    ]
+  }
+}

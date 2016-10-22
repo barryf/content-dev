@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-21T09:17:35Z"],"entry-type":["bookmark"],"name":["IPython - An enhanced Interactive Python"],"bookmark-of":["http://ipython.scipy.org/"],"category":["python","via-pinboard"],"slug":["ipython-an-enhanced-interactive-python"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-21T09:17:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "IPython - An enhanced Interactive Python"
+    ],
+    "bookmark-of": [
+      "http://ipython.scipy.org/"
+    ],
+    "category": [
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ipython-an-enhanced-interactive-python"
+    ]
+  }
+}

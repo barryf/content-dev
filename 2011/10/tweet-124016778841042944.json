@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ian_winter Nice try, Monsieur Hiver. Time to move back to France..."],"published":["2011-10-12T07:01:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/5433/status/124011428255514624"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/124016778841042944"],"slug":["tweet-124016778841042944"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ian_winter Nice try, Monsieur Hiver. Time to move back to France..."
+    ],
+    "published": [
+      "2011-10-12T07:01:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/5433/status/124011428255514624"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/124016778841042944"
+    ],
+    "slug": [
+      "tweet-124016778841042944"
+    ]
+  }
+}

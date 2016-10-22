@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["James Lafferty (@JamesLafferty)"],"photo":["http://si0.twimg.com/profile_images/585267214/GetAttachment.aspx_normal.jpeg"],"url":["https://twitter.com/JamesLafferty"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "James Lafferty (@JamesLafferty)"
+    ],
+    "photo": [
+      "http://si0.twimg.com/profile_images/585267214/GetAttachment.aspx_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/JamesLafferty"
+    ]
+  }
+}

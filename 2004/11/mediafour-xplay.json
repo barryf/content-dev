@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Access a Mac-formatted iPod from Windows\n"],"published":["2004-11-25T10:32:01Z"],"entry-type":["bookmark"],"name":["Mediafour | XPlay"],"bookmark-of":["http://www.mediafour.com/products/xplay/"],"category":["ipod","mac","via-pinboard"],"slug":["mediafour-xplay"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Access a Mac-formatted iPod from Windows\n"
+    ],
+    "published": [
+      "2004-11-25T10:32:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mediafour | XPlay"
+    ],
+    "bookmark-of": [
+      "http://www.mediafour.com/products/xplay/"
+    ],
+    "category": [
+      "ipod",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mediafour-xplay"
+    ]
+  }
+}

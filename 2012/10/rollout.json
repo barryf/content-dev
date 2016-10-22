@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Conditionally roll out features with redis and ruby"],"published":["2012-10-08T14:40:13Z"],"entry-type":["bookmark"],"name":["rollout"],"bookmark-of":["https://github.com/jamesgolick/rollout"],"category":["fromifttt","github","redis","ruby","deployment","dev","via-pinboard"],"slug":["rollout"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Conditionally roll out features with redis and ruby"
+    ],
+    "published": [
+      "2012-10-08T14:40:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "rollout"
+    ],
+    "bookmark-of": [
+      "https://github.com/jamesgolick/rollout"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "redis",
+      "ruby",
+      "deployment",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rollout"
+    ]
+  }
+}

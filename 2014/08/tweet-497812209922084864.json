@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@BenHobson Hang in there, Ben. We’ve just come back from the bar drinking many cocktails. Much the same #strenuous"],"published":["2014-08-08T18:30:54Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20511088/status/497786446951235584"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/497812209922084864"],"slug":["tweet-497812209922084864"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BenHobson Hang in there, Ben. We’ve just come back from the bar drinking many cocktails. Much the same #strenuous"
+    ],
+    "published": [
+      "2014-08-08T18:30:54Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20511088/status/497786446951235584"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/497812209922084864"
+    ],
+    "slug": [
+      "tweet-497812209922084864"
+    ]
+  }
+}

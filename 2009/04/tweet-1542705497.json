@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@rickjones501 Woofer and tweeters? That's no way to talk about @MelKirk and co.!"],"published":["2009-04-17T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/14447269/status/1542683178"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1542705497"],"slug":["tweet-1542705497"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@rickjones501 Woofer and tweeters? That's no way to talk about @MelKirk and co.!"
+    ],
+    "published": [
+      "2009-04-17T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/14447269/status/1542683178"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1542705497"
+    ],
+    "slug": [
+      "tweet-1542705497"
+    ]
+  }
+}

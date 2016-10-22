@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2011-06-06T12:49:53Z"],"entry-type":["bookmark"],"name":["@jimeh's git config and aliases"],"bookmark-of":["https://gist.github.com/235596"],"category":["git","config","shell","alias","dev","via-pinboard"],"slug":["jimeh-s-git-config-and-aliases"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-06-06T12:49:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "@jimeh's git config and aliases"
+    ],
+    "bookmark-of": [
+      "https://gist.github.com/235596"
+    ],
+    "category": [
+      "git",
+      "config",
+      "shell",
+      "alias",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jimeh-s-git-config-and-aliases"
+    ]
+  }
+}

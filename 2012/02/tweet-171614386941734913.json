@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh Just across the road from the station. Lovely views too."],"published":["2012-02-20T15:17:12Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/171607321313685504"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/171614386941734913"],"slug":["tweet-171614386941734913"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh Just across the road from the station. Lovely views too."
+    ],
+    "published": [
+      "2012-02-20T15:17:12Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/171607321313685504"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/171614386941734913"
+    ],
+    "slug": [
+      "tweet-171614386941734913"
+    ]
+  }
+}

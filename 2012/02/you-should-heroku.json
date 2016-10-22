@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Advocacy for bootstrapping with Heroku and avoiding sysadmin tasks for as long as you can\n"],"published":["2012-02-28T21:19:09Z"],"entry-type":["bookmark"],"name":["You should Heroku"],"bookmark-of":["http://pydanny.github.com/you-should-heroku.html"],"category":["sysadmin","hosting","bootstrap","python","heroku","via-pinboard"],"slug":["you-should-heroku"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Advocacy for bootstrapping with Heroku and avoiding sysadmin tasks for as long as you can\n"
+    ],
+    "published": [
+      "2012-02-28T21:19:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "You should Heroku"
+    ],
+    "bookmark-of": [
+      "http://pydanny.github.com/you-should-heroku.html"
+    ],
+    "category": [
+      "sysadmin",
+      "hosting",
+      "bootstrap",
+      "python",
+      "heroku",
+      "via-pinboard"
+    ],
+    "slug": [
+      "you-should-heroku"
+    ]
+  }
+}

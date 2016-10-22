@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Wet, but in the pub now so I don't mind so much."],"published":["2008-04-30T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/800521437"],"slug":["tweet-800521437"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wet, but in the pub now so I don't mind so much."
+    ],
+    "published": [
+      "2008-04-30T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/800521437"
+    ],
+    "slug": [
+      "tweet-800521437"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2007-09-24T16:40:50Z"],"entry-type":["bookmark"],"name":["QuarkRuby: Ruby on Rails Security Guide"],"bookmark-of":["http://www.quarkruby.com/2007/9/20/ruby-on-rails-security-guide"],"category":["dev","rails","security","sysadmin","web","via-pinboard"],"slug":["quarkruby-ruby-on-rails-security-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-09-24T16:40:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "QuarkRuby: Ruby on Rails Security Guide"
+    ],
+    "bookmark-of": [
+      "http://www.quarkruby.com/2007/9/20/ruby-on-rails-security-guide"
+    ],
+    "category": [
+      "dev",
+      "rails",
+      "security",
+      "sysadmin",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "quarkruby-ruby-on-rails-security-guide"
+    ]
+  }
+}

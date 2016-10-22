@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Lifestream site that aggregates you and your friends' del.icio.us links, Twitter feed, Last.fm etc. links. Facebook app too\n"],"published":["2008-03-13T12:01:08Z"],"entry-type":["bookmark"],"name":["FriendFeed"],"bookmark-of":["http://friendfeed.com/"],"category":["aggregator","socialnetworking","social","feed","facebook","lifestream","via-pinboard"],"slug":["friendfeed"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Lifestream site that aggregates you and your friends' del.icio.us links, Twitter feed, Last.fm etc. links. Facebook app too\n"
+    ],
+    "published": [
+      "2008-03-13T12:01:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "FriendFeed"
+    ],
+    "bookmark-of": [
+      "http://friendfeed.com/"
+    ],
+    "category": [
+      "aggregator",
+      "socialnetworking",
+      "social",
+      "feed",
+      "facebook",
+      "lifestream",
+      "via-pinboard"
+    ],
+    "slug": [
+      "friendfeed"
+    ]
+  }
+}

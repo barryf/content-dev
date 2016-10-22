@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Free, elegant solution to transfer music *from* an iPod\n"],"published":["2006-02-07T12:45:19Z"],"entry-type":["bookmark"],"name":["KennettNet - PodUtil"],"bookmark-of":["http://www.kennettnet.co.uk/software/podutil.php"],"category":["ipod","mp3","itunes","mac","windows","via-pinboard"],"slug":["kennettnet-podutil"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free, elegant solution to transfer music *from* an iPod\n"
+    ],
+    "published": [
+      "2006-02-07T12:45:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "KennettNet - PodUtil"
+    ],
+    "bookmark-of": [
+      "http://www.kennettnet.co.uk/software/podutil.php"
+    ],
+    "category": [
+      "ipod",
+      "mp3",
+      "itunes",
+      "mac",
+      "windows",
+      "via-pinboard"
+    ],
+    "slug": [
+      "kennettnet-podutil"
+    ]
+  }
+}

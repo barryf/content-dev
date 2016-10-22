@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-08-14T06:43:06Z"],"entry-type":["bookmark"],"name":["Full text indexing in PostgreSQL"],"bookmark-of":["http://www.devx.com/opensource/Article/21674"],"category":["postgresql","via-pinboard"],"slug":["full-text-indexing-in-postgresql"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-08-14T06:43:06Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Full text indexing in PostgreSQL"
+    ],
+    "bookmark-of": [
+      "http://www.devx.com/opensource/Article/21674"
+    ],
+    "category": [
+      "postgresql",
+      "via-pinboard"
+    ],
+    "slug": [
+      "full-text-indexing-in-postgresql"
+    ]
+  }
+}

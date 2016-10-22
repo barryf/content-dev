@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Personality matcher dating site\n"],"published":["2008-01-13T17:38:01Z"],"entry-type":["bookmark"],"name":["PARSHIP: Find someone really right for you"],"bookmark-of":["http://www.parship.co.uk/"],"category":["personality","dating","work","social","via-pinboard"],"slug":["parship-find-someone-really-right-for"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Personality matcher dating site\n"
+    ],
+    "published": [
+      "2008-01-13T17:38:01Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "PARSHIP: Find someone really right for you"
+    ],
+    "bookmark-of": [
+      "http://www.parship.co.uk/"
+    ],
+    "category": [
+      "personality",
+      "dating",
+      "work",
+      "social",
+      "via-pinboard"
+    ],
+    "slug": [
+      "parship-find-someone-really-right-for"
+    ]
+  }
+}

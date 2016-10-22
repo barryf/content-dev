@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["S3 backup for Mac\n"],"published":["2011-04-12T20:04:14Z"],"entry-type":["bookmark"],"name":["Arq"],"bookmark-of":["http://www.haystacksoftware.com/arq/"],"category":["s3","aws","backup","mac","via-pinboard"],"slug":["arq"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "S3 backup for Mac\n"
+    ],
+    "published": [
+      "2011-04-12T20:04:14Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Arq"
+    ],
+    "bookmark-of": [
+      "http://www.haystacksoftware.com/arq/"
+    ],
+    "category": [
+      "s3",
+      "aws",
+      "backup",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "arq"
+    ]
+  }
+}

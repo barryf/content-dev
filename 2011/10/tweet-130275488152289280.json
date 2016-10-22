@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Given up trying to put together a #bcl9 talk while here. Too much good stuff that I don't want to miss. Very high standard so far."],"published":["2011-10-29T13:31:11Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/130275488152289280"],"slug":["tweet-130275488152289280"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Given up trying to put together a #bcl9 talk while here. Too much good stuff that I don't want to miss. Very high standard so far."
+    ],
+    "published": [
+      "2011-10-29T13:31:11Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/130275488152289280"
+    ],
+    "slug": [
+      "tweet-130275488152289280"
+    ]
+  }
+}

@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2012-01-05T17:12:02Z"],"entry-type":["bookmark"],"name":["Ruby on Rails with Nginx on CentOS 5 on Linode"],"bookmark-of":["http://library.linode.com/frameworks/ruby-on-rails-nginx/centos-5"],"category":["vps","sysadmin","linux","centos","nginx","linode","rails","via-pinboard"],"slug":["ruby-on-rails-with-nginx-on"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-01-05T17:12:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ruby on Rails with Nginx on CentOS 5 on Linode"
+    ],
+    "bookmark-of": [
+      "http://library.linode.com/frameworks/ruby-on-rails-nginx/centos-5"
+    ],
+    "category": [
+      "vps",
+      "sysadmin",
+      "linux",
+      "centos",
+      "nginx",
+      "linode",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ruby-on-rails-with-nginx-on"
+    ]
+  }
+}

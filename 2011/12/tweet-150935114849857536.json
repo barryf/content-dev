@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["About to begin a stunning Christmas lunch at the Hobsons'. Happy Xmas to you."],"published":["2011-12-25T13:45:10Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/150935114849857536"],"slug":["tweet-150935114849857536"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "About to begin a stunning Christmas lunch at the Hobsons'. Happy Xmas to you."
+    ],
+    "published": [
+      "2011-12-25T13:45:10Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/150935114849857536"
+    ],
+    "slug": [
+      "tweet-150935114849857536"
+    ]
+  }
+}

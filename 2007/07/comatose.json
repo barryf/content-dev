@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Micro CMS plugin for Rails\n"],"published":["2007-07-10T13:35:35Z"],"entry-type":["bookmark"],"name":["Comatose"],"bookmark-of":["http://code.google.com/p/comatose-plugin/"],"category":["cms","plugin","rails","dev","web","via-pinboard"],"slug":["comatose"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Micro CMS plugin for Rails\n"
+    ],
+    "published": [
+      "2007-07-10T13:35:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Comatose"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/comatose-plugin/"
+    ],
+    "category": [
+      "cms",
+      "plugin",
+      "rails",
+      "dev",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "comatose"
+    ]
+  }
+}

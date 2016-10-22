@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Good luck, Jeff RT @cronkshaw: After 15 yrs of working for corporate - today I officially work for myself @lanciaconsult"],"published":["2013-05-22T07:43:29Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/337111459853119488"],"slug":["tweet-337111459853119488"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Good luck, Jeff RT @cronkshaw: After 15 yrs of working for corporate - today I officially work for myself @lanciaconsult"
+    ],
+    "published": [
+      "2013-05-22T07:43:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/337111459853119488"
+    ],
+    "slug": [
+      "tweet-337111459853119488"
+    ]
+  }
+}

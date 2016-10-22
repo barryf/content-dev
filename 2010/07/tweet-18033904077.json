@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["A bad start to my @globaldev Table Football League season: a loss to Rebound King @ian_winter."],"published":["2010-07-08T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/18033904077"],"slug":["tweet-18033904077"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A bad start to my @globaldev Table Football League season: a loss to Rebound King @ian_winter."
+    ],
+    "published": [
+      "2010-07-08T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/18033904077"
+    ],
+    "slug": [
+      "tweet-18033904077"
+    ]
+  }
+}

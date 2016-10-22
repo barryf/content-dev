@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/tayoakinmade/status/627778819802464256"],"published":["2015-08-02T09:51:48Z"],"content":["@barryf 👍"],"in-reply-to":["https://barryfrost.com/2015/08/tayoakinmade-thanks-t"],"author":["https://twitter.com/tayoakinmade"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/tayoakinmade/status/627778819802464256"
+    ],
+    "published": [
+      "2015-08-02T09:51:48Z"
+    ],
+    "content": [
+      "@barryf 👍"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/08/tayoakinmade-thanks-t"
+    ],
+    "author": [
+      "https://twitter.com/tayoakinmade"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2016-10-06T14:17:49Z"],"entry-type":["bookmark"],"name":["Your Body Text Is Too Small"],"bookmark-of":["https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902"],"category":["font","text","design","advocacy"],"slug":["your-body-text-is-too-small"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-10-06T14:17:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Your Body Text Is Too Small"
+    ],
+    "bookmark-of": [
+      "https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902"
+    ],
+    "category": [
+      "font",
+      "text",
+      "design",
+      "advocacy"
+    ],
+    "slug": [
+      "your-body-text-is-too-small"
+    ]
+  }
+}

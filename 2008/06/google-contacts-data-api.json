@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Get user's Gmail contacts without requiring username/password\n"],"published":["2008-06-05T20:14:21Z"],"entry-type":["bookmark"],"name":["Google Contacts Data API"],"bookmark-of":["http://code.google.com/apis/contacts/"],"category":["google","api","contacts","addressbook","data","dev","phish","web","via-pinboard"],"slug":["google-contacts-data-api"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Get user's Gmail contacts without requiring username/password\n"
+    ],
+    "published": [
+      "2008-06-05T20:14:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Google Contacts Data API"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/apis/contacts/"
+    ],
+    "category": [
+      "google",
+      "api",
+      "contacts",
+      "addressbook",
+      "data",
+      "dev",
+      "phish",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "google-contacts-data-api"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"published":["2016-07-21T15:53:41Z"],"entry-type":["like"],"like-of":["https://twitter.com/lukasco/status/756153939695853568"],"slug":["21-165341"],"syndication":["https://twitter.com/lukasco/status/756153939695853568"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-07-21T15:53:41Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://twitter.com/lukasco/status/756153939695853568"
+    ],
+    "slug": [
+      "21-165341"
+    ],
+    "syndication": [
+      "https://twitter.com/lukasco/status/756153939695853568"
+    ]
+  }
+}

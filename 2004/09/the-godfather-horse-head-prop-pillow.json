@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-17T16:41:53Z"],"entry-type":["bookmark"],"name":["The Godfather horse head prop pillow"],"bookmark-of":["http://www.kropserkel.com/godfather.htm"],"category":["fun","via-pinboard"],"slug":["the-godfather-horse-head-prop-pillow"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-17T16:41:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Godfather horse head prop pillow"
+    ],
+    "bookmark-of": [
+      "http://www.kropserkel.com/godfather.htm"
+    ],
+    "category": [
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-godfather-horse-head-prop-pillow"
+    ]
+  }
+}

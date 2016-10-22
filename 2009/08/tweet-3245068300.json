@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@sshingler I'm hoping a neighbour signed, but it's supposed to be only my signature that's accepted. Special Delivery isn't."],"published":["2009-08-11T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/18528807/status/3244949349"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3245068300"],"slug":["tweet-3245068300"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@sshingler I'm hoping a neighbour signed, but it's supposed to be only my signature that's accepted. Special Delivery isn't."
+    ],
+    "published": [
+      "2009-08-11T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/18528807/status/3244949349"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3245068300"
+    ],
+    "slug": [
+      "tweet-3245068300"
+    ]
+  }
+}

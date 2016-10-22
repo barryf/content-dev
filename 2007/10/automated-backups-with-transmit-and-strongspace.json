@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Uses Automator\n"],"published":["2007-10-28T18:26:49Z"],"entry-type":["bookmark"],"name":["Automated Backups with Transmit and Strongspace"],"bookmark-of":["http://weblog.strongspace.com/tips-and-tricks/automated-backups-with-transmit"],"category":["backup","mac","transmit","automator","strongspace","ical","sync","textdrive","via-pinboard"],"slug":["automated-backups-with-transmit-and-strongspace"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Uses Automator\n"
+    ],
+    "published": [
+      "2007-10-28T18:26:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Automated Backups with Transmit and Strongspace"
+    ],
+    "bookmark-of": [
+      "http://weblog.strongspace.com/tips-and-tricks/automated-backups-with-transmit"
+    ],
+    "category": [
+      "backup",
+      "mac",
+      "transmit",
+      "automator",
+      "strongspace",
+      "ical",
+      "sync",
+      "textdrive",
+      "via-pinboard"
+    ],
+    "slug": [
+      "automated-backups-with-transmit-and-strongspace"
+    ]
+  }
+}

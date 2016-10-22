@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["hrtbps"],"photo":["http://pbs.twimg.com/profile_images/510181921171980288/WXI9QBvX_normal.jpeg"],"url":["https://twitter.com/hrtbps"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "hrtbps"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/510181921171980288/WXI9QBvX_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/hrtbps"
+    ]
+  }
+}

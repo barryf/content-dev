@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/nstanley/status/755395219055665152"],"published":["2016-07-19T13:33:49Z"],"content":["@barryf try this one"],"in-reply-to":["https://barryfrost.com/2016/07/nstanley-well-i-can-use-snapchat"],"author":["https://twitter.com/nstanley"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/nstanley/status/755395219055665152"
+    ],
+    "published": [
+      "2016-07-19T13:33:49Z"
+    ],
+    "content": [
+      "@barryf try this one"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/07/nstanley-well-i-can-use-snapchat"
+    ],
+    "author": [
+      "https://twitter.com/nstanley"
+    ]
+  }
+}

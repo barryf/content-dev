@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Why would you have such a tiny strip of grass in your back garden? http://twitpic.com/8ccthr"],"published":["2012-01-27T17:21:43Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/162948412306755584"],"slug":["tweet-162948412306755584"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Why would you have such a tiny strip of grass in your back garden? http://twitpic.com/8ccthr"
+    ],
+    "published": [
+      "2012-01-27T17:21:43Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/162948412306755584"
+    ],
+    "slug": [
+      "tweet-162948412306755584"
+    ]
+  }
+}

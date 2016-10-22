@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Handy when I haven't got Macports available\n"],"published":["2008-12-06T14:12:34Z"],"entry-type":["bookmark"],"name":["Git OSX installer"],"bookmark-of":["http://code.google.com/p/git-osx-installer/"],"category":["git","installer","mac","install","via-pinboard"],"slug":["git-osx-installer"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Handy when I haven't got Macports available\n"
+    ],
+    "published": [
+      "2008-12-06T14:12:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Git OSX installer"
+    ],
+    "bookmark-of": [
+      "http://code.google.com/p/git-osx-installer/"
+    ],
+    "category": [
+      "git",
+      "installer",
+      "mac",
+      "install",
+      "via-pinboard"
+    ],
+    "slug": [
+      "git-osx-installer"
+    ]
+  }
+}

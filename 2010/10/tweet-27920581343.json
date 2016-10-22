@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@DavidHart Have you seen how cold it is out there? I'll get the sniffles and probably chapped hands."],"published":["2010-10-20T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/10161512/status/27919606023"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27920581343"],"slug":["tweet-27920581343"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@DavidHart Have you seen how cold it is out there? I'll get the sniffles and probably chapped hands."
+    ],
+    "published": [
+      "2010-10-20T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/10161512/status/27919606023"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27920581343"
+    ],
+    "slug": [
+      "tweet-27920581343"
+    ]
+  }
+}

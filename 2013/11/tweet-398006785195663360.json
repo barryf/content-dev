@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The cat’s really not enjoying the fireworks this week. Too scared to go out, last night she made her own dirty protest in the sink."],"published":["2013-11-06T08:39:46Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/398006785195663360"],"slug":["tweet-398006785195663360"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The cat’s really not enjoying the fireworks this week. Too scared to go out, last night she made her own dirty protest in the sink."
+    ],
+    "published": [
+      "2013-11-06T08:39:46Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/398006785195663360"
+    ],
+    "slug": [
+      "tweet-398006785195663360"
+    ]
+  }
+}

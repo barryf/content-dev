@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Caches PHP opcode into memory to stop the need for compilation on each request\n"],"published":["2008-05-05T17:03:35Z"],"entry-type":["bookmark"],"name":["APC (Alternative Page Cache)"],"bookmark-of":["http://pecl.php.net/package/APC"],"category":["php","cache","accelerator","apc","performance","scaling","dev","server","sysadmin","via-pinboard"],"slug":["apc-alternative-page-cache"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Caches PHP opcode into memory to stop the need for compilation on each request\n"
+    ],
+    "published": [
+      "2008-05-05T17:03:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "APC (Alternative Page Cache)"
+    ],
+    "bookmark-of": [
+      "http://pecl.php.net/package/APC"
+    ],
+    "category": [
+      "php",
+      "cache",
+      "accelerator",
+      "apc",
+      "performance",
+      "scaling",
+      "dev",
+      "server",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "apc-alternative-page-cache"
+    ]
+  }
+}

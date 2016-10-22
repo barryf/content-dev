@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["How to use RGBA - Safari 3/Webkit only for now\n"],"published":["2008-10-18T16:40:59Z"],"entry-type":["bookmark"],"name":["RGBA colors - CSS3"],"bookmark-of":["http://www.css3.info/preview/rgba/"],"category":["rgba","colour","alpha","web","css","css3","safari","webkit","via-pinboard"],"slug":["rgba-colors-css3"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to use RGBA - Safari 3/Webkit only for now\n"
+    ],
+    "published": [
+      "2008-10-18T16:40:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "RGBA colors - CSS3"
+    ],
+    "bookmark-of": [
+      "http://www.css3.info/preview/rgba/"
+    ],
+    "category": [
+      "rgba",
+      "colour",
+      "alpha",
+      "web",
+      "css",
+      "css3",
+      "safari",
+      "webkit",
+      "via-pinboard"
+    ],
+    "slug": [
+      "rgba-colors-css3"
+    ]
+  }
+}

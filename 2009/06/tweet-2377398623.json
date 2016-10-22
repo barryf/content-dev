@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Watching Blur and Prodigy at Glastonbury on the telly. Essex rules."],"published":["2009-06-28T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2377398623"],"slug":["tweet-2377398623"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Watching Blur and Prodigy at Glastonbury on the telly. Essex rules."
+    ],
+    "published": [
+      "2009-06-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2377398623"
+    ],
+    "slug": [
+      "tweet-2377398623"
+    ]
+  }
+}

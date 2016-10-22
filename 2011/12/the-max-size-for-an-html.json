@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2011-12-06T15:59:00Z"],"entry-type":["bookmark"],"name":["The max size for an HTML email is 102K"],"bookmark-of":["http://feedproxy.google.com/~r/CampaignMonitorBlog/~3/NuK1AncI5zQ/"],"category":["emailsizehtmldesign","via-pinboard"],"slug":["the-max-size-for-an-html"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-12-06T15:59:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The max size for an HTML email is 102K"
+    ],
+    "bookmark-of": [
+      "http://feedproxy.google.com/~r/CampaignMonitorBlog/~3/NuK1AncI5zQ/"
+    ],
+    "category": [
+      "emailsizehtmldesign",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-max-size-for-an-html"
+    ]
+  }
+}

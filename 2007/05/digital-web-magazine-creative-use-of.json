@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Great write-up by Jeff Croft of how to use PNGs, including IE6 hack\n"],"published":["2007-05-31T18:42:40Z"],"entry-type":["bookmark"],"name":["Digital Web Magazine - Creative Use of PNG Transparency in Web Design"],"bookmark-of":["http://www.digital-web.com/articles/web_standards_creativity_png/"],"category":["png","css","design","transparency","web","via-pinboard"],"slug":["digital-web-magazine-creative-use-of"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Great write-up by Jeff Croft of how to use PNGs, including IE6 hack\n"
+    ],
+    "published": [
+      "2007-05-31T18:42:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Digital Web Magazine - Creative Use of PNG Transparency in Web Design"
+    ],
+    "bookmark-of": [
+      "http://www.digital-web.com/articles/web_standards_creativity_png/"
+    ],
+    "category": [
+      "png",
+      "css",
+      "design",
+      "transparency",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "digital-web-magazine-creative-use-of"
+    ]
+  }
+}

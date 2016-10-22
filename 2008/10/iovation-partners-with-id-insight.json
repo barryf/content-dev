@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Address verification can now be combined with device checks. I wonder if this will be wrapped up in one call?\n"],"published":["2008-10-04T17:41:41Z"],"entry-type":["bookmark"],"name":["iovation Partners with ID Insight"],"bookmark-of":["http://www.marketwatch.com/news/story/iovation-partners-id-insight-provide/story.aspx?guid=%7B9D969BC1-8299-4DAE-9C3C-1B5AF6EEFE28%7D&dist=hppr"],"category":["iovation","idinsight","identity","fraud","address","scammer","spam","work","via-pinboard"],"slug":["iovation-partners-with-id-insight"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Address verification can now be combined with device checks. I wonder if this will be wrapped up in one call?\n"
+    ],
+    "published": [
+      "2008-10-04T17:41:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iovation Partners with ID Insight"
+    ],
+    "bookmark-of": [
+      "http://www.marketwatch.com/news/story/iovation-partners-id-insight-provide/story.aspx?guid=%7B9D969BC1-8299-4DAE-9C3C-1B5AF6EEFE28%7D&dist=hppr"
+    ],
+    "category": [
+      "iovation",
+      "idinsight",
+      "identity",
+      "fraud",
+      "address",
+      "scammer",
+      "spam",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "iovation-partners-with-id-insight"
+    ]
+  }
+}

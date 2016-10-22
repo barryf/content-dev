@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I've had sad news about my family's cat Marmite who was put down this morning. Probably a car accident. Poor little chap."],"published":["2009-05-26T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1922301129"],"slug":["tweet-1922301129"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've had sad news about my family's cat Marmite who was put down this morning. Probably a car accident. Poor little chap."
+    ],
+    "published": [
+      "2009-05-26T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1922301129"
+    ],
+    "slug": [
+      "tweet-1922301129"
+    ]
+  }
+}

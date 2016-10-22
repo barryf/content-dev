@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["@larrylou100 “@stephenfry: Actually, all Comic Sans used as #PlanetWord font w/o my knowledge […] *ashamed*” &lt;&lt; see, I wasn't the only one!"],"published":["2011-09-27T20:22:49Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/118782667239079936"],"slug":["tweet-118782667239079936"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@larrylou100 “@stephenfry: Actually, all Comic Sans used as #PlanetWord font w/o my knowledge […] *ashamed*” &lt;&lt; see, I wasn't the only one!"
+    ],
+    "published": [
+      "2011-09-27T20:22:49Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/118782667239079936"
+    ],
+    "slug": [
+      "tweet-118782667239079936"
+    ]
+  }
+}

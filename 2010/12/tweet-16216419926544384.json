@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Eyes recovering well after fighting through the snow to Harley Street for laser surgery today. Yes @cronkshaw you can smell the burning..."],"published":["2010-12-18T19:41:10Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/16216419926544384"],"slug":["tweet-16216419926544384"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Eyes recovering well after fighting through the snow to Harley Street for laser surgery today. Yes @cronkshaw you can smell the burning..."
+    ],
+    "published": [
+      "2010-12-18T19:41:10Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/16216419926544384"
+    ],
+    "slug": [
+      "tweet-16216419926544384"
+    ]
+  }
+}

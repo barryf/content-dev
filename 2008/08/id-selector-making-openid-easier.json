@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Drop down button to select popular OpenID providers - for newbs\n"],"published":["2008-08-08T08:01:47Z"],"entry-type":["bookmark"],"name":["ID Selector - Making OpenID easier"],"bookmark-of":["https://www.idselector.com/"],"category":["openid","login","form","ui","web","design","via-pinboard"],"slug":["id-selector-making-openid-easier"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Drop down button to select popular OpenID providers - for newbs\n"
+    ],
+    "published": [
+      "2008-08-08T08:01:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ID Selector - Making OpenID easier"
+    ],
+    "bookmark-of": [
+      "https://www.idselector.com/"
+    ],
+    "category": [
+      "openid",
+      "login",
+      "form",
+      "ui",
+      "web",
+      "design",
+      "via-pinboard"
+    ],
+    "slug": [
+      "id-selector-making-openid-easier"
+    ]
+  }
+}

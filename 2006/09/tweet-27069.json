@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Testing this with my phone..."],"published":["2006-09-08T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/27069"],"slug":["tweet-27069"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Testing this with my phone..."
+    ],
+    "published": [
+      "2006-09-08T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/27069"
+    ],
+    "slug": [
+      "tweet-27069"
+    ]
+  }
+}

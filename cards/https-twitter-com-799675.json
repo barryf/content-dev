@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Gavin McFarland"],"photo":["http://pbs.twimg.com/profile_images/378800000705150059/2ba1bb4f1aa43c6ad6e09ee8c64ef0ca_normal.jpeg"],"url":["https://twitter.com/sevenupcan"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Gavin McFarland"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000705150059/2ba1bb4f1aa43c6ad6e09ee8c64ef0ca_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/sevenupcan"
+    ]
+  }
+}

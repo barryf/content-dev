@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Simple solution if you don’t like Apple’s new Maps app in iOS6: go to http://bfr.st/UgQwPG and add Google Maps (web) to your homescreen."],"published":["2012-09-20T12:43:58Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/248764437849337856"],"slug":["tweet-248764437849337856"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simple solution if you don’t like Apple’s new Maps app in iOS6: go to http://bfr.st/UgQwPG and add Google Maps (web) to your homescreen."
+    ],
+    "published": [
+      "2012-09-20T12:43:58Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/248764437849337856"
+    ],
+    "slug": [
+      "tweet-248764437849337856"
+    ]
+  }
+}

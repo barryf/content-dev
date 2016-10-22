@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["In Hyde Park ready for the Blur/New Order/Specials Olympics closing gig. Never seen so many picnics!"],"published":["2012-08-12T14:32:25Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/234658604307845120"],"slug":["tweet-234658604307845120"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "In Hyde Park ready for the Blur/New Order/Specials Olympics closing gig. Never seen so many picnics!"
+    ],
+    "published": [
+      "2012-08-12T14:32:25Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/234658604307845120"
+    ],
+    "slug": [
+      "tweet-234658604307845120"
+    ]
+  }
+}

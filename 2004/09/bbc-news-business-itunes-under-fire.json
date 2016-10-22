@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-15T10:45:56Z"],"entry-type":["bookmark"],"name":["BBC NEWS | Business | iTunes under fire over UK pricing"],"bookmark-of":["http://news.bbc.co.uk/2/hi/business/3658200.stm"],"category":["itunes","via-pinboard"],"slug":["bbc-news-business-itunes-under-fire"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-15T10:45:56Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "BBC NEWS | Business | iTunes under fire over UK pricing"
+    ],
+    "bookmark-of": [
+      "http://news.bbc.co.uk/2/hi/business/3658200.stm"
+    ],
+    "category": [
+      "itunes",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bbc-news-business-itunes-under-fire"
+    ]
+  }
+}

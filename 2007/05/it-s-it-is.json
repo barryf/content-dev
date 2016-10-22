@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2007-05-28T16:11:33Z"],"entry-type":["bookmark"],"name":["It's = it is"],"bookmark-of":["http://www.angryflower.com/itsits.gif"],"category":["comic","english","fun","grammar","language","filetypegif","mediaimage","via-pinboard"],"slug":["it-s-it-is"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-05-28T16:11:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "It's = it is"
+    ],
+    "bookmark-of": [
+      "http://www.angryflower.com/itsits.gif"
+    ],
+    "category": [
+      "comic",
+      "english",
+      "fun",
+      "grammar",
+      "language",
+      "filetypegif",
+      "mediaimage",
+      "via-pinboard"
+    ],
+    "slug": [
+      "it-s-it-is"
+    ]
+  }
+}

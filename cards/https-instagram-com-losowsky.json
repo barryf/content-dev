@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["losowsky"],"url":["https://instagram.com/losowsky"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "losowsky"
+    ],
+    "url": [
+      "https://instagram.com/losowsky"
+    ]
+  }
+}

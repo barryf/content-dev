@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-08T21:04:08Z"],"entry-type":["bookmark"],"name":["A living style guide for GOV.UK"],"bookmark-of":["https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/"],"category":["styleguide","style"],"slug":["a-living-style-guide-for-gov"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-08T21:04:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "A living style guide for GOV.UK"
+    ],
+    "bookmark-of": [
+      "https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/"
+    ],
+    "category": [
+      "styleguide",
+      "style"
+    ],
+    "slug": [
+      "a-living-style-guide-for-gov"
+    ]
+  }
+}

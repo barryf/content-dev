@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Drag-and-drop library"],"published":["2015-07-20T08:19:44Z"],"entry-type":["bookmark"],"name":["dragula"],"bookmark-of":["https://github.com/bevacqua/dragula"],"category":["draganddrop","drag","javascript"],"slug":["dragula"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Drag-and-drop library"
+    ],
+    "published": [
+      "2015-07-20T08:19:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "dragula"
+    ],
+    "bookmark-of": [
+      "https://github.com/bevacqua/dragula"
+    ],
+    "category": [
+      "draganddrop",
+      "drag",
+      "javascript"
+    ],
+    "slug": [
+      "dragula"
+    ]
+  }
+}

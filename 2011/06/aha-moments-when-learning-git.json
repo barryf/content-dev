@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2011-06-23T08:24:19Z"],"entry-type":["bookmark"],"name":["Aha! Moments When Learning Git"],"bookmark-of":["http://betterexplained.com/articles/aha-moments-when-learning-git/"],"category":["git","guide","tips","via-pinboard"],"slug":["aha-moments-when-learning-git"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2011-06-23T08:24:19Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Aha! Moments When Learning Git"
+    ],
+    "bookmark-of": [
+      "http://betterexplained.com/articles/aha-moments-when-learning-git/"
+    ],
+    "category": [
+      "git",
+      "guide",
+      "tips",
+      "via-pinboard"
+    ],
+    "slug": [
+      "aha-moments-when-learning-git"
+    ]
+  }
+}

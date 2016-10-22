@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@boffbowsh Not another Spud?! Stick to the gridiron :)"],"published":["2012-02-26T12:50:25Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7556272/status/173750991555014657"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/173751772727353345"],"slug":["tweet-173751772727353345"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@boffbowsh Not another Spud?! Stick to the gridiron :)"
+    ],
+    "published": [
+      "2012-02-26T12:50:25Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7556272/status/173750991555014657"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/173751772727353345"
+    ],
+    "slug": [
+      "tweet-173751772727353345"
+    ]
+  }
+}

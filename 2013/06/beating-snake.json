@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Animated gif showing Nokia's Snake game being completed"],"published":["2013-06-09T10:33:53Z"],"entry-type":["bookmark"],"name":["Beating Snake"],"bookmark-of":["http://www.onefoottsunami.com/2013/04/12/beating-snake/"],"category":["snake","nokia","phone","retro","nostalgia","via-pinboard"],"slug":["beating-snake"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Animated gif showing Nokia's Snake game being completed"
+    ],
+    "published": [
+      "2013-06-09T10:33:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Beating Snake"
+    ],
+    "bookmark-of": [
+      "http://www.onefoottsunami.com/2013/04/12/beating-snake/"
+    ],
+    "category": [
+      "snake",
+      "nokia",
+      "phone",
+      "retro",
+      "nostalgia",
+      "via-pinboard"
+    ],
+    "slug": [
+      "beating-snake"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Gig booked: I'm seeing The Whitest Boy Alive at the Coronet in August http://www.songkick.com/concerts/12584653-whitest-boy-alive-at-coronet-theatre"],"published":["2012-07-11T12:33:34Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/223032284146708482"],"slug":["tweet-223032284146708482"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Gig booked: I'm seeing The Whitest Boy Alive at the Coronet in August http://www.songkick.com/concerts/12584653-whitest-boy-alive-at-coronet-theatre"
+    ],
+    "published": [
+      "2012-07-11T12:33:34Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/223032284146708482"
+    ],
+    "slug": [
+      "tweet-223032284146708482"
+    ]
+  }
+}

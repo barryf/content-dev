@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Philip Durbin"],"photo":["https://twitter.com/philipdurbin/profile_image?size=original"],"url":["https://twitter.com/philipdurbin"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Philip Durbin"
+    ],
+    "photo": [
+      "https://twitter.com/philipdurbin/profile_image?size=original"
+    ],
+    "url": [
+      "https://twitter.com/philipdurbin"
+    ]
+  }
+}

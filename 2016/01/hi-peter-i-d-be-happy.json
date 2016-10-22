@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["Hi Peter. I'd be happy to help but Cambridge is a little too far from where I live in Surrey. My wife and I have recently had a baby so I'd need to be nearer home. Is London a possibility instead?"],"published":["2016-01-12T14:18:18Z"],"entry-type":["reply"],"in-reply-to":["https://petermolnar.eu/o0ue11/"],"slug":["hi-peter-i-d-be-happy"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Hi Peter. I'd be happy to help but Cambridge is a little too far from where I live in Surrey. My wife and I have recently had a baby so I'd need to be nearer home. Is London a possibility instead?"
+    ],
+    "published": [
+      "2016-01-12T14:18:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://petermolnar.eu/o0ue11/"
+    ],
+    "slug": [
+      "hi-peter-i-d-be-happy"
+    ]
+  }
+}

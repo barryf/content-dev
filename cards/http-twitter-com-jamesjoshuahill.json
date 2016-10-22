@@ -1,1 +1,13 @@
-{"type":["h-card"],"properties":{"name":["Josh Hill"],"url":["http://twitter.com/jamesjoshuahill"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Josh Hill"
+    ],
+    "url": [
+      "http://twitter.com/jamesjoshuahill"
+    ]
+  }
+}

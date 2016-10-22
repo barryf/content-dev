@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Might be useful for Fabric\n"],"published":["2007-01-27T14:30:27Z"],"entry-type":["bookmark"],"name":["inner.geek » Blog Archive » Loading JSON in ActionScript 2"],"bookmark-of":["http://inner.geek.nz/archives/2007/01/18/loading-json-in-actionscript-2/"],"category":["json","actionscript","flash","web","dev","via-pinboard"],"slug":["inner-geek-blog-archive-loading-json"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Might be useful for Fabric\n"
+    ],
+    "published": [
+      "2007-01-27T14:30:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "inner.geek » Blog Archive » Loading JSON in ActionScript 2"
+    ],
+    "bookmark-of": [
+      "http://inner.geek.nz/archives/2007/01/18/loading-json-in-actionscript-2/"
+    ],
+    "category": [
+      "json",
+      "actionscript",
+      "flash",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "inner-geek-blog-archive-loading-json"
+    ]
+  }
+}

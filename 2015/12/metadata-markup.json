@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["How to (more efficiently) include Twitter/Facebook/Open Graph metadata in your pages"],"published":["2015-12-03T16:09:54Z"],"entry-type":["bookmark"],"name":["Metadata markup"],"bookmark-of":["https://adactio.com/journal/9881"],"category":["opengraph","metadata","html","twitter","facebook"],"slug":["metadata-markup"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "How to (more efficiently) include Twitter/Facebook/Open Graph metadata in your pages"
+    ],
+    "published": [
+      "2015-12-03T16:09:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Metadata markup"
+    ],
+    "bookmark-of": [
+      "https://adactio.com/journal/9881"
+    ],
+    "category": [
+      "opengraph",
+      "metadata",
+      "html",
+      "twitter",
+      "facebook"
+    ],
+    "slug": [
+      "metadata-markup"
+    ]
+  }
+}

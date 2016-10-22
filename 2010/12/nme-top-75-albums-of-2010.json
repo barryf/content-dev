@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2010-12-01T12:54:27Z"],"entry-type":["bookmark"],"name":["NME Top 75 Albums Of 2010 - Stereogum"],"bookmark-of":["http://stereogum.com/588592/nme-top-75-albums-of-2010/top-stories/lead-story/"],"category":["nme","2010","album","music","list","uk","via-pinboard"],"slug":["nme-top-75-albums-of-2010"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-12-01T12:54:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "NME Top 75 Albums Of 2010 - Stereogum"
+    ],
+    "bookmark-of": [
+      "http://stereogum.com/588592/nme-top-75-albums-of-2010/top-stories/lead-story/"
+    ],
+    "category": [
+      "nme",
+      "2010",
+      "album",
+      "music",
+      "list",
+      "uk",
+      "via-pinboard"
+    ],
+    "slug": [
+      "nme-top-75-albums-of-2010"
+    ]
+  }
+}

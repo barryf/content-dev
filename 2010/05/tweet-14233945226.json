@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["After eating one of @ian_winter's mega muffins this morning, I've been too full for lunch and dinner's also looking unlikely. Muffin diet?"],"published":["2010-05-18T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/14233945226"],"slug":["tweet-14233945226"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "After eating one of @ian_winter's mega muffins this morning, I've been too full for lunch and dinner's also looking unlikely. Muffin diet?"
+    ],
+    "published": [
+      "2010-05-18T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/14233945226"
+    ],
+    "slug": [
+      "tweet-14233945226"
+    ]
+  }
+}

@@ -1,1 +1,24 @@
-{"type":["h-entry"],"properties":{"content":["And so it's time to launch a new version of my personal website, https://barryfrost.com. Over the last few weeks I've been building this new platform from scratch with a few new key aims:\n\n1. Hosting all of my 10+ years of Pinboard/Delicious bookmarks, Twitter tweets and blog articles\n1. Sending replies, reposts and likes to IndieWeb sites and silos like Instagram\n1. Store all my content in files rather than in a database but cache/index using SQL/NoSQL\n1. Exposing a [Micropub](http://indiewebcamp.com/micropub) endpoint for creating new content\n1. Displaying reply/repost/like contexts above posts\n1. Bringing my software up-to-date with [IndieWeb](http://indiewebcamp.com) technologies\n1. Learning how to set up my server/VPS from scratch, rather than relying on Heroku \n\nMy last system #Baker offered a partial implementation of [webmentions](http://indiewebcamp.com/webmention) and syndications but was buggy and broken in places. My Microformats markup was also flaky. Hopefully this new attempt is a little more robust. Fuller details are in the [colophon](/colophon).\n\nSo kick the tyres, send this post a webmention from your site or respond on Twitter.\n"],"published":["2015-01-04T21:14:57Z"],"entry-type":["note"],"category":["moof","baker","indieweb"],"slug":["a-new-site"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "And so it's time to launch a new version of my personal website, https://barryfrost.com. Over the last few weeks I've been building this new platform from scratch with a few new key aims:\n\n1. Hosting all of my 10+ years of Pinboard/Delicious bookmarks, Twitter tweets and blog articles\n1. Sending replies, reposts and likes to IndieWeb sites and silos like Instagram\n1. Store all my content in files rather than in a database but cache/index using SQL/NoSQL\n1. Exposing a [Micropub](http://indiewebcamp.com/micropub) endpoint for creating new content\n1. Displaying reply/repost/like contexts above posts\n1. Bringing my software up-to-date with [IndieWeb](http://indiewebcamp.com) technologies\n1. Learning how to set up my server/VPS from scratch, rather than relying on Heroku \n\nMy last system #Baker offered a partial implementation of [webmentions](http://indiewebcamp.com/webmention) and syndications but was buggy and broken in places. My Microformats markup was also flaky. Hopefully this new attempt is a little more robust. Fuller details are in the [colophon](/colophon).\n\nSo kick the tyres, send this post a webmention from your site or respond on Twitter.\n"
+    ],
+    "published": [
+      "2015-01-04T21:14:57Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "moof",
+      "baker",
+      "indieweb"
+    ],
+    "slug": [
+      "a-new-site"
+    ]
+  }
+}

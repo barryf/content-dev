@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Measure Map offers its Flash date slider selector for download - including FLA\n"],"published":["2006-01-04T21:03:32Z"],"entry-type":["bookmark"],"name":["Developer | Slider | Measure Map"],"bookmark-of":["http://www.measuremap.com/developer/slider/"],"category":["flash","ajax","slider","date","web20","web","dev","calendar","via-pinboard"],"slug":["developer-slider-measure-map"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Measure Map offers its Flash date slider selector for download - including FLA\n"
+    ],
+    "published": [
+      "2006-01-04T21:03:32Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Developer | Slider | Measure Map"
+    ],
+    "bookmark-of": [
+      "http://www.measuremap.com/developer/slider/"
+    ],
+    "category": [
+      "flash",
+      "ajax",
+      "slider",
+      "date",
+      "web20",
+      "web",
+      "dev",
+      "calendar",
+      "via-pinboard"
+    ],
+    "slug": [
+      "developer-slider-measure-map"
+    ]
+  }
+}

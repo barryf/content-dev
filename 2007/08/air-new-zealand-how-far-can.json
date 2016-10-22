@@ -1,1 +1,40 @@
-{"type":["h-entry"],"properties":{"content":["Great example of a RIA slidey customer sales tool thing\n"],"published":["2007-08-21T09:24:52Z"],"entry-type":["bookmark"],"name":["Air New Zealand - How far can I go?"],"bookmark-of":["http://promos.airnz.co.nz/howfar/"],"category":["design","flex","web","travel","interaction","ria","showcase","slider","inspiration","flights","viaandrewlos","forrawnetcreative","via-pinboard"],"slug":["air-new-zealand-how-far-can"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Great example of a RIA slidey customer sales tool thing\n"
+    ],
+    "published": [
+      "2007-08-21T09:24:52Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Air New Zealand - How far can I go?"
+    ],
+    "bookmark-of": [
+      "http://promos.airnz.co.nz/howfar/"
+    ],
+    "category": [
+      "design",
+      "flex",
+      "web",
+      "travel",
+      "interaction",
+      "ria",
+      "showcase",
+      "slider",
+      "inspiration",
+      "flights",
+      "viaandrewlos",
+      "forrawnetcreative",
+      "via-pinboard"
+    ],
+    "slug": [
+      "air-new-zealand-how-far-can"
+    ]
+  }
+}

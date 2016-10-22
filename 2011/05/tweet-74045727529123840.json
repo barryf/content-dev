@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Sorry! It feels like you're using software, not a phone. iOS is tight and predictable, I've no idea where to look on Android."],"published":["2011-05-27T09:34:11Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/73897586725105664"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/74045727529123840"],"slug":["tweet-74045727529123840"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Sorry! It feels like you're using software, not a phone. iOS is tight and predictable, I've no idea where to look on Android."
+    ],
+    "published": [
+      "2011-05-27T09:34:11Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/73897586725105664"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/74045727529123840"
+    ],
+    "slug": [
+      "tweet-74045727529123840"
+    ]
+  }
+}

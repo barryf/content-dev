@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Online backup service from £5/mo\n"],"published":["2010-10-06T13:44:23Z"],"entry-type":["bookmark"],"name":["Backblaze"],"bookmark-of":["http://www.backblaze.com/"],"category":["backup","offsite","security","home","mac","via-pinboard"],"slug":["backblaze"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Online backup service from £5/mo\n"
+    ],
+    "published": [
+      "2010-10-06T13:44:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Backblaze"
+    ],
+    "bookmark-of": [
+      "http://www.backblaze.com/"
+    ],
+    "category": [
+      "backup",
+      "offsite",
+      "security",
+      "home",
+      "mac",
+      "via-pinboard"
+    ],
+    "slug": [
+      "backblaze"
+    ]
+  }
+}

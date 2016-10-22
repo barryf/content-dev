@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Figaro parses a git-ignored YAML file in your application and loads its values into ENV"],"published":["2015-01-26T09:06:42Z"],"entry-type":["bookmark"],"name":["Figaro"],"bookmark-of":["https://github.com/laserlemon/figaro"],"category":["ruby","rails","configuration","env"],"slug":["figaro"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Figaro parses a git-ignored YAML file in your application and loads its values into ENV"
+    ],
+    "published": [
+      "2015-01-26T09:06:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Figaro"
+    ],
+    "bookmark-of": [
+      "https://github.com/laserlemon/figaro"
+    ],
+    "category": [
+      "ruby",
+      "rails",
+      "configuration",
+      "env"
+    ],
+    "slug": [
+      "figaro"
+    ]
+  }
+}

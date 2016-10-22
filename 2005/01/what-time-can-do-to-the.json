@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["Mario! Out of Post-Its!\n"],"published":["2005-01-05T20:25:54Z"],"entry-type":["bookmark"],"name":["what time can do to the crazed kid"],"bookmark-of":["http://www.gprime.net/sticky/"],"category":["fun","via-pinboard"],"slug":["what-time-can-do-to-the"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Mario! Out of Post-Its!\n"
+    ],
+    "published": [
+      "2005-01-05T20:25:54Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "what time can do to the crazed kid"
+    ],
+    "bookmark-of": [
+      "http://www.gprime.net/sticky/"
+    ],
+    "category": [
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "what-time-can-do-to-the"
+    ]
+  }
+}

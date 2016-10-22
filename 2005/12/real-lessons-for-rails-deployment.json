@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-24T18:04:48Z"],"entry-type":["bookmark"],"name":["Real Lessons for Rails Deployment"],"bookmark-of":["http://duncandavidson.com/essay/2005/12/railsdeployment"],"category":["apache","deployment","lighttpd","linux","rails","server","web","sysadmin","via-pinboard"],"slug":["real-lessons-for-rails-deployment"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-24T18:04:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Real Lessons for Rails Deployment"
+    ],
+    "bookmark-of": [
+      "http://duncandavidson.com/essay/2005/12/railsdeployment"
+    ],
+    "category": [
+      "apache",
+      "deployment",
+      "lighttpd",
+      "linux",
+      "rails",
+      "server",
+      "web",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "real-lessons-for-rails-deployment"
+    ]
+  }
+}

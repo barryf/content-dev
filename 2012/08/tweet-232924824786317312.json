@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I've finally got broadband up-and-running at home. Two weeks of dog-slow GPRS over mobile are mercifully over."],"published":["2012-08-07T19:43:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/232924824786317312"],"slug":["tweet-232924824786317312"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've finally got broadband up-and-running at home. Two weeks of dog-slow GPRS over mobile are mercifully over."
+    ],
+    "published": [
+      "2012-08-07T19:43:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/232924824786317312"
+    ],
+    "slug": [
+      "tweet-232924824786317312"
+    ]
+  }
+}

@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Doug Bowman (@stop)"],"photo":["http://pbs.twimg.com/profile_images/537483244468318208/H1ArNbIw_normal.jpeg"],"url":["https://twitter.com/stop"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Doug Bowman (@stop)"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/537483244468318208/H1ArNbIw_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/stop"
+    ]
+  }
+}

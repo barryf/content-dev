@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Friendly, easy-to-understand guidelines for posting\n"],"published":["2010-07-19T16:21:48Z"],"entry-type":["bookmark"],"name":["The Register comment guidelines 2010"],"bookmark-of":["http://www.theregister.co.uk/2010/07/19/comment_guidelines_2010/"],"category":["comment","etiquette","community","guide","social","via-pinboard"],"slug":["the-register-comment-guidelines-2010"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Friendly, easy-to-understand guidelines for posting\n"
+    ],
+    "published": [
+      "2010-07-19T16:21:48Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Register comment guidelines 2010"
+    ],
+    "bookmark-of": [
+      "http://www.theregister.co.uk/2010/07/19/comment_guidelines_2010/"
+    ],
+    "category": [
+      "comment",
+      "etiquette",
+      "community",
+      "guide",
+      "social",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-register-comment-guidelines-2010"
+    ]
+  }
+}

@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2007-02-27T19:16:43Z"],"entry-type":["bookmark"],"name":["danwebb.net - The No Shit Guide To Supporting OpenID In Your Applications"],"bookmark-of":["http://www.danwebb.net/2007/2/27/the-no-shit-guide-to-supporting-openid-in-your-applications"],"category":["openid","rails","web","dev","id","login","authentication","ruby","via-pinboard"],"slug":["danwebb-net-the-no-shit-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-02-27T19:16:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "danwebb.net - The No Shit Guide To Supporting OpenID In Your Applications"
+    ],
+    "bookmark-of": [
+      "http://www.danwebb.net/2007/2/27/the-no-shit-guide-to-supporting-openid-in-your-applications"
+    ],
+    "category": [
+      "openid",
+      "rails",
+      "web",
+      "dev",
+      "id",
+      "login",
+      "authentication",
+      "ruby",
+      "via-pinboard"
+    ],
+    "slug": [
+      "danwebb-net-the-no-shit-guide"
+    ]
+  }
+}

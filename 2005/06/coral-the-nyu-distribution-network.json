@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["Free peer-to-peer content distribution\n"],"published":["2005-06-01T07:01:26Z"],"entry-type":["bookmark"],"name":["Coral: The NYU Distribution Network"],"bookmark-of":["http://www.coralcdn.org/"],"category":["p2p","network","via-pinboard"],"slug":["coral-the-nyu-distribution-network"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free peer-to-peer content distribution\n"
+    ],
+    "published": [
+      "2005-06-01T07:01:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Coral: The NYU Distribution Network"
+    ],
+    "bookmark-of": [
+      "http://www.coralcdn.org/"
+    ],
+    "category": [
+      "p2p",
+      "network",
+      "via-pinboard"
+    ],
+    "slug": [
+      "coral-the-nyu-distribution-network"
+    ]
+  }
+}

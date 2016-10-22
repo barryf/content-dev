@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["He/she has a point...\n"],"published":["2005-07-23T10:41:26Z"],"entry-type":["bookmark"],"name":["The internet is shit"],"bookmark-of":["http://www.internetisshit.org/"],"category":["fun","opinion","web","via-pinboard"],"slug":["the-internet-is-shit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "He/she has a point...\n"
+    ],
+    "published": [
+      "2005-07-23T10:41:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The internet is shit"
+    ],
+    "bookmark-of": [
+      "http://www.internetisshit.org/"
+    ],
+    "category": [
+      "fun",
+      "opinion",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-internet-is-shit"
+    ]
+  }
+}

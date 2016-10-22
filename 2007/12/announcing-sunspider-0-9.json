@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["JavaScript benchmarking\n"],"published":["2007-12-23T15:12:09Z"],"entry-type":["bookmark"],"name":["Announcing SunSpider 0.9"],"bookmark-of":["http://webkit.org/blog/152/announcing-sunspider-09/"],"category":["javascript","benchmark","performance","webkit","browser","via-pinboard"],"slug":["announcing-sunspider-0-9"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "JavaScript benchmarking\n"
+    ],
+    "published": [
+      "2007-12-23T15:12:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Announcing SunSpider 0.9"
+    ],
+    "bookmark-of": [
+      "http://webkit.org/blog/152/announcing-sunspider-09/"
+    ],
+    "category": [
+      "javascript",
+      "benchmark",
+      "performance",
+      "webkit",
+      "browser",
+      "via-pinboard"
+    ],
+    "slug": [
+      "announcing-sunspider-0-9"
+    ]
+  }
+}

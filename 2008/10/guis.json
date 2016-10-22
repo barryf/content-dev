@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Screenshots from numerous GUIs broken down by versions. Includes RISC OS.\n"],"published":["2008-10-04T17:34:09Z"],"entry-type":["bookmark"],"name":["GUIs"],"bookmark-of":["http://www.guidebookgallery.org/guis"],"category":["gui","interface","computer","operatingsystem","os","riscos","gallery","via-pinboard"],"slug":["guis"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Screenshots from numerous GUIs broken down by versions. Includes RISC OS.\n"
+    ],
+    "published": [
+      "2008-10-04T17:34:09Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "GUIs"
+    ],
+    "bookmark-of": [
+      "http://www.guidebookgallery.org/guis"
+    ],
+    "category": [
+      "gui",
+      "interface",
+      "computer",
+      "operatingsystem",
+      "os",
+      "riscos",
+      "gallery",
+      "via-pinboard"
+    ],
+    "slug": [
+      "guis"
+    ]
+  }
+}

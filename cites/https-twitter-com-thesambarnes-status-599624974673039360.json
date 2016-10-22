@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/thesambarnes/status/599624974673039360"],"published":["2015-05-16T17:18:29Z"],"content":["RT @barryf: @thesambarnes Looks like you've grown. Are you standing on something?"],"repost-of":["https://barryfrost.com/2015/05/thesambarnes-looks-like-you-ve-grown"],"author":["http://www.thesambarnes.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/thesambarnes/status/599624974673039360"
+    ],
+    "published": [
+      "2015-05-16T17:18:29Z"
+    ],
+    "content": [
+      "RT @barryf: @thesambarnes Looks like you've grown. Are you standing on something?"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/05/thesambarnes-looks-like-you-ve-grown"
+    ],
+    "author": [
+      "http://www.thesambarnes.com"
+    ]
+  }
+}

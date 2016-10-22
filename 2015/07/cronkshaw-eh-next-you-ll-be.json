@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Eh? Next you'll be telling me you've bought an iPhone to use it with"],"published":["2015-07-23T13:45:24Z"],"entry-type":["reply"],"summary":["@cronkshaw Eh? Next you'll be telling me you've bought an iPhone to use it with"],"in-reply-to":["https://twitter.com/cronkshaw/status/624213375866769409"],"syndication":["https://twitter.com/barryf/status/624213736966852608"],"slug":["cronkshaw-eh-next-you-ll-be"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Eh? Next you'll be telling me you've bought an iPhone to use it with"
+    ],
+    "published": [
+      "2015-07-23T13:45:24Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@cronkshaw Eh? Next you'll be telling me you've bought an iPhone to use it with"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/cronkshaw/status/624213375866769409"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/624213736966852608"
+    ],
+    "slug": [
+      "cronkshaw-eh-next-you-ll-be"
+    ]
+  }
+}

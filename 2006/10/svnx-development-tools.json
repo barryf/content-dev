@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Subversion GUI client for Mac\n"],"published":["2006-10-23T11:02:44Z"],"entry-type":["bookmark"],"name":["svnX - Development Tools"],"bookmark-of":["http://www.apple.com/downloads/macosx/development_tools/svnx.html"],"category":["dev","mac","subversion","svn","via-pinboard"],"slug":["svnx-development-tools"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Subversion GUI client for Mac\n"
+    ],
+    "published": [
+      "2006-10-23T11:02:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "svnX - Development Tools"
+    ],
+    "bookmark-of": [
+      "http://www.apple.com/downloads/macosx/development_tools/svnx.html"
+    ],
+    "category": [
+      "dev",
+      "mac",
+      "subversion",
+      "svn",
+      "via-pinboard"
+    ],
+    "slug": [
+      "svnx-development-tools"
+    ]
+  }
+}

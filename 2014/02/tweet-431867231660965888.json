@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@ppounder Me too. Loved that cream box."],"published":["2014-02-07T19:09:06Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20845611/status/431867023946428416"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/431867231660965888"],"slug":["tweet-431867231660965888"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@ppounder Me too. Loved that cream box."
+    ],
+    "published": [
+      "2014-02-07T19:09:06Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20845611/status/431867023946428416"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/431867231660965888"
+    ],
+    "slug": [
+      "tweet-431867231660965888"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> securityheaders.io is a handy site for testing whether your website’s server is sending sensible headers. Think of it like SSL Test for a few nitty-gritty details."],"published":["2016-01-14T09:26:02Z"],"entry-type":["bookmark"],"name":["securityheaders.io"],"bookmark-of":["https://securityheaders.io/"],"category":["ssl","headers","security"],"slug":["securityheaders-io"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> securityheaders.io is a handy site for testing whether your website’s server is sending sensible headers. Think of it like SSL Test for a few nitty-gritty details."
+    ],
+    "published": [
+      "2016-01-14T09:26:02Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "securityheaders.io"
+    ],
+    "bookmark-of": [
+      "https://securityheaders.io/"
+    ],
+    "category": [
+      "ssl",
+      "headers",
+      "security"
+    ],
+    "slug": [
+      "securityheaders-io"
+    ]
+  }
+}

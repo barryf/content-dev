@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Musician plays Unchained Melody. Laura: it’s sad when he dies from bee stings. Wasn’t Swayze mugged in Ghost? She’s thinking of Stand By Me."],"published":["2013-04-06T20:20:43Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/320632181397540865"],"slug":["tweet-320632181397540865"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Musician plays Unchained Melody. Laura: it’s sad when he dies from bee stings. Wasn’t Swayze mugged in Ghost? She’s thinking of Stand By Me."
+    ],
+    "published": [
+      "2013-04-06T20:20:43Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/320632181397540865"
+    ],
+    "slug": [
+      "tweet-320632181397540865"
+    ]
+  }
+}

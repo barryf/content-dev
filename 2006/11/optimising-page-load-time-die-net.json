@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Tips and best practices\n"],"published":["2006-11-02T13:36:35Z"],"entry-type":["bookmark"],"name":["Optimising Page Load Time - die.net"],"bookmark-of":["http://www.die.net/musings/page_load_time/"],"category":["web","dev","design","browser","via-pinboard"],"slug":["optimising-page-load-time-die-net"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tips and best practices\n"
+    ],
+    "published": [
+      "2006-11-02T13:36:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Optimising Page Load Time - die.net"
+    ],
+    "bookmark-of": [
+      "http://www.die.net/musings/page_load_time/"
+    ],
+    "category": [
+      "web",
+      "dev",
+      "design",
+      "browser",
+      "via-pinboard"
+    ],
+    "slug": [
+      "optimising-page-load-time-die-net"
+    ]
+  }
+}

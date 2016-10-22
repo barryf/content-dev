@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Wondering who Lavell is"],"published":["2007-09-12T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/263120532"],"slug":["tweet-263120532"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Wondering who Lavell is"
+    ],
+    "published": [
+      "2007-09-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/263120532"
+    ],
+    "slug": [
+      "tweet-263120532"
+    ]
+  }
+}

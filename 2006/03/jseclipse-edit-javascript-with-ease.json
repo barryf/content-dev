@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Now supports Ajax libraries\n"],"published":["2006-03-22T19:29:11Z"],"entry-type":["bookmark"],"name":["JSEclipse :: Edit JavaScript with ease."],"bookmark-of":["http://www.interaktonline.com/Products/Eclipse/JSEclipse/Overview/"],"category":["ajax","javascript","eclipse","web","dev","via-pinboard"],"slug":["jseclipse-edit-javascript-with-ease"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Now supports Ajax libraries\n"
+    ],
+    "published": [
+      "2006-03-22T19:29:11Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "JSEclipse :: Edit JavaScript with ease."
+    ],
+    "bookmark-of": [
+      "http://www.interaktonline.com/Products/Eclipse/JSEclipse/Overview/"
+    ],
+    "category": [
+      "ajax",
+      "javascript",
+      "eclipse",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "jseclipse-edit-javascript-with-ease"
+    ]
+  }
+}

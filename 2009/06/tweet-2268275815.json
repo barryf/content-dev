@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Back from a lovely day out at Birdworld, Surrey's premier bird related attraction http://bit.ly/6ktWa"],"published":["2009-06-21T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/2268275815"],"slug":["tweet-2268275815"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Back from a lovely day out at Birdworld, Surrey's premier bird related attraction http://bit.ly/6ktWa"
+    ],
+    "published": [
+      "2009-06-21T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/2268275815"
+    ],
+    "slug": [
+      "tweet-2268275815"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@larrylou100 At this time of night? Mental girl."],"published":["2011-04-01T22:34:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/240842829/status/53927955633672192"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/53948330434232320"],"slug":["tweet-53948330434232320"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@larrylou100 At this time of night? Mental girl."
+    ],
+    "published": [
+      "2011-04-01T22:34:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/240842829/status/53927955633672192"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/53948330434232320"
+    ],
+    "slug": [
+      "tweet-53948330434232320"
+    ]
+  }
+}

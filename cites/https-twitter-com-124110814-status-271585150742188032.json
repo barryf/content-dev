@@ -1,1 +1,19 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/124110814/status/271585150742188032"],"published":["2012-11-22T12:05:20Z"],"content":["We’re sponsors of tonight’s Hacker News London meet up. See you there from 6.30pm http://t.co/dYUWsK05 #HNLondon"],"author":["https://twitter.com/124110814"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/124110814/status/271585150742188032"
+    ],
+    "published": [
+      "2012-11-22T12:05:20Z"
+    ],
+    "content": [
+      "We’re sponsors of tonight’s Hacker News London meet up. See you there from 6.30pm http://t.co/dYUWsK05 #HNLondon"
+    ],
+    "author": [
+      "https://twitter.com/124110814"
+    ]
+  }
+}

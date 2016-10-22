@@ -1,1 +1,24 @@
-{"type":["h-entry"],"properties":{"published":["2016-03-01T22:09:07Z"],"entry-type":["repost"],"repost-of":["https://aaronparecki.com/2016/03/01/8/"],"category":["indieweb","micropub","webmention"],"slug":["01-220907"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-03-01T22:09:07Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "https://aaronparecki.com/2016/03/01/8/"
+    ],
+    "category": [
+      "indieweb",
+      "micropub",
+      "webmention"
+    ],
+    "slug": [
+      "01-220907"
+    ]
+  }
+}

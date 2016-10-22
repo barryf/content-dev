@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["mattjukes"],"photo":["http://pbs.twimg.com/profile_images/1369512539/mattjukes_normal.jpeg"],"url":["https://twitter.com/mattjukes"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "mattjukes"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/1369512539/mattjukes_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/mattjukes"
+    ]
+  }
+}

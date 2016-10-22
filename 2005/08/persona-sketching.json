@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-04T10:24:00Z"],"entry-type":["bookmark"],"name":["Persona Sketching"],"bookmark-of":["http://www.7nights.com/asterisk/archives05/2005/08/persona-sketching"],"category":["usability","persona","dev","via-pinboard"],"slug":["persona-sketching"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-04T10:24:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Persona Sketching"
+    ],
+    "bookmark-of": [
+      "http://www.7nights.com/asterisk/archives05/2005/08/persona-sketching"
+    ],
+    "category": [
+      "usability",
+      "persona",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "persona-sketching"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["can't be arsed really"],"published":["2008-08-03T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/876321477"],"slug":["tweet-876321477"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "can't be arsed really"
+    ],
+    "published": [
+      "2008-08-03T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/876321477"
+    ],
+    "slug": [
+      "tweet-876321477"
+    ]
+  }
+}

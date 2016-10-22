@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@mr_mcd Those northern lasses clearly love a bit of @mr_mcd. You'll be spending hot weekends in Barnsley putting coal in tin baths."],"published":["2009-11-19T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/15634915/status/5866810698"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/5867487443"],"slug":["tweet-5867487443"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@mr_mcd Those northern lasses clearly love a bit of @mr_mcd. You'll be spending hot weekends in Barnsley putting coal in tin baths."
+    ],
+    "published": [
+      "2009-11-19T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/15634915/status/5866810698"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/5867487443"
+    ],
+    "slug": [
+      "tweet-5867487443"
+    ]
+  }
+}

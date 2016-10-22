@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Tips that are just as relevant for any type of presentation"],"published":["2016-01-15T16:03:16Z"],"entry-type":["bookmark"],"name":["How to Design a Better Pitch Deck"],"bookmark-of":["http://themacro.com/articles/2015/11/how-to-design-a-better-pitch-deck/"],"category":["presentation","pitch","startup","design","slides"],"slug":["how-to-design-a-better-pitch"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tips that are just as relevant for any type of presentation"
+    ],
+    "published": [
+      "2016-01-15T16:03:16Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How to Design a Better Pitch Deck"
+    ],
+    "bookmark-of": [
+      "http://themacro.com/articles/2015/11/how-to-design-a-better-pitch-deck/"
+    ],
+    "category": [
+      "presentation",
+      "pitch",
+      "startup",
+      "design",
+      "slides"
+    ],
+    "slug": [
+      "how-to-design-a-better-pitch"
+    ]
+  }
+}

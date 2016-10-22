@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@grayhaze Enjoy the feeling! See you on Monday."],"published":["2011-09-30T16:57:02Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22610785/status/119790786102562816"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/119818045966385152"],"slug":["tweet-119818045966385152"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@grayhaze Enjoy the feeling! See you on Monday."
+    ],
+    "published": [
+      "2011-09-30T16:57:02Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22610785/status/119790786102562816"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/119818045966385152"
+    ],
+    "slug": [
+      "tweet-119818045966385152"
+    ]
+  }
+}

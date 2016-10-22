@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["Ruby API for Google's charts\n"],"published":["2007-12-23T15:03:13Z"],"entry-type":["bookmark"],"name":["Googlecharts"],"bookmark-of":["http://googlecharts.rubyforge.org/"],"category":["ruby","chart","graph","web","image","google","rails","api","statistics","via-pinboard"],"slug":["googlecharts"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Ruby API for Google's charts\n"
+    ],
+    "published": [
+      "2007-12-23T15:03:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Googlecharts"
+    ],
+    "bookmark-of": [
+      "http://googlecharts.rubyforge.org/"
+    ],
+    "category": [
+      "ruby",
+      "chart",
+      "graph",
+      "web",
+      "image",
+      "google",
+      "rails",
+      "api",
+      "statistics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "googlecharts"
+    ]
+  }
+}

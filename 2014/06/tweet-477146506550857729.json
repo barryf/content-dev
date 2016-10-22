@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Just horrifying."],"published":["2014-06-12T17:52:46Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/477117640884764672"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/477146506550857729"],"slug":["tweet-477146506550857729"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Just horrifying."
+    ],
+    "published": [
+      "2014-06-12T17:52:46Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/477117640884764672"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/477146506550857729"
+    ],
+    "slug": [
+      "tweet-477146506550857729"
+    ]
+  }
+}

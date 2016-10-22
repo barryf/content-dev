@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"content":["20m users per week...\n"],"published":["2004-09-23T10:28:43Z"],"entry-type":["bookmark"],"name":["Ceefax marks 30 years of service"],"bookmark-of":["http://news.bbc.co.uk/2/hi/entertainment/3681174.stm"],"category":["tv","via-pinboard"],"slug":["ceefax-marks-30-years-of-service"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "20m users per week...\n"
+    ],
+    "published": [
+      "2004-09-23T10:28:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ceefax marks 30 years of service"
+    ],
+    "bookmark-of": [
+      "http://news.bbc.co.uk/2/hi/entertainment/3681174.stm"
+    ],
+    "category": [
+      "tv",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ceefax-marks-30-years-of-service"
+    ]
+  }
+}

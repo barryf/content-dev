@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"published":["2007-09-25T09:35:25Z"],"entry-type":["bookmark"],"name":["Compatibility testing for web sites and email newsletters - Litmus"],"bookmark-of":["http://litmusapp.com/"],"category":["browser","css","design","email","html","newsletter","test","validation","screenshot","via-pinboard"],"slug":["compatibility-testing-for-web-sites-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2007-09-25T09:35:25Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Compatibility testing for web sites and email newsletters - Litmus"
+    ],
+    "bookmark-of": [
+      "http://litmusapp.com/"
+    ],
+    "category": [
+      "browser",
+      "css",
+      "design",
+      "email",
+      "html",
+      "newsletter",
+      "test",
+      "validation",
+      "screenshot",
+      "via-pinboard"
+    ],
+    "slug": [
+      "compatibility-testing-for-web-sites-and"
+    ]
+  }
+}

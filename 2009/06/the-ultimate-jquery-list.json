@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2009-06-07T14:23:24Z"],"entry-type":["bookmark"],"name":["The Ultimate jQuery List"],"bookmark-of":["http://jquerylist.com/"],"category":["jquery","list","plugin","javascript","ui","ajax","framework","tutorial","via-pinboard"],"slug":["the-ultimate-jquery-list"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-06-07T14:23:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Ultimate jQuery List"
+    ],
+    "bookmark-of": [
+      "http://jquerylist.com/"
+    ],
+    "category": [
+      "jquery",
+      "list",
+      "plugin",
+      "javascript",
+      "ui",
+      "ajax",
+      "framework",
+      "tutorial",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-ultimate-jquery-list"
+    ]
+  }
+}

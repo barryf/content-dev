@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Mark McDermott"],"photo":["https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-19/11374181_1602278776700973_1151766487_a.jpg"],"url":["http://instagram.com/mhmcdermott"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Mark McDermott"
+    ],
+    "photo": [
+      "https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-19/11374181_1602278776700973_1151766487_a.jpg"
+    ],
+    "url": [
+      "http://instagram.com/mhmcdermott"
+    ]
+  }
+}

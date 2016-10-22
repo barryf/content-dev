@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"published":["2008-04-26T10:10:28Z"],"entry-type":["bookmark"],"name":["Slapp: A simple chat wall Merb tutorial"],"bookmark-of":["http://www.socialface.com/slapp/"],"category":["merb","ruby","dev","chat","example","web","via-pinboard"],"slug":["slapp-a-simple-chat-wall-merb"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-04-26T10:10:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Slapp: A simple chat wall Merb tutorial"
+    ],
+    "bookmark-of": [
+      "http://www.socialface.com/slapp/"
+    ],
+    "category": [
+      "merb",
+      "ruby",
+      "dev",
+      "chat",
+      "example",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "slapp-a-simple-chat-wall-merb"
+    ]
+  }
+}

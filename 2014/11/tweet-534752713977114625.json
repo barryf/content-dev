@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Just the 20 emails to finally set up invoicing with a new Microsoft Azure account."],"published":["2014-11-18T16:59:16Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/534752713977114625"],"slug":["tweet-534752713977114625"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Just the 20 emails to finally set up invoicing with a new Microsoft Azure account."
+    ],
+    "published": [
+      "2014-11-18T16:59:16Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/534752713977114625"
+    ],
+    "slug": [
+      "tweet-534752713977114625"
+    ]
+  }
+}

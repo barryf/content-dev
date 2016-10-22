@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@marckysharky Ha ha. Stay classy, Chelsea."],"published":["2011-05-22T19:30:41Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16928503/status/72358656984891394"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/72383899614978049"],"slug":["tweet-72383899614978049"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@marckysharky Ha ha. Stay classy, Chelsea."
+    ],
+    "published": [
+      "2011-05-22T19:30:41Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16928503/status/72358656984891394"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/72383899614978049"
+    ],
+    "slug": [
+      "tweet-72383899614978049"
+    ]
+  }
+}

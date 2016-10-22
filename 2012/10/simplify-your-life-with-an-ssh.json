@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2012-10-29T19:14:58Z"],"entry-type":["bookmark"],"name":["Simplify Your Life With an SSH Config File"],"bookmark-of":["http://nerderati.com/2011/03/simplify-your-life-with-an-ssh-config-file/"],"category":["ssh","config","unix","sysadmin","via-pinboard"],"slug":["simplify-your-life-with-an-ssh"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2012-10-29T19:14:58Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Simplify Your Life With an SSH Config File"
+    ],
+    "bookmark-of": [
+      "http://nerderati.com/2011/03/simplify-your-life-with-an-ssh-config-file/"
+    ],
+    "category": [
+      "ssh",
+      "config",
+      "unix",
+      "sysadmin",
+      "via-pinboard"
+    ],
+    "slug": [
+      "simplify-your-life-with-an-ssh"
+    ]
+  }
+}

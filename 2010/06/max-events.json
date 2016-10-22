@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Stag & Hen party weekends and corporate events in Bournemouth, Bristol and Oxford\n"],"published":["2010-06-03T14:55:28Z"],"entry-type":["bookmark"],"name":["Max Events"],"bookmark-of":["http://www.maxevents.net/stag_parties.asp"],"category":["stagdo","stag","event","weekend","activity","fun","via-pinboard"],"slug":["max-events"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Stag & Hen party weekends and corporate events in Bournemouth, Bristol and Oxford\n"
+    ],
+    "published": [
+      "2010-06-03T14:55:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Max Events"
+    ],
+    "bookmark-of": [
+      "http://www.maxevents.net/stag_parties.asp"
+    ],
+    "category": [
+      "stagdo",
+      "stag",
+      "event",
+      "weekend",
+      "activity",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "max-events"
+    ]
+  }
+}

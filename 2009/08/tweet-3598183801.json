@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw It's ridiculous. I live on my own yet have three toilets to clean. I should just sellotape shut two of them."],"published":["2009-08-28T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/3596073420"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3598183801"],"slug":["tweet-3598183801"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw It's ridiculous. I live on my own yet have three toilets to clean. I should just sellotape shut two of them."
+    ],
+    "published": [
+      "2009-08-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/3596073420"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3598183801"
+    ],
+    "slug": [
+      "tweet-3598183801"
+    ]
+  }
+}

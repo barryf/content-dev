@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Markdown processor for ColdFusion. Uses MarkdownJ - Java version\n"],"published":["2006-10-28T10:39:44Z"],"entry-type":["bookmark"],"name":["CFX_Markdown"],"bookmark-of":["http://sebduggan.com/CFX_Markdown/"],"category":["markdown","markup","text","html","coldfusion","via-pinboard"],"slug":["cfx-markdown"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Markdown processor for ColdFusion. Uses MarkdownJ - Java version\n"
+    ],
+    "published": [
+      "2006-10-28T10:39:44Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "CFX_Markdown"
+    ],
+    "bookmark-of": [
+      "http://sebduggan.com/CFX_Markdown/"
+    ],
+    "category": [
+      "markdown",
+      "markup",
+      "text",
+      "html",
+      "coldfusion",
+      "via-pinboard"
+    ],
+    "slug": [
+      "cfx-markdown"
+    ]
+  }
+}

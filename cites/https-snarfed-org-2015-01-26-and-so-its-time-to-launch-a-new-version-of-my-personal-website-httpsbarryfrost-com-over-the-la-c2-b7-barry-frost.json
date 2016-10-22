@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://snarfed.org/2015-01-26_and-so-its-time-to-launch-a-new-version-of-my-personal-website-httpsbarryfrost-com-over-the-la-%c2%b7-barry-frost"],"published":["2015-01-26T13:23:25Z"],"content":["likes And so it’s time to launch a new version of my personal website, https://barryfrost.com. Over the la… · Barry Frost"],"like-of":["https://barryfrost.com/2015/01/a-new-site"],"author":["https://snarfed.org/"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://snarfed.org/2015-01-26_and-so-its-time-to-launch-a-new-version-of-my-personal-website-httpsbarryfrost-com-over-the-la-%c2%b7-barry-frost"
+    ],
+    "published": [
+      "2015-01-26T13:23:25Z"
+    ],
+    "content": [
+      "likes And so it’s time to launch a new version of my personal website, https://barryfrost.com. Over the la… · Barry Frost"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2015/01/a-new-site"
+    ],
+    "author": [
+      "https://snarfed.org/"
+    ]
+  }
+}

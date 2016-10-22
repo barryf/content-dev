@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["git: I love you and hate you in equal measures #gdhackday"],"published":["2012-02-03T11:04:15Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/165390133049311232"],"slug":["tweet-165390133049311232"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "git: I love you and hate you in equal measures #gdhackday"
+    ],
+    "published": [
+      "2012-02-03T11:04:15Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/165390133049311232"
+    ],
+    "slug": [
+      "tweet-165390133049311232"
+    ]
+  }
+}

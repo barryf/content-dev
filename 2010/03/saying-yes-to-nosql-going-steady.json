@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Commentary of Digg's move from MySQL to NoSQL through Cassandra\n"],"published":["2010-03-13T16:41:08Z"],"entry-type":["bookmark"],"name":["Saying Yes to NoSQL; Going Steady with Cassandra"],"bookmark-of":["http://about.digg.com/blog/saying-yes-nosql-going-steady-cassandra"],"category":["cassandra","digg","nosql","mysql","database","architecture","via-pinboard"],"slug":["saying-yes-to-nosql-going-steady"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Commentary of Digg's move from MySQL to NoSQL through Cassandra\n"
+    ],
+    "published": [
+      "2010-03-13T16:41:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Saying Yes to NoSQL; Going Steady with Cassandra"
+    ],
+    "bookmark-of": [
+      "http://about.digg.com/blog/saying-yes-nosql-going-steady-cassandra"
+    ],
+    "category": [
+      "cassandra",
+      "digg",
+      "nosql",
+      "mysql",
+      "database",
+      "architecture",
+      "via-pinboard"
+    ],
+    "slug": [
+      "saying-yes-to-nosql-going-steady"
+    ]
+  }
+}

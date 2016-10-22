@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Building a native iPhone app\n"],"published":["2008-08-10T11:55:03Z"],"entry-type":["bookmark"],"name":["iPhone SDK Articles"],"bookmark-of":["http://www.iphonesdkarticles.com/"],"category":["iphone","dev","sdk","tutorial","ipodtouch","cocoa","mobile","via-pinboard"],"slug":["iphone-sdk-articles"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Building a native iPhone app\n"
+    ],
+    "published": [
+      "2008-08-10T11:55:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iPhone SDK Articles"
+    ],
+    "bookmark-of": [
+      "http://www.iphonesdkarticles.com/"
+    ],
+    "category": [
+      "iphone",
+      "dev",
+      "sdk",
+      "tutorial",
+      "ipodtouch",
+      "cocoa",
+      "mobile",
+      "via-pinboard"
+    ],
+    "slug": [
+      "iphone-sdk-articles"
+    ]
+  }
+}

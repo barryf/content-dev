@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"content":["> To me it’s no surprise that so many companies spend so much time and money and get so little in return."],"published":["2015-06-11T10:36:33Z"],"entry-type":["bookmark"],"name":["Product Fail"],"bookmark-of":["http://svpg.com/product-fail/"],"category":["roadmap","agile","business"],"slug":["product-fail"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> To me it’s no surprise that so many companies spend so much time and money and get so little in return."
+    ],
+    "published": [
+      "2015-06-11T10:36:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Product Fail"
+    ],
+    "bookmark-of": [
+      "http://svpg.com/product-fail/"
+    ],
+    "category": [
+      "roadmap",
+      "agile",
+      "business"
+    ],
+    "slug": [
+      "product-fail"
+    ]
+  }
+}

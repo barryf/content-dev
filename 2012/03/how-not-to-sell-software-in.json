@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["It should be as easy as humanly possible to try it, pay for it, and start using it in production.\n"],"published":["2012-03-04T17:23:05Z"],"entry-type":["bookmark"],"name":["How Not To Sell Software in 2012"],"bookmark-of":["http://al3x.net/2012/02/29/how-not-to-sell-software-in-2012.html"],"category":["startup","business","marketing","sales","saas","software","via-pinboard"],"slug":["how-not-to-sell-software-in"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It should be as easy as humanly possible to try it, pay for it, and start using it in production.\n"
+    ],
+    "published": [
+      "2012-03-04T17:23:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "How Not To Sell Software in 2012"
+    ],
+    "bookmark-of": [
+      "http://al3x.net/2012/02/29/how-not-to-sell-software-in-2012.html"
+    ],
+    "category": [
+      "startup",
+      "business",
+      "marketing",
+      "sales",
+      "saas",
+      "software",
+      "via-pinboard"
+    ],
+    "slug": [
+      "how-not-to-sell-software-in"
+    ]
+  }
+}

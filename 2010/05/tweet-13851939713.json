@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids I've heard good things about Things http://culturedcode.com/things/ - I think @timblair uses it. I use @simplenoteapp on my iPhone"],"published":["2010-05-12T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/13845366666"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/13851939713"],"slug":["tweet-13851939713"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids I've heard good things about Things http://culturedcode.com/things/ - I think @timblair uses it. I use @simplenoteapp on my iPhone"
+    ],
+    "published": [
+      "2010-05-12T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/13845366666"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/13851939713"
+    ],
+    "slug": [
+      "tweet-13851939713"
+    ]
+  }
+}

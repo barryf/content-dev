@@ -1,1 +1,26 @@
-{"type":["h-entry"],"properties":{"published":["2016-06-15T19:13:39Z"],"entry-type":["repost"],"repost-of":["http://tantek.com/2016/167/t4/homebrew-website-club-london-popup"],"category":["indieweb","hwc"],"syndication":["https://twitter.com/barryf/status/743159564258836480"],"slug":["15-201339"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-06-15T19:13:39Z"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "repost-of": [
+      "http://tantek.com/2016/167/t4/homebrew-website-club-london-popup"
+    ],
+    "category": [
+      "indieweb",
+      "hwc"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/743159564258836480"
+    ],
+    "slug": [
+      "15-201339"
+    ]
+  }
+}

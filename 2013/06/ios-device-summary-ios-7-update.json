@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Processors, screen size and iOS version support"],"published":["2013-06-21T16:02:03Z"],"entry-type":["bookmark"],"name":["iOS Device Summary: iOS 7 Update"],"bookmark-of":["http://jamesdempsey.net/2013/06/21/ios-device-summary-ios-7/"],"category":["ios","ipod","iphone","ipad","compatibility","via-pinboard"],"slug":["ios-device-summary-ios-7-update"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Processors, screen size and iOS version support"
+    ],
+    "published": [
+      "2013-06-21T16:02:03Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "iOS Device Summary: iOS 7 Update"
+    ],
+    "bookmark-of": [
+      "http://jamesdempsey.net/2013/06/21/ios-device-summary-ios-7/"
+    ],
+    "category": [
+      "ios",
+      "ipod",
+      "iphone",
+      "ipad",
+      "compatibility",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ios-device-summary-ios-7-update"
+    ]
+  }
+}

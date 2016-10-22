@@ -1,1 +1,29 @@
-{"type":["h-entry"],"properties":{"published":["2013-03-17T17:58:47Z"],"entry-type":["bookmark"],"name":["25 things I wish I knew before moving to San Francisco"],"bookmark-of":["http://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"],"category":["sanfrancisco","usa","city","life","via-pinboard"],"slug":["25-things-i-wish-i-knew"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-03-17T17:58:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "25 things I wish I knew before moving to San Francisco"
+    ],
+    "bookmark-of": [
+      "http://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+    ],
+    "category": [
+      "sanfrancisco",
+      "usa",
+      "city",
+      "life",
+      "via-pinboard"
+    ],
+    "slug": [
+      "25-things-i-wish-i-knew"
+    ]
+  }
+}

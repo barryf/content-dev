@@ -1,1 +1,22 @@
-{"type":["h-entry"],"properties":{"content":["<a href=\"https://www.brid.gy/publish/instagram\"></a>"],"published":["2016-07-14T21:23:14Z"],"entry-type":["like"],"like-of":["https://www.instagram.com/p/BH21YGcje0u/"],"slug":["14-222314"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "<a href=\"https://www.brid.gy/publish/instagram\"></a>"
+    ],
+    "published": [
+      "2016-07-14T21:23:14Z"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "like-of": [
+      "https://www.instagram.com/p/BH21YGcje0u/"
+    ],
+    "slug": [
+      "14-222314"
+    ]
+  }
+}

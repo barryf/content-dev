@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Using Clickatell, a UK friendly SMS gateway\n"],"published":["2007-09-15T09:37:59Z"],"entry-type":["bookmark"],"name":["Sending SMS messages from your Rails application — Luke Redpath"],"bookmark-of":["http://www.lukeredpath.co.uk/2007/8/29/sending-sms-messages-from-your-rails-application"],"category":["sms","rails","web","dev","notification","mobile","phone","clickatell","via-pinboard"],"slug":["sending-sms-messages-from-your-rails"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Using Clickatell, a UK friendly SMS gateway\n"
+    ],
+    "published": [
+      "2007-09-15T09:37:59Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sending SMS messages from your Rails application — Luke Redpath"
+    ],
+    "bookmark-of": [
+      "http://www.lukeredpath.co.uk/2007/8/29/sending-sms-messages-from-your-rails-application"
+    ],
+    "category": [
+      "sms",
+      "rails",
+      "web",
+      "dev",
+      "notification",
+      "mobile",
+      "phone",
+      "clickatell",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sending-sms-messages-from-your-rails"
+    ]
+  }
+}

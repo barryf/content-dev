@@ -1,1 +1,30 @@
-{"type":["h-entry"],"properties":{"published":["2010-11-04T15:38:00Z"],"entry-type":["bookmark"],"name":["The Ultimate Dropbox Toolkit & Guide"],"bookmark-of":["http://web.appstorm.net/roundups/data-management-roundups/the-ultimate-dropbox-toolkit-guide/"],"category":["dropbox","backup","sync","mac","cloud","via-pinboard"],"slug":["the-ultimate-dropbox-toolkit-guide"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2010-11-04T15:38:00Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The Ultimate Dropbox Toolkit & Guide"
+    ],
+    "bookmark-of": [
+      "http://web.appstorm.net/roundups/data-management-roundups/the-ultimate-dropbox-toolkit-guide/"
+    ],
+    "category": [
+      "dropbox",
+      "backup",
+      "sync",
+      "mac",
+      "cloud",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-ultimate-dropbox-toolkit-guide"
+    ]
+  }
+}

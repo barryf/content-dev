@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Petrol unbelievably expensive in Britain; US cheap despite total consumption\n"],"published":["2007-07-12T13:29:29Z"],"entry-type":["bookmark"],"name":["Petrol consumption per day (graphic)"],"bookmark-of":["http://www.economist.com/images/ga/2007w27/Petrol.jpg"],"category":["petrol","gasoline","world","price","us","britain","filetypejpg","mediaimage","via-pinboard"],"slug":["petrol-consumption-per-day-graphic"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Petrol unbelievably expensive in Britain; US cheap despite total consumption\n"
+    ],
+    "published": [
+      "2007-07-12T13:29:29Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Petrol consumption per day (graphic)"
+    ],
+    "bookmark-of": [
+      "http://www.economist.com/images/ga/2007w27/Petrol.jpg"
+    ],
+    "category": [
+      "petrol",
+      "gasoline",
+      "world",
+      "price",
+      "us",
+      "britain",
+      "filetypejpg",
+      "mediaimage",
+      "via-pinboard"
+    ],
+    "slug": [
+      "petrol-consumption-per-day-graphic"
+    ]
+  }
+}

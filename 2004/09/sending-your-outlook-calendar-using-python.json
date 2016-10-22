@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2004-09-18T10:27:07Z"],"entry-type":["bookmark"],"name":["Sending your Outlook calendar using Python"],"bookmark-of":["http://cephas.net/blog/2004/09/17/sending_your_outlook_calendar_using_python.html"],"category":["outlook","python","via-pinboard"],"slug":["sending-your-outlook-calendar-using-python"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2004-09-18T10:27:07Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Sending your Outlook calendar using Python"
+    ],
+    "bookmark-of": [
+      "http://cephas.net/blog/2004/09/17/sending_your_outlook_calendar_using_python.html"
+    ],
+    "category": [
+      "outlook",
+      "python",
+      "via-pinboard"
+    ],
+    "slug": [
+      "sending-your-outlook-calendar-using-python"
+    ]
+  }
+}

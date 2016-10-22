@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@craftyuk I am indeed. Flying in early on the Tuesday so will be there in time for the stag do. Will be great to see you guys - can't wait."],"published":["2009-09-05T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20979477/status/3776669982"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3776730624"],"slug":["tweet-3776730624"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@craftyuk I am indeed. Flying in early on the Tuesday so will be there in time for the stag do. Will be great to see you guys - can't wait."
+    ],
+    "published": [
+      "2009-09-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20979477/status/3776669982"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3776730624"
+    ],
+    "slug": [
+      "tweet-3776730624"
+    ]
+  }
+}

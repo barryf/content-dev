@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw Love it! She has a dedicated fanbase of two. Laura is (rightly) nonplussed."],"published":["2013-06-18T15:37:58Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/347015051024142336"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/347015337218297856"],"slug":["tweet-347015337218297856"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Love it! She has a dedicated fanbase of two. Laura is (rightly) nonplussed."
+    ],
+    "published": [
+      "2013-06-18T15:37:58Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/347015051024142336"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/347015337218297856"
+    ],
+    "slug": [
+      "tweet-347015337218297856"
+    ]
+  }
+}

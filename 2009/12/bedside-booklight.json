@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Cleverly shaped bedside lamp - keeps the page in your book\n"],"published":["2009-12-01T16:38:21Z"],"entry-type":["bookmark"],"name":["Bedside Booklight"],"bookmark-of":["http://www.firebox.com/product/2553/Bedside-Booklight"],"category":["book","reading","lamp","present","wishlist","via-pinboard"],"slug":["bedside-booklight"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Cleverly shaped bedside lamp - keeps the page in your book\n"
+    ],
+    "published": [
+      "2009-12-01T16:38:21Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bedside Booklight"
+    ],
+    "bookmark-of": [
+      "http://www.firebox.com/product/2553/Bedside-Booklight"
+    ],
+    "category": [
+      "book",
+      "reading",
+      "lamp",
+      "present",
+      "wishlist",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bedside-booklight"
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/thesambarnes/status/559795465206525952"],"published":["2015-01-26T19:30:14Z"],"content":["@barryf Really not sure if you should be intrigued at this fun little mystery or deeply concerned and afraid."],"in-reply-to":["https://barryfrost.com/2015/01/look-out-for-barry-coming-soon"],"author":["http://www.thesambarnes.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/thesambarnes/status/559795465206525952"
+    ],
+    "published": [
+      "2015-01-26T19:30:14Z"
+    ],
+    "content": [
+      "@barryf Really not sure if you should be intrigued at this fun little mystery or deeply concerned and afraid."
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/01/look-out-for-barry-coming-soon"
+    ],
+    "author": [
+      "http://www.thesambarnes.com"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@thesambarnes Blimey, Sam, glad to hear you’re OK! Take care."],"published":["2012-12-15T22:20:13Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/23260761/status/280059279006920704"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/280074813245116416"],"slug":["tweet-280074813245116416"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Blimey, Sam, glad to hear you’re OK! Take care."
+    ],
+    "published": [
+      "2012-12-15T22:20:13Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/23260761/status/280059279006920704"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/280074813245116416"
+    ],
+    "slug": [
+      "tweet-280074813245116416"
+    ]
+  }
+}

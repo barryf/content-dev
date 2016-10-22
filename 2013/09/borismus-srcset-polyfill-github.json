@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2013-09-30T16:41:38Z"],"entry-type":["bookmark"],"name":["borismus/srcset-polyfill · GitHub"],"bookmark-of":["https://github.com/borismus/srcset-polyfill"],"category":["fromifttt","github","via-pinboard"],"slug":["borismus-srcset-polyfill-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2013-09-30T16:41:38Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "borismus/srcset-polyfill · GitHub"
+    ],
+    "bookmark-of": [
+      "https://github.com/borismus/srcset-polyfill"
+    ],
+    "category": [
+      "fromifttt",
+      "github",
+      "via-pinboard"
+    ],
+    "slug": [
+      "borismus-srcset-polyfill-github"
+    ]
+  }
+}

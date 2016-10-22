@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["John Whish"],"photo":["https://twitter.com/aliaspooryorik/profile_image?size=original"],"url":["http://www.aliaspooryorik.com/blog/"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "John Whish"
+    ],
+    "photo": [
+      "https://twitter.com/aliaspooryorik/profile_image?size=original"
+    ],
+    "url": [
+      "http://www.aliaspooryorik.com/blog/"
+    ]
+  }
+}

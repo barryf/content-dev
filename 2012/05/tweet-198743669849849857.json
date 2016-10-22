@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@robyoung26 @mmazour I have a pair of 10.1s with my Arcam. Love the Diamond range."],"published":["2012-05-05T11:59:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/9659012/status/198742905085640705"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/198743669849849857"],"slug":["tweet-198743669849849857"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@robyoung26 @mmazour I have a pair of 10.1s with my Arcam. Love the Diamond range."
+    ],
+    "published": [
+      "2012-05-05T11:59:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/9659012/status/198742905085640705"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/198743669849849857"
+    ],
+    "slug": [
+      "tweet-198743669849849857"
+    ]
+  }
+}

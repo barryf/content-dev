@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"published":["2009-08-08T09:30:49Z"],"entry-type":["bookmark"],"name":["Stack Overflow Architecture | High Scalability"],"bookmark-of":["http://highscalability.com/stack-overflow-architecture"],"category":["dev","server","performance","scaling","architecture","intrastructure","business","work","via-pinboard"],"slug":["stack-overflow-architecture-high-scalability"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2009-08-08T09:30:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Stack Overflow Architecture | High Scalability"
+    ],
+    "bookmark-of": [
+      "http://highscalability.com/stack-overflow-architecture"
+    ],
+    "category": [
+      "dev",
+      "server",
+      "performance",
+      "scaling",
+      "architecture",
+      "intrastructure",
+      "business",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stack-overflow-architecture-high-scalability"
+    ]
+  }
+}

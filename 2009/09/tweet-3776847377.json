@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@MissSpanna Pleased you like them! What's your favourite album of theirs right now?"],"published":["2009-09-05T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20435269/status/3767032473"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/3776847377"],"slug":["tweet-3776847377"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@MissSpanna Pleased you like them! What's your favourite album of theirs right now?"
+    ],
+    "published": [
+      "2009-09-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20435269/status/3767032473"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/3776847377"
+    ],
+    "slug": [
+      "tweet-3776847377"
+    ]
+  }
+}

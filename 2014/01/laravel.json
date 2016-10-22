@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Popular PHP open-source framework"],"published":["2014-01-21T10:23:45Z"],"entry-type":["bookmark"],"name":["Laravel"],"bookmark-of":["http://laravel.com/"],"category":["php","opensource","framework","mvc","via-pinboard"],"slug":["laravel"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Popular PHP open-source framework"
+    ],
+    "published": [
+      "2014-01-21T10:23:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Laravel"
+    ],
+    "bookmark-of": [
+      "http://laravel.com/"
+    ],
+    "category": [
+      "php",
+      "opensource",
+      "framework",
+      "mvc",
+      "via-pinboard"
+    ],
+    "slug": [
+      "laravel"
+    ]
+  }
+}

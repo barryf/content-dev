@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Viewports, caching and jQuery templating\n"],"published":["2011-09-06T07:45:33Z"],"entry-type":["bookmark"],"name":["Mobile development with HTML5"],"bookmark-of":["http://www.engineyard.com/blog/2011/mobile-development-with-html5/"],"category":["html5","mobile","viewport","caching","jquery","template","via-pinboard"],"slug":["mobile-development-with-html5"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Viewports, caching and jQuery templating\n"
+    ],
+    "published": [
+      "2011-09-06T07:45:33Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mobile development with HTML5"
+    ],
+    "bookmark-of": [
+      "http://www.engineyard.com/blog/2011/mobile-development-with-html5/"
+    ],
+    "category": [
+      "html5",
+      "mobile",
+      "viewport",
+      "caching",
+      "jquery",
+      "template",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mobile-development-with-html5"
+    ]
+  }
+}

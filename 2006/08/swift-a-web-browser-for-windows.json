@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Uses WebKit as a rendering engine. A bit rough at the moment (well it is an alpha) but will be useful for testing etc.\n"],"published":["2006-08-16T09:29:51Z"],"entry-type":["bookmark"],"name":["Swift: a web browser for Windows"],"bookmark-of":["http://www.getswift.org/alpha.html"],"category":["windows","browser","apple","safari","webkit","testing","via-pinboard"],"slug":["swift-a-web-browser-for-windows"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Uses WebKit as a rendering engine. A bit rough at the moment (well it is an alpha) but will be useful for testing etc.\n"
+    ],
+    "published": [
+      "2006-08-16T09:29:51Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Swift: a web browser for Windows"
+    ],
+    "bookmark-of": [
+      "http://www.getswift.org/alpha.html"
+    ],
+    "category": [
+      "windows",
+      "browser",
+      "apple",
+      "safari",
+      "webkit",
+      "testing",
+      "via-pinboard"
+    ],
+    "slug": [
+      "swift-a-web-browser-for-windows"
+    ]
+  }
+}

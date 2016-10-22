@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Finally got tickets booked for Arsenal v Pompey on 28th. This season's flying by."],"published":["2008-11-28T00:00:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1027929988"],"slug":["tweet-1027929988"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Finally got tickets booked for Arsenal v Pompey on 28th. This season's flying by."
+    ],
+    "published": [
+      "2008-11-28T00:00:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1027929988"
+    ],
+    "slug": [
+      "tweet-1027929988"
+    ]
+  }
+}

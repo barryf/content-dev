@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw About time too."],"published":["2015-07-23T13:47:20Z"],"entry-type":["reply"],"summary":["@cronkshaw About time too."],"in-reply-to":["https://twitter.com/cronkshaw/status/624213882651938816"],"syndication":["https://twitter.com/barryf/status/624214219714498560"],"slug":["cronkshaw-about-time-too"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw About time too."
+    ],
+    "published": [
+      "2015-07-23T13:47:20Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@cronkshaw About time too."
+    ],
+    "in-reply-to": [
+      "https://twitter.com/cronkshaw/status/624213882651938816"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/624214219714498560"
+    ],
+    "slug": [
+      "cronkshaw-about-time-too"
+    ]
+  }
+}

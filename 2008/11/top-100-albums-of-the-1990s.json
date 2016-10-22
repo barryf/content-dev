@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"published":["2008-11-29T18:12:42Z"],"entry-type":["bookmark"],"name":["Top 100 Albums of the 1990s | Pitchfork"],"bookmark-of":["http://pitchfork.com/article/feature/36737-top-100-albums-of-the-1990s"],"category":["pitchfork","music","list","top","album","1990s","nineties","via-pinboard"],"slug":["top-100-albums-of-the-1990s"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2008-11-29T18:12:42Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Top 100 Albums of the 1990s | Pitchfork"
+    ],
+    "bookmark-of": [
+      "http://pitchfork.com/article/feature/36737-top-100-albums-of-the-1990s"
+    ],
+    "category": [
+      "pitchfork",
+      "music",
+      "list",
+      "top",
+      "album",
+      "1990s",
+      "nineties",
+      "via-pinboard"
+    ],
+    "slug": [
+      "top-100-albums-of-the-1990s"
+    ]
+  }
+}

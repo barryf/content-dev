@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Darren Walker"],"photo":["https://twitter.com/bayornet/profile_image?size=original"],"url":["http://blog.bayornet.com"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Darren Walker"
+    ],
+    "photo": [
+      "https://twitter.com/bayornet/profile_image?size=original"
+    ],
+    "url": [
+      "http://blog.bayornet.com"
+    ]
+  }
+}

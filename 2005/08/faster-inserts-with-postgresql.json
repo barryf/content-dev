@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2005-08-31T19:15:53Z"],"entry-type":["bookmark"],"name":["Faster Inserts with PostgreSQL"],"bookmark-of":["http://www.petefreitag.com/item/454.cfm"],"category":["postgresql","database","via-pinboard"],"slug":["faster-inserts-with-postgresql"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-08-31T19:15:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Faster Inserts with PostgreSQL"
+    ],
+    "bookmark-of": [
+      "http://www.petefreitag.com/item/454.cfm"
+    ],
+    "category": [
+      "postgresql",
+      "database",
+      "via-pinboard"
+    ],
+    "slug": [
+      "faster-inserts-with-postgresql"
+    ]
+  }
+}

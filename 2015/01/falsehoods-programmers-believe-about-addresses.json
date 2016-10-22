@@ -1,1 +1,27 @@
-{"type":["h-entry"],"properties":{"published":["2015-01-18T13:39:04Z"],"entry-type":["bookmark"],"name":["Falsehoods programmers believe about addresses"],"bookmark-of":["https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/"],"category":["address","form","validation"],"slug":["falsehoods-programmers-believe-about-addresses"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-01-18T13:39:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Falsehoods programmers believe about addresses"
+    ],
+    "bookmark-of": [
+      "https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/"
+    ],
+    "category": [
+      "address",
+      "form",
+      "validation"
+    ],
+    "slug": [
+      "falsehoods-programmers-believe-about-addresses"
+    ]
+  }
+}

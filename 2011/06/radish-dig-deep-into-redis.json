@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Redis analysis and monitoring service that uses a daemon to break down frequency of commands/keys/namespaces, averages, memory usage, etc.\n"],"published":["2011-06-08T08:20:46Z"],"entry-type":["bookmark"],"name":["Radish: Dig Deep Into Redis"],"bookmark-of":["http://robots.thoughtbot.com/post/6037147900/radish-dig-deep-into-redis"],"category":["redis","radish","monitoring","sysadmin","analytics","via-pinboard"],"slug":["radish-dig-deep-into-redis"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Redis analysis and monitoring service that uses a daemon to break down frequency of commands/keys/namespaces, averages, memory usage, etc.\n"
+    ],
+    "published": [
+      "2011-06-08T08:20:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Radish: Dig Deep Into Redis"
+    ],
+    "bookmark-of": [
+      "http://robots.thoughtbot.com/post/6037147900/radish-dig-deep-into-redis"
+    ],
+    "category": [
+      "redis",
+      "radish",
+      "monitoring",
+      "sysadmin",
+      "analytics",
+      "via-pinboard"
+    ],
+    "slug": [
+      "radish-dig-deep-into-redis"
+    ]
+  }
+}

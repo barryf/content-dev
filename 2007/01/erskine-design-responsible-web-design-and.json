@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Simon (Colly) Collison's new company, part of the inspiring Erskine Corp, a collection of like-minded people working together\n"],"published":["2007-01-12T13:56:20Z"],"entry-type":["bookmark"],"name":["Erskine Design - Responsible web design and development"],"bookmark-of":["http://www.erskinedesign.com/"],"category":["design","agency","portfolio","web","inspiration","company","business","work","via-pinboard"],"slug":["erskine-design-responsible-web-design-and"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Simon (Colly) Collison's new company, part of the inspiring Erskine Corp, a collection of like-minded people working together\n"
+    ],
+    "published": [
+      "2007-01-12T13:56:20Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Erskine Design - Responsible web design and development"
+    ],
+    "bookmark-of": [
+      "http://www.erskinedesign.com/"
+    ],
+    "category": [
+      "design",
+      "agency",
+      "portfolio",
+      "web",
+      "inspiration",
+      "company",
+      "business",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "erskine-design-responsible-web-design-and"
+    ]
+  }
+}

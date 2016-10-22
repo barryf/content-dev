@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@aviatorgal Must be my chubby cheeks! Enjoy your networking evening."],"published":["2013-01-10T23:05:23Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/22544965/status/289392993406963712"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/289508264276787200"],"slug":["tweet-289508264276787200"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@aviatorgal Must be my chubby cheeks! Enjoy your networking evening."
+    ],
+    "published": [
+      "2013-01-10T23:05:23Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/22544965/status/289392993406963712"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/289508264276787200"
+    ],
+    "slug": [
+      "tweet-289508264276787200"
+    ]
+  }
+}

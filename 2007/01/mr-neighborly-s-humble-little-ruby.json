@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["A second quirky but informative Ruby ebook\n"],"published":["2007-01-05T16:13:23Z"],"entry-type":["bookmark"],"name":["Mr. Neighborly's Humble Little Ruby Book"],"bookmark-of":["http://www.humblelittlerubybook.com/book/"],"category":["ruby","ebook","free","code","programming","tutorial","documentation","language","via-pinboard"],"slug":["mr-neighborly-s-humble-little-ruby"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A second quirky but informative Ruby ebook\n"
+    ],
+    "published": [
+      "2007-01-05T16:13:23Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Mr. Neighborly's Humble Little Ruby Book"
+    ],
+    "bookmark-of": [
+      "http://www.humblelittlerubybook.com/book/"
+    ],
+    "category": [
+      "ruby",
+      "ebook",
+      "free",
+      "code",
+      "programming",
+      "tutorial",
+      "documentation",
+      "language",
+      "via-pinboard"
+    ],
+    "slug": [
+      "mr-neighborly-s-humble-little-ruby"
+    ]
+  }
+}

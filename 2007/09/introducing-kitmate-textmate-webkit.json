@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["WebKit inspector from within TextMAte\n"],"published":["2007-09-15T15:17:34Z"],"entry-type":["bookmark"],"name":["Introducing KitMate: TextMate + WebKit"],"bookmark-of":["http://web.mac.com/alexander.atallah/Mac/Development/Entries/2007/9/9_Introducing_KitMate:_TextMate_%20_WebKit.html"],"category":["mac","textmate","webkit","html","debug","browser","web","dev","via-pinboard"],"slug":["introducing-kitmate-textmate-webkit"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "WebKit inspector from within TextMAte\n"
+    ],
+    "published": [
+      "2007-09-15T15:17:34Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Introducing KitMate: TextMate + WebKit"
+    ],
+    "bookmark-of": [
+      "http://web.mac.com/alexander.atallah/Mac/Development/Entries/2007/9/9_Introducing_KitMate:_TextMate_%20_WebKit.html"
+    ],
+    "category": [
+      "mac",
+      "textmate",
+      "webkit",
+      "html",
+      "debug",
+      "browser",
+      "web",
+      "dev",
+      "via-pinboard"
+    ],
+    "slug": [
+      "introducing-kitmate-textmate-webkit"
+    ]
+  }
+}

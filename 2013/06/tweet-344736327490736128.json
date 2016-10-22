@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Upgraded to iOS7 last night: solid, no crashes so far and I quite like the new design approach. Other apps look sorely out of place though."],"published":["2013-06-12T08:42:00Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/344736327490736128"],"slug":["tweet-344736327490736128"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Upgraded to iOS7 last night: solid, no crashes so far and I quite like the new design approach. Other apps look sorely out of place though."
+    ],
+    "published": [
+      "2013-06-12T08:42:00Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/344736327490736128"
+    ],
+    "slug": [
+      "tweet-344736327490736128"
+    ]
+  }
+}

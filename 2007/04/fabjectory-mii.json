@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Make a statuette of your Mii. For the affluent! ($50/$100)\n"],"published":["2007-04-20T13:20:41Z"],"entry-type":["bookmark"],"name":["Fabjectory - Mii"],"bookmark-of":["http://www.fabjectory.com/index.php/mii/"],"category":["nintendo","wii","avatar","fun","via-pinboard"],"slug":["fabjectory-mii"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Make a statuette of your Mii. For the affluent! ($50/$100)\n"
+    ],
+    "published": [
+      "2007-04-20T13:20:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Fabjectory - Mii"
+    ],
+    "bookmark-of": [
+      "http://www.fabjectory.com/index.php/mii/"
+    ],
+    "category": [
+      "nintendo",
+      "wii",
+      "avatar",
+      "fun",
+      "via-pinboard"
+    ],
+    "slug": [
+      "fabjectory-mii"
+    ]
+  }
+}

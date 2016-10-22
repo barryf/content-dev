@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Brighton on a sunny day: hard to beat."],"published":["2014-06-28T18:32:26Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/482954695317917697"],"slug":["tweet-482954695317917697"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Brighton on a sunny day: hard to beat."
+    ],
+    "published": [
+      "2014-06-28T18:32:26Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/482954695317917697"
+    ],
+    "slug": [
+      "tweet-482954695317917697"
+    ]
+  }
+}

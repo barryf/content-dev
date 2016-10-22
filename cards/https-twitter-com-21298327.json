@@ -1,1 +1,16 @@
-{"type":["h-card"],"properties":{"name":["Boon"],"photo":["http://pbs.twimg.com/profile_images/378800000546956766/803df69eb5bb574c7516b14ceb42fd20_normal.jpeg"],"url":["https://twitter.com/mattberridge"]}}
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Boon"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/378800000546956766/803df69eb5bb574c7516b14ceb42fd20_normal.jpeg"
+    ],
+    "url": [
+      "https://twitter.com/mattberridge"
+    ]
+  }
+}

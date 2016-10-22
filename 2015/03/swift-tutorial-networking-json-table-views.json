@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2015-03-15T16:41:43Z"],"entry-type":["bookmark"],"name":["Swift tutorial: Networking, JSON, Table Views, and MVVM"],"bookmark-of":["https://roadfire.wistia.com/medias/25g9nxb8v8"],"category":["swift","video","json","mvvm"],"slug":["swift-tutorial-networking-json-table-views"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2015-03-15T16:41:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Swift tutorial: Networking, JSON, Table Views, and MVVM"
+    ],
+    "bookmark-of": [
+      "https://roadfire.wistia.com/medias/25g9nxb8v8"
+    ],
+    "category": [
+      "swift",
+      "video",
+      "json",
+      "mvvm"
+    ],
+    "slug": [
+      "swift-tutorial-networking-json-table-views"
+    ]
+  }
+}

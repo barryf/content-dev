@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/hobbsy/status/647015875317469185"],"published":["2015-09-24T11:53:00Z"],"content":["@barryf ah great stuff, yes we'll try and meet you for a beer. Will DM you my number"],"in-reply-to":["https://barryfrost.com/2015/09/hobbsy-hey-me-too-if-you"],"author":["http://hobbsy.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/hobbsy/status/647015875317469185"
+    ],
+    "published": [
+      "2015-09-24T11:53:00Z"
+    ],
+    "content": [
+      "@barryf ah great stuff, yes we'll try and meet you for a beer. Will DM you my number"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/09/hobbsy-hey-me-too-if-you"
+    ],
+    "author": [
+      "http://hobbsy.com"
+    ]
+  }
+}

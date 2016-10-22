@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@TheGhoti Hmm… I haven't seen Katie in a while… Buried under your patio?"],"published":["2012-06-08T15:45:11Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20146547/status/211120791536934912"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/211121705173794816"],"slug":["tweet-211121705173794816"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@TheGhoti Hmm… I haven't seen Katie in a while… Buried under your patio?"
+    ],
+    "published": [
+      "2012-06-08T15:45:11Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20146547/status/211120791536934912"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/211121705173794816"
+    ],
+    "slug": [
+      "tweet-211121705173794816"
+    ]
+  }
+}

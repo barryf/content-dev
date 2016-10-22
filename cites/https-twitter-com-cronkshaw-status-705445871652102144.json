@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/cronkshaw/status/705445871652102144"],"published":["2016-03-03T17:32:57Z"],"content":["@barryf Depressing!!!"],"in-reply-to":["https://barryfrost.com/2016/03/cronkshaw-have-you-tried-this-try"],"author":["http://cronkshaw.net"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/cronkshaw/status/705445871652102144"
+    ],
+    "published": [
+      "2016-03-03T17:32:57Z"
+    ],
+    "content": [
+      "@barryf Depressing!!!"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/03/cronkshaw-have-you-tried-this-try"
+    ],
+    "author": [
+      "http://cronkshaw.net"
+    ]
+  }
+}

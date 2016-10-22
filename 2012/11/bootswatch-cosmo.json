@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Metro-style Bootstrap theme"],"published":["2012-11-26T20:18:41Z"],"entry-type":["bookmark"],"name":["Bootswatch: Cosmo"],"bookmark-of":["http://bootswatch.com/cosmo/"],"category":["theme","bootstrap","metro","microsoft","via-pinboard"],"slug":["bootswatch-cosmo"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Metro-style Bootstrap theme"
+    ],
+    "published": [
+      "2012-11-26T20:18:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Bootswatch: Cosmo"
+    ],
+    "bookmark-of": [
+      "http://bootswatch.com/cosmo/"
+    ],
+    "category": [
+      "theme",
+      "bootstrap",
+      "metro",
+      "microsoft",
+      "via-pinboard"
+    ],
+    "slug": [
+      "bootswatch-cosmo"
+    ]
+  }
+}

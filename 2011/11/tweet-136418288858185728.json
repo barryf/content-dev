@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids I almost didn't bother installing Flash after a clean install of Lion. Bit too crashy on a Mac. Who thinks I'm paranoid?"],"published":["2011-11-15T12:20:29Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/136416901344669696"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/136418288858185728"],"slug":["tweet-136418288858185728"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids I almost didn't bother installing Flash after a clean install of Lion. Bit too crashy on a Mac. Who thinks I'm paranoid?"
+    ],
+    "published": [
+      "2011-11-15T12:20:29Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/136416901344669696"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/136418288858185728"
+    ],
+    "slug": [
+      "tweet-136418288858185728"
+    ]
+  }
+}

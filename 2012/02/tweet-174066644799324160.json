@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["I'm at GSMA Mobile World Congress (Av. Reina Maria Cristina, s/n, Barcelona) w/ 329 others http://4sq.com/zMMZJw"],"published":["2012-02-27T09:41:36Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/174066644799324160"],"slug":["tweet-174066644799324160"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm at GSMA Mobile World Congress (Av. Reina Maria Cristina, s/n, Barcelona) w/ 329 others http://4sq.com/zMMZJw"
+    ],
+    "published": [
+      "2012-02-27T09:41:36Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/174066644799324160"
+    ],
+    "slug": [
+      "tweet-174066644799324160"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"published":["2005-12-10T15:29:41Z"],"entry-type":["bookmark"],"name":["Agile Partners weblog » iPhoto-like image resizing using Javascript"],"bookmark-of":["http://www.agilepartners.com/blog/2005/12/07/iphoto-image-resizing-using-javascript/"],"category":["ajax","design","dev","dom","image","javascript","photo","prototype","web","web20","via-pinboard"],"slug":["agile-partners-weblog-iphoto-like-image"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2005-12-10T15:29:41Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Agile Partners weblog » iPhoto-like image resizing using Javascript"
+    ],
+    "bookmark-of": [
+      "http://www.agilepartners.com/blog/2005/12/07/iphoto-image-resizing-using-javascript/"
+    ],
+    "category": [
+      "ajax",
+      "design",
+      "dev",
+      "dom",
+      "image",
+      "javascript",
+      "photo",
+      "prototype",
+      "web",
+      "web20",
+      "via-pinboard"
+    ],
+    "slug": [
+      "agile-partners-weblog-iphoto-like-image"
+    ]
+  }
+}

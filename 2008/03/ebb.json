@@ -1,1 +1,35 @@
-{"type":["h-entry"],"properties":{"content":["Another fast, lightweight web server for Ruby\n"],"published":["2008-03-21T10:25:40Z"],"entry-type":["bookmark"],"name":["Ebb"],"bookmark-of":["http://ebb.rubyforge.org/"],"category":["ruby","server","rails","performance","rack","mongrel","web","via-pinboard"],"slug":["ebb"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Another fast, lightweight web server for Ruby\n"
+    ],
+    "published": [
+      "2008-03-21T10:25:40Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Ebb"
+    ],
+    "bookmark-of": [
+      "http://ebb.rubyforge.org/"
+    ],
+    "category": [
+      "ruby",
+      "server",
+      "rails",
+      "performance",
+      "rack",
+      "mongrel",
+      "web",
+      "via-pinboard"
+    ],
+    "slug": [
+      "ebb"
+    ]
+  }
+}

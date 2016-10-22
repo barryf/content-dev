@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/HongPong/status/578752622586363904"],"published":["2015-03-20T02:59:12Z"],"content":["RT @barryf: Dinner with the #IndieWebCamp  group in Cambridge, MA. Thanks to @tantek and Mozilla."],"repost-of":["https://barryfrost.com/2015/03/dinner-with-the-indiewebcamp-group-in"],"author":["http://hongpong.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/HongPong/status/578752622586363904"
+    ],
+    "published": [
+      "2015-03-20T02:59:12Z"
+    ],
+    "content": [
+      "RT @barryf: Dinner with the #IndieWebCamp  group in Cambridge, MA. Thanks to @tantek and Mozilla."
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2015/03/dinner-with-the-indiewebcamp-group-in"
+    ],
+    "author": [
+      "http://hongpong.com"
+    ]
+  }
+}

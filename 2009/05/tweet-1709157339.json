@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@Tomtids I may have pizza but since ordering Arsenal have let in two. I blame Dominos. It's all their fault."],"published":["2009-05-05T00:00:00Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/16350009/status/1709098688"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/1709157339"],"slug":["tweet-1709157339"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@Tomtids I may have pizza but since ordering Arsenal have let in two. I blame Dominos. It's all their fault."
+    ],
+    "published": [
+      "2009-05-05T00:00:00Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/16350009/status/1709098688"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1709157339"
+    ],
+    "slug": [
+      "tweet-1709157339"
+    ]
+  }
+}

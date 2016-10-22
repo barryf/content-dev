@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Fast switching between Standard and HiDPI display modes. For testing of Retina graphics on your Mac"],"published":["2013-06-23T10:24:31Z"],"entry-type":["bookmark"],"name":["ResolutionTab"],"bookmark-of":["http://resolutiontab.com/"],"category":["mac","retina","resolution","display","app","hidpi","via-pinboard"],"slug":["resolutiontab"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Fast switching between Standard and HiDPI display modes. For testing of Retina graphics on your Mac"
+    ],
+    "published": [
+      "2013-06-23T10:24:31Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "ResolutionTab"
+    ],
+    "bookmark-of": [
+      "http://resolutiontab.com/"
+    ],
+    "category": [
+      "mac",
+      "retina",
+      "resolution",
+      "display",
+      "app",
+      "hidpi",
+      "via-pinboard"
+    ],
+    "slug": [
+      "resolutiontab"
+    ]
+  }
+}

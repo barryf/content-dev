@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["I would love the option to check in via @foursquare when I use my @getmondo card. I may not have signal but Mondo knows where card is used."],"published":["2016-06-27T15:40:56Z"],"entry-type":["note"],"summary":["I would love the option to check in via @foursquare when I use my @getmondo card. I may not have signal but Mondo knows where card is used."],"category":["foursquare","mondo","card","checkin","location"],"syndication":["https://twitter.com/barryf/status/747454687255814144"],"slug":["i-would-love-the-option-to"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I would love the option to check in via @foursquare when I use my @getmondo card. I may not have signal but Mondo knows where card is used."
+    ],
+    "published": [
+      "2016-06-27T15:40:56Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "I would love the option to check in via @foursquare when I use my @getmondo card. I may not have signal but Mondo knows where card is used."
+    ],
+    "category": [
+      "foursquare",
+      "mondo",
+      "card",
+      "checkin",
+      "location"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/747454687255814144"
+    ],
+    "slug": [
+      "i-would-love-the-option-to"
+    ]
+  }
+}

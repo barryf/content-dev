@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["The @guardian interviews Dog from Text From Dog http://bfr.st/Nt5PhI"],"published":["2012-07-06T16:21:35Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/221277725216882690"],"slug":["tweet-221277725216882690"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "The @guardian interviews Dog from Text From Dog http://bfr.st/Nt5PhI"
+    ],
+    "published": [
+      "2012-07-06T16:21:35Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/221277725216882690"
+    ],
+    "slug": [
+      "tweet-221277725216882690"
+    ]
+  }
+}

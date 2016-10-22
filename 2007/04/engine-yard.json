@@ -1,1 +1,31 @@
-{"type":["h-entry"],"properties":{"content":["Rails hosting - host of Lighthouse\n"],"published":["2007-04-22T18:37:43Z"],"entry-type":["bookmark"],"name":["Engine Yard"],"bookmark-of":["http://engineyard.com/"],"category":["deployment","hosting","rails","via-pinboard"],"slug":["engine-yard"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Rails hosting - host of Lighthouse\n"
+    ],
+    "published": [
+      "2007-04-22T18:37:43Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Engine Yard"
+    ],
+    "bookmark-of": [
+      "http://engineyard.com/"
+    ],
+    "category": [
+      "deployment",
+      "hosting",
+      "rails",
+      "via-pinboard"
+    ],
+    "slug": [
+      "engine-yard"
+    ]
+  }
+}

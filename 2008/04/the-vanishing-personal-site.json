@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Zeldman notes the shift from personal sites (with links, photos, info, etc.) to links to sites like Flickr that hold your content\n"],"published":["2008-04-27T14:11:46Z"],"entry-type":["bookmark"],"name":["The vanishing personal site"],"bookmark-of":["http://www.zeldman.com/2008/04/27/content-outsourcing-and-the-disappearing-personal-site/"],"category":["zeldman","social","personal","web","portfolio","trends","design","business","via-pinboard"],"slug":["the-vanishing-personal-site"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Zeldman notes the shift from personal sites (with links, photos, info, etc.) to links to sites like Flickr that hold your content\n"
+    ],
+    "published": [
+      "2008-04-27T14:11:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The vanishing personal site"
+    ],
+    "bookmark-of": [
+      "http://www.zeldman.com/2008/04/27/content-outsourcing-and-the-disappearing-personal-site/"
+    ],
+    "category": [
+      "zeldman",
+      "social",
+      "personal",
+      "web",
+      "portfolio",
+      "trends",
+      "design",
+      "business",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-vanishing-personal-site"
+    ]
+  }
+}

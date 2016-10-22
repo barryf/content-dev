@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"published":["2014-06-20T14:50:36Z"],"entry-type":["bookmark"],"name":["Stop Asking Me to \"Sign Up\""],"bookmark-of":["http://www.gkogan.co/blog/stop-asking-me-to-sign-up/"],"category":["ux","conversion","button","via-pinboard"],"slug":["stop-asking-me-to-sign-up"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2014-06-20T14:50:36Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Stop Asking Me to \"Sign Up\""
+    ],
+    "bookmark-of": [
+      "http://www.gkogan.co/blog/stop-asking-me-to-sign-up/"
+    ],
+    "category": [
+      "ux",
+      "conversion",
+      "button",
+      "via-pinboard"
+    ],
+    "slug": [
+      "stop-asking-me-to-sign-up"
+    ]
+  }
+}

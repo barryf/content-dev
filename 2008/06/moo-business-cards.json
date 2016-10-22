@@ -1,1 +1,36 @@
-{"type":["h-entry"],"properties":{"content":["Offers print runs of as little as 50 cards with each personalisable. Coming soon.\n"],"published":["2008-06-26T17:55:35Z"],"entry-type":["bookmark"],"name":["MOO Business Cards"],"bookmark-of":["http://richardmoross.com/2008/06/25/moo-business-cards/"],"category":["moo","business","card","marketing","promotion","work","identity","print","via-pinboard"],"slug":["moo-business-cards"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Offers print runs of as little as 50 cards with each personalisable. Coming soon.\n"
+    ],
+    "published": [
+      "2008-06-26T17:55:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "MOO Business Cards"
+    ],
+    "bookmark-of": [
+      "http://richardmoross.com/2008/06/25/moo-business-cards/"
+    ],
+    "category": [
+      "moo",
+      "business",
+      "card",
+      "marketing",
+      "promotion",
+      "work",
+      "identity",
+      "print",
+      "via-pinboard"
+    ],
+    "slug": [
+      "moo-business-cards"
+    ]
+  }
+}

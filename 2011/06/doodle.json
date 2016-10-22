@@ -1,1 +1,33 @@
-{"type":["h-entry"],"properties":{"content":["Free scheduling for a meeting or event (premium version without ads).\n"],"published":["2011-06-07T14:18:53Z"],"entry-type":["bookmark"],"name":["Doodle"],"bookmark-of":["http://doodle.com/"],"category":["schedule","calendar","poll","date","meeting","via-pinboard"],"slug":["doodle"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Free scheduling for a meeting or event (premium version without ads).\n"
+    ],
+    "published": [
+      "2011-06-07T14:18:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Doodle"
+    ],
+    "bookmark-of": [
+      "http://doodle.com/"
+    ],
+    "category": [
+      "schedule",
+      "calendar",
+      "poll",
+      "date",
+      "meeting",
+      "via-pinboard"
+    ],
+    "slug": [
+      "doodle"
+    ]
+  }
+}

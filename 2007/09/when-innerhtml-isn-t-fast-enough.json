@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["This replacement method is much faster when many elements are being removed in one go\n"],"published":["2007-09-15T13:36:45Z"],"entry-type":["bookmark"],"name":["When innerHTML isn’t Fast Enough"],"bookmark-of":["http://blog.stevenlevithan.com/archives/faster-than-innerhtml"],"category":["dom","html","javascript","performance","speed","innerhtml","via-pinboard"],"slug":["when-innerhtml-isn-t-fast-enough"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This replacement method is much faster when many elements are being removed in one go\n"
+    ],
+    "published": [
+      "2007-09-15T13:36:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "When innerHTML isn’t Fast Enough"
+    ],
+    "bookmark-of": [
+      "http://blog.stevenlevithan.com/archives/faster-than-innerhtml"
+    ],
+    "category": [
+      "dom",
+      "html",
+      "javascript",
+      "performance",
+      "speed",
+      "innerhtml",
+      "via-pinboard"
+    ],
+    "slug": [
+      "when-innerhtml-isn-t-fast-enough"
+    ]
+  }
+}

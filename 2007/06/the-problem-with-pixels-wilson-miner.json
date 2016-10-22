@@ -1,1 +1,37 @@
-{"type":["h-entry"],"properties":{"content":["\"Shout it from the rooftops: It’s okay to size text in pixels!\"\n"],"published":["2007-06-17T15:17:49Z"],"entry-type":["bookmark"],"name":["The problem with pixels / Wilson Miner Live"],"bookmark-of":["http://www.wilsonminer.com/posts/2007/mar/16/problem-pixels/"],"category":["accessibility","browser","css","design","ems","font","typography","web","ie","via-pinboard"],"slug":["the-problem-with-pixels-wilson-miner"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "\"Shout it from the rooftops: It’s okay to size text in pixels!\"\n"
+    ],
+    "published": [
+      "2007-06-17T15:17:49Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "The problem with pixels / Wilson Miner Live"
+    ],
+    "bookmark-of": [
+      "http://www.wilsonminer.com/posts/2007/mar/16/problem-pixels/"
+    ],
+    "category": [
+      "accessibility",
+      "browser",
+      "css",
+      "design",
+      "ems",
+      "font",
+      "typography",
+      "web",
+      "ie",
+      "via-pinboard"
+    ],
+    "slug": [
+      "the-problem-with-pixels-wilson-miner"
+    ]
+  }
+}

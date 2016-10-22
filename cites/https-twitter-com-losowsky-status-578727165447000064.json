@@ -1,1 +1,22 @@
-{"type":["h-cite"],"properties":{"url":["https://twitter.com/losowsky/status/578727165447000064"],"published":["2015-03-20T01:18:03Z"],"content":["@barryf not to worry. Happy hacking!"],"in-reply-to":["https://barryfrost.com/2015/03/losowsky-not-this-trip-i-m"],"author":["http://www.losowsky.com"]}}
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/losowsky/status/578727165447000064"
+    ],
+    "published": [
+      "2015-03-20T01:18:03Z"
+    ],
+    "content": [
+      "@barryf not to worry. Happy hacking!"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2015/03/losowsky-not-this-trip-i-m"
+    ],
+    "author": [
+      "http://www.losowsky.com"
+    ]
+  }
+}

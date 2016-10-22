@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Loving our new recruit @thesambarnes' list of 20 things that drive project managers crazy. Watch out @globaldev ! http://www.thesambarnes.com/web-project-management/twenty-things-that-drive-web-project-managers-crazy/"],"published":["2011-07-12T22:48:14Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/90915395631988736"],"slug":["tweet-90915395631988736"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Loving our new recruit @thesambarnes' list of 20 things that drive project managers crazy. Watch out @globaldev ! http://www.thesambarnes.com/web-project-management/twenty-things-that-drive-web-project-managers-crazy/"
+    ],
+    "published": [
+      "2011-07-12T22:48:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/90915395631988736"
+    ],
+    "slug": [
+      "tweet-90915395631988736"
+    ]
+  }
+}

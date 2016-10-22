@@ -1,1 +1,32 @@
-{"type":["h-entry"],"properties":{"content":["Advocating having one website and not creating a cutdown version for mobile users"],"published":["2013-04-13T19:03:17Z"],"entry-type":["bookmark"],"name":["Content parity on the web"],"bookmark-of":["http://gomakethings.com/content-parity-on-the-web/"],"category":["mobile","web","strategy","advocacy","via-pinboard"],"slug":["content-parity-on-the-web"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Advocating having one website and not creating a cutdown version for mobile users"
+    ],
+    "published": [
+      "2013-04-13T19:03:17Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Content parity on the web"
+    ],
+    "bookmark-of": [
+      "http://gomakethings.com/content-parity-on-the-web/"
+    ],
+    "category": [
+      "mobile",
+      "web",
+      "strategy",
+      "advocacy",
+      "via-pinboard"
+    ],
+    "slug": [
+      "content-parity-on-the-web"
+    ]
+  }
+}

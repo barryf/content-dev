@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@BenHobson Agreed. Must have that beer soon with L and your lovely other half."],"published":["2011-11-21T15:35:45Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/20511088/status/138641231516409856"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/138641759558303744"],"slug":["tweet-138641759558303744"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@BenHobson Agreed. Must have that beer soon with L and your lovely other half."
+    ],
+    "published": [
+      "2011-11-21T15:35:45Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/20511088/status/138641231516409856"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/138641759558303744"
+    ],
+    "slug": [
+      "tweet-138641759558303744"
+    ]
+  }
+}

@@ -1,1 +1,34 @@
-{"type":["h-entry"],"properties":{"content":["Tutorials on Git from the GitHub people\n"],"published":["2009-03-13T23:21:28Z"],"entry-type":["bookmark"],"name":["Learn.GitHub"],"bookmark-of":["http://learn.github.com/"],"category":["git","github","tutorial","versioncontrol","dev","work","via-pinboard"],"slug":["learn-github"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Tutorials on Git from the GitHub people\n"
+    ],
+    "published": [
+      "2009-03-13T23:21:28Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Learn.GitHub"
+    ],
+    "bookmark-of": [
+      "http://learn.github.com/"
+    ],
+    "category": [
+      "git",
+      "github",
+      "tutorial",
+      "versioncontrol",
+      "dev",
+      "work",
+      "via-pinboard"
+    ],
+    "slug": [
+      "learn-github"
+    ]
+  }
+}

@@ -1,1 +1,23 @@
-{"type":["h-entry"],"properties":{"content":["[Mail in Mavericks Changes the Gmail Equation](https://tidbits.com/article/14219). I never enjoyed battling Apple Mail's syncing problems with my two Google Apps accounts and found solace in [Mailplane](http://mailplaneapp.com)'s arms. Looks like I'll continue to do the same in OS X 10.9."],"published":["2013-10-23T14:56:37Z"],"entry-type":["note"],"category":["apple","via-baker"],"slug":["baker-59"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "[Mail in Mavericks Changes the Gmail Equation](https://tidbits.com/article/14219). I never enjoyed battling Apple Mail's syncing problems with my two Google Apps accounts and found solace in [Mailplane](http://mailplaneapp.com)'s arms. Looks like I'll continue to do the same in OS X 10.9."
+    ],
+    "published": [
+      "2013-10-23T14:56:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "apple",
+      "via-baker"
+    ],
+    "slug": [
+      "baker-59"
+    ]
+  }
+}

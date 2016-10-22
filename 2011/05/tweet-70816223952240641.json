@@ -1,1 +1,28 @@
-{"type":["h-entry"],"properties":{"content":["@cronkshaw My favourite too, thanks. It's been ordered and is on its way."],"published":["2011-05-18T11:41:18Z"],"entry-type":["reply"],"in-reply-to":["https://twitter.com/7705762/status/70630098151284736"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/70816223952240641"],"slug":["tweet-70816223952240641"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw My favourite too, thanks. It's been ordered and is on its way."
+    ],
+    "published": [
+      "2011-05-18T11:41:18Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/7705762/status/70630098151284736"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/70816223952240641"
+    ],
+    "slug": [
+      "tweet-70816223952240641"
+    ]
+  }
+}

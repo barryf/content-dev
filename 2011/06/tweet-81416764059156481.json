@@ -1,1 +1,25 @@
-{"type":["h-entry"],"properties":{"content":["Apple is patenting an opt-in friendship/dating matching system using geolocation and data on your iPhone http://www.macrumors.com/2011/06/16/apple-researching-how-the-iphone-can-help-you-make-new-friends/"],"published":["2011-06-16T17:44:03Z"],"entry-type":["note"],"category":["via-twitter"],"syndication":["https://twitter.com/barryf/status/81416764059156481"],"slug":["tweet-81416764059156481"]}}
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Apple is patenting an opt-in friendship/dating matching system using geolocation and data on your iPhone http://www.macrumors.com/2011/06/16/apple-researching-how-the-iphone-can-help-you-make-new-friends/"
+    ],
+    "published": [
+      "2011-06-16T17:44:03Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "via-twitter"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/81416764059156481"
+    ],
+    "slug": [
+      "tweet-81416764059156481"
+    ]
+  }
+}
