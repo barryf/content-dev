@@ -9,12 +9,15 @@
     "content": [
       "Test from Quill"
     ],
+    "location": [
+      "geo:51.40743,-0.55998;u=65"
+    ],
     "category": [
       "one",
       "two"
     ],
     "published": [
-      "2016-10-28T09:58:54Z"
+      "2016-10-28T10:00:12Z"
     ],
     "entry-type": [
       "note"
