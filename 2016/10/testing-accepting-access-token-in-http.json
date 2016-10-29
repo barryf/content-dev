@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "h": [
+      "entry"
+    ],
+    "content": [
+      "Testing accepting access token in HTTP Authorization header"
+    ],
+    "published": [
+      "2016-10-29T20:35:44Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
