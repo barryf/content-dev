@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Test from Inkstone"
+    ],
+    "published": [
+      "2016-10-30T22:55:28Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
