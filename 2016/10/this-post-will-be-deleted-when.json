@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "This post will be deleted when the test succeeds."
+    ],
+    "published": [
+      "2016-10-30T15:10:52Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
