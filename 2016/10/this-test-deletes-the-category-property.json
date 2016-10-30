@@ -6,15 +6,14 @@
     "content": [
       "This test deletes the category property from the post. After you run the update, this post should have no categories."
     ],
-    "category": [
-      "test1",
-      "test2"
-    ],
     "published": [
       "2016-10-30T09:32:34Z"
     ],
     "entry-type": [
       "note"
+    ],
+    "updated": [
+      "2016-10-30T09:32:39Z"
     ]
   }
 }
