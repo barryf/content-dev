@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://barryf.uk/2016/10/this-post-should-have-two-photos"
+    ],
+    "published": [
+      "2016-10-30T21:06:23Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
