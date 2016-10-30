@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "content": [
+      "<p>Micropub test of creating a photo referenced by URL</p>\n\n      \n  <figure>\n    \n      <a href=\"https://micropub.rocks/media/sunset.jpg\">\n        <img class=\"u-photo\" src=\"https://micropub.rocks/media/sunset.jpg\">\n      </a>\n    \n  </figure>"
+    ],
+    "photo": [
+      "https://micropub.rocks/media/sunset.jpg",
+      "https://micropub.rocks/media/sunset.jpg"
+    ],
+    "name": [
+      "Micropub test of creating a photo referenced by URL"
+    ],
+    "url": [
+      "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
+    ],
+    "published": [
+      "2016-10-30T15:08:16Z"
+    ],
+    "mention-of": [
+      "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
+    ]
+  }
+}
