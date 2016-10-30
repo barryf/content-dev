@@ -4,13 +4,13 @@
   ],
   "properties": {
     "content": [
-      "Micropub test of creating a photo referenced by URL"
+      "Micropub test of creating a photo referenced by URL. This post should include a photo of a sunset."
     ],
     "photo": [
       "https://micropub.rocks/media/sunset.jpg"
     ],
     "published": [
-      "2016-10-30T15:08:34Z"
+      "2016-10-30T15:10:13Z"
     ],
     "entry-type": [
       "photo"
