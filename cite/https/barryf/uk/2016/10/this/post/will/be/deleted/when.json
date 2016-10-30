@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "content": [
+      "<p>This post will be deleted when the test succeeds.</p>"
+    ],
+    "name": [
+      "This post will be deleted when the test succeeds."
+    ],
+    "url": [
+      "https://barryf.uk/2016/10/this-post-will-be-deleted-when"
+    ],
+    "published": [
+      "2016-10-30T15:10:52Z"
+    ],
+    "mention-of": [
+      "https://barryf.uk/2016/10/this-post-will-be-deleted-when"
+    ]
+  }
+}
