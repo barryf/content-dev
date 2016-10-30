@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
+    ],
+    "published": [
+      "2016-10-30T20:20:41Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
