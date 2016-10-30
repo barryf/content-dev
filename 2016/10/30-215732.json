@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://barryf.uk/2016/10/test-from-quill"
+    ],
+    "published": [
+      "2016-10-30T21:57:32Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
