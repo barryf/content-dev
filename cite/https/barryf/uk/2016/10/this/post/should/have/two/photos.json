@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/10/this-post-should-have-two-photos"
+    ],
+    "name": [
+      "This post should have two photos"
+    ],
+    "published": [
+      "2016-10-30T09:31:59Z"
+    ],
+    "content": [
+      "<p>This post should have two photos</p>\n\n      \n  <figure>\n    \n      <a href=\"https://barryfrost-media.s3.amazonaws.com/file/20161030-783f5e82473bb4ada82f8b86f1c232a8.jpg\">\n        <img class=\"u-photo\" src=\"https://barryfrost-media.s3.amazonaws.com/file/20161030-783f5e82473bb4ada82f8b86f1c232a8.jpg\">\n      </a>\n    \n  </figure>\n\n\n  <figure>\n    \n      <a href=\"https://barryfrost-media.s3.amazonaws.com/file/20161030-e6a4425cf2ae483857e4468fe6350bca.jpg\">\n        <img class=\"u-photo\" src=\"https://barryfrost-media.s3.amazonaws.com/file/20161030-e6a4425cf2ae483857e4468fe6350bca.jpg\">\n      </a>\n    \n  </figure>"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}
