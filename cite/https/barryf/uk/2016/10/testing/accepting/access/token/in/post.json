@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "content": [
+      "<p>Testing accepting access token in post body</p>"
+    ],
+    "name": [
+      "Testing accepting access token in post body"
+    ],
+    "url": [
+      "https://barryf.uk/2016/10/testing-accepting-access-token-in-post"
+    ],
+    "published": [
+      "2016-10-30T15:10:41Z"
+    ],
+    "mention-of": [
+      "https://barryf.uk/2016/10/testing-accepting-access-token-in-post"
+    ]
+  }
+}
