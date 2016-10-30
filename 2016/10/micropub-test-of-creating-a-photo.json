@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Micropub test of creating a photo referenced by URL"
+    ],
+    "photo": [
+      "https://micropub.rocks/media/sunset.jpg"
+    ],
+    "published": [
+      "2016-10-30T15:08:16Z"
+    ],
+    "entry-type": [
+      "photo"
+    ]
+  }
+}
