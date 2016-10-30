@@ -14,13 +14,14 @@
       "https://micropub.rocks/media/sunset.jpg"
     ],
     "name": [
-      "Micropub test of creating a photo referenced by URL"
+      "Micropub test of creating a photo referenced by URL",
+      "Micropub test of creating a photo refere…"
     ],
     "url": [
       "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
     ],
     "published": [
-      "2016-10-30T15:08:16Z"
+      "2016-10-30T15:08:34Z"
     ],
     "mention-of": [
       "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
