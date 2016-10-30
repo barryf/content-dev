@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/10/blank-note"
+    ],
+    "name": [
+      "Blank note"
+    ],
+    "published": [
+      "2016-10-30T22:04:50Z"
+    ],
+    "content": [
+      {
+        "html": "<p>Blank note</p>"
+      }
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}
