@@ -4,7 +4,7 @@
   ],
   "properties": {
     "category": [
-      "c,d,e"
+      "something,else"
     ],
     "content": [
       "Writing a reply"
@@ -13,7 +13,7 @@
       "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
     ],
     "published": [
-      "2016-10-30T21:32:52Z"
+      "2016-10-30T21:36:51Z"
     ],
     "entry-type": [
       "reply"
