@@ -1,0 +1,33 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "name": [
+      "Micropub test of creating a photo refere…",
+      "Micropub test of creating a photo referenced by URL. This post should include a photo of a sunset."
+    ],
+    "url": [
+      "https://barryf.uk/2016/10/30-202041"
+    ],
+    "content": [
+      "<figure>\n              <a href=\"https://barryf.uk/2016/10/micropub-test-of-creating-a-photo\">\n                <img class=\"u-photo\" src=\"https://barryfrost-camo.herokuapp.com/3d4059e656a22039cc0f027f614050493fc0e9b1/68747470733a2f2f6d6963726f7075622e726f636b732f6d656469612f73756e7365742e6a7067\">\n              </a>\n            </figure>\n          \n          \n          Micropub test of creating a photo referenced by URL. This post should include a photo of a sunset."
+    ],
+    "photo": [
+      "https://barryfrost-camo.herokuapp.com/3d4059e656a22039cc0f027f614050493fc0e9b1/68747470733a2f2f6d6963726f7075622e726f636b732f6d656469612f73756e7365742e6a7067",
+      "https://barryfrost-camo.herokuapp.com/3d4059e656a22039cc0f027f614050493fc0e9b1/68747470733a2f2f6d6963726f7075622e726f636b732f6d656469612f73756e7365742e6a7067"
+    ],
+    "like_of": [
+      "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
+    ],
+    "published": [
+      "2016-10-30T20:20:41Z"
+    ],
+    "like-of": [
+      "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
+    ]
+  }
+}
