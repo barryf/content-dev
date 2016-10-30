@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "name": [
+      "This test deletes the category property…",
+      "This test deletes the category property from the post. After you run the update, this post should have no categories."
+    ],
+    "url": [
+      "https://barryf.uk/2016/10/30-131620"
+    ],
+    "content": [
+      "This test deletes the category property from the post. After you run the update, this post should have no categories."
+    ],
+    "like_of": [
+      "https://barryf.uk/2016/10/30-131620"
+    ],
+    "published": [
+      "2016-10-30T13:16:20Z"
+    ],
+    "mention-of": [
+      "https://barryf.uk/2016/10/this-test-deletes-the-category-property"
+    ]
+  }
+}
