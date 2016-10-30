@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/10/30-220329"
+    ],
+    "name": [
+      "Test from Quill"
+    ],
+    "published": [
+      "2016-10-30T22:03:29Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "like-of": [
+      "https://barryf.uk/2016/10/test-from-quill"
+    ],
+    "content": [
+      {
+        "html": "Test from Quill"
+      }
+    ]
+  }
+}
