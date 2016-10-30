@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "h": [
+      "entry"
+    ],
+    "repost-of": [
+      "https://barryf.uk/2016/10/this-post-should-have-two-photos"
+    ],
+    "published": [
+      "2016-10-30T13:27:10Z"
+    ],
+    "entry-type": [
+      "repost"
+    ]
+  }
+}
