@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Checking that this reply shows up correctly."
+    ],
+    "in-reply-to": [
+      "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
+    ],
+    "published": [
+      "2016-10-31T13:50:26Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
