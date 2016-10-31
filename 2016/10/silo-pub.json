@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "silopub"
+    ],
+    "name": [
+      "Silo.pub"
+    ],
+    "content": [
+      "> It's great"
+    ],
+    "bookmark": [
+      "https://silo.pub/"
+    ],
+    "published": [
+      "2016-10-31T20:57:00Z"
+    ],
+    "entry-type": [
+      "article"
+    ]
+  }
+}
