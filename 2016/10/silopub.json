@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://silo.pub/"
+    ],
+    "name": [
+      "Silopub"
+    ],
+    "published": [
+      "2016-10-31T20:58:45Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ]
+  }
+}
