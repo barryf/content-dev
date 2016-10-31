@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/10/and-a-reply"
+    ],
+    "name": [
+      "Blank note"
+    ],
+    "published": [
+      "2016-10-31T13:48:42Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryf.uk/2016/10/blank-note"
+    ],
+    "content": [
+      {
+        "html": "Blank note"
+      }
+    ]
+  }
+}
