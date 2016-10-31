@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "name": [
+      "Testing an article"
+    ],
+    "content": [
+      "Testing an article content"
+    ],
+    "published": [
+      "2016-10-31T20:52:56Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
