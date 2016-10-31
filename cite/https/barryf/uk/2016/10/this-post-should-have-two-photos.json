@@ -1,0 +1,33 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/10/this-post-should-have-two-photos"
+    ],
+    "name": [
+      "This post should have two photos"
+    ],
+    "published": [
+      "2016-10-31T21:45:59Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "mention-of": [
+      "https://barryf.uk/2016/10/30-210623"
+    ],
+    "content": [
+      {
+        "html": "<p>This post should have two photos</p>\n\n      \n  <figure>\n    \n      <a href=\"https://barryfrost-media.s3.amazonaws.com/file/20161031-bc3b3ae030abb31a4d686c7ec7aa5dc9.jpg\">\n        <img class=\"u-photo\" src=\"https://barryfrost-media.s3.amazonaws.com/file/20161031-bc3b3ae030abb31a4d686c7ec7aa5dc9.jpg\">\n      </a>\n    \n  </figure>\n\n\n  <figure>\n    \n      <a href=\"https://barryfrost-media.s3.amazonaws.com/file/20161031-1e7b1f03b712e74d04e7c8045617c6ec.jpg\">\n        <img class=\"u-photo\" src=\"https://barryfrost-media.s3.amazonaws.com/file/20161031-1e7b1f03b712e74d04e7c8045617c6ec.jpg\">\n      </a>\n    \n  </figure>"
+      }
+    ],
+    "photo": [
+      "https://barryfrost-media.s3.amazonaws.com/file/20161031-bc3b3ae030abb31a4d686c7ec7aa5dc9.jpg",
+      "https://barryfrost-media.s3.amazonaws.com/file/20161031-1e7b1f03b712e74d04e7c8045617c6ec.jpg",
+      "https://barryfrost-media.s3.amazonaws.com/file/20161031-bc3b3ae030abb31a4d686c7ec7aa5dc9.jpg",
+      "https://barryfrost-media.s3.amazonaws.com/file/20161031-1e7b1f03b712e74d04e7c8045617c6ec.jpg"
+    ]
+  }
+}
