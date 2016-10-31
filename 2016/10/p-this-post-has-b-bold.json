@@ -4,16 +4,15 @@
   ],
   "properties": {
     "content": [
-      "<p>This post has <b>bold</b> and <i>italic</i> text.</p>"
+      {
+        "html": "<p>This post has <b>bold</b> and <i>italic</i> text.</p>"
+      }
     ],
     "published": [
-      "2016-10-03T19:39:00Z"
+      "2016-10-31T21:20:08Z"
     ],
     "entry-type": [
       "note"
-    ],
-    "slug": [
-      "p-this-post-has-b-bold"
     ]
   }
 }
