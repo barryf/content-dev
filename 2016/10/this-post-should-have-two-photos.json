@@ -3,18 +3,15 @@
     "h-entry"
   ],
   "properties": {
-    "h": [
-      "entry"
-    ],
     "content": [
       "This post should have two photos"
     ],
     "photo": [
-      "https://barryfrost-media.s3.amazonaws.com/file/20161030-783f5e82473bb4ada82f8b86f1c232a8.jpg",
-      "https://barryfrost-media.s3.amazonaws.com/file/20161030-e6a4425cf2ae483857e4468fe6350bca.jpg"
+      "https://barryfrost-media.s3.amazonaws.com/file/20161031-bc3b3ae030abb31a4d686c7ec7aa5dc9.jpg",
+      "https://barryfrost-media.s3.amazonaws.com/file/20161031-1e7b1f03b712e74d04e7c8045617c6ec.jpg"
     ],
     "published": [
-      "2016-10-30T09:31:59Z"
+      "2016-10-31T21:45:59Z"
     ],
     "entry-type": [
       "photo"
