@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "syndicate-to": [
+      "https://twitter.com/barryfdata"
+    ],
+    "content": [
+      "Testing syndication"
+    ],
+    "published": [
+      "2016-10-31T17:09:51Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
