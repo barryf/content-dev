@@ -7,18 +7,21 @@
       "https://barryf.uk/2016/10/micropub-test-of-creating-a-photo"
     ],
     "name": [
-      "Micropub test of creating a photo referenced by URL. This post should include a photo of a sunset."
+      "Micropub test of creating a photo referenced by URL with alt text. This post should include a photo of a sunset."
     ],
     "published": [
-      "2016-10-30T15:10:13Z"
-    ],
-    "content": [
-      {
-        "html": "<p>Micropub test of creating a photo referenced by URL. This post should include a photo of a sunset.</p>\n\n      \n  <figure>\n    \n      <a href=\"https://micropub.rocks/media/sunset.jpg\">\n        <img class=\"u-photo\" src=\"https://micropub.rocks/media/sunset.jpg\">\n      </a>\n    \n  </figure>"
-      }
+      "2016-10-31T22:06:14Z"
     ],
     "author": [
       "https://barryfrost.com/"
+    ],
+    "mention-of": [
+      "https://barryf.uk/2016/10/writing-a-reply"
+    ],
+    "content": [
+      {
+        "html": "<p>Micropub test of creating a photo referenced by URL with alt text. This post should include a photo of a sunset.</p>\n\n      \n  <figure>\n    \n      <a href=\"https://micropub.rocks/media/sunset.jpg\">\n        <img class=\"u-photo\" src=\"https://micropub.rocks/media/sunset.jpg\" alt=\"Photo of a sunset\">\n      </a>\n    \n  </figure>"
+      }
     ],
     "photo": [
       "https://micropub.rocks/media/sunset.jpg",
