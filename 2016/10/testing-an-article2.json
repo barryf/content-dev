@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "name": [
+      "Testing an article2"
+    ],
+    "content": [
+      "Once upon a time. Testing an article content"
+    ],
+    "published": [
+      "2016-10-31T20:56:12Z"
+    ],
+    "entry-type": [
+      "article"
+    ]
+  }
+}
