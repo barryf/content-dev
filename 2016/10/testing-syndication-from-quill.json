@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Testing syndication from Quill"
+    ],
+    "syndicate-to": [
+      "https://twitter.com/barryfdata"
+    ],
+    "published": [
+      "2016-10-31T17:15:56Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
