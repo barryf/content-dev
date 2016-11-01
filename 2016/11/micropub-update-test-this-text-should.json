@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Micropub update test. This text should be replaced if the test succeeds."
+    ],
+    "published": [
+      "2016-11-01T22:00:14Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
