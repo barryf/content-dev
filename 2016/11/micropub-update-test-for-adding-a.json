@@ -7,13 +7,17 @@
       "Micropub update test for adding a category. After you run the update, this post should have two categories: test1 and test2."
     ],
     "category": [
-      "test1"
+      "test1",
+      "test2"
     ],
     "published": [
       "2016-11-01T22:11:25Z"
     ],
     "entry-type": [
       "note"
+    ],
+    "updated": [
+      "2016-11-01T22:11:35Z"
     ]
   }
 }
