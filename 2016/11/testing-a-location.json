@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Testing a location"
+    ],
+    "location": [
+      "geo:51.40742,-0.55998;u=65"
+    ],
+    "published": [
+      "2016-11-01T21:20:22Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
