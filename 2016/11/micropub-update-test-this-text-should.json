@@ -4,16 +4,13 @@
   ],
   "properties": {
     "content": [
-      "This is the updated text. If you can see this you passed the test!"
+      "Micropub update test. This text should be replaced if the test succeeds."
     ],
     "published": [
-      "2016-11-01T22:10:49Z"
+      "2016-11-01T22:11:05Z"
     ],
     "entry-type": [
       "note"
-    ],
-    "updated": [
-      "2016-11-01T22:10:55Z"
     ]
   }
 }
