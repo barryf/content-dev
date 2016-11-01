@@ -6,7 +6,7 @@
     "content": [
       "Mullet"
     ],
-    "photo": "https://barryfrost-media.s3.amazonaws.com/file/20161031-8be4c63bb07841937ca2899c112c8e47.jpg",
+    "photo": ["https://barryfrost-media.s3.amazonaws.com/file/20161031-8be4c63bb07841937ca2899c112c8e47.jpg"],
     "published": [
       "2016-10-31T20:45:47Z"
     ],
