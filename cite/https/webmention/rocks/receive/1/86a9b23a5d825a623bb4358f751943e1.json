@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://webmention.rocks/receive/1/86a9b23a5d825a623bb4358f751943e1"
+    ],
+    "name": [
+      "Receiver Test #1"
+    ],
+    "published": [
+      "2016-11-01T17:41:09Z"
+    ],
+    "author": [
+      "/"
+    ],
+    "mention-of": [
+      "https://barryf.uk/2016/11/test-post-to-use-for-webmention"
+    ],
+    "content": [
+      {
+        "html": "<p>This test verifies that you accept a Webmention request that contains a valid source and target URL. To pass this test, your Webmention endpoint must return either HTTP 200, 201 or 202 along with the <a href=\"https://www.w3.org/TR/webmention/#receiving-webmentions\">appropriate headers</a>.</p>\n        <p>If your endpoint returns HTTP 201, then it MUST also return a <code>Location</code> header. If it returns HTTP 200 or 202, then it MUST NOT include a <code>Location</code> header.</p>"
+      }
+    ]
+  }
+}
