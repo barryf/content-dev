@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Write a post that links to https://webmention.rocks/update/2 and https://webmention.rocks/update/2/part/2, and send Webmentions for your post."
+    ],
+    "published": [
+      "2016-11-01T20:19:29Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
