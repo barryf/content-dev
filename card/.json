@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "/assets/webmention-rocks-icon.png"
+    ],
+    "name": [
+      "Webmention Rocks!"
+    ],
+    "url": [
+      "/"
+    ]
+  }
+}
