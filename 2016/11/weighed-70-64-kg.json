@@ -1,0 +1,31 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "summary": [
+      "Weighed 70.64 kg"
+    ],
+    "x-weight": [
+      {
+        "type": [
+          "h-measure"
+        ],
+        "properties": {
+          "num": [
+            "70.64"
+          ],
+          "unit": [
+            "kg"
+          ]
+        }
+      }
+    ],
+    "published": [
+      "2016-11-01T21:53:33Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
