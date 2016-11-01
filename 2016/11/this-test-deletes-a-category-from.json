@@ -7,14 +7,16 @@
       "This test deletes a category from the post. After you run the update, this post should have only the category test1."
     ],
     "category": [
-      "test1",
-      "test2"
+      "test1"
     ],
     "published": [
       "2016-11-01T22:12:18Z"
     ],
     "entry-type": [
       "note"
+    ],
+    "updated": [
+      "2016-11-01T22:12:26Z"
     ]
   }
 }
