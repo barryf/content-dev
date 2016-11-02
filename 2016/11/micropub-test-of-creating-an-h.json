@@ -4,14 +4,10 @@
   ],
   "properties": {
     "content": [
-      "Micropub test of creating an h-entry with categories. This post should have two categories, test1 and test2"
-    ],
-    "category": [
-      "test1",
-      "test2"
+      "Micropub test of creating an h-entry with a JSON request"
     ],
     "published": [
-      "2016-11-01T21:53:18Z"
+      "2016-11-02T21:47:04Z"
     ],
     "entry-type": [
       "note"
