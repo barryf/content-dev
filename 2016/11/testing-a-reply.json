@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Testing a reply"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/barryfdata/status/793192280492429312"
+    ],
+    "published": [
+      "2016-11-03T08:52:59Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
