@@ -12,14 +12,14 @@
     "content": [
       "Test content 2"
     ],
-    "bookmark": [
+    "bookmark-of": [
       "https://barryf.uk"
     ],
     "published": [
       "2016-11-03T09:27:46Z"
     ],
     "entry-type": [
-      "article"
+      "bookmark"
     ]
   }
 }
