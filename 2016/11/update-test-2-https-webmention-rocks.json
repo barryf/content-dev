@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Update test 2\r\n\r\nhttps://webmention.rocks/update/2 and https://webmention.rocks/update/2/part/2\r\n"
+    ],
+    "published": [
+      "2016-11-03T20:40:41Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
