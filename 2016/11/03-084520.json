@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://barryf.uk/2016/11/testing-a-request-with-an-unauthorized"
+    ],
+    "published": [
+      "2016-11-03T08:45:20Z"
+    ],
+    "entry-type": [
+      "repost"
+    ]
+  }
+}
