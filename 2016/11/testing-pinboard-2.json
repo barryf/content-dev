@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "barryf"
+    ],
+    "name": [
+      "Testing pinboard 2"
+    ],
+    "content": [
+      "Test content 2"
+    ],
+    "bookmark": [
+      "https://barryf.uk"
+    ],
+    "published": [
+      "2016-11-03T09:27:46Z"
+    ],
+    "entry-type": [
+      "article"
+    ]
+  }
+}
