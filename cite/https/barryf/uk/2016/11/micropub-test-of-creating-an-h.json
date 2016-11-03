@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/11/micropub-test-of-creating-an-h"
+    ],
+    "name": [
+      "Micropub test of creating an h-entry with a JSON request"
+    ],
+    "published": [
+      "2016-11-02T21:50:17Z"
+    ],
+    "content": [
+      {
+        "html": "<p>Micropub test of creating an h-entry with a JSON request</p>"
+      }
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}
