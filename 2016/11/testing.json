@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "barryf"
+    ],
+    "name": [
+      "Testing"
+    ],
+    "content": [
+      "Test content"
+    ],
+    "bookmark": [
+      "https://barryfrost.com"
+    ],
+    "published": [
+      "2016-11-03T09:05:35Z"
+    ],
+    "entry-type": [
+      "article"
+    ]
+  }
+}
