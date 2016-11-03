@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/11/testing-a-request-with-an-unauthorized"
+    ],
+    "name": [
+      "Testing a request with an unauthorized access token. This should not create a post."
+    ],
+    "published": [
+      "2016-11-02T21:45:45Z"
+    ],
+    "content": [
+      {
+        "html": "<p>Testing a request with an unauthorized access token. This should not create a post.</p>"
+      }
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}
