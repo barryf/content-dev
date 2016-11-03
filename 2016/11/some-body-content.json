@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Some body content"
+    ],
+    "repost-of": [
+      "https://barryf.uk/2016/11/micropub-test-of-creating-an-h"
+    ],
+    "published": [
+      "2016-11-03T08:41:26Z"
+    ],
+    "entry-type": [
+      "repost"
+    ]
+  }
+}
