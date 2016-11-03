@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@barryfdata Looks like you need the @"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/barryfdata/status/793192280492429312"
+    ],
+    "published": [
+      "2016-11-03T08:53:31Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
