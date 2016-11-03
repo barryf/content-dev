@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/11/03-084520"
+    ],
+    "name": [
+      "Barry Frost 2016-11-03 08:45 UTC"
+    ],
+    "published": [
+      "2016-11-03T08:45:20Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "repost-of": [
+      "https://barryf.uk/2016/11/testing-a-request-with-an-unauthorized"
+    ]
+  }
+}
