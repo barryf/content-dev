@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Supporting content"
+    ],
+    "repost-of": [
+      "https://twitter.com/barryfdata/status/793192280492429312"
+    ],
+    "published": [
+      "2016-11-03T08:46:56Z"
+    ],
+    "entry-type": [
+      "repost"
+    ]
+  }
+}
