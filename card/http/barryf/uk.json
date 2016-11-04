@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "barryfdata"
+    ],
+    "url": [
+      "http://barryf.uk/",
+      "https://twitter.com/barryfdata"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/1445192263/barryfdata3.jpg"
+    ]
+  }
+}
