@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/barryfdata"
-    ],
     "name": [
       "barryfdata"
     ],
+    "url": [
+      "https://twitter.com/barryfdata"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/1445192263/barryfdata3_normal.jpg"
+      "https://pbs.twimg.com/profile_images/1445192263/barryfdata3.jpg"
     ]
   }
 }
