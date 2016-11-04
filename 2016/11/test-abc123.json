@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Test abc123"
+    ],
+    "published": [
+      "2016-11-04T21:27:47Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
