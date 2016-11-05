@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I liked this post \r\n\r\n"
+    ],
+    "in-reply-to": [
+      "https://barryf.uk/2016/11/test-abc123"
+    ],
+    "published": [
+      "2016-11-05T19:27:35Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
