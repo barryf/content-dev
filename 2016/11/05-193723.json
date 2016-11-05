@@ -3,14 +3,12 @@
     "h-entry"
   ],
   "properties": {
-    "like-of": [
-      "https://barryf.uk/2016/11/test-abc123"
-    ],
+    "content": ["test"],
     "published": [
       "2016-11-05T19:37:23Z"
     ],
     "entry-type": [
-      "like"
+      "note"
     ]
   }
 }
