@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/11/replying"
+    ],
+    "name": [
+      "replying"
+    ],
+    "published": [
+      "2016-11-05T20:08:03Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryf.uk/2016/11/05-193723"
+    ],
+    "content": [
+      {
+        "html": "<p>replying</p>"
+      }
+    ]
+  }
+}
