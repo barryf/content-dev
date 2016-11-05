@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/11/i-liked-this-post"
+    ],
+    "name": [
+      "I liked this post"
+    ],
+    "published": [
+      "2016-11-05T19:27:35Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryf.uk/2016/11/test-abc123"
+    ],
+    "content": [
+      {
+        "html": "<p>I liked this post </p>"
+      }
+    ]
+  }
+}
