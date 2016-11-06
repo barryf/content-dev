@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/11/nice-sunset-tonight"
+    ],
+    "name": [
+      "Nice sunset tonight"
+    ],
+    "published": [
+      "2016-11-06T16:12:15Z"
+    ],
+    "content": [
+      {
+        "html": "<p>Nice sunset tonight</p>\n\n      \n  <figure>\n    \n      <a href=\"https://barryfrost-media.s3.amazonaws.com/file/2016/11/06-2ce163aede4410d944678a219131f515.jpg\">\n        <img class=\"u-photo\" src=\"https://barryfrost-media.s3.amazonaws.com/file/2016/11/06-2ce163aede4410d944678a219131f515.jpg\">\n      </a>\n    \n  </figure>"
+      }
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "photo": [
+      "https://barryfrost-media.s3.amazonaws.com/file/2016/11/06-2ce163aede4410d944678a219131f515.jpg",
+      "https://barryfrost-media.s3.amazonaws.com/file/2016/11/06-2ce163aede4410d944678a219131f515.jpg"
+    ]
+  }
+}
