@@ -4,19 +4,16 @@
   ],
   "properties": {
     "content": [
-      "Micropub test of creating a photo referenced by URL with alt text. This post should include a photo of a sunset."
+      "Micropub test of creating a photo referenced by URL. This post should include a photo of a sunset."
     ],
     "photo": [
-      {
-        "value": "https://micropub.rocks/media/sunset.jpg",
-        "alt": "Photo of a sunset"
-      }
+      "https://micropub.rocks/media/sunset.jpg"
     ],
     "published": [
-      "2016-11-01T21:54:15Z"
+      "2016-11-06T11:19:52Z"
     ],
     "entry-type": [
-      "note"
+      "photo"
     ]
   }
 }
