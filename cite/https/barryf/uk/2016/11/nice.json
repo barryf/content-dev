@@ -17,14 +17,14 @@
         "html": "<p>Nice</p><!-- foo -->"
       }
     ],
+    "deleted": [
+      "2016-11-07T17:14:26Z"
+    ],
     "published": [
       "2016-11-07T16:23:08Z"
     ],
     "in-reply-to": [
       "https://barryf.uk/2016/11/nice-sunset-tonight"
-    ],
-    "deleted": [
-      "2016-11-07T16:28:07Z"
     ]
   }
 }
