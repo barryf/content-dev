@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/11/do-we-get-two-photos-in"
+    ],
+    "name": [
+      "Do we get two photos in the context?"
+    ],
+    "published": [
+      "2016-11-07T21:23:29Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryf.uk/2016/11/nice-sunset-tonight"
+    ],
+    "content": [
+      {
+        "html": "<p>Do we get two photos in the context?</p>"
+      }
+    ]
+  }
+}
