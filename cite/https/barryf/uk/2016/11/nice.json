@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryf.uk/2016/11/nice"
+    ],
+    "name": [
+      "Nice"
+    ],
+    "published": [
+      "2016-11-07T16:23:08Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryf.uk/2016/11/nice-sunset-tonight"
+    ],
+    "content": [
+      {
+        "html": "<p>Nice</p>"
+      }
+    ]
+  }
+}
