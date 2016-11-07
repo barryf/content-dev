@@ -14,7 +14,7 @@
     ],
     "content": [
       {
-        "html": "<p>Nice</p><!-- -->"
+        "html": "<p>Nice</p><!-- foo -->"
       }
     ],
     "published": [
