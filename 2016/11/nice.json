@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Nice"
+    ],
+    "in-reply-to": [
+      "https://barryf.uk/2016/11/nice-sunset-tonight"
+    ],
+    "published": [
+      "2016-11-07T16:23:08Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
