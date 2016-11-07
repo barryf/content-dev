@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Testing a new post for PubSub"
+    ],
+    "published": [
+      "2016-11-07T13:19:01Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
